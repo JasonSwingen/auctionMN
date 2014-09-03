@@ -119,8 +119,40 @@
 		"selected_items":
 		[
 			[
+				"git",
+				"Git: Status"
+			],
+			[
+				"wrap",
+				"HTML: Wrap Selection With Tag"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"intall",
+				"Package Control: Install Package"
+			],
+			[
+				"snipp",
+				"Snippet: @mixin"
+			],
+			[
+				"snippet: shad",
+				"Snippet: box-shadow+"
+			],
+			[
+				"git stat",
+				"Git: Status"
+			],
+			[
 				"packa",
-				"Package Control: List Packages"
+				"Package Control: Remove Package"
+			],
+			[
+				"git add",
+				"Git: Add Current File"
 			],
 			[
 				"com",
@@ -187,10 +219,6 @@
 				"Snippet: bs3-navbar-responsive"
 			],
 			[
-				"snipp",
-				"Snippet: bs3-alert"
-			],
-			[
 				"snippet b",
 				"Snippet: bs3-form"
 			],
@@ -231,10 +259,6 @@
 				"SublimeGit: Documentation"
 			],
 			[
-				"git",
-				"Package Control: Install Package"
-			],
-			[
 				"sni",
 				"Snippet: bs3-navbar-inverse"
 			]
@@ -261,8 +285,10 @@
 	},
 	"file_history":
 	[
-		"/C/Users/Jason/Google Drive/Development/AuctionMN/auctionmn_Current_Build_Git/AuctionMN_Sublime_Project.sublime-project",
+		"/C/Users/Jason/Google Drive/Development/AuctionMN/auctionmn_Current_Build_Git/index.shtml",
 		"/C/Users/Jason/Google Drive/Development/AuctionMN/auctionmn_Current_Build_Git/auctionmn.scss",
+		"/C/Users/Jason/AppData/Roaming/Sublime Text 3/Packages/User/shadow.sublime-snippet",
+		"/C/Users/Jason/Google Drive/Development/AuctionMN/auctionmn_Current_Build_Git/AuctionMN_Sublime_Project.sublime-project",
 		"/C/Users/Jason/Google Drive/Development/AuctionMN/auctionmn_Beta_Build/index.shtml",
 		"/C/Users/Jason/Google Drive/Work/AAA Auction/2014-09-05/2014-09-05_Inventory_TEXT_v5.txt",
 		"/C/Users/Jason/Google Drive/Development/AuctionMN/auctionmn_Beta_Build/auctionmn.scss",
@@ -386,9 +412,7 @@
 		"/C/Users/Jason/Documents/AAA Auction/AAA_Development/AAA_Website_Backup_2/test12.shtml",
 		"/C/Users/Jason/Documents/AAA Auction/AAA_Development/AAA_Website_Backup_2/auctionmn.css",
 		"/C/Users/Jason/Documents/AAA Auction/AAA_Development/AAA_Website_Backup_2/test13.shtml",
-		"/C/Users/Jason/Documents/Development/BackyardLeisure/Aquatic_Escape/santa-cruz-s-14.html",
-		"/C/Users/Jason/Documents/Development/BackyardLeisure/Aquatic_Escape/blue-lagoon-s-12.html",
-		"/C/Users/Jason/Documents/Development/BackyardLeisure/Aquatic_Escape/hermosa-beach-ss-1.html"
+		"/C/Users/Jason/Documents/Development/BackyardLeisure/Aquatic_Escape/santa-cruz-s-14.html"
 	],
 	"find":
 	{
