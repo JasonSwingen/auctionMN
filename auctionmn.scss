@@ -7,11 +7,14 @@ $lightyellow: cornsilk;
 $current: darkgreen;
 $upcoming: goldenrod;
 $recent: darkred;
-$light: #000;
-$primarycolor: black;
+$light: #ffffff;
+$black: #000000;
+$blackish: #181818;
 $hovercolor: #4C4818;
 $link: steelblue;
 $shadow: #888;
+$alert: firebrick;
+
 
 /*Base*/
 * {
@@ -20,7 +23,7 @@ $shadow: #888;
 body {
 	margin: 0px;
 	padding: 0px;
-	background-color: white;
+	background-color: $light;
 	font: 11px verdana, arial, helvetica, sans-serif;
 }
 h1,h2,h3,h4,h5,h6 {
@@ -30,17 +33,17 @@ h1,h2,h3,h4,h5,h6 {
 h1 {
 	font-size: 24px;
 	font-weight: bold;
-	color: #000000;
+	color: $black;
 }
 h2 {
 	font-size: 20px;
 	font-weight: bold;
-	color: #181818;
+	color: $blackish;
 }
 h3 {
 	font-size: 17px;
 	font-weight: bold;
-	color: #181818;
+	color: $blackish;
 }
 p {
 	font: 15px verdana, arial, helvetica, sans-serif;
@@ -61,12 +64,12 @@ hr {
 	color: #000;
 }
 .alert {
-	color: firebrick;
+	color: $alert;
 }
 .success {
 	font-weight: bold;
 	text-transform: uppercase;
-	color: darkgreen;
+	color: $current;
 }
 .mainbody img {
 	margin: 5px 0px 0px 2px;
@@ -190,13 +193,13 @@ body>#Header {
 
 /*Theme*/
 .current {
-	border: 3px solid darkgreen;
+	border: 3px solid $current;
 }
 .upcoming {
-	border: 3px solid goldenrod;
+	border: 3px solid $upcoming;
 }
 .recent {
-	border: 3px solid darkred;
+	border: 3px solid $recent;
 }
 .currentheading h1, .upcomingheading h1, .recentheading h1 {
 	color: white;
@@ -204,13 +207,13 @@ body>#Header {
 	margin: 0px;
 }
 .currentheading h1 {
-	background-color: darkgreen;
+	background-color: $current;
 }	
 .upcomingheading h1 {
-	background-color: goldenrod;
+	background-color: $upcoming;
 }
 .recentheading h1 {
-	background-color: darkred;
+	background-color: $recent;
 }
 .current:hover, .upcoming:hover, .recent:hover {
 	box-shadow: 0px 6px 10px $shadow;
