@@ -1,0 +1,29 @@
+{
+	"folders":
+	[
+		{
+			"follow_symlinks": true,
+			"path": "C:\\Users\\Jason\\Google Drive\\Work\\AAA Auction"
+		},
+		{
+			"follow_symlinks": true,
+			"path": "C:\\Users\\Jason\\Google Drive\\Development\\AuctionMN\\auctionmn"
+		},
+		{
+			"follow_symlinks": true,
+			"path": "C:\\Users\\Jason\\Google Drive\\Development\\AuctionMN\\auctionmn_Backup"
+		},
+		{
+			"follow_symlinks": true,
+			"path": "C:\\Users\\Jason\\Google Drive\\Development\\AuctionMN\\auctionmn_Backup_v2"
+		},
+		{
+			"file_exclude_patterns":
+			[
+				"*.sublime-project"
+			],
+			"follow_symlinks": true,
+			"path": "."
+		}
+	]
+}

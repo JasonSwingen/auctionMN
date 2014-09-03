@@ -1,0 +1,589 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"upcom",
+				"upcoming"
+			],
+			[
+				"current",
+				"current"
+			],
+			[
+				"black",
+				"blackish"
+			],
+			[
+				"hover",
+				"hovercolor"
+			],
+			[
+				"re",
+				"recentheading"
+			],
+			[
+				"padd",
+				"padding-bottom"
+			],
+			[
+				"margin",
+				"margin-left"
+			],
+			[
+				"border-ri",
+				"border-right-width"
+			],
+			[
+				"in",
+				"inherit"
+			],
+			[
+				"text",
+				"text-align"
+			],
+			[
+				"anim",
+				"animdur	animation-duration: ${1:0}s;"
+			],
+			[
+				"t",
+				"trfs	transform-style: ${1:preserve-3d};"
+			],
+			[
+				"bord",
+				"border-radius"
+			],
+			[
+				"font",
+				"font-weight"
+			],
+			[
+				"marin-",
+				"margin-bottom"
+			],
+			[
+				"fon",
+				"font-weight"
+			],
+			[
+				"border-",
+				"border-top"
+			],
+			[
+				"border",
+				"border-left"
+			],
+			[
+				"mi",
+				"min-width"
+			],
+			[
+				"fl",
+				"float"
+			],
+			[
+				"padding",
+				"padding-bottom"
+			],
+			[
+				"max-",
+				"max-width"
+			],
+			[
+				"inlin",
+				"inline-block"
+			],
+			[
+				"backgrou",
+				"background-color"
+			],
+			[
+				"border-s",
+				"border-style"
+			],
+			[
+				"margin-",
+				"margin-top"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 490.0,
+		"selected_items":
+		[
+			[
+				"packa",
+				"Package Control: List Packages"
+			],
+			[
+				"com",
+				"Git: Quick Commit"
+			],
+			[
+				"git comm",
+				"Git: Commit"
+			],
+			[
+				"sftp",
+				"SFTP: Browse Server…"
+			],
+			[
+				"pa",
+				"Package Control: Install Package"
+			],
+			[
+				"pack",
+				"Package Control: Install Package"
+			],
+			[
+				"colo",
+				"Color Picker"
+			],
+			[
+				"package",
+				"Package Control: Install Package"
+			],
+			[
+				"html",
+				"Snippet: htmlboiler"
+			],
+			[
+				"bs3",
+				"Snippet: bs3-col"
+			],
+			[
+				"bs3-foot",
+				"Snippet: bs3-panel-footer"
+			],
+			[
+				"bs3-nav",
+				"Snippet: bs3-navbar-inverse"
+			],
+			[
+				"bs3-na",
+				"Snippet: bs3-navbar-static-top"
+			],
+			[
+				"bs3-n",
+				"Snippet: bs3-navbar-responsive"
+			],
+			[
+				"col",
+				"Color Picker"
+			],
+			[
+				"boiler",
+				"Snippet: htmlboiler"
+			],
+			[
+				"snippet",
+				"Snippet: bs3-navbar-responsive"
+			],
+			[
+				"snipp",
+				"Snippet: bs3-alert"
+			],
+			[
+				"snippet b",
+				"Snippet: bs3-form"
+			],
+			[
+				"boi",
+				"Snippet: htmlboiler"
+			],
+			[
+				"css",
+				"CSSLint: Run CSSLint"
+			],
+			[
+				"spell check",
+				"Google Spell Check"
+			],
+			[
+				"google",
+				"Google Spell Check"
+			],
+			[
+				"spell",
+				"Google Spell Check"
+			],
+			[
+				"wo",
+				"WordPress Generate Salt Keys"
+			],
+			[
+				"wor",
+				"WordPress Generate Salt Keys"
+			],
+			[
+				"brow",
+				"View In Browser"
+			],
+			[
+				"sublime",
+				"SublimeGit: Documentation"
+			],
+			[
+				"git",
+				"Package Control: Install Package"
+			],
+			[
+				"sni",
+				"Snippet: bs3-navbar-inverse"
+			]
+		],
+		"width": 703.0
+	},
+	"console":
+	{
+		"height": 162.0,
+		"history":
+		[
+			"git",
+			"import urllib.request,os,hashlib; h = '7183a2d3e96f11eeadd761d777e62404' + 'e330c659d4bb41d3bdf022e94cab3cd0'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://sublime.wbond.net/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/Users/Jason/Google Drive/Development/AuctionMN/auctionmn_Current_Build_Git/AuctionMN_Sublime_Project.sublime-project",
+		"/C/Users/Jason/Google Drive/Development/AuctionMN/auctionmn_Current_Build_Git/auctionmn.scss",
+		"/C/Users/Jason/Google Drive/Development/AuctionMN/auctionmn_Beta_Build/index.shtml",
+		"/C/Users/Jason/Google Drive/Work/AAA Auction/2014-09-05/2014-09-05_Inventory_TEXT_v5.txt",
+		"/C/Users/Jason/Google Drive/Development/AuctionMN/auctionmn_Beta_Build/auctionmn.scss",
+		"/C/Users/Jason/AppData/Roaming/Sublime Text 3/Packages/Default/Preferences.sublime-settings",
+		"/C/Users/Jason/Google Drive/Development/AuctionMN/auctionmn_Beta_Build/auctionmn.css",
+		"/C/Users/Jason/Google Drive/Development/SaveMyAsh/index.html",
+		"/C/Users/Jason/Links/Work.lnk",
+		"/C/Users/Jason/Google Drive/Development/AuctionMN/auctionmn_Beta_Build/sftp-config.json",
+		"/C/Users/Jason/Documents/AAA Auction/AuctionMN_Server/sftp-config.json",
+		"/C/wamp/www/backyardleisure/wp-config.php",
+		"/C/wamp/www/wordpress/wp-config.php",
+		"/C/wamp/www/backyardleisure/wp-admin/info.php",
+		"/C/wamp/bin/apache/apache2.4.9/bin/php.ini",
+		"/C/wamp/www/wordpress/index.php",
+		"/C/wamp/www/wordpress/wp-blog-header.php",
+		"/C/wamp/www/wordpress/wp-content/themes/twentyfourteen/index.php",
+		"/C/Users/Jason/Google Drive/Development/Portfolio/readme.md",
+		"/C/wamp/www/backyardleisure/backup/php.ini",
+		"/C/wamp/www/wordpress/wp-content/themes/twentytwelve/style.css",
+		"/C/wamp/www/backyardleisure/sub/backup/php.ini",
+		"/C/Users/Jason/Google Drive/Development/AuctionMN/auctionmn_Current_Build/auctionmn.css",
+		"/C/Users/Jason/Google Drive/Development/AuctionMN/auctionmn_Beta_Build/components/header.ssi",
+		"/C/Users/Jason/Google Drive/Work/AAA Auction/2014-09-05/2014-09-05_Inventory_TEXT_v4.txt",
+		"/C/Users/Jason/Google Drive/Development/AuctionMN/auctionmn_Current_Build/index.shtml",
+		"/C/Users/Jason/Google Drive/Development/AuctionMN/auctionmn_Beta_Build/countdown.scss",
+		"/C/Users/Jason/Google Drive/Development/AuctionMN/auctionmn_Beta_Build/normalize.scss",
+		"/C/Users/Jason/Google Drive/Development/AuctionMN/auctionmn_Beta_Build/jquery.js",
+		"/C/Users/Jason/AppData/Local/Temp/Temp1_jquery.countdown.package-2.0.1.zip/jquery.countdown.css",
+		"/C/Users/Jason/Google Drive/Work/AAA Auction/2014-09-05/2014-09-05_Inventory_TEXT_v3.txt",
+		"/C/Users/Jason/Google Drive/Work/AAA Auction/Templates/AAA_Template_Email_2",
+		"/C/Users/Jason/Google Drive/Work/AAA Auction/2014-09-05/2014-09-05_Inventory_TEXT_v2.txt",
+		"/C/Users/Jason/Google Drive/Work/AAA Auction/Templates/AAA_Picture_Highlights.html",
+		"/C/Users/Jason/Google Drive/Work/AAA Auction/Templates/AAA_Template_Notes_Live.html",
+		"/C/Users/Jason/Google Drive/Work/AAA Auction/Templates/AAA_Template_Terms.html",
+		"/C/Users/Jason/AppData/Roaming/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+		"/C/Users/Jason/AppData/Roaming/Sublime Text 3/Packages/Default/Default (Windows).sublime-keymap",
+		"/C/Users/Jason/AppData/Roaming/Sublime Text 3/Packages/CodeFormatter/CodeFormatter.sublime-settings",
+		"/C/Users/Jason/Google Drive/Work/AAA Auction/2014-09-05/2014-09-05_Inventory_TEXT_v1.txt",
+		"/C/Users/Jason/Google Drive/Development/BackyardLeisure/6-2014-WIP/wp-includes/js/hoverIntent.js",
+		"/C/Users/Jason/Google Drive/Development/AuctionMN/auctionmn/header.ssi",
+		"/C/Users/Jason/Google Drive/Development/AuctionMN/auctionmn/aaa.css",
+		"/C/Users/Jason/Google Drive/Development/BackyardLeisure/6-2014-WIP/themes/TheFurnitureStore/email/af_AF-email-confirmation.html",
+		"/C/Users/Jason/Google Drive/Development/AuctionMN/auctionmn/msaa_logo.xcf",
+		"/C/Users/Jason/Google Drive/Development/AuctionMN/auctionmn_Backup/auctionmn_backup.css",
+		"/C/Users/Jason/Google Drive/Development/BackyardLeisure/6-2014-WIP/wp-includes/js/tinymce/themes/advanced/color_picker.htm",
+		"/C/Users/Jason/Google Drive/Development/AuctionMN/auctionmn/pix.html",
+		"/C/Users/Jason/Google Drive/Development/BackyardLeisure/6-2014-WIP/wp-includes/js/jquery/ui/jquery.effects.highlight.min.js",
+		"/C/Users/Jason/Google Drive/Development/AuctionMN/auctionmn/i.shtml",
+		"/C/Users/Jason/Google Drive/Development/Portfolio/index[Conflict].html",
+		"/C/Users/Jason/Google Drive/Development/BackyardLeisure/Pages/Help Cody Clark Pick Out The Perfect Bullfrog Spa.html",
+		"/C/Users/Jason/Documents/AAA Auction/AAA_Templates/scratchpad.html",
+		"/C/Users/Jason/Documents/AAA Auction/AAA_Templates/AAA_Picture_Highlights.html",
+		"/C/Users/Jason/Documents/AAA Auction/2014-09-05_Inventory_TEXT_v1.txt",
+		"/C/Users/Jason/Pictures/AAA Pictures/2014-09-05/index.html",
+		"/C/Users/Jason/Google Drive/Development/BackyardLeisure/Pages/Page_Cultured_Stone.html",
+		"/C/Users/Jason/Google Drive/Development/Portfolio/index.html",
+		"/C/Users/Jason/Documents/AAA Auction/AAA_Master_Procedures",
+		"/C/Users/Jason/Google Drive/Work/AAA Auction/2014-08-03/2014-08-03_Final_High_Bids.txt",
+		"/C/Users/Jason/Google Drive/Development/SaveMyAsh/style.scss",
+		"/C/Users/Jason/Google Drive/Development/SaveMyAsh/normalize.css",
+		"/C/Users/Jason/Google Drive/Development/SaveMyAsh/normalize.scss",
+		"/C/Users/Jason/Downloads/normalize.scss-master/normalize.scss-master/_normalize.scss",
+		"/C/Users/Jason/Documents/AAA Auction/AAA_Templates/AAA_Invoices",
+		"/C/Users/Jason/Google Drive/Work/AAA Auction/2014-08-03/2014-08-03_High_Online_Bidders_TEXT.txt",
+		"/C/Users/Jason/Google Drive/Development/SaveMyAsh/layout.scss",
+		"/C/Users/Jason/Google Drive/Development/SaveMyAsh/main.scss",
+		"/C/Users/Jason/Google Drive/Development/SaveMyAsh/vars.css",
+		"/C/Users/Jason/Google Drive/Development/SaveMyAsh/vars.scss",
+		"/C/Users/Jason/Google Drive/Development/SaveMyAsh/style.css",
+		"/C/Users/Jason/Documents/AAA Auction/Auctions_and_Backups/2014-07-27/2014-07-27_Winning_Bids_TEXT.txt",
+		"/C/Users/Jason/Google Drive/Work/AAA Auction/Templates/AAA_Template_Invoices_Wavebid",
+		"/C/Users/Jason/Google Drive/Work/AAA Auction/2014-07-24/2014-07-24_maxanet_results.txt",
+		"/C/Users/Jason/Google Drive/Work/AAA Auction/2014-07-24/2014-07-24_maxanet_results_REAL.txt",
+		"/C/Users/Jason/Google Drive/Work/AAA Auction/2014-07-24/2014-07-24_winning_bidder_report.txt",
+		"/C/Users/Jason/Documents/AAA Auction/AAA_Templates/AAA_Terms_Template_Live_with_Prebidding_2.html",
+		"/C/Users/Jason/Documents/AAA Auction/AAA_Templates/AAA_Notes_Template_Live_with_Prebidding.html",
+		"/C/Users/Jason/Google Drive/Development/BackyardLeisure/6-2014-WIP/themes/TheFurnitureStore/shop-country-zones.php",
+		"/C/Users/Jason/Google Drive/Development/testing/stylesheets",
+		"/C/Users/Jason/Google Drive/Work/AAA Auction/2014-08-03/Inventory.html",
+		"/C/Users/Jason/Desktop/2014-08-03_Inventory_TEXT_v3.txt",
+		"/C/Users/Jason/Documents/AAA Auction/Auctions_and_Backups/2014-08-03/2014-08-03_Inventory_TEXT_v2.txt",
+		"/C/Users/Jason/Documents/AAA Auction/AAA_Templates/AAA_Email_Template",
+		"/C/Users/Jason/Google Drive/Work/AAA Auction/Templates/AAA_List_of_Emails_2014-07-23.txt",
+		"/C/Users/Jason/Documents/AAA Auction/Auctions_and_Backups/2014-08-03/2014-08-03_Inventory_TEXT_v1.txt",
+		"/C/Users/Jason/Documents/AAA Auction/AAA_Templates/AAA_Terms_Template_Live_with_Prebidding.html",
+		"/C/Users/Jason/Google Drive/Development/AuctionMN/auctionmn_Current_Build/aaa.css",
+		"/C/Users/Jason/Documents/AAA Auction/Auctions_and_Backups/2014-08-03/index.html",
+		"/C/Users/Jason/Desktop/AAA_Auction_Photos_For_Auction_on_July_27_2014/index.html",
+		"/C/Users/Jason/Google Drive/Development/AuctionMN/auctionmn/mausgallery/index.html",
+		"/C/Users/Jason/Google Drive/Development/AuctionMN/auctionmn/mausgallery/gallery.css",
+		"/C/Users/Jason/Google Drive/Development/AuctionMN/auctionmn/mausgallery/auctionmn.css",
+		"/C/Users/Jason/Google Drive/Development/AuctionMN/mausgallery/index.html",
+		"/C/Users/Jason/Google Drive/Work/AAA Auction/2014-07-24/2014-07-24_Inventory_v2.txt",
+		"/C/Users/Jason/Google Drive/Work/AAA Auction/2014-07-27/2014-07-27_Inventory_TEXT_v2.txt",
+		"/C/Users/Jason/Google Drive/Work/AAA Auction/Templates/AAA_Template_Terms_Live_with_Prebidding.html",
+		"/C/Users/Jason/Google Drive/Work/AAA Auction/Templates/AAA_Template_Notes_Live_with_Prebidding.html",
+		"/C/Users/Jason/Google Drive/Work/AAA Auction/Templates/AAA_Template_Images.html",
+		"/C/Users/Jason/Google Drive/Work/AAA Auction/Templates/AAA_Template_Email",
+		"/C/Users/Jason/Google Drive/Development/AuctionMN/auctionmn_Beta_Build/auctionmn2.css",
+		"/C/Users/Jason/Downloads/scratchpad.html",
+		"/C/Users/Jason/Google Drive/Work/AAA Auction/2014-07-27/2014-07-27_Inventory_TEXT_v1.txt",
+		"/C/Users/Jason/Google Drive/Development/AuctionMN/aaa2.css",
+		"/C/Users/Jason/Documents/Development/AuctionMN/aaa2.css",
+		"/C/Users/Jason/Documents/Development/AuctionMN/aaa.css",
+		"/C/Users/Jason/Documents/Development/AuctionMN/index.shtml",
+		"/C/Users/Jason/Documents/AAA Auction/AAA_Old/test_upload.txt",
+		"/C/Users/Jason/Documents/Development/AuctionMN/index2.shtml",
+		"/C/Users/Jason/Documents/AAA Auction/2014-07-24/2014-07-24_Inventory_Version_4.txt",
+		"/C/Users/Jason/Documents/Development/AuctionMN/auctionmn.css",
+		"/C/Users/Jason/Documents/AAA Auction/AAA_Development/AAA_Website_Backup/index.shtml",
+		"/C/Users/Jason/Documents/AAA Auction/AAA_Development/auctionmn.css",
+		"/C/Users/Jason/Documents/AAA Auction/AAA_Development/AAA_Website_Testing/index.shtml",
+		"/C/Users/Jason/Documents/AAA Auction/AAA_Development/AAA_Website_Testing/aaa.css",
+		"/C/Users/Jason/Documents/AAA Auction/AAA_Development/AAA_Website_Testing/v2.shtml",
+		"/C/Users/Jason/Documents/AAA Auction/AAA_Development/AAA_Website_Testing/tonysblog.shtml",
+		"/C/Users/Jason/Documents/AAA Auction/AAA_Development/AAA_Website_Testing/mauscorner_backup.shtml",
+		"/C/Users/Jason/Documents/AAA Auction/AAA_Development/AAA_Website_Testing/mauscorner.shtml",
+		"/C/Users/Jason/Documents/AAA Auction/AAA_Development/AAA_Website_Testing/test11.shtml",
+		"/C/Users/Jason/Documents/AAA Auction/AAA_Development/AAA_Website_Testing/test13.shtml",
+		"/C/Users/Jason/Documents/AAA Auction/AAA_Development/AAA_Website_Testing/header.ssi",
+		"/C/Users/Jason/Documents/AAA Auction/AAA_Development/AAA_Website_Backup_2/test12.shtml",
+		"/C/Users/Jason/Documents/AAA Auction/AAA_Development/AAA_Website_Backup_2/auctionmn.css",
+		"/C/Users/Jason/Documents/AAA Auction/AAA_Development/AAA_Website_Backup_2/test13.shtml",
+		"/C/Users/Jason/Documents/Development/BackyardLeisure/Aquatic_Escape/santa-cruz-s-14.html",
+		"/C/Users/Jason/Documents/Development/BackyardLeisure/Aquatic_Escape/blue-lagoon-s-12.html",
+		"/C/Users/Jason/Documents/Development/BackyardLeisure/Aquatic_Escape/hermosa-beach-ss-1.html"
+	],
+	"find":
+	{
+		"height": 43.0
+	},
+	"find_in_files":
+	{
+		"height": 117.0,
+		"where_history":
+		[
+			"<project>"
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"$primary",
+			"128",
+			"(ET)",
+			"#4C4818",
+			";",
+			"42",
+			"47",
+			"43",
+			"42",
+			"(",
+			"clearfix",
+			"CDT",
+			"strong",
+			";",
+			"alt",
+			"jpg",
+			"</a>",
+			"July",
+			"5",
+			"animation",
+			";\n",
+			"border",
+			"imglink",
+			"imgsample",
+			"class=\"imglink\" ",
+			"location",
+			"body",
+			"rfloat",
+			"/2014-02-15",
+			"<td style=",
+			"<hr",
+			"<hr size=\"2\" width=\"100%\">",
+			"<hr style=\"width: 100%; height: 2px;\">",
+			"<hr",
+			"hr",
+			"http://www.auctionmnonline.com",
+			"[company name]",
+			"Sweepstakes",
+			"auctionmnonline.com",
+			"wp",
+			"top",
+			"margin",
+			"\n  ",
+			",\n",
+			"display:none",
+			"myloginoverlay",
+			"searchoverlay",
+			"img"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"Backyard Leisure",
+			"contest"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 30.0
+	},
+	"input":
+	{
+		"height": 38.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.sftp":
+	{
+		"height": 242.0
+	},
+	"project": "AuctionMN_Sublime_Project.sublime-project",
+	"replace":
+	{
+		"height": 56.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+			[
+				"high",
+				"AAA Auction\\Templates\\AAA_Picture_Highlights.html"
+			],
+			[
+				"scra",
+				"AAA Auction\\AAA_Templates\\scratchpad.html"
+			],
+			[
+				"scrat",
+				"AAA Auction\\AAA_Templates\\scratchpad.html"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 625.0,
+		"selected_items":
+		[
+			[
+				"",
+				"C:\\Users\\Jason\\Google Drive\\Development\\BackyardLeisure\\Backyard_Leisure_Sublime_Project.sublime-project"
+			]
+		],
+		"width": 475.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"settings":
+	{
+		"last_automatic_layout":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		]
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 418.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+		"max_columns": 1
+	}
+}
