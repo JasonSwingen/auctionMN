@@ -1,0 +1,46 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
+<html><head>
+<meta http-equiv="content-type" content="text/html; charset=iso-8859-1"><title>AAA Auction and Realty Company | Contact</title>
+
+<link rel="stylesheet" href="/auctionmn.css" type="text/css">
+<link rel="stylesheet" href="/auctionmnpr.css" type="text/css" media="print"><!--#include file="head_sitemap.inc"--></head>
+<body>
+<div id="Content">
+<div id="Header"><!--#include file="header.ssi"--> </div>
+<h1>Contact AAA Auction and Realty Co.</h1><b>Mailing Address:</b><br>AAA Auction and Realty Co.<br>
+Business Office<br>19803 Nowthen Blvd.<br>Nowthen MN 55303-9655<br><b><br>Phones:</b> <br>Business Office: (763) 421-3044<br>Cell: (763) 427-7101<br>Fax: (763) 427-3803<br><b><br>
+Email:</b> <br><a href="mailto:info@auctionmn.com">info@auctionmn.com</a><br>
+<br><form method="post" action="http://www.auctionmnonline.com/cgi-bin/mnform.cgi"><input name="auction" value="auctionmn" type="hidden">
+<input name="subject" value="Contact Form" type="hidden"><input name="returnpath" value="http://www.auctionmnonline.com/index.shtml" type="hidden">
+<table border="0" cellpadding="3" cellspacing="3">
+<tbody>
+<tr valign="top">
+<td align="right">Your name:</td>
+<td><input size="48" name="name" type="text"></td>
+</tr>
+<tr valign="top">
+<td align="right">E-mail address:</td>
+<td><input size="48" name="email" type="text"></td>
+</tr>
+<tr valign="top">
+<td align="right">Subject:</td>
+<td><input size="48" name="m_subject" type="text"></td>
+</tr>
+<tr valign="top">
+<td align="right">Message:</td>
+<td><textarea name="body" cols="60" rows="12" wrap="true"></textarea></td>
+</tr>
+<tr valign="top">
+<td align="right">&nbsp;</td>
+<td><input name="submit" value="Send Comments" type="submit"></td>
+</tr>
+</tbody>
+</table>
+</form>
+<p></p>
+<div id="Footer"><!--#include file="footer.ssi"--> </div>
+</div>
+<div id="Menu">
+
+<!--#include file="body_sitemap.inc"--><!--#include file="footer2.ssi"--> </div>
+</body></html>

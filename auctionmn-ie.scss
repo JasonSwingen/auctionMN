@@ -1,0 +1,52 @@
+/*Imports*/
+@import "normalize";
+
+/*Variables*/
+
+$lightyellow: cornsilk;
+$current: darkgreen;
+$upcoming: goldenrod;
+$recent: darkred;
+$light: #ffffff;
+$black: #000000;
+$blackish: #181818;
+$hovercolor: #4C4818;
+$link: steelblue;
+$shadow: #888;
+$alert: firebrick;
+
+*,
+*:before,
+*:after {
+    -webkit-box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    box-sizing: border-box;
+}
+
+.mainbody {
+	width:900px;
+	height:100%;
+	background-color:$lightyellow;
+	margin:10px 0px 10px 10px;
+	float: left;
+	box-shadow: -3px -3px 10px $shadow;
+}
+.maincontent {
+	width: 680px;
+	height:100%;
+	float:right;
+}
+.mainsidebar {
+	width:196px;
+	height: auto;
+	float:left;
+	text-align: center;
+}
+
+
+.flexbox img {
+	height: 92px;
+	display: inline-block;
+	overflow: hidden;
+	border: 2px solid transparent;
+}

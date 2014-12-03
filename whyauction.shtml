@@ -1,0 +1,50 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
+<html><head>
+<meta http-equiv="content-type" content="text/html; charset=ISO-8859-1"><title>AAA Auction and Realty Company | Why Auctions Work</title>
+
+<link rel="stylesheet" href="/auctionmn.css" type="text/css">
+<link rel="stylesheet" href="/auctionmnpr.css" type="text/css" media="print">
+<!--#include file="head_sitemap.inc"-->
+</head>
+<body>
+<div id="Content">
+<div id="Header"><!--#include file="header.ssi"--></div>
+<div id="SearchArea" align="center">
+<form method="post" action="/cgi-bin/mncal.cgi">
+<table align="center" border="0" cellpadding="0" cellspacing="0" width="100%">
+<tbody>
+<tr>
+<td align="center"><input name="auction" value="auctionmn" type="hidden">
+Search all online auctions for keyword(s): <input name="keyword" size="15" value="" type="text">
+<select name="stype"><option value="ANY">Any of the words</option><option value="ALL">All of the words</option><option value="PHRASE">Exact phrase</option><option value="CONTAIN">Containing...</option></select>
+<input name="search" value="Go!" type="submit">
+</td>
+</tr>
+</tbody>
+</table>
+</form>
+</div>
+<h1>Why Auctions Work</h1>
+<ul>
+<li>The most important reason why the auction method of selling
+works is because it brings interested buyers together who then
+compete for the goods being sold. This maximizes the sale price and
+reduces the risk of selling something below its true market
+value.
+</li><br>
+<li>Auctions make planning personal moves easier. You set the
+date
+and time of the sale with the advice of AAA Auction and Realty
+Company and it all gets done at one time.</li><br>
+<li>Items that never seem to sell at garage sales almost always
+sell at auctions.</li><br>
+<li>Auctions are fun. In fact, many people go to auctions just
+for recreation. This also helps maximize the auction proceeds because
+many of these people who attend auctions just for fun actually wind
+up buying things.</li>
+</ul>
+<div id="Footer"><!--#include file="footer.ssi"--></div>
+</div>
+<div id="Menu">
+<!--#include file="body_sitemap.inc"--><!--#include file="footer2.ssi"--></div>
+</body></html>

@@ -4,6 +4,62 @@
 		"selected_items":
 		[
 			[
+				"un",
+				"underline"
+			],
+			[
+				"font-",
+				"font-weight"
+			],
+			[
+				"margin",
+				"margin-right"
+			],
+			[
+				"bord",
+				"border-color"
+			],
+			[
+				"back",
+				"background-color"
+			],
+			[
+				"max-",
+				"max-height"
+			],
+			[
+				"hel",
+				"helvetica"
+			],
+			[
+				"tran",
+				"transparent"
+			],
+			[
+				"text",
+				"text-decoration"
+			],
+			[
+				"font",
+				"font-size"
+			],
+			[
+				"margin-",
+				"margin-left"
+			],
+			[
+				"di",
+				"display"
+			],
+			[
+				"ab",
+				"absolute"
+			],
+			[
+				"img",
+				"imglink92"
+			],
+			[
 				"upcom",
 				"upcoming"
 			],
@@ -28,10 +84,6 @@
 				"padding-bottom"
 			],
 			[
-				"margin",
-				"margin-left"
-			],
-			[
 				"border-ri",
 				"border-right-width"
 			],
@@ -40,24 +92,12 @@
 				"inherit"
 			],
 			[
-				"text",
-				"text-align"
-			],
-			[
 				"anim",
 				"animdur	animation-duration: ${1:0}s;"
 			],
 			[
 				"t",
 				"trfs	transform-style: ${1:preserve-3d};"
-			],
-			[
-				"bord",
-				"border-radius"
-			],
-			[
-				"font",
-				"font-weight"
 			],
 			[
 				"marin-",
@@ -88,10 +128,6 @@
 				"padding-bottom"
 			],
 			[
-				"max-",
-				"max-width"
-			],
-			[
 				"inlin",
 				"inline-block"
 			],
@@ -102,15 +138,27 @@
 			[
 				"border-s",
 				"border-style"
-			],
-			[
-				"margin-",
-				"margin-top"
 			]
 		]
 	},
 	"buffers":
 	[
+		{
+			"file": "index.shtml",
+			"settings":
+			{
+				"buffer_size": 34806,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "auctionmn.scss",
+			"settings":
+			{
+				"buffer_size": 4441,
+				"line_ending": "Windows"
+			}
+		}
 	],
 	"build_system": "",
 	"command_palette":
@@ -119,16 +167,68 @@
 		"selected_items":
 		[
 			[
+				"pack",
+				"Package Control: List Packages"
+			],
+			[
+				"packa",
+				"Package Control: Remove Package"
+			],
+			[
+				"package",
+				"Package Control: Disable Package"
+			],
+			[
+				"git status",
+				"Git: Status"
+			],
+			[
+				"git commit",
+				"Git: Quick Commit"
+			],
+			[
+				"git ",
+				"Git: Status"
+			],
+			[
+				"git add ",
+				"Git: Quick Add"
+			],
+			[
+				"git add",
+				"Git: Quick Add"
+			],
+			[
 				"git",
 				"Git: Status"
 			],
 			[
-				"wrap",
-				"HTML: Wrap Selection With Tag"
+				"unique",
+				"Permute Lines: Unique"
+			],
+			[
+				"sort",
+				"Sort Lines"
+			],
+			[
+				"git comm",
+				"Git: Commit"
+			],
+			[
+				"stat",
+				"Git: Status"
+			],
+			[
+				"gin",
+				"Git: Init"
 			],
 			[
 				"install",
 				"Package Control: Install Package"
+			],
+			[
+				"wrap",
+				"HTML: Wrap Selection With Tag"
 			],
 			[
 				"intall",
@@ -147,20 +247,8 @@
 				"Git: Status"
 			],
 			[
-				"packa",
-				"Package Control: Remove Package"
-			],
-			[
-				"git add",
-				"Git: Add Current File"
-			],
-			[
 				"com",
 				"Git: Quick Commit"
-			],
-			[
-				"git comm",
-				"Git: Commit"
 			],
 			[
 				"sftp",
@@ -171,16 +259,8 @@
 				"Package Control: Install Package"
 			],
 			[
-				"pack",
-				"Package Control: Install Package"
-			],
-			[
 				"colo",
 				"Color Picker"
-			],
-			[
-				"package",
-				"Package Control: Install Package"
 			],
 			[
 				"html",
@@ -263,7 +343,7 @@
 				"Snippet: bs3-navbar-inverse"
 			]
 		],
-		"width": 703.0
+		"width": 571.0
 	},
 	"console":
 	{
@@ -283,10 +363,71 @@
 		"side_bar_visible": false,
 		"status_bar_visible": false
 	},
+	"expanded_folders":
+	[
+		"/C/Users/Jason/Google Drive/Development/AuctionMN/auctionmn_Current_Build_Git",
+		"/C/Users/Jason/Google Drive/Development/AuctionMN/auctionmn_Current_Build_Git/min"
+	],
 	"file_history":
 	[
-		"/C/Users/Jason/Google Drive/Development/AuctionMN/auctionmn_Current_Build_Git/index.shtml",
 		"/C/Users/Jason/Google Drive/Development/AuctionMN/auctionmn_Current_Build_Git/auctionmn.scss",
+		"/C/Users/Jason/Google Drive/Development/AuctionMN/auctionmn_Current_Build_Git/auctionmn-ie.scss",
+		"/C/Users/Jason/Google Drive/Development/AuctionMN/auctionmn_Current_Build_Git/auctionmn-ie.css",
+		"/C/Users/Jason/Google Drive/Development/AuctionMN/auctionmn_Current_Build_Git/auctionmnpr.css",
+		"/C/Users/Jason/Google Drive/Development/AuctionMN/auctionmn_Current_Build_Git/footer2.ssi",
+		"/C/Users/Jason/AppData/Roaming/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+		"/C/Users/Jason/Google Drive/Development/AuctionMN/auctionmn_Current_Build_Git/index.shtml",
+		"/C/Users/Jason/Google Drive/Development/AuctionMN/auctionmn_Current_Build_Git/jquery.js",
+		"/C/Users/Jason/Google Drive/Work/AAA Auction/Templates/AAA_Template_Email_5.1",
+		"/C/Users/Jason/Google Drive/Work/AAA Auction/Templates/AAA_Template_Email_4.5",
+		"/C/Users/Jason/Google Drive/Work/AAA Auction/Templates/AAA_Template_Email_5",
+		"/C/Users/Jason/Google Drive/Work/AAA Auction/2014-11-30/Proxibid_Auction_Information.txt",
+		"/C/Users/Jason/Google Drive/Work/AAA Auction/Other/How to export auction to Proxibid",
+		"/C/Users/Jason/Google Drive/Work/AAA Auction/Templates/template for auction listing.html",
+		"/C/Users/Jason/Google Drive/Work/AAA Auction/2014-07-27/2014-07-27_Inventory_TEXT_v2.txt",
+		"/C/Users/Jason/Google Drive/Work/AAA Auction/2014-07-27/2014-07-27_Inventory_TEXT_v1.txt",
+		"/C/Users/Jason/Google Drive/Work/AAA Auction/2014-07-27/2014-07-27_Inventory.gsheet",
+		"/C/Users/Jason/Google Drive/Work/AAA Auction/2014-07-27/2014-07-27_High_online_bidders.gsheet",
+		"/C/Users/Jason/Google Drive/Work/AAA Auction/2014-07-24/2014-07-24_winning_bidder_report.txt",
+		"/C/Users/Jason/Google Drive/Work/AAA Auction/2014-07-24/2014-07-24_maxanet_results_REAL.txt",
+		"/C/Users/Jason/Google Drive/Work/AAA Auction/2014-07-24/2014-07-24_maxanet_results.txt",
+		"/C/Users/Jason/Google Drive/Work/AAA Auction/2014-07-24/2014-07-24_Inventory_v2.txt",
+		"/C/Users/Jason/Google Drive/Work/AAA Auction/2014-07-24/2014-07-24_Inventory.txt",
+		"/C/Users/Jason/Google Drive/Work/AAA Auction/2014-07-24/2014-07-24_Inventory.gsheet",
+		"/C/Users/Jason/Google Drive/Work/AAA Auction/2014-07-20/2014-07-20-Inventory.gsheet",
+		"/C/Users/Jason/Google Drive/Work/AAA Auction/Jason Swingen - AAA Auction - Invoice.gsheet",
+		"/C/Users/Jason/Google Drive/Work/AAA Auction/AAA_Master_Passwords.gsheet",
+		"/C/Users/Jason/Google Drive/Work/AAA Auction/Templates/AAA_Template_Invoices_Wavebid_v2",
+		"/C/Users/Jason/Google Drive/Work/AAA Auction/2014-10-29/2014-10-29_winning_bidders_TEXT.txt",
+		"/C/Users/Jason/Google Drive/Work/AAA Auction/2014-10-29/2014-10-29_maxanet_results_TEXT.txt",
+		"/C/Users/Jason/Google Drive/Work/AAA Auction/2014-10-29/2014-10-29_realized_prices_TEXT.txt",
+		"/C/Users/Jason/Google Drive/Development/AuctionMN/auctionmn_Current_Build_Git/auctionmn.css",
+		"/C/Users/Jason/Google Drive/Work/AAA Auction/2014-10-29/2014-10-29_Inventory_TEXT_v2.txt",
+		"/C/Users/Jason/Google Drive/Work/AAA Auction/Templates/AAA_Template_Email_4",
+		"/C/Users/Jason/Google Drive/Work/AAA Auction/Templates/AAA_Template_Email_2",
+		"/C/Users/Jason/Google Drive/Work/AAA Auction/Templates/AAA_Template_Email_3",
+		"/C/Users/Jason/Google Drive/Work/AAA Auction/Templates/AAA_Template_Email",
+		"/C/Users/Jason/Google Drive/Work/AAA Auction/Templates/AAA_Picture_Highlights.html",
+		"/C/Users/Jason/Google Drive/Work/AAA Auction/Templates/AAA_Template_Terms.html",
+		"/C/Users/Jason/Google Drive/Work/AAA Auction/2014-10-29/2014-10-29_Inventory_TEXT_v1.txt",
+		"/C/Users/Jason/Google Drive/Development/AuctionMN/auctionmn_Current_Build_Git/online_bidding_information.shtml",
+		"/C/Users/Jason/Google Drive/Work/AAA Auction/Templates/AAA_Template_Terms_Live.html",
+		"/C/Users/Jason/Documents/AAA Auction/Images/Nelson/index.html",
+		"/C/Users/Jason/Pictures/JS Pictures/1999/Pics from home/hunting.txt",
+		"/C/Users/Jason/Documents/AAA Auction/Images/Nelson/style.css",
+		"/C/Users/Jason/Desktop/Nelson/index.html",
+		"/C/Users/Jason/Desktop/Nelson2/index.html",
+		"/C/Users/Jason/Desktop/Nelson/style.css",
+		"/C/Users/Jason/Google Drive/Work/AAA Auction/Templates/AAA_List_of_Emails_2014-10-02.txt",
+		"/C/Users/Jason/Google Drive/Development/AuctionMN/auctionmn_Current_Build_Git/tonysblog.shtml",
+		"/C/Users/Jason/AppData/Roaming/Sublime Text 3/Packages/User/SublimeGit.sublime-settings",
+		"/C/Users/Jason/AppData/Roaming/Sublime Text 3/Packages/SublimeGit/SublimeGit.sublime-settings",
+		"/C/Users/Jason/Google Drive/Work/AAA Auction/2014-09-05/2014-09-05_realized_prices.txt",
+		"/C/Users/Jason/Google Drive/Work/AAA Auction/2014-09-05/2014-09-05_maxanet_results.txt",
+		"/C/Users/Jason/Google Drive/Work/AAA Auction/2014-09-05/2014-09-05_winning_bidders.txt",
+		"/C/Users/Jason/Google Drive/Work/AAA Auction/2014-09-05/2014-09-05_Inventory_TEXT_v6.txt",
+		"/C/Users/Jason/Google Drive/Development/AuctionMN/auctionmn/header.ssi",
+		"/C/Users/Jason/Google Drive/Work/AAA Auction/Templates/AAA_Template_Invoices_Wavebid",
 		"/C/Users/Jason/AppData/Roaming/Sublime Text 3/Packages/User/shadow.sublime-snippet",
 		"/C/Users/Jason/Google Drive/Development/AuctionMN/auctionmn_Current_Build_Git/AuctionMN_Sublime_Project.sublime-project",
 		"/C/Users/Jason/Google Drive/Development/AuctionMN/auctionmn_Beta_Build/index.shtml",
@@ -318,17 +459,12 @@
 		"/C/Users/Jason/Google Drive/Development/AuctionMN/auctionmn_Beta_Build/jquery.js",
 		"/C/Users/Jason/AppData/Local/Temp/Temp1_jquery.countdown.package-2.0.1.zip/jquery.countdown.css",
 		"/C/Users/Jason/Google Drive/Work/AAA Auction/2014-09-05/2014-09-05_Inventory_TEXT_v3.txt",
-		"/C/Users/Jason/Google Drive/Work/AAA Auction/Templates/AAA_Template_Email_2",
 		"/C/Users/Jason/Google Drive/Work/AAA Auction/2014-09-05/2014-09-05_Inventory_TEXT_v2.txt",
-		"/C/Users/Jason/Google Drive/Work/AAA Auction/Templates/AAA_Picture_Highlights.html",
 		"/C/Users/Jason/Google Drive/Work/AAA Auction/Templates/AAA_Template_Notes_Live.html",
-		"/C/Users/Jason/Google Drive/Work/AAA Auction/Templates/AAA_Template_Terms.html",
-		"/C/Users/Jason/AppData/Roaming/Sublime Text 3/Packages/User/Preferences.sublime-settings",
 		"/C/Users/Jason/AppData/Roaming/Sublime Text 3/Packages/Default/Default (Windows).sublime-keymap",
 		"/C/Users/Jason/AppData/Roaming/Sublime Text 3/Packages/CodeFormatter/CodeFormatter.sublime-settings",
 		"/C/Users/Jason/Google Drive/Work/AAA Auction/2014-09-05/2014-09-05_Inventory_TEXT_v1.txt",
 		"/C/Users/Jason/Google Drive/Development/BackyardLeisure/6-2014-WIP/wp-includes/js/hoverIntent.js",
-		"/C/Users/Jason/Google Drive/Development/AuctionMN/auctionmn/header.ssi",
 		"/C/Users/Jason/Google Drive/Development/AuctionMN/auctionmn/aaa.css",
 		"/C/Users/Jason/Google Drive/Development/BackyardLeisure/6-2014-WIP/themes/TheFurnitureStore/email/af_AF-email-confirmation.html",
 		"/C/Users/Jason/Google Drive/Development/AuctionMN/auctionmn/msaa_logo.xcf",
@@ -359,60 +495,9 @@
 		"/C/Users/Jason/Google Drive/Development/SaveMyAsh/vars.scss",
 		"/C/Users/Jason/Google Drive/Development/SaveMyAsh/style.css",
 		"/C/Users/Jason/Documents/AAA Auction/Auctions_and_Backups/2014-07-27/2014-07-27_Winning_Bids_TEXT.txt",
-		"/C/Users/Jason/Google Drive/Work/AAA Auction/Templates/AAA_Template_Invoices_Wavebid",
-		"/C/Users/Jason/Google Drive/Work/AAA Auction/2014-07-24/2014-07-24_maxanet_results.txt",
-		"/C/Users/Jason/Google Drive/Work/AAA Auction/2014-07-24/2014-07-24_maxanet_results_REAL.txt",
-		"/C/Users/Jason/Google Drive/Work/AAA Auction/2014-07-24/2014-07-24_winning_bidder_report.txt",
 		"/C/Users/Jason/Documents/AAA Auction/AAA_Templates/AAA_Terms_Template_Live_with_Prebidding_2.html",
 		"/C/Users/Jason/Documents/AAA Auction/AAA_Templates/AAA_Notes_Template_Live_with_Prebidding.html",
-		"/C/Users/Jason/Google Drive/Development/BackyardLeisure/6-2014-WIP/themes/TheFurnitureStore/shop-country-zones.php",
-		"/C/Users/Jason/Google Drive/Development/testing/stylesheets",
-		"/C/Users/Jason/Google Drive/Work/AAA Auction/2014-08-03/Inventory.html",
-		"/C/Users/Jason/Desktop/2014-08-03_Inventory_TEXT_v3.txt",
-		"/C/Users/Jason/Documents/AAA Auction/Auctions_and_Backups/2014-08-03/2014-08-03_Inventory_TEXT_v2.txt",
-		"/C/Users/Jason/Documents/AAA Auction/AAA_Templates/AAA_Email_Template",
-		"/C/Users/Jason/Google Drive/Work/AAA Auction/Templates/AAA_List_of_Emails_2014-07-23.txt",
-		"/C/Users/Jason/Documents/AAA Auction/Auctions_and_Backups/2014-08-03/2014-08-03_Inventory_TEXT_v1.txt",
-		"/C/Users/Jason/Documents/AAA Auction/AAA_Templates/AAA_Terms_Template_Live_with_Prebidding.html",
-		"/C/Users/Jason/Google Drive/Development/AuctionMN/auctionmn_Current_Build/aaa.css",
-		"/C/Users/Jason/Documents/AAA Auction/Auctions_and_Backups/2014-08-03/index.html",
-		"/C/Users/Jason/Desktop/AAA_Auction_Photos_For_Auction_on_July_27_2014/index.html",
-		"/C/Users/Jason/Google Drive/Development/AuctionMN/auctionmn/mausgallery/index.html",
-		"/C/Users/Jason/Google Drive/Development/AuctionMN/auctionmn/mausgallery/gallery.css",
-		"/C/Users/Jason/Google Drive/Development/AuctionMN/auctionmn/mausgallery/auctionmn.css",
-		"/C/Users/Jason/Google Drive/Development/AuctionMN/mausgallery/index.html",
-		"/C/Users/Jason/Google Drive/Work/AAA Auction/2014-07-24/2014-07-24_Inventory_v2.txt",
-		"/C/Users/Jason/Google Drive/Work/AAA Auction/2014-07-27/2014-07-27_Inventory_TEXT_v2.txt",
-		"/C/Users/Jason/Google Drive/Work/AAA Auction/Templates/AAA_Template_Terms_Live_with_Prebidding.html",
-		"/C/Users/Jason/Google Drive/Work/AAA Auction/Templates/AAA_Template_Notes_Live_with_Prebidding.html",
-		"/C/Users/Jason/Google Drive/Work/AAA Auction/Templates/AAA_Template_Images.html",
-		"/C/Users/Jason/Google Drive/Work/AAA Auction/Templates/AAA_Template_Email",
-		"/C/Users/Jason/Google Drive/Development/AuctionMN/auctionmn_Beta_Build/auctionmn2.css",
-		"/C/Users/Jason/Downloads/scratchpad.html",
-		"/C/Users/Jason/Google Drive/Work/AAA Auction/2014-07-27/2014-07-27_Inventory_TEXT_v1.txt",
-		"/C/Users/Jason/Google Drive/Development/AuctionMN/aaa2.css",
-		"/C/Users/Jason/Documents/Development/AuctionMN/aaa2.css",
-		"/C/Users/Jason/Documents/Development/AuctionMN/aaa.css",
-		"/C/Users/Jason/Documents/Development/AuctionMN/index.shtml",
-		"/C/Users/Jason/Documents/AAA Auction/AAA_Old/test_upload.txt",
-		"/C/Users/Jason/Documents/Development/AuctionMN/index2.shtml",
-		"/C/Users/Jason/Documents/AAA Auction/2014-07-24/2014-07-24_Inventory_Version_4.txt",
-		"/C/Users/Jason/Documents/Development/AuctionMN/auctionmn.css",
-		"/C/Users/Jason/Documents/AAA Auction/AAA_Development/AAA_Website_Backup/index.shtml",
-		"/C/Users/Jason/Documents/AAA Auction/AAA_Development/auctionmn.css",
-		"/C/Users/Jason/Documents/AAA Auction/AAA_Development/AAA_Website_Testing/index.shtml",
-		"/C/Users/Jason/Documents/AAA Auction/AAA_Development/AAA_Website_Testing/aaa.css",
-		"/C/Users/Jason/Documents/AAA Auction/AAA_Development/AAA_Website_Testing/v2.shtml",
-		"/C/Users/Jason/Documents/AAA Auction/AAA_Development/AAA_Website_Testing/tonysblog.shtml",
-		"/C/Users/Jason/Documents/AAA Auction/AAA_Development/AAA_Website_Testing/mauscorner_backup.shtml",
-		"/C/Users/Jason/Documents/AAA Auction/AAA_Development/AAA_Website_Testing/mauscorner.shtml",
-		"/C/Users/Jason/Documents/AAA Auction/AAA_Development/AAA_Website_Testing/test11.shtml",
-		"/C/Users/Jason/Documents/AAA Auction/AAA_Development/AAA_Website_Testing/test13.shtml",
-		"/C/Users/Jason/Documents/AAA Auction/AAA_Development/AAA_Website_Testing/header.ssi",
-		"/C/Users/Jason/Documents/AAA Auction/AAA_Development/AAA_Website_Backup_2/test12.shtml",
-		"/C/Users/Jason/Documents/AAA Auction/AAA_Development/AAA_Website_Backup_2/auctionmn.css",
-		"/C/Users/Jason/Documents/AAA Auction/AAA_Development/AAA_Website_Backup_2/test13.shtml",
-		"/C/Users/Jason/Documents/Development/BackyardLeisure/Aquatic_Escape/santa-cruz-s-14.html"
+		"/C/Users/Jason/Google Drive/Development/BackyardLeisure/6-2014-WIP/themes/TheFurnitureStore/shop-country-zones.php"
 	],
 	"find":
 	{
@@ -431,6 +516,23 @@
 		"case_sensitive": false,
 		"find_history":
 		[
+			"<button class=\"btn\">",
+			"button",
+			"imglink92",
+			" ",
+			"CDT",
+			"-",
+			")",
+			"auctionmn7",
+			"-08-03",
+			"jpg",
+			"<",
+			"file:///C:/Users/Jason/Desktop/Nelson/",
+			";",
+			"7",
+			"jpg",
+			"2014",
+			"150px",
 			"$primary",
 			"128",
 			"(ET)",
@@ -498,8 +600,133 @@
 	"groups":
 	[
 		{
+			"selected": 0,
 			"sheets":
 			[
+				{
+					"buffer": 0,
+					"file": "index.shtml",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 34806,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								3258,
+								3258
+							]
+						],
+						"settings":
+						{
+							"BracketHighlighterBusy": false,
+							"bh_regions":
+							[
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content"
+							],
+							"color_scheme": "Packages/User/Color Highlighter/themes/cobalt2.tmTheme",
+							"incomplete_sync": null,
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/HTML/HTML.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 1792.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "auctionmn.scss",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 4441,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								11,
+								11
+							]
+						],
+						"settings":
+						{
+							"incomplete_sync": null,
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/SCSS/SCSS.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				}
 			]
 		}
 	],
@@ -537,6 +764,10 @@
 	"output.find_results":
 	{
 		"height": 0.0
+	},
+	"output.git-commit":
+	{
+		"height": 106.0
 	},
 	"output.sftp":
 	{
@@ -588,23 +819,15 @@
 		],
 		"width": 0.0
 	},
+	"selected_group": 0,
 	"settings":
 	{
-		"last_automatic_layout":
-		[
-			[
-				0,
-				0,
-				1,
-				1
-			]
-		]
 	},
 	"show_minimap": true,
 	"show_open_files": false,
 	"show_tabs": true,
 	"side_bar_visible": true,
-	"side_bar_width": 418.0,
+	"side_bar_width": 303.0,
 	"status_bar_visible": true,
 	"template_settings":
 	{

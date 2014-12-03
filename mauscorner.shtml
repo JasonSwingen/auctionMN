@@ -1,0 +1,98 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
+<html>
+  <head>
+    <meta content="text/html; charset=ISO-8859-1" http-equiv="content-type">
+    <title>AAA Auction and Realty Company | Tuesday Live Auctions At Mau's
+      Corner</title>
+    <link rel="stylesheet" href="/auctionmn.css" type="text/css">
+    <link rel="stylesheet" href="/auctionmnpr.css" type="text/css" media="print">
+    <!--#include file="head_sitemap.inc"-->
+  </head>
+  <body>
+    <div id="Content"><big> </big>
+      <div id="Header"><big><!--#include file="header.ssi"--> </big></div>
+      <big><b><big>Tuesday Live Auctions At Mau's Corner<br>
+          </big></b><font color="#cc0000"><i>Please see our home page
+            www.auctionmn.com for our current auction schedule.</i></font></big><big><b><big><br>
+          </big></b><br>
+        26025 Highway 47 (<a href="#map">map</a>)<br>
+        Stanford Township, Isanti County<br>
+        This is three miles north of St. Francis, just south of the intersection
+        of<br>
+        Blackfoot St NW (State Highway 47) and 261st Ave NW.<br>
+        <br>
+        Hello Sellers,<br>
+        <br>
+        Thank you for selling your items at AAA Auction's Tuesday Auctions at
+        Mau's Corner. Here are some things you should know:<br>
+      </big><br>
+      <span style="font-family: Helvetica,Arial,sans-serif;">Please call us at
+        (763) 421-3044 for more information.</span>
+      <p><span style="font-family: Helvetica,Arial,sans-serif; color: #3333ff; font-weight: bold;">General
+          Information About Selling at the Auction</span>
+      </p>
+      <ol>
+        <li><span style="font-family: Helvetica,Arial,sans-serif;">Items can be
+            dropped off and set up for the auction beginning at 7 a.m. on the
+            morning of the auction.</span></li>
+        <li><span style="font-family: Helvetica,Arial,sans-serif;">See the
+            Auctioneer upon your arrival to sign a contract and be assigned a
+            selling area. Seller&#8217;s items should be placed only in the area
+            assigned.</span></li>
+        <li><span style="font-family: Helvetica,Arial,sans-serif;">Large items
+            may be dropped off earlier at Seller&#8217;s risk of loss only with prior
+            approval from AAA Auction.</span></li>
+        <li><span style="font-family: Helvetica,Arial,sans-serif;">
+		
+		There will be no commission charged for items selling for $1000 or more.<br>
+		There will be 10% commission charged for items that sell for $100 - $999.99. All
+            other sales shall be charged a 25% commission.</span></li>
+        <li><span style="font-family: Helvetica,Arial,sans-serif;">Sellers will
+            set up their own items and may bring tables or leave their items on
+            a trailer.</span></li>
+        <li><span style="font-family: Helvetica,Arial,sans-serif;">It is
+            recommended that Sellers lot their items; however, AAA Auction
+            reserves the right to sell Seller&#8217;s items in any manner that is
+            deemed best by AAA Auction. For example, low-value items should be
+            grouped by the Seller for sale as a box lot or group.</span></li>
+        <li><span style="font-family: Helvetica,Arial,sans-serif;">For large
+            value items, we recommend that Sellers write information on a card
+            that the auctioneer can read to the bidders.</span></li>
+        <li><span style="font-family: Helvetica,Arial,sans-serif;">Sellers will
+            be paid on the day of the auction in most instances.</span></li>
+        <li><span style="font-family: Helvetica,Arial,sans-serif;">Sellers shall
+            clean up their areas and remove any unsold items or sold and
+            abandoned items before receiving payment.</span></li>
+        <li><span style="font-family: Helvetica,Arial,sans-serif;">Large value
+            items can be included in our auction ads if Seller provides AAA
+            Auction with the information two weeks before the auction. Once
+            advertised though, Seller shall follow through and offer the item
+            for sale at the auction or pay a fee to AAA Auction.</span></li>
+        <li><span style="font-family: Helvetica,Arial,sans-serif;">Reserves are
+            allowed so long as the reserve is at least $300 and the Seller pays
+            AAA Auction a No-Sale fee of $20 in advance which fee shall be
+            refunded if the item sells.</span></li>
+        <li><span style="font-family: Helvetica,Arial,sans-serif;">Sellers may
+            bid on their own items, but if they win the item, they shall pay AAA
+            auction above commission and 13% buyer&#8217;s premium.</span></li>
+        <li><span style="font-family: Helvetica,Arial,sans-serif;">The
+            Auctioneer will determine the order of sale; however, most often the
+            selling order will be in the order of the arrival of the Sellers. <br>
+          </span></li>
+      </ol>
+      <p class="MsoNormal"><span style="font-weight: bold;"><span style="color: #3333ff;"><span
+
+              style="font-family: Helvetica,Arial,sans-serif;">SEE YOU AT THE
+              AUCTION!</span></span></span></p>
+      <ol>
+      </ol>
+      <a id="map"></a><br>
+      <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d1399.696614651838!2d-93.36759339999998!3d45.44173149999999!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x52b30ef717768fa5%3A0x95b75726738015bc!2s26057+Blackfoot+St+NW%2C+Isanti%2C+MN+55040!5e0!3m2!1sen!2sus!4v1405453155408" width="800" height="600" frameborder="0" style="border:0"></iframe>
+      <div id="Footer"><big><!--#include file="footer.ssi"--> </big></div>
+    </div>
+    <div id="Menu"><big>
+        <!--#include file="body_sitemap.inc"--><!--#include file="footer2.ssi"-->
+      </big></div>
+  </body>
+</html>
+

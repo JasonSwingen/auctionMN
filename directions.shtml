@@ -1,0 +1,33 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
+<html><head>
+<meta http-equiv="content-type" content="text/html; charset=ISO-8859-1">
+
+
+<title>AAA Auction and Realty Company | Directions and Map</title><link rel="stylesheet" href="/auctionmn.css" type="text/css">
+<link rel="stylesheet" href="/auctionmnpr.css" type="text/css" media="print"><!--#include file="head_sitemap.inc"--></head>
+<body>
+<div id="Content">
+<div id="Header">
+<!--#include file="header.ssi"-->
+</div>
+<a name="directions"></a> <table border="1" cellpadding="2" cellspacing="2" width="100%"> <tbody> <tr> <td align="undefined" valign="undefined"><font face="Helvetica, Arial, sans-serif"><big><b><big>Our Home<br> </big></b></big></font><font face="Helvetica, Arial, sans-serif"><big>The AAA Auction Center is at 7129 HIGHWAY 10 NW, RAMSEY MN 55303-6043 (<a href="#map">Map</a>). We're in the former <i>Ramsey Wine &amp; Spirits</i>
+building at the intersection of Highway 10 and Ramsey Boulevard (Anoka
+County Road 56). We're across Highway 10 from a Holiday Stationstore,
+and across Ramsey Boulevard from a Burger King. Look for the bright red
+roof over our entryway. <br> <br> </big></font><font face="Helvetica, Arial, sans-serif"><big>Note: the Google Maps street view still shows an old gas station to the west of our place. It is no longer there.</big></font><br> <font face="Helvetica, Arial, sans-serif"><big><br> <b><big>From the east on Highway 10</big></b><br> Coming from the southeast on Highway 10, turn right into our driveway before you get to Ramsey Boulevard.<br> <br> </big></font><font face="Helvetica, Arial, sans-serif"><big><b><big>From the west on Highway 10<br> </big></b></big></font><font face="Helvetica, Arial, sans-serif"><big>Coming
+from the west on Highway 10, turn north (left) onto Ramsey Boulevard.
+Exit Ramsey Boulevard directly across from Burger King's driveway, then
+pull around to the front of our building.<br> <br> </big></font><font face="Helvetica, Arial, sans-serif"><big><b><big>From the north on Ramsey Blvd.</big></b></big></font><br> <font face="Helvetica, Arial, sans-serif"><big>Continue
+on Ramsey Boulevard past the Auction Center and cross Highway 10. Make
+a U-turn at the Holiday Station and go back north on Ramsey Boulevard.
+Exit Ramsey Boulevard directly across from Burger King's driveway, then
+pull around to the front of our building.<br> <br> </big></font><br> </td> <td align="undefined" valign="undefined"><font face="Helvetica, Arial, sans-serif"><big><img alt="AAA Auction Center" title="AAA Auction Center" src="http://www.auctionmn.com/images/aaa_location2.jpg" align="left" height="172" width="300"></big></font></td> </tr> </tbody> </table> <a name="map"></a><br> <font face="Helvetica, Arial, sans-serif"><big> </big></font> <iframe marginheight="0" marginwidth="0" src="http://maps.google.com/maps?f=q&amp;source=s_q&amp;hl=en&amp;geocode=&amp;q=45.226752027419934,+-93.44856923729554&amp;aq=&amp;sll=46.44186,-93.36129&amp;sspn=12.085717,19.753418&amp;ie=UTF8&amp;t=m&amp;z=14&amp;ll=45.226752,-93.448569&amp;output=embed" frameborder="0" height="350" scrolling="no" width="425"></iframe><br><small><a href="http://maps.google.com/maps?f=q&amp;source=embed&amp;hl=en&amp;geocode=&amp;q=45.226752027419934,+-93.44856923729554&amp;aq=&amp;sll=46.44186,-93.36129&amp;sspn=12.085717,19.753418&amp;ie=UTF8&amp;t=m&amp;z=14&amp;ll=45.226752,-93.448569" style="color: rgb(0, 0, 255); text-align: left;">View Larger Map</a></small><div id="Footer">
+<!--#include file="footer.ssi"-->
+</div>
+</div>
+<div id="Menu">
+
+<!--#include file="body_sitemap.inc"-->
+<!--#include file="footer2.ssi"-->
+</div>
+</body></html>
