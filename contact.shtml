@@ -8,7 +8,7 @@
 <div id="Content">
 <div id="Header"><!--#include file="header.ssi"--> </div>
 <h1>Contact AAA Auction and Realty Co.</h1><b>Mailing Address:</b><br>AAA Auction and Realty Co.<br>
-Business Office<br>19803 Nowthen Blvd.<br>Nowthen MN 55303-9655<br><b><br>Phones:</b> <br>Business Office: (763) 421-3044<br>Cell: (763) 427-7101<br>Fax: (763) 427-3803<br><b><br>
+Business Office<br>19803 Nowthen Blvd.<br>Nowthen MN 55303-9655<br><b><br>Phones:</b> <br>Business Office: (763) 421-3044<br>Cell: (763) 427-7101<br>Fax: (763) 241-7904<br><b><br>
 Email:</b> <br><a href="mailto:info@auctionmn.com">info@auctionmn.com</a><br>
 <br><form method="post" action="http://www.auctionmnonline.com/cgi-bin/mnform.cgi"><input name="auction" value="auctionmn" type="hidden">
 <input name="subject" value="Contact Form" type="hidden"><input name="returnpath" value="http://www.auctionmnonline.com/index.shtml" type="hidden">
