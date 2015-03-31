@@ -11,8 +11,12 @@
   <body>
     <div id="Content">
       <div id="Header"><!--#include file="header.ssi"--></div>
-      <big><big><big><big><big><b><font face="Helvetica, Arial, sans-serif">Auction
-                    News</font></b></big></big></big></big></big><span style="font-family: Helvetica,Arial,sans-serif;">&nbsp;</span>
+      <big><big><big><big><big><b><font face="Helvetica, Arial, sans-serif">Messages from Tony</font></b></big></big></big></big></big><span style="font-family: Helvetica,Arial,sans-serif;">&nbsp;</span>
+
+
+      <hr>
+      <h2 id="2015-03-26">Mau's Corner</h2>
+      <p>At last. We are back up and running at Mau's Corner. It was great to see so many people at the auction last Tuesday--old friends and new folks alike. Thank you for putting on your warm jackets and hats and attending.   It looks like next week is going to be fantastic weather too, so whether you're a buyer of seller, we look forward to seeing you on Tuesday.</p>
 
       <hr>
       <h2>Oct. 7 and Oct. 14 2014 End of the Season Lower Commission</h2>
