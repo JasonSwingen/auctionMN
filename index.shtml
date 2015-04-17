@@ -6,6 +6,7 @@
       Benefit Auction Specialist</title>
 
 <link rel="stylesheet" href="http://www.auctionmn.com/auctionmn.css" type="text/css">
+<!-- <link rel="stylesheet" href="auctionmn.css" type="text/css"> -->
 
 <!--[if IE]>
 	<link rel="stylesheet" type="text/css" href="auctionmn-ie.css" />
@@ -67,6 +68,39 @@
 </div>
 <div class="clearfix"></div>
 
+<div class="current">
+	<h2><a href="http://www.auctionmn.com/cgi-bin/mndetails.cgi?auctionmn13">Online Auction Closing April 29th, 2015</a></h2>
+	<div class="flexbox">
+		<a href="http://www.auctionmn.com/cgi-bin/mnlist.cgi?auctionmn13/10"><img src="http://www.auctionmn.com/images/2015-04-29/T10-1.jpg" alt="010"></a>
+		<a href="http://www.auctionmn.com/cgi-bin/mnlist.cgi?auctionmn13/16"><img src="http://www.auctionmn.com/images/2015-04-29/T16-1.jpg" alt="016"></a>
+		<a href="http://www.auctionmn.com/cgi-bin/mnlist.cgi?auctionmn13/20"><img src="http://www.auctionmn.com/images/2015-04-29/T20-1.jpg" alt="020"></a>
+		<a href="http://www.auctionmn.com/cgi-bin/mnlist.cgi?auctionmn13/23"><img src="http://www.auctionmn.com/images/2015-04-29/T23-1.jpg" alt="023"></a>
+		<a href="http://www.auctionmn.com/cgi-bin/mnlist.cgi?auctionmn13/39"><img src="http://www.auctionmn.com/images/2015-04-29/T39-1.jpg" alt="039"></a>
+		<a href="http://www.auctionmn.com/cgi-bin/mnlist.cgi?auctionmn13/44"><img src="http://www.auctionmn.com/images/2015-04-29/T44-1.jpg" alt="044"></a>
+		<a href="http://www.auctionmn.com/cgi-bin/mnlist.cgi?auctionmn13/48"><img src="http://www.auctionmn.com/images/2015-04-29/T48-1.jpg" alt="048"></a>
+		<a href="http://www.auctionmn.com/cgi-bin/mnlist.cgi?auctionmn13/81"><img src="http://www.auctionmn.com/images/2015-04-29/T81-1.jpg" alt="081"></a>
+		<a href="http://www.auctionmn.com/cgi-bin/mnlist.cgi?auctionmn13/82"><img src="http://www.auctionmn.com/images/2015-04-29/T82-1.jpg" alt="082"></a>
+		<a href="http://www.auctionmn.com/cgi-bin/mnlist.cgi?auctionmn13/84"><img src="http://www.auctionmn.com/images/2015-04-29/T84-1.jpg" alt="084"></a>
+		<a href="http://www.auctionmn.com/cgi-bin/mnlist.cgi?auctionmn13/107"><img src="http://www.auctionmn.com/images/2015-04-29/T107-1.jpg" alt="107"></a>
+		<a href="http://www.auctionmn.com/cgi-bin/mnlist.cgi?auctionmn13/116"><img src="http://www.auctionmn.com/images/2015-04-29/T116-1.jpg" alt="116"></a>
+		<a href="http://www.auctionmn.com/cgi-bin/mnlist.cgi?auctionmn13/132"><img src="http://www.auctionmn.com/images/2015-04-29/T132-1.jpg" alt="132"></a>
+		<a href="http://www.auctionmn.com/cgi-bin/mnlist.cgi?auctionmn13/201"><img src="http://www.auctionmn.com/images/2015-04-29/T201-1.jpg" alt="201"></a>
+		<a href="http://www.auctionmn.com/cgi-bin/mnlist.cgi?auctionmn13/208"><img src="http://www.auctionmn.com/images/2015-04-29/T208-1.jpg" alt="208"></a>
+		<a href="http://www.auctionmn.com/cgi-bin/mnlist.cgi?auctionmn13/220"><img src="http://www.auctionmn.com/images/2015-04-29/T220-1.jpg" alt="220"></a>
+		<a href="http://www.auctionmn.com/cgi-bin/mnlist.cgi?auctionmn13/225"><img src="http://www.auctionmn.com/images/2015-04-29/T225-1.jpg" alt="225"></a>
+		<a href="http://www.auctionmn.com/cgi-bin/mnlist.cgi?auctionmn13/244"><img src="http://www.auctionmn.com/images/2015-04-29/T244-1.jpg" alt="244"></a>
+	</div>
+		<p><strong>Preview</strong></p>
+			<p>Friday, April 29th, 2015 from 3-6 p.m.</p>
+			<p>Old Nowthen City Hall Building <a href="http://www.auctionmn.com/cgi-bin/mndetails.cgi?auctionmn13#directions">(Map)</a></p>
+		<p><strong>Bidding Ends</strong></p>
+			<p>Friday, April 29th, 2015 at 7:30 p.m.</p>
+		<p><strong>Pickup</strong></p>
+			<p>Saturday, April 30th, 2015 from 3-6 p.m.</p>
+			<p>Old Nowthen City Hall Building <a href="http://www.auctionmn.com/cgi-bin/mndetails.cgi?auctionmn13#directions">(Map)</a></p>
+			<p>Please do not bid if you are unable to pickup your items.</p>
+</div>
+
 <!-- End of Current Auctions -->
 
 <!-- Start of Upcoming Auctions -->
@@ -79,6 +113,7 @@
 <div class="clearfix"></div>
 
 <div class="upcoming">
+<!-- <div class="closed">No Auction This Tuesday Due To Weather</div> -->
 	<h2><a href="http://www.auctionmn.com/mauscorner.shtml">Tuesdays With Tony At Mau’s Corner Flea Market & Auction</a></h2>
 	<div class="flexbox">
 		<a href="http://www.auctionmn.com/images/mausgallery/maus01.html"><img src="http://www.auctionmn.com/images/mausgallery/maus01.jpg" alt=""></a>
@@ -94,7 +129,7 @@
 		<!-- <a href="http://www.auctionmn.com/images/mausgallery/maus06.html"><img src="http://www.auctionmn.com/images/mausgallery/maus06.jpg" alt=""></a> -->
 	</div>
 		<p><a href="http://www.auctionmn.com/images/mausgallery/index.html">View more photos from Mau's Auction</a></p>
-		<p>Cancellations due to weather will be listed here &#x21d2; <span class="success">See you at the auction!</span></p>
+		<p>Cancellations due to weather will be listed here &#x21d2; <span class="success">See you at the Auction!</span></p>
 	<p><strong>Date</strong></p>
 		<p>Every Tuesday</p>
 		<p>Flea Market at 7 a.m.</p>

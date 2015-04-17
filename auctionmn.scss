@@ -67,12 +67,15 @@ hr {
 	size: 2px;
 	color: #000;
 }
+
+.alert, .success {
+	font-weight: bold;
+	text-transform: uppercase;
+}
 .alert {
 	color: $alert;
 }
 .success {
-	font-weight: bold;
-	text-transform: uppercase;
 	color: $current;
 }
 .mainbody img {
@@ -214,6 +217,20 @@ body>#Header {
 }
 
 /*State*/
+.closed {
+  display: block;
+  position: absolute;
+  background-color: $recent;
+  top: 223px;
+  width: 681px;
+  height: 624px;
+  opacity: 0.8;
+  font-size: 5em;
+  text-align: center;
+  padding: 1.2em 1em;
+  color: white;
+  margin-left: 2px;
+}
 
 /*Theme*/
 .current {
