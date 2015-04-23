@@ -15,12 +15,6 @@
 
 <link rel="stylesheet" href="/auctionmnpr.css" type="text/css" media="print">
 
-<!-- <script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.11.0/jquery.min.js"></script>
-<link rel="stylesheet" href="//code.jquery.com/ui/1.11.1/themes/smoothness/jquery-ui.css">
-  <script src="//code.jquery.com/jquery-1.10.2.js"></script>
-  <script src="//code.jquery.com/ui/1.11.1/jquery-ui.js"></script>
-<script type="text/javascript" src="min/jquery.min.js"></script> -->
-
 <!--#include file="head_sitemap.inc"-->
 <meta type="description" content="AAA Auction and Realty is your local online, live, and benefit auction specialist. View our current online auctions.">
 <script>
@@ -62,7 +56,7 @@
 <!-- Start of Auctions -->
 
 <!-- Start of Current Auctions -->
-<div class="currentheading"> 
+<div id="current" class="currentheading"> 
 	<h1>Current Auctions</h1>
 		<div class="addthis_sharing_toolbox"></div>
 </div>
@@ -91,12 +85,12 @@
 		<a href="http://www.auctionmn.com/cgi-bin/mnlist.cgi?auctionmn13/244"><img src="http://www.auctionmn.com/images/2015-04-29/T244-1.jpg" alt="244"></a>
 	</div>
 		<p><strong>Preview</strong></p>
-			<p>Friday, April 29th, 2015 from 3-6 p.m.</p>
+			<p>Wednesday, April 29th, 2015 from 3-6 p.m.</p>
 			<p>Old Nowthen City Hall Building <a href="http://www.auctionmn.com/cgi-bin/mndetails.cgi?auctionmn13#directions">(Map)</a></p>
 		<p><strong>Bidding Ends</strong></p>
-			<p>Friday, April 29th, 2015 at 7:30 p.m.</p>
+			<p>Wednesday, April 29th, 2015 at 7:30 p.m.</p>
 		<p><strong>Pickup</strong></p>
-			<p>Saturday, April 30th, 2015 from 3-6 p.m.</p>
+			<p>Thursday, April 30th, 2015 from 3-6 p.m.</p>
 			<p>Old Nowthen City Hall Building <a href="http://www.auctionmn.com/cgi-bin/mndetails.cgi?auctionmn13#directions">(Map)</a></p>
 			<p>Please do not bid if you are unable to pickup your items.</p>
 </div>
@@ -105,12 +99,36 @@
 
 <!-- Start of Upcoming Auctions -->
 
-<div class="upcomingheading">
+<div id="upcoming" class="upcomingheading">
 	<h1>Upcoming Auctions</h1>
 		<!-- Go to www.addthis.com/dashboard to customize your tools -->
 		<div class="addthis_sharing_toolbox"></div>
 </div>
 <div class="clearfix"></div>
+
+<div class="upcoming">
+	<h2>World's Largest Canoe and Kayak Live Auction</h2>
+	<div class="flexbox">
+		<a href="http://www.auctionmn.com/images/2015-04-25/Canoe_1.jpg"><img src="http://www.auctionmn.com/images/2015-04-25/small/Canoe.jpg" alt=""></a>
+		<a href="http://www.auctionmn.com/images/2015-04-25/Canoe_2.jpg"><img src="http://www.auctionmn.com/images/2015-04-25/small/Canoe_2.jpg" alt=""></a>
+		<a href="http://www.auctionmn.com/images/2015-04-25/Canoe_3.jpg"><img src="http://www.auctionmn.com/images/2015-04-25/small/Canoe_3.jpg" alt=""></a>
+		<!-- <a href="http://www.auctionmn.com/images/2015-04-25/Canoe_4.jpg"><img src="http://www.auctionmn.com/images/2015-04-25/small/Canoe_4.jpg" alt=""></a> -->
+		<a href="http://www.auctionmn.com/images/2015-04-25/Canoe_5.jpg"><img src="http://www.auctionmn.com/images/2015-04-25/small/Canoe_5.jpg" alt=""></a>
+		<a href="http://www.auctionmn.com/images/2015-04-25/Canoe_6.jpg"><img src="http://www.auctionmn.com/images/2015-04-25/small/Canoe_6.jpg" alt=""></a>
+		<!-- <a href="http://www.auctionmn.com/images/2015-04-25/Canoe_7.jpg"><img src="http://www.auctionmn.com/images/2015-04-25/small/Canoe_7.jpg" alt=""></a> -->
+	</div>
+		<p><strong>Date</strong></p>
+		<p>Saturday, April 25th, 2015 at 11 a.m.</p>
+		<p><strong>Location</strong></p>
+		<p>Midwest Mountaineering <a target="_blank" href="https://www.google.com/maps/place/Midwest+Mountaineering/@44.970725,-93.246992,15z/data=!4m2!3m1!1s0x0:0x1c93ae128fd58e0">(map)</a><br>
+		309 Cedar Avenue South<br>
+		Minneapolis, Minnesota</p>
+<!-- 	<p><strong>Pick Up</strong></p>
+		<p></p> -->
+	<p><strong>Auctioneer's Note</strong></p>
+		<p>Anyone can sell. Anyone can buy. Used and like new canoes and kayaks of all styles. Check your boats in to sell starting at 7 a.m. Same day payment.</p>
+	<div class="clearfix"></div>
+</div>
 
 <div class="upcoming">
 <!-- <div class="closed">No Auction This Tuesday Due To Weather</div> -->
@@ -146,30 +164,31 @@
 		<p class="success">No flea market vendor charges!</p>
 		<p>We have more information on <a href="http://www.auctionmn.com/mauscorner.shtml">selling at our Tuesday Auctions</a>.</p>
 		<p>Please call us at <strong>(763) 421-3044</strong> for more information.</p>
+		<p>Bag it. Box it. Bring it or Buy it at Mau's Corner.</p>
 </div>
 
 <div class="upcoming">
-	<h2>World's Largest Canoe and Kayak Live Auction</h2>
+<!-- <div class="closed">No Auction This Tuesday Due To Weather</div> -->
+	<h2>Suday Flea Market and Auction</h2>
 	<div class="flexbox">
-		<a href="http://www.auctionmn.com/images/2015-04-25/Canoe_1.jpg"><img src="http://www.auctionmn.com/images/2015-04-25/small/Canoe.jpg" alt=""></a>
-		<a href="http://www.auctionmn.com/images/2015-04-25/Canoe_2.jpg"><img src="http://www.auctionmn.com/images/2015-04-25/small/Canoe_2.jpg" alt=""></a>
-		<a href="http://www.auctionmn.com/images/2015-04-25/Canoe_3.jpg"><img src="http://www.auctionmn.com/images/2015-04-25/small/Canoe_3.jpg" alt=""></a>
-		<!-- <a href="http://www.auctionmn.com/images/2015-04-25/Canoe_4.jpg"><img src="http://www.auctionmn.com/images/2015-04-25/small/Canoe_4.jpg" alt=""></a> -->
-		<a href="http://www.auctionmn.com/images/2015-04-25/Canoe_5.jpg"><img src="http://www.auctionmn.com/images/2015-04-25/small/Canoe_5.jpg" alt=""></a>
-		<a href="http://www.auctionmn.com/images/2015-04-25/Canoe_6.jpg"><img src="http://www.auctionmn.com/images/2015-04-25/small/Canoe_6.jpg" alt=""></a>
-		<!-- <a href="http://www.auctionmn.com/images/2015-04-25/Canoe_7.jpg"><img src="http://www.auctionmn.com/images/2015-04-25/small/Canoe_7.jpg" alt=""></a> -->
+		<img src="http://www.auctionmn.com/images/mausgallery/maus07.jpg" alt="">
+		<img src="http://www.auctionmn.com/images/mausgallery/maus11.jpg" alt="">
+		<img src="http://www.auctionmn.com/images/mausgallery/maus12.jpg" alt="">
+		<img src="http://www.auctionmn.com/images/mausgallery/maus13.jpg" alt="">
 	</div>
-		<p><strong>Date</strong></p>
-		<p>Saturday, April 25th, 2015 at 11 a.m.</p>
-		<p><strong>Location</strong></p>
-		<p>Midwest Mountaineering <a target="_blank" href="https://www.google.com/maps/place/Midwest+Mountaineering/@44.970725,-93.246992,15z/data=!4m2!3m1!1s0x0:0x1c93ae128fd58e0">(map)</a><br>
-		309 Cedar Avenue South<br>
-		Minneapolis, Minnesota</p>
-<!-- 	<p><strong>Pick Up</strong></p>
-		<p></p> -->
-	<p><strong>Auctioneer's Note</strong></p>
-		<p>Anyone can sell. Anyone can buy. Used and like new canoes and kayaks of all styles. Check your boats in to sell starting at 7 a.m. Same day payment.</p>
-	<div class="clearfix"></div>
+	<p><strong>Date</strong></p>
+		<p>Sunday, May 3rd, 2015</p>
+		<p>Flea Market at 7 a.m.</p>
+		<p>Auction at 10 a.m.</p>
+	<p><strong>Location</strong></p>
+		<p>26025 Highway 47 <a href="http://www.auctionmn.com/mauscorner.shtml#map">(Map)</a></p>
+		<p>Stanford Township, Isanti County</p>
+		<p>This is three miles north of St. Francis, just south of the intersection of Blackfoot St NW (State Highway 47) and 261st Ave NW.</p>
+<!-- 		<p><strong>Auction Highlights</strong></p>
+		<p>1978 fiberglass Crestliner 17.5' boat with 1984 140 HP Johnson motor and 1978 E-Z Load trailer.</p> -->
+		<p><strong>Auctioneer’s Notes</strong></p>
+		<p>Can't come on Tuesday? No problem. Please join us on Sunday, May 3, for a Flea Market and Auction.  No Flea Market vendor fees. Auction commissions 0 to 25%.</p>
+		<p>Bag it. Box it. Bring it or Buy it at Mau's Corner.</p>
 </div>
 
 <div class="upcoming">
@@ -200,7 +219,7 @@
 
 <!-- Start of Recent Auctions -->
 
-<div class="recentheading">
+<div id="recent" class="recentheading">
 	<h1>Recent Auctions</h1>
 		<!-- Go to www.addthis.com/dashboard to customize your tools -->
 		<div class="addthis_sharing_toolbox"></div>
@@ -301,11 +320,11 @@
 <div class="recent">
 	<h2><a href="https://www.proxibid.com/asp/Catalog.asp?aid=88177">Online Breweriana Auction</a></h2>
 	<div class="flexbox">
-		<a href="https://www.proxibid.com/asp/LotDetail.asp?ahid=4977&aid=88177&lid=22232519&title=Hunting-themed-chess-set-complete-with-directions-21-square.-One-set-of-players-are-in-blaze"><img src="https://www.proxibid.com/AuctionImages/4977/88177/FullSize/4-1.jpg" alt="Chess set"></a>
+<!-- 		<a href="https://www.proxibid.com/asp/LotDetail.asp?ahid=4977&aid=88177&lid=22232519&title=Hunting-themed-chess-set-complete-with-directions-21-square.-One-set-of-players-are-in-blaze"><img src="https://www.proxibid.com/AuctionImages/4977/88177/FullSize/4-1.jpg" alt="Chess set"></a>
 		<a href="https://www.proxibid.com/asp/LotDetail.asp?ahid=4977&aid=88177&lid=22232521&title=1920-s-reverse-painted-advertising-sign-12-1-2-x-24-1-2-Continental-Insurance-Co.-of-New-York"><img src="https://www.proxibid.com/AuctionImages/4977/88177/FullSize/6-1.jpg" alt="reverse painted advertising sign"></a>
 		<a href="https://www.proxibid.com/asp/LotDetail.asp?ahid=4977&aid=88177&lid=22232522&title=Hamm-s-double-sided-advertising-sign-14-x-20"><img src="https://www.proxibid.com/AuctionImages/4977/88177/FullSize/7-1.jpg" alt="hamms sign"></a>
 		<a href="https://www.proxibid.com/asp/LotDetail.asp?ahid=4977&aid=88177&lid=22232568&title=70-Karat-Diamond-poster.-Personal-collection-from-Harmon-Killebrew-Authenticity-certification"><img src="https://www.proxibid.com/AuctionImages/4977/88177/FullSize/53-1.jpg" alt="70 karat diamond poster"></a>
-		<a href="https://www.proxibid.com/asp/LotDetail.asp?ahid=4977&aid=88177&lid=22232591&title=Westinghouse-double-sided-sign-large.-Has-on-6-crack-on-one-side-but-not-real-noticeable.-Sign"><img src="https://www.proxibid.com/AuctionImages/4977/88177/FullSize/76-1.jpg" alt="Westinghouse sign"></a>
+		<a href="https://www.proxibid.com/asp/LotDetail.asp?ahid=4977&aid=88177&lid=22232591&title=Westinghouse-double-sided-sign-large.-Has-on-6-crack-on-one-side-but-not-real-noticeable.-Sign"><img src="https://www.proxibid.com/AuctionImages/4977/88177/FullSize/76-1.jpg" alt="Westinghouse sign"></a> -->
 		<!-- <a href="https://www.proxibid.com/asp/LotDetail.asp?ahid=4977&aid=88177&lid=22232622&title=Two-vintage-Coca-Cola-benches.-In-the-center-of-the-back-of-each-one-there-is-heavy-metal-artwork"><img src="https://www.proxibid.com/AuctionImages/4977/88177/FullSize/107-1.jpg" alt="Coca-Cola benches"></a>
 		<a href="https://www.proxibid.com/asp/LotDetail.asp?ahid=4977&aid=88177&lid=22232621&title=USPS-stamp-machine-with-pedestal.-Door-is-open-but-no-key."><img src="https://www.proxibid.com/AuctionImages/4977/88177/FullSize/106-1.jpg" alt="USPS stamp machine"></a>
 		<a href="https://www.proxibid.com/asp/LotDetail.asp?ahid=4977&aid=88177&lid=22232623&title=Primitive-wooden-HONEYWELL-crate.-Measures-29-x-40-x-27"><img src="https://www.proxibid.com/AuctionImages/4977/88177/FullSize/108-1.jpg" alt="Honeywell crate"></a>
@@ -532,6 +551,8 @@
 </div> <!-- End of Main Content -->
 
 <div class="mainsidebar"> <!-- Start of SideBar -->
+	<p><a class="upcomingbutton" href="#upcoming">View Upcoming</a></p>
+	<p><a class="recentbutton" href="#recent">View Recent</a></p>
 	<h2><a href="https://server2.maxanet.com/cgi-bin/mnregister.cgi?auctionmn">Register to Bid</a></h2>
 		<p>When you register to bid, you will get an online bidder number. Use that bidder number for our current and future online auctions. At a live auction, get a bidder number from the clerk.</p>
 	<h2><a href="http://www.auctionmn.com/cgi-bin/mdemail.cgi?auctionmn">Stay Informed</a></h2>
@@ -543,8 +564,10 @@
 	<!-- <div class="addthis_vertical_follow_toolbox"></div> -->
 
 	<h2><a href="http://www.auctionmn.com/benefittest.shtml">Testimonials</a></h2>
-		<p><i>"Thanks Tony – We certainly wouldn’t be as successful as we are if we didn’t have you in the picture."</i></p>
-		<p>-Jill Munsinger</p>
+		<p><i>"Thank you for all your help with the gala this year! You do a wonderful job and we definitely would not be as successful without you!"</i></p>
+		<p>-Tina Stofferahn</p>
+<!-- 		<p><i>"Thanks Tony – We certainly wouldn’t be as successful as we are if we didn’t have you in the picture."</i></p>
+		<p>-Jill Munsinger</p> -->
 	<hr>
 	<h2>Messages from Tony</h2>
 	<h3><a href="http://www.auctionmn.com/tonysblog.shtml#2015-03-26">Mau's Corner</a></h3>
@@ -577,6 +600,13 @@
 </div>
 <div id="Menu">
 <!--#include file="body_sitemap.inc"--><!--#include file="footer2.ssi"--></div>
+
+<!-- JavaScripts -->
+<script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.11.0/jquery.min.js"></script>
+<link rel="stylesheet" href="//code.jquery.com/ui/1.11.1/themes/smoothness/jquery-ui.css">
+  <script src="//code.jquery.com/jquery-1.10.2.js"></script>
+  <script src="//code.jquery.com/ui/1.11.1/jquery-ui.js"></script>
+<script type="text/javascript" src="jquery-dist.js"></script>
 
 <!-- Go to www.addthis.com/dashboard to customize your tools -->
 <script type="text/javascript" src="//s7.addthis.com/js/300/addthis_widget.js#pubid=ra-521b931f741dd6d6"></script>

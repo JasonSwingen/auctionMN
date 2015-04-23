@@ -163,10 +163,11 @@ body>#Header {
 	box-shadow: -3px -3px 10px $shadow;
 }
 .maincontent {
-	width: 690px;
-	height:100%;
-	float:right;
+  width: 690px;
+  height: 100%;
+  float: right;
 }
+
 .mainsidebar {
 	width:200px;
 	height: auto;
@@ -268,7 +269,29 @@ body>#Header {
 .current:hover, .upcoming:hover, .recent:hover {
 	box-shadow: 0px 6px 10px $shadow;
 }
-
+.upcomingbutton, .recentbutton {
+  font-size: 20px;
+  width: 198px;
+  text-align: center;
+  color: white !important;
+  padding: 7px 0px;
+  float: left;
+  margin: 5px 0px 6px;
+}
+.upcomingbutton {
+	background: $upcoming;
+	  &:hover {
+	  	text-decoration: none;
+	  	background-color: lighten($upcoming, 5%);
+  }
+}
+.recentbutton {
+	background: $recent;
+	  &:hover {
+	  	text-decoration: none;
+	  	background-color: lighten($recent, 5%);
+  }
+}
 .btn {
 	display: block;
 	float: left;
