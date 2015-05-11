@@ -62,43 +62,6 @@
 </div>
 <div class="clearfix"></div>
 
-<div class="current">
-	<h2><a href="http://www.auctionmn.com/cgi-bin/mndetails.cgi?auctionmn14">Anoka County Historical Society's 1<sup>st</sup> Annual Online Auction</a></h2>
-	<div class="flexbox">
-		<a href="http://www.auctionmn.com/cgi-bin/mnlist.cgi?auctionmn14/15"><img src="http://www.auctionmn.com/images/2015-05-05/T15-1.jpg" alt="15"></a>
-		<a href="http://www.auctionmn.com/cgi-bin/mnlist.cgi?auctionmn14/28"><img src="http://www.auctionmn.com/images/2015-05-05/T28-1.jpg" alt="28"></a>
-		<a href="http://www.auctionmn.com/cgi-bin/mnlist.cgi?auctionmn14/33"><img src="http://www.auctionmn.com/images/2015-05-05/T33-1.jpg" alt="33"></a>
-		<a href="http://www.auctionmn.com/cgi-bin/mnlist.cgi?auctionmn14/36"><img src="http://www.auctionmn.com/images/2015-05-05/T36-1.jpg" alt="36"></a>
-		<a href="http://www.auctionmn.com/cgi-bin/mnlist.cgi?auctionmn14/40"><img src="http://www.auctionmn.com/images/2015-05-05/T40-1.jpg" alt="40"></a>
-		<a href="http://www.auctionmn.com/cgi-bin/mnlist.cgi?auctionmn14/47"><img src="http://www.auctionmn.com/images/2015-05-05/T47-1.jpg" alt="47"></a>
-		<a href="http://www.auctionmn.com/cgi-bin/mnlist.cgi?auctionmn14/50"><img src="http://www.auctionmn.com/images/2015-05-05/T50-1.jpg" alt="50"></a>
-		<a href="http://www.auctionmn.com/cgi-bin/mnlist.cgi?auctionmn14/69"><img src="http://www.auctionmn.com/images/2015-05-05/T69-1.jpg" alt="69"></a>
-		<a href="http://www.auctionmn.com/cgi-bin/mnlist.cgi?auctionmn14/71"><img src="http://www.auctionmn.com/images/2015-05-05/T71-1.jpg" alt="71"></a>
-		<a href="http://www.auctionmn.com/cgi-bin/mnlist.cgi?auctionmn14/81"><img src="http://www.auctionmn.com/images/2015-05-05/T81-1.jpg" alt="81"></a>
-		<a href="http://www.auctionmn.com/cgi-bin/mnlist.cgi?auctionmn14/86"><img src="http://www.auctionmn.com/images/2015-05-05/T86-1.jpg" alt="86"></a>
-		<a href="http://www.auctionmn.com/cgi-bin/mnlist.cgi?auctionmn14/126"><img src="http://www.auctionmn.com/images/2015-05-05/T126-1.jpg" alt="126"></a>
-		<a href="http://www.auctionmn.com/cgi-bin/mnlist.cgi?auctionmn14/131"><img src="http://www.auctionmn.com/images/2015-05-05/T131-1.jpg" alt="131"></a>
-		<a href="http://www.auctionmn.com/cgi-bin/mnlist.cgi?auctionmn14/136"><img src="http://www.auctionmn.com/images/2015-05-05/T136-1.jpg" alt="136"></a>
-		<a href="http://www.auctionmn.com/cgi-bin/mnlist.cgi?auctionmn14/145"><img src="http://www.auctionmn.com/images/2015-05-05/T145-1.jpg" alt="145"></a>
-		<a href="http://www.auctionmn.com/cgi-bin/mnlist.cgi?auctionmn14/150"><img src="http://www.auctionmn.com/images/2015-05-05/T150-1.jpg" alt="150"></a>
-		<a href="http://www.auctionmn.com/cgi-bin/mnlist.cgi?auctionmn14/151"><img src="http://www.auctionmn.com/images/2015-05-05/T151-1.jpg" alt="151"></a>
-		<a href="http://www.auctionmn.com/cgi-bin/mnlist.cgi?auctionmn14/156"><img src="http://www.auctionmn.com/images/2015-05-05/T156-1.jpg" alt="156"></a>
-		<a href="http://www.auctionmn.com/cgi-bin/mnlist.cgi?auctionmn14/162"><img src="http://www.auctionmn.com/images/2015-05-05/T162-1.jpg" alt="162"></a>
-		<a href="http://www.auctionmn.com/cgi-bin/mnlist.cgi?auctionmn14/166"><img src="http://www.auctionmn.com/images/2015-05-05/T166-1.jpg" alt="166"></a>
-	</div>
-		<img class="rfloatimg" src="http://www.auctionmn.com/images/ACHS.jpg" alt="Anoka County Historical Society ">
-		<p><strong>Preview</strong></p>
-			<p>Tuesday, May 5th, 2015 from 1-4 p.m.</p>
-		<p><strong>Bidding Ends</strong></p>
-			<p>Tuesday, May 5th, 2015 at 7:30 p.m.</p>
-		<p><strong>Pickup</strong></p>
-			<p>Wednesday, May 6th, 2015 from 2-5 p.m.</p>
-			<p>Anoka County Historical Society <a target="_blank" href="https://www.google.com/maps/place/Anoka+County+Historical+Society/@45.199761,-93.387574,15z/data=!4m2!3m1!1s0x0:0x33723e37d2b7715">(map)</a><br>
-			2135 3rd Ave<br>
-			Anoka, MN 55303</p>
-		<p><strong>Auctioneer's Note</strong></p>
-			<p>The items being sold at this auction have been donated for the auction itself. No previously donated artifacts will be sold.</p>
-</div>
 
 <!-- End of Current Auctions -->
 
@@ -110,30 +73,6 @@
 		<div class="addthis_sharing_toolbox"></div>
 </div>
 <div class="clearfix"></div>
-
-<div class="upcoming">
-<!-- <div class="closed">No Auction This Tuesday Due To Weather</div> -->
-	<h2>Sunday Flea Market and Auction</h2>
-	<div class="flexbox">
-		<img src="http://www.auctionmn.com/images/mausgallery/maus07.jpg" alt="">
-		<img src="http://www.auctionmn.com/images/mausgallery/maus11.jpg" alt="">
-		<img src="http://www.auctionmn.com/images/mausgallery/maus12.jpg" alt="">
-		<img src="http://www.auctionmn.com/images/mausgallery/maus13.jpg" alt="">
-	</div>
-	<p><strong>Date</strong></p>
-		<p>Sunday, May 3rd, 2015</p>
-		<p>Flea Market at 7 a.m.</p>
-		<p>Auction at 10 a.m.</p>
-	<p><strong>Location</strong></p>
-		<p>26025 Highway 47 <a href="http://www.auctionmn.com/mauscorner.shtml#map">(Map)</a></p>
-		<p>Stanford Township, Isanti County</p>
-		<p>This is three miles north of St. Francis, just south of the intersection of Blackfoot St NW (State Highway 47) and 261st Ave NW.</p>
-<!-- 		<p><strong>Auction Highlights</strong></p>
-		<p>1978 fiberglass Crestliner 17.5' boat with 1984 140 HP Johnson motor and 1978 E-Z Load trailer.</p> -->
-		<p><strong>Auctioneer’s Notes</strong></p>
-		<p>Can't come on Tuesday? No problem. Please join us on Sunday, May 3, for a Flea Market and Auction.  No Flea Market vendor fees. Auction commissions 0 to 25%.</p>
-		<p>Bag it. Box it. Bring it or Buy it at Mau's Corner.</p>
-</div>
 
 <div class="upcoming">
 <!-- <div class="closed">No Auction This Tuesday Due To Weather</div> -->
@@ -184,6 +123,59 @@
 <div class="clearfix"></div>
 
 <div class="recent">
+	<h2><a href="http://www.auctionmn.com/cgi-bin/mndetails.cgi?auctionmn14">Anoka County Historical Society's 1<sup>st</sup> Annual Online Auction</a></h2>
+	<div class="flexbox">
+		<!-- <a href="http://www.auctionmn.com/cgi-bin/mnlist.cgi?auctionmn14/15"><img src="http://www.auctionmn.com/images/2015-05-05/T15-1.jpg" alt="15"></a>
+		<a href="http://www.auctionmn.com/cgi-bin/mnlist.cgi?auctionmn14/28"><img src="http://www.auctionmn.com/images/2015-05-05/T28-1.jpg" alt="28"></a>
+		<a href="http://www.auctionmn.com/cgi-bin/mnlist.cgi?auctionmn14/33"><img src="http://www.auctionmn.com/images/2015-05-05/T33-1.jpg" alt="33"></a>
+		<a href="http://www.auctionmn.com/cgi-bin/mnlist.cgi?auctionmn14/36"><img src="http://www.auctionmn.com/images/2015-05-05/T36-1.jpg" alt="36"></a>
+		<a href="http://www.auctionmn.com/cgi-bin/mnlist.cgi?auctionmn14/40"><img src="http://www.auctionmn.com/images/2015-05-05/T40-1.jpg" alt="40"></a>
+		<a href="http://www.auctionmn.com/cgi-bin/mnlist.cgi?auctionmn14/47"><img src="http://www.auctionmn.com/images/2015-05-05/T47-1.jpg" alt="47"></a> -->
+		<a href="http://www.auctionmn.com/cgi-bin/mnlist.cgi?auctionmn14/50"><img src="http://www.auctionmn.com/images/2015-05-05/T50-1.jpg" alt="50"></a>
+		<a href="http://www.auctionmn.com/cgi-bin/mnlist.cgi?auctionmn14/69"><img src="http://www.auctionmn.com/images/2015-05-05/T69-1.jpg" alt="69"></a>
+		<a href="http://www.auctionmn.com/cgi-bin/mnlist.cgi?auctionmn14/71"><img src="http://www.auctionmn.com/images/2015-05-05/T71-1.jpg" alt="71"></a>
+		<a href="http://www.auctionmn.com/cgi-bin/mnlist.cgi?auctionmn14/81"><img src="http://www.auctionmn.com/images/2015-05-05/T81-1.jpg" alt="81"></a>
+		<a href="http://www.auctionmn.com/cgi-bin/mnlist.cgi?auctionmn14/86"><img src="http://www.auctionmn.com/images/2015-05-05/T86-1.jpg" alt="86"></a>
+		<a href="http://www.auctionmn.com/cgi-bin/mnlist.cgi?auctionmn14/126"><img src="http://www.auctionmn.com/images/2015-05-05/T126-1.jpg" alt="126"></a>
+		<a href="http://www.auctionmn.com/cgi-bin/mnlist.cgi?auctionmn14/131"><img src="http://www.auctionmn.com/images/2015-05-05/T131-1.jpg" alt="131"></a>
+		<a href="http://www.auctionmn.com/cgi-bin/mnlist.cgi?auctionmn14/136"><img src="http://www.auctionmn.com/images/2015-05-05/T136-1.jpg" alt="136"></a>
+		<a href="http://www.auctionmn.com/cgi-bin/mnlist.cgi?auctionmn14/145"><img src="http://www.auctionmn.com/images/2015-05-05/T145-1.jpg" alt="145"></a>
+		<a href="http://www.auctionmn.com/cgi-bin/mnlist.cgi?auctionmn14/150"><img src="http://www.auctionmn.com/images/2015-05-05/T150-1.jpg" alt="150"></a>
+		<a href="http://www.auctionmn.com/cgi-bin/mnlist.cgi?auctionmn14/151"><img src="http://www.auctionmn.com/images/2015-05-05/T151-1.jpg" alt="151"></a>
+		<a href="http://www.auctionmn.com/cgi-bin/mnlist.cgi?auctionmn14/156"><img src="http://www.auctionmn.com/images/2015-05-05/T156-1.jpg" alt="156"></a>
+		<a href="http://www.auctionmn.com/cgi-bin/mnlist.cgi?auctionmn14/162"><img src="http://www.auctionmn.com/images/2015-05-05/T162-1.jpg" alt="162"></a>
+		<a href="http://www.auctionmn.com/cgi-bin/mnlist.cgi?auctionmn14/166"><img src="http://www.auctionmn.com/images/2015-05-05/T166-1.jpg" alt="166"></a>
+	</div>
+		<!-- <img class="rfloatimg" src="http://www.auctionmn.com/images/ACHS.jpg" alt="Anoka County Historical Society "> -->
+		<p><strong>Date</strong></p>
+			<p>CLOSED Tuesday, May 5th, 2015</p>
+</div>
+
+<div class="recent">
+<!-- <div class="closed">No Auction This Tuesday Due To Weather</div> -->
+	<h2>Sunday Flea Market and Auction</h2>
+	<div class="flexbox">
+		<img src="http://www.auctionmn.com/images/mausgallery/maus07.jpg" alt="">
+		<img src="http://www.auctionmn.com/images/mausgallery/maus11.jpg" alt="">
+		<img src="http://www.auctionmn.com/images/mausgallery/maus12.jpg" alt="">
+		<img src="http://www.auctionmn.com/images/mausgallery/maus13.jpg" alt="">
+	</div>
+	<p><strong>Date</strong></p>
+		<p>Sunday, May 3rd, 2015</p>
+		<p>Flea Market at 7 a.m.</p>
+		<p>Auction at 10 a.m.</p>
+	<p><strong>Location</strong></p>
+		<p>26025 Highway 47 <a href="http://www.auctionmn.com/mauscorner.shtml#map">(Map)</a></p>
+		<p>Stanford Township, Isanti County</p>
+		<p>This is three miles north of St. Francis, just south of the intersection of Blackfoot St NW (State Highway 47) and 261st Ave NW.</p>
+<!-- 		<p><strong>Auction Highlights</strong></p>
+		<p>1978 fiberglass Crestliner 17.5' boat with 1984 140 HP Johnson motor and 1978 E-Z Load trailer.</p> -->
+		<p><strong>Auctioneer’s Notes</strong></p>
+		<p>Can't come on Tuesday? No problem. Please join us on Sunday, May 3, for a Flea Market and Auction.  No Flea Market vendor fees. Auction commissions 0 to 25%.</p>
+		<p>Bag it. Box it. Bring it or Buy it at Mau's Corner.</p>
+</div>
+
+<div class="recent">
 	<h2><a href="http://www.auctionmn.com/cgi-bin/mndetails.cgi?auctionmn13">Online Auction Closing April 29th, 2015</a></h2>
 	<div class="flexbox">
 		<a href="http://www.auctionmn.com/cgi-bin/mnlist.cgi?auctionmn13/10"><img src="http://www.auctionmn.com/images/2015-04-29/T10-1.jpg" alt="010"></a>
@@ -194,10 +186,7 @@
 		<a href="http://www.auctionmn.com/cgi-bin/mnlist.cgi?auctionmn13/44"><img src="http://www.auctionmn.com/images/2015-04-29/T44-1.jpg" alt="044"></a>
 	</div>
 		<p><strong>Date</strong></p>
-			<p>Wednesday, April 29th, 2015</p>
-		<p><strong>Pickup</strong></p>
-			<p>Thursday, April 30th, 2015 from 3-6 p.m.</p>
-			<p>Old Nowthen City Hall Building <a href="http://www.auctionmn.com/cgi-bin/mndetails.cgi?auctionmn13#directions">(Map)</a></p>
+			<p>CLOSED Wednesday, April 29th, 2015</p>
 </div>
 
 <div class="recent">
@@ -240,8 +229,6 @@
 	<a href="https://www.proxibid.com/asp/Catalog.asp?aid=93164"><img class="rfloat" src="http://www.auctionmn.com/images/2014-02-14/proxibid.gif" alt="Proxibid" /></a>
 		<p><strong>Date</strong></p>
 		<p>CLOSED Saturday, April 4th, 2015</p>
-	<p><strong>Pick Up for Online Bidders</strong></p>
-		<p>Online purchases will be shipped unless buyer talks to auctioneer on or before Monday, April 7th and schedules a pick-up in Nowthen, MN for Wednesday, April 9th.</p>
 	<div class="clearfix"></div>
 </div>
 
