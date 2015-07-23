@@ -58,6 +58,10 @@ blockquote, ul, ol, li, dl, dt, dd, td, br, div, select, input{
 	font: 11px verdana, arial, helvetica, sans-serif;
 }
 
+li {
+	font: 13px;
+}
+
 .list ul li {
 	font:15px verdana, arial, helvetica, sans-serif;
 }
@@ -269,7 +273,7 @@ body>#Header {
 .current:hover, .upcoming:hover, .recent:hover {
 	box-shadow: 0px 6px 10px $shadow;
 }
-.upcomingbutton, .recentbutton {
+.currentbutton, .upcomingbutton, .recentbutton, .subscribebutton {
   font-size: 20px;
   width: 198px;
   text-align: center;
@@ -277,6 +281,13 @@ body>#Header {
   padding: 7px 0px;
   float: left;
   margin: 5px 0px 6px;
+}
+.currentbutton {
+	background: $current;
+	  &:hover {
+	  	text-decoration: none;
+	  	background-color: lighten($current, 5%);
+  }
 }
 .upcomingbutton {
 	background: $upcoming;
@@ -290,6 +301,13 @@ body>#Header {
 	  &:hover {
 	  	text-decoration: none;
 	  	background-color: lighten($recent, 5%);
+  }
+}
+.subscribebutton {
+	background: $link;
+	  &:hover {
+	  	text-decoration: none;
+	  	background-color: lighten($link, 5%);
   }
 }
 .btn {
@@ -313,6 +331,38 @@ body>#Header {
 	font-size: 18px;
 	text-transform: uppercase;
 }
+
+.bidnow {
+  max-width: 190px;
+  display: block;
+  margin: 15px;
+  padding: 12px;
+  border: 6px solid white;
+  background: steelblue;
+  color: white !important;
+  border-radius: 15px;
+  text-decoration: none;
+  font-size: 20px;
+  font-weight: 100 !important;
+  width: 100%;
+  text-align: center;
+  box-shadow: 0 0 0 1px black;
+  text-shadow: 1px 1px 1px black;
+  &::before {
+    content: "Online Bidding";
+  }
+  &:hover {
+  	text-decoration: none;
+  }
+  &:hover::before {
+    content: "Online Bidding";
+  }
+  &:active {
+    text-shadow: none;
+  box-shadow: 0 0 0 1px black, inset 1px 1px 20px -3px black;
+  }
+}
+
 
 /*External Social*/
 .fb-follow {
