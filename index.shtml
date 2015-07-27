@@ -103,26 +103,29 @@
 	<!-- Enable if auction is an online auction hosted on proxibid -->
 	<!-- <a href="https://www.proxibid.com/asp/Catalog.asp?aid=*"><img class="rfloat" src="http://www.auctionmn.com/images/2014-02-14/proxibid.gif" alt=""></a> -->
 		<p><strong>Location</strong></p>
-			<p>Tulip Street in Oak Grove</p>
+			<p>216540 Tulip St. NW, Oak Grove, MN</p>
+		<p><strong>Directions</strong></p>
+			<p>From Northbound County Rd 9, turn left on 217th and left on Tulip.</p>
 <!-- 		<p><strong>Preview</strong></p>
 			<p></p> -->
 		<p><strong>Auction</strong></p>
 			<p>Saturday, August 8th</p>
 <!-- 		<p><strong>Pickup</strong></p>
-			<p></p>
-		<p><strong>Auctioneer's Notes</strong></p>
 			<p></p> -->
+		<p><strong>Auctioneer's Notes</strong></p>
+			<p>This moving auction features tools and equipment from a contracting business as well as many fine collectible items</p>
+			<p>Pre-Bidding will be available</p>
 <div class="clearfix"></div>
 </div>
 
 <div class="clearfix"></div>
 
 <div class="upcoming">
-<!-- <div class="closed">No Auction This Tuesday Due To Weather</div> -->
+<div class="closed" style="top:494px;">No Auction This Tuesday Due To Weather</div>
 	<h2 id="maus"><a href="http://www.auctionmn.com/mauscorner.shtml">Mau’s Corner Flea Market & Live Auction</a></h2>
 		<p id="zerocommission"><strong>Zero Commission Special</strong></p>
 		<p>Although AAA Auction already has a zero commission rate on any item selling for $1,000 or more, we are now happy to offer the following ZERO COMMISSION DAYS for the items listed:</p>
-			<p><strong>July 28th</strong> - All Watercraft.</p>
+			<p><strong>August 4th</strong> - All Watercraft.</p>
 			<p><strong>August 11th</strong> - Gas-powered lawn equipment and chain saws.</p>
 			<p><strong>August 25th</strong> - Motorcycles and ATV’s.</p>
 			<p><strong>September 18th</strong> - Hunting and fishing supppes, equipment, ammo, bows.</p>
@@ -147,7 +150,9 @@
 		<a href="http://www.auctionmn.com/images/mausgallery/maus13.jpg"><img src="http://www.auctionmn.com/images/mausgallery/maus13.jpg" alt=""></a>
 	</div>
 		<p><a href="http://www.auctionmn.com/images/mausgallery/index.html">View more photos from Mau's Auction</a></p>
-		<p>Cancellations due to weather will be listed here &#x21d2; <span class="success">See you at the Auction!</span></p>
+		<p>Cancellations due to weather will be listed here &#x21d2; <!-- <span class="success">See you at the Auction!</span> --><span class="alert">No Auction This Tuesday Due To Weather</span></p>
+		<p>The Watercraft Zero Commission Days has been moved to August 4th</p>
+
 	<p><strong>Date (Every Tuesday)</strong></p>
 		<p>Flea Market at 7 a.m.</p>
 		<p>Tuesday Auction at 9 a.m.</p>
@@ -457,20 +462,6 @@
 		<a href="http://www.auctionmn.com/images/borngallery/27.jpg"><img src="http://www.auctionmn.com/images/borngallery/T/27.jpg" alt=""></a>
 	</div>
 	<h3><a href="http://www.auctionmn.com/images/borngallery/index.html">View The Photo Gallery (Includes Arial Photos)</a></h3>
-</div>
-
-<div class="recent">
-	<h2><a href="http://www.auctionmn.com/cgi-bin/mndetails.cgi?auctionmn">Online Collectibles and Antiques Auction</a></h2>
-	<div class="flexbox">
-		<a href="http://www.auctionmn.com/cgi-bin/mnlist.cgi?auctionmn/41"><img src="http://www.auctionmn.com/images/2014-06-26-slp-estate/T41-1.jpg" alt=""></a>
-		<a href="http://www.auctionmn.com/cgi-bin/mnlist.cgi?auctionmn/15"><img src="http://www.auctionmn.com/images/2014-06-26-slp-estate/T15-1.jpg" alt=""></a>
-		<a href="http://www.auctionmn.com/cgi-bin/mnlist.cgi?auctionmn/126"><img src="http://www.auctionmn.com/images/2014-06-26-slp-estate/T126-1.jpg" alt=""></a>
-		<a href="http://www.auctionmn.com/cgi-bin/mnlist.cgi?auctionmn/80"><img src="http://www.auctionmn.com/images/2014-06-26-slp-estate/T80-1.jpg" alt=""></a>
-		<a href="http://www.auctionmn.com/cgi-bin/mnlist.cgi?auctionmn/83"><img src="http://www.auctionmn.com/images/2014-06-26-slp-estate/T83-1.jpg" alt=""></a>
-		<a href="http://www.auctionmn.com/cgi-bin/mnlist.cgi?auctionmn/44"><img src="http://www.auctionmn.com/images/2014-06-26-slp-estate/T44-1.jpg" alt=""></a>
-	</div>
-		<p><strong>Date</strong></p>
-			<p>CLOSED Thursday, June 26th, 2014</p>
 </div>
 
 <div class="recent">
