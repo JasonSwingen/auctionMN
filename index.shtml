@@ -63,7 +63,6 @@
 <div class="clearfix"></div>
 
 <div class="current">
-	<!-- <img class="rfloatimg" src="http://www.auctionmn.com/images/DSCN9985.JPG" alt=""> -->
 	<h2><a href="http://www.auctionmn.com/cgi-bin/mndetails.cgi?auctionmn">Live On-site Moving Auction, August 8th at 10 a.m.</a></h2>
 	<div class="flexbox">
 		<a href="http://www.auctionmn.com/cgi-bin/mnlist.cgi?auctionmn/1"><img src="http://www.auctionmn.com/images/2015-08-08/T1-1.jpg" alt="1"></a>
@@ -81,14 +80,11 @@
 		<a href="http://www.auctionmn.com/cgi-bin/mnlist.cgi?auctionmn/15"><img src="http://www.auctionmn.com/images/2015-08-08/T15-1.jpg" alt="15"></a>
 		<a href="http://www.auctionmn.com/cgi-bin/mnlist.cgi?auctionmn/17"><img src="http://www.auctionmn.com/images/2015-08-08/T17-1.jpg" alt="17"></a>
 		<a href="http://www.auctionmn.com/cgi-bin/mnlist.cgi?auctionmn/19"><img src="http://www.auctionmn.com/images/2015-08-08/T19-1.jpg" alt="19"></a>
-		<a href="http://www.auctionmn.com/cgi-bin/mnlist.cgi?auctionmn/21"><img src="http://www.auctionmn.com/images/red-trailer.jpg" alt="Trailer"></a>
+		<a href="http://www.auctionmn.com/cgi-bin/mnlist.cgi?auctionmn/21"><img src="http://www.auctionmn.com/images/2015-08-08/T21-1.jpg" alt="21"></a>
 		<a href="http://www.auctionmn.com/cgi-bin/mnlist.cgi?auctionmn/22"><img src="http://www.auctionmn.com/images/2015-08-08/T22-1.jpg" alt="22"></a>
 		<a href="http://www.auctionmn.com/cgi-bin/mnlist.cgi?auctionmn/24"><img src="http://www.auctionmn.com/images/2015-08-08/T24-1.jpg" alt="24"></a>
 	</div>
-	<!-- Enable if auction is an online auction -->
-	<a href="http://www.auctionmn.com/cgi-bin/mndetails.cgi?auctionmn" class="bidnow rfloat"></a>
-	<!-- Enable if auction is an online auction hosted on proxibid -->
-	<!-- <a href="https://www.proxibid.com/asp/Catalog.asp?aid=*"><img class="rfloat" src="http://www.auctionmn.com/images/2014-02-14/proxibid.gif" alt=""></a> -->
+	<a href="http://www.auctionmn.com/cgi-bin/mnlist.cgi?auctionmn/category/ALL" class="bidnow rfloat"></a>
 		<p><strong>Location</strong></p>
 			<p><a target="_blank" href="https://www.google.com/maps/place/21640+Tulip+St+NW,+Oak+Grove,+MN+55303/@45.3618669,-93.35863,17z/data=!3m1!4b1!4m2!3m1!1s0x52b3110835d5fa69:0xc2e46c2d22f839c9">21640 Tulip St. NW<br> Oak Grove, MN 55304</a></p>
 		<p><strong>Directions</strong></p>
