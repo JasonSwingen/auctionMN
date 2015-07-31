@@ -62,7 +62,56 @@
 </div>
 <div class="clearfix"></div>
 
-
+<div class="current">
+	<!-- <img class="rfloatimg" src="http://www.auctionmn.com/images/DSCN9985.JPG" alt=""> -->
+	<h2><a href="http://www.auctionmn.com/cgi-bin/mndetails.cgi?auctionmn">Live On-site Moving Auction, August 8th at 10 a.m.</a></h2>
+	<div class="flexbox">
+		<a href="http://www.auctionmn.com/cgi-bin/mnlist.cgi?auctionmn/1"><img src="http://www.auctionmn.com/images/2015-08-08/T1-1.jpg" alt="1"></a>
+		<a href="http://www.auctionmn.com/cgi-bin/mnlist.cgi?auctionmn/3"><img src="http://www.auctionmn.com/images/2015-08-08/T3-1.jpg" alt="3"></a>
+		<a href="http://www.auctionmn.com/cgi-bin/mnlist.cgi?auctionmn/4"><img src="http://www.auctionmn.com/images/2015-08-08/T4-1.jpg" alt="4"></a>
+		<a href="http://www.auctionmn.com/cgi-bin/mnlist.cgi?auctionmn/5"><img src="http://www.auctionmn.com/images/2015-08-08/T5-1.jpg" alt="5"></a>
+		<a href="http://www.auctionmn.com/cgi-bin/mnlist.cgi?auctionmn/6"><img src="http://www.auctionmn.com/images/2015-08-08/T6-1.jpg" alt="6"></a>
+		<a href="http://www.auctionmn.com/cgi-bin/mnlist.cgi?auctionmn/7"><img src="http://www.auctionmn.com/images/2015-08-08/T7-1.jpg" alt="7"></a>
+		<a href="http://www.auctionmn.com/cgi-bin/mnlist.cgi?auctionmn/9"><img src="http://www.auctionmn.com/images/2015-08-08/T9-1.jpg" alt="9"></a>
+		<a href="http://www.auctionmn.com/cgi-bin/mnlist.cgi?auctionmn/10"><img src="http://www.auctionmn.com/images/2015-08-08/T10-1.jpg" alt="10"></a>
+		<a href="http://www.auctionmn.com/cgi-bin/mnlist.cgi?auctionmn/11"><img src="http://www.auctionmn.com/images/2015-08-08/T11-1.jpg" alt="11"></a>
+		<a href="http://www.auctionmn.com/cgi-bin/mnlist.cgi?auctionmn/12"><img src="http://www.auctionmn.com/images/2015-08-08/T12-1.jpg" alt="12"></a>
+		<a href="http://www.auctionmn.com/cgi-bin/mnlist.cgi?auctionmn/13"><img src="http://www.auctionmn.com/images/2015-08-08/T13-1.jpg" alt="13"></a>
+		<a href="http://www.auctionmn.com/cgi-bin/mnlist.cgi?auctionmn/14"><img src="http://www.auctionmn.com/images/2015-08-08/T14-1.jpg" alt="14"></a>
+		<a href="http://www.auctionmn.com/cgi-bin/mnlist.cgi?auctionmn/15"><img src="http://www.auctionmn.com/images/2015-08-08/T15-1.jpg" alt="15"></a>
+		<a href="http://www.auctionmn.com/cgi-bin/mnlist.cgi?auctionmn/17"><img src="http://www.auctionmn.com/images/2015-08-08/T17-1.jpg" alt="17"></a>
+		<a href="http://www.auctionmn.com/cgi-bin/mnlist.cgi?auctionmn/19"><img src="http://www.auctionmn.com/images/2015-08-08/T19-1.jpg" alt="19"></a>
+		<a href="http://www.auctionmn.com/cgi-bin/mnlist.cgi?auctionmn/21"><img src="http://www.auctionmn.com/images/red-trailer.jpg" alt="Trailer"></a>
+		<a href="http://www.auctionmn.com/cgi-bin/mnlist.cgi?auctionmn/22"><img src="http://www.auctionmn.com/images/2015-08-08/T22-1.jpg" alt="22"></a>
+		<a href="http://www.auctionmn.com/cgi-bin/mnlist.cgi?auctionmn/24"><img src="http://www.auctionmn.com/images/2015-08-08/T24-1.jpg" alt="24"></a>
+	</div>
+	<!-- Enable if auction is an online auction -->
+	<a href="http://www.auctionmn.com/cgi-bin/mndetails.cgi?auctionmn" class="bidnow rfloat"></a>
+	<!-- Enable if auction is an online auction hosted on proxibid -->
+	<!-- <a href="https://www.proxibid.com/asp/Catalog.asp?aid=*"><img class="rfloat" src="http://www.auctionmn.com/images/2014-02-14/proxibid.gif" alt=""></a> -->
+		<p><strong>Location</strong></p>
+			<p><a target="_blank" href="https://www.google.com/maps/place/21640+Tulip+St+NW,+Oak+Grove,+MN+55303/@45.3618669,-93.35863,17z/data=!3m1!4b1!4m2!3m1!1s0x52b3110835d5fa69:0xc2e46c2d22f839c9">21640 Tulip St. NW<br> Oak Grove, MN 55304</a></p>
+		<p><strong>Directions</strong></p>
+			<p>From Northbound County Rd 9, turn left on 217th and left on Tulip.</p>
+		<p><strong>Preview</strong></p>
+			<p>Saturday, August 8th at 9 a.m.</p>
+		<p><strong>Pre-Bidding</strong></p>
+			<p>Pre-bidding will close on Saturday, August 8th at 8 a.m.</p>
+			<p>All pre-bids must be completely submitted before the auction closes. The online pre-bids determine the live auction starting bids for those items that were available for online pre-bidding.</p>
+		<p><strong>Live Auction</strong></p>
+			<p>Saturday, August 8th at 10 a.m.</p>
+			<p>There will be no live on-line bidding during the live auction.</p>
+		<p><strong>Pickup</strong></p>
+			<p>At the auction location until 6 p.m. on the day of the auction.</p>
+		<p><strong>Shipping</strong></p>
+			<p>No shipping is being offered for this auction.</p>
+		<p><strong>Taxes</strong></p>
+			<p>No sales taxes will be applied to this auction.</p>
+		<p><strong>Auctioneer's Notes</strong></p>
+			<p>This moving auction features tools and equipment from a contracting business as well as many fine collectible items</p>
+			<p>Pre-Bidding will be available on select items.</p>
+			<p>A food vendor will be present.</p>
+</div>
 
 <!-- End of Current Auctions -->
 
@@ -75,53 +124,8 @@
 </div>
 <div class="clearfix"></div>
 
-
-<div class="upcoming clearfix">
-	<img class="rfloatimg" src="http://www.auctionmn.com/images/DSCN9985.JPG" alt="">
-	<h2><!-- <a href="http://www.auctionmn.com/cgi-bin/mnlist.cgi?auctionmn1"> -->Live On-site Moving Auction<!-- </a> --></h2>
-<!-- 	<div class="flexbox">
-		<a href="http://www.auctionmn.com/cgi-bin/mnlist.cgi?auctionmn1/LINK"><img src="http://www.auctionmn.com/images/2015-09-08/TLINK-1.jpg" alt="LINK"></a>
-		<a href="http://www.auctionmn.com/cgi-bin/mnlist.cgi?auctionmn1/LINK"><img src="http://www.auctionmn.com/images/2015-09-08/TLINK-1.jpg" alt="LINK"></a>
-		<a href="http://www.auctionmn.com/cgi-bin/mnlist.cgi?auctionmn1/LINK"><img src="http://www.auctionmn.com/images/2015-09-08/TLINK-1.jpg" alt="LINK"></a>
-		<a href="http://www.auctionmn.com/cgi-bin/mnlist.cgi?auctionmn1/LINK"><img src="http://www.auctionmn.com/images/2015-09-08/TLINK-1.jpg" alt="LINK"></a>
-		<a href="http://www.auctionmn.com/cgi-bin/mnlist.cgi?auctionmn1/LINK"><img src="http://www.auctionmn.com/images/2015-09-08/TLINK-1.jpg" alt="LINK"></a>
-		<a href="http://www.auctionmn.com/cgi-bin/mnlist.cgi?auctionmn1/LINK"><img src="http://www.auctionmn.com/images/2015-09-08/TLINK-1.jpg" alt="LINK"></a>
-		<a href="http://www.auctionmn.com/cgi-bin/mnlist.cgi?auctionmn1/LINK"><img src="http://www.auctionmn.com/images/2015-09-08/TLINK-1.jpg" alt="LINK"></a>
-		<a href="http://www.auctionmn.com/cgi-bin/mnlist.cgi?auctionmn1/LINK"><img src="http://www.auctionmn.com/images/2015-09-08/TLINK-1.jpg" alt="LINK"></a>
-		<a href="http://www.auctionmn.com/cgi-bin/mnlist.cgi?auctionmn1/LINK"><img src="http://www.auctionmn.com/images/2015-09-08/TLINK-1.jpg" alt="LINK"></a>
-		<a href="http://www.auctionmn.com/cgi-bin/mnlist.cgi?auctionmn1/LINK"><img src="http://www.auctionmn.com/images/2015-09-08/TLINK-1.jpg" alt="LINK"></a>
-		<a href="http://www.auctionmn.com/cgi-bin/mnlist.cgi?auctionmn1/LINK"><img src="http://www.auctionmn.com/images/2015-09-08/TLINK-1.jpg" alt="LINK"></a>
-		<a href="http://www.auctionmn.com/cgi-bin/mnlist.cgi?auctionmn1/LINK"><img src="http://www.auctionmn.com/images/2015-09-08/TLINK-1.jpg" alt="LINK"></a>
-		<a href="http://www.auctionmn.com/cgi-bin/mnlist.cgi?auctionmn1/LINK"><img src="http://www.auctionmn.com/images/2015-09-08/TLINK-1.jpg" alt="LINK"></a>
-		<a href="http://www.auctionmn.com/cgi-bin/mnlist.cgi?auctionmn1/LINK"><img src="http://www.auctionmn.com/images/2015-09-08/TLINK-1.jpg" alt="LINK"></a>
-		<a href="http://www.auctionmn.com/cgi-bin/mnlist.cgi?auctionmn1/LINK"><img src="http://www.auctionmn.com/images/2015-09-08/TLINK-1.jpg" alt="LINK"></a>
-		<a href="http://www.auctionmn.com/cgi-bin/mnlist.cgi?auctionmn1/LINK"><img src="http://www.auctionmn.com/images/2015-09-08/TLINK-1.jpg" alt="LINK"></a>
-		<a href="http://www.auctionmn.com/cgi-bin/mnlist.cgi?auctionmn1/LINK"><img src="http://www.auctionmn.com/images/2015-09-08/TLINK-1.jpg" alt="LINK"></a>
-	</div> -->
-	<!-- Enable if auction is an online auction -->
-	<!-- <a href="http://www.auctionmn.com/cgi-bin/mnlist.cgi?auctionmn1" class="bidnow rfloat"></a> -->
-	<!-- Enable if auction is an online auction hosted on proxibid -->
-	<!-- <a href="https://www.proxibid.com/asp/Catalog.asp?aid=*"><img class="rfloat" src="http://www.auctionmn.com/images/2014-02-14/proxibid.gif" alt=""></a> -->
-		<p><strong>Location</strong></p>
-			<p>216540 Tulip St. NW, Oak Grove, MN</p>
-		<p><strong>Directions</strong></p>
-			<p>From Northbound County Rd 9, turn left on 217th and left on Tulip.</p>
-<!-- 		<p><strong>Preview</strong></p>
-			<p></p> -->
-		<p><strong>Auction</strong></p>
-			<p>Saturday, August 8th</p>
-<!-- 		<p><strong>Pickup</strong></p>
-			<p></p> -->
-		<p><strong>Auctioneer's Notes</strong></p>
-			<p>This moving auction features tools and equipment from a contracting business as well as many fine collectible items</p>
-			<p>Pre-Bidding will be available</p>
-<div class="clearfix"></div>
-</div>
-
-<div class="clearfix"></div>
-
 <div class="upcoming">
-<div class="closed" style="top:494px;">No Auction This Tuesday Due To Weather</div>
+<!-- <div class="closed" style="top:494px;">No Auction This Tuesday Due To Weather</div> -->
 	<h2 id="maus"><a href="http://www.auctionmn.com/mauscorner.shtml">Mau’s Corner Flea Market & Live Auction</a></h2>
 		<p id="zerocommission"><strong>Zero Commission Special</strong></p>
 		<p>Although AAA Auction already has a zero commission rate on any item selling for $1,000 or more, we are now happy to offer the following ZERO COMMISSION DAYS for the items listed:</p>
@@ -150,8 +154,7 @@
 		<a href="http://www.auctionmn.com/images/mausgallery/maus13.jpg"><img src="http://www.auctionmn.com/images/mausgallery/maus13.jpg" alt=""></a>
 	</div>
 		<p><a href="http://www.auctionmn.com/images/mausgallery/index.html">View more photos from Mau's Auction</a></p>
-		<p>Cancellations due to weather will be listed here &#x21d2; <!-- <span class="success">See you at the Auction!</span> --><span class="alert">No Auction This Tuesday Due To Weather</span></p>
-		<p>The Watercraft Zero Commission Days has been moved to August 4th</p>
+		<p>Cancellations due to weather will be listed here &#x21d2; <span class="success">See you at the Auction!</span> <!-- <span class="alert">No Auction This Tuesday Due To Weather</span> --></p>
 
 	<p><strong>Date (Every Tuesday)</strong></p>
 		<p>Flea Market at 7 a.m.</p>
