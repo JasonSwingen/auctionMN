@@ -1,0 +1,163 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
+<html><head>
+<meta http-equiv="content-type" content="text/html; charset=ISO-8859-1"><title>AAA Auction and Realty Company | Consignment Information</title>
+
+<link rel="stylesheet" href="/auctionmn.css" type="text/css">
+<link rel="stylesheet" href="/auctionmnpr.css" type="text/css" media="print"><!--#include file="head_sitemap.inc"--></head>
+<body>
+<div id="Content">
+<div id="Header"><!--#include file="header.ssi"--></div>
+<div id="SearchArea" align="center">
+<form method="post" action="/cgi-bin/mncal.cgi">
+<table align="center" border="0" cellpadding="0" cellspacing="0" width="100%">
+<tbody>
+<tr>
+<td align="center"><input name="auction" value="auctionmn" type="hidden">
+Search all online auctions for keyword(s): <input name="keyword" size="15" value="" type="text">
+<select name="stype"><option value="ANY">Any of the words</option><option value="ALL">All of the words</option><option value="PHRASE">Exact phrase</option><option value="CONTAIN">Containing...</option></select>
+<input name="search" value="Go!" type="submit">
+</td>
+</tr>
+</tbody>
+</table>
+</form>
+</div><a href="http://www.auctionmn.com/contact.shtml"><img alt="Consign today sign" src="http://www.auctionmn.com/images/consign_today.jpg" title="Click here to go to the contact page." border="0" height="176" width="600"></a><br>
+<h1>Consigning Items</h1>
+<p>People bring items to us, or we go get everything from
+individual
+items to truckloads to whole estates. We then sell those items in an
+online auction or at a live auction. Most of our sellers let us decide
+how to sell their items, but we are happy to follow your directions if
+you prefer one type of auction over the other.<br>
+<br>
+Items are sold individually or in groups. Each item or group of items
+is called a "lot." You may group your items into lots, or you may
+choose to have us do that for you. Anyone can sell at these
+auctions. Please call us at (763) 421-3044 to learn about our new low
+commission rates. We also offer special rates for entire estates. We do
+not charge a seller's commission for selling guns.<br>
+<br>
+You can drop off items just about any time, but it is best to call
+(763) 421-3044 first to make sure we are there and that we have room
+for your items. Please bring your own manpower to unload your items and
+bring them into our building. We will take over from that point.<br>
+<br>
+Please make sure that your items are clean and have no price stickers
+or price tags on them. We will reject items that we do not think will
+be of interest to our buyers. For example, we do not accept doors,
+windows, appliances, or TVs (unless they have a built-in HDTV tuner).
+Please don't bring us items that did not sell at a garage sale. Those
+items probably would not sell at an auction either. If any of your
+items do not sell, AAA Auction will send you an e-mail or call you and
+you will have 48 hours to come and pick up the unsold items. Any items
+remaining at the Auction Center after 48 hours will be disposed of. See
+the table below for examples of <a href="consignment_info2.shtml#consignment_items">good
+and
+not-so-good consignment items</a>. If you have any questions
+about what we accept, we would be happy to speak with you.<br>
+<br>
+If you bring us an item with a value of over $300, you may place a
+reserve on that item. This is your minimum selling price that you would
+accept. Your item will not sell if that price isn't met. There is a
+small fee if your item does not sell.<br><br>
+We also purchase estates and single items, so if you prefer to sell
+your items right away, we would be happy to meet with you to consider
+purchasing your items directly.<br>
+<br>
+<a href="http://www.auctionmn.com/contact.shtml">Contact
+us to consign items</a> for an upcoming auction.<br>
+</p>
+<table border="3" cellpadding="2" cellspacing="2" width="80%">
+<tbody>
+<tr>
+<td align="undefined" valign="top" width="50%">
+<a id="consignment_items" name="consignment_items"></a>
+<h2><span style="color: rgb(0, 153, 0);">Good
+Consignment Items</span></h2>
+<br>
+Advertising<br> 
+Antiques<br>
+Art<br>
+ATVs<br>
+Beer items (brewerania)<br>
+Boats<br>
+Coins<br>
+Collectibles<br>
+Ephemera<br>
+Equipment<br>
+Gasoline items<br>
+Gold and silver<br>
+Good newer furniture<br>
+Guns<br>
+Jewelry<br>
+Lawn mowers<br>
+Military items<br>
+Motorcycles<br>
+Old signs<br>
+Old toys<br>
+Outboard motors<br>
+Pottery<br>
+Primitives<br>
+Records<br>
+Signs<br> 
+Snowblowers<br>
+Snowmobiles<br>
+Tools<br>
+<br>
+</td>
+<td align="undefined" valign="top" width="50%">
+<h2><span style="color: rgb(204, 0, 0);">Not
+So Good
+Consignment Items</span></h2>
+<br>
+These items generally do not do well and we will likely
+not accept them. If you do see any of these at our
+auctions, it is probably because we have agreed to do
+an entire estate auction and sell everything for our
+client.<br>
+<br>
+Artificial Christmas trees<br>
+Blankets<br>
+Bowling balls<br>
+Chemicals<br>
+Cleaning supplies<br>
+Clear fruit jars<br>
+Clothing (unless
+vintage&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<br>
+&nbsp; collectible or high end)<br>
+Consoles<br>
+Crutches and walkers<br>
+Desktop computers<br>
+Dinner and drink ware<br>
+Dirty or damaged furniture<br>
+Electronics with&nbsp;missing parts<br>
+Exercise equipment<br>
+Fax machines<br>
+Garage sale items<br>
+Ice skates<br>
+Ironing boards<br>
+Kitchen appliances<br>
+Large appliances unless nearly new<br>
+Luggage (unless high end or newer)<br>
+National Geographic magazines<br>
+Paint<br>
+Particle board furniture<br>
+Pots and pans<br>
+Printers<br>
+Tins<br>
+Towels<br>
+Treadmills<br>
+TVs (unless they are LCD, LED, or plasma)<br>
+Used mattresses<br>
+Used tires<br>
+Vacuums<br>
+VHS tapes
+</td>
+</tr>
+</tbody>
+</table>
+<div id="Footer"></div>
+</div>
+<div id="Menu">
+<!--#include file="body_sitemap.inc"--><!--#include file="footer2.ssi"--></div>
+</body></html>
