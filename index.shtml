@@ -62,43 +62,7 @@
 </div>
 <div class="clearfix"></div>
 
-<div class="current">
-	<h2><a href="http://www.auctionmn.com/cgi-bin/mndetails.cgi?auctionmn3">Online Auction Ending Monday, October 19th at 7:30 p.m.</a></h2>
-	<div class="flexbox">
-		<a href="http://www.auctionmn.com/cgi-bin/mnlist.cgi?auctionmn3/5"><img src="http://www.auctionmn.com/images/2015-10-19/T5-1.jpg" alt="5"></a>
-		<a href="http://www.auctionmn.com/cgi-bin/mnlist.cgi?auctionmn3/8"><img src="http://www.auctionmn.com/images/2015-10-19/T8-1.jpg" alt="8"></a>
-		<a href="http://www.auctionmn.com/cgi-bin/mnlist.cgi?auctionmn3/9"><img src="http://www.auctionmn.com/images/2015-10-19/T9-1.jpg" alt="9"></a>
-		<a href="http://www.auctionmn.com/cgi-bin/mnlist.cgi?auctionmn3/37"><img src="http://www.auctionmn.com/images/2015-10-19/T37-1.jpg" alt="37"></a>
-		<a href="http://www.auctionmn.com/cgi-bin/mnlist.cgi?auctionmn3/51"><img src="http://www.auctionmn.com/images/2015-10-19/T51-1.jpg" alt="51"></a>
-		<a href="http://www.auctionmn.com/cgi-bin/mnlist.cgi?auctionmn3/56"><img src="http://www.auctionmn.com/images/2015-10-19/T56-1.jpg" alt="56"></a>
-		<a href="http://www.auctionmn.com/cgi-bin/mnlist.cgi?auctionmn3/66"><img src="http://www.auctionmn.com/images/2015-10-19/T66-1.jpg" alt="66"></a>
-		<a href="http://www.auctionmn.com/cgi-bin/mnlist.cgi?auctionmn3/92"><img src="http://www.auctionmn.com/images/2015-10-19/T92-1.jpg" alt="92"></a>
-		<a href="http://www.auctionmn.com/cgi-bin/mnlist.cgi?auctionmn3/101"><img src="http://www.auctionmn.com/images/2015-10-19/T101-1.jpg" alt="101"></a>
-		<a href="http://www.auctionmn.com/cgi-bin/mnlist.cgi?auctionmn3/174"><img src="http://www.auctionmn.com/images/2015-10-19/T174-1.jpg" alt="174"></a>
-		<a href="http://www.auctionmn.com/cgi-bin/mnlist.cgi?auctionmn3/212"><img src="http://www.auctionmn.com/images/2015-10-19/T212-1.jpg" alt="212"></a>
-		<a href="http://www.auctionmn.com/cgi-bin/mnlist.cgi?auctionmn3/226"><img src="http://www.auctionmn.com/images/2015-10-19/T226-1.jpg" alt="226"></a>
-		<a href="http://www.auctionmn.com/cgi-bin/mnlist.cgi?auctionmn3/230"><img src="http://www.auctionmn.com/images/2015-10-19/T230-1.jpg" alt="230"></a>
-		<a href="http://www.auctionmn.com/cgi-bin/mnlist.cgi?auctionmn3/272"><img src="http://www.auctionmn.com/images/2015-10-19/T272-1.jpg" alt="272"></a>
-		<a href="http://www.auctionmn.com/cgi-bin/mnlist.cgi?auctionmn3/288"><img src="http://www.auctionmn.com/images/2015-10-19/T288-1.jpg" alt="288"></a>
-		<a href="http://www.auctionmn.com/cgi-bin/mnlist.cgi?auctionmn3/298"><img src="http://www.auctionmn.com/images/2015-10-19/T298-1.jpg" alt="298"></a>
-	</div>
-	<!-- Enable if auction is an online auction -->
-	<a href="http://www.auctionmn.com/cgi-bin/mnlist.cgi?auctionmn3/category/ALL" class="bidnow rfloat"></a>
-	<!-- Enable if auction is an online auction hosted on proxibid -->
-	<!-- <a href="https://www.proxibid.com/asp/Catalog.asp?aid=*"><img class="rfloat" src="http://www.auctionmn.com/images/2014-02-14/proxibid.gif" alt=""></a> -->
-		<p><strong>Location</strong></p>
-			<p><a target="_blank" href="https://www.google.com/maps/place/19800+Nowthen+Blvd+NW,+Anoka,+MN+55303/@45.328857,-93.470258,16z/data=!4m2!3m1!1s0x52b36cac2a3f4e03:0x556a431d9b7a8c21?hl=en-US">Old Nowthen City Hall Building</a><br>
-			19800 Nowthen Blvd NW<br>
-			Nowthen MN 55303-9655</p>
-		<p><strong>Preview</strong></p>
-			<p>Monday, October 19th, 2015 from 2 - 7 p.m.</p>
-		<p><strong>Auction</strong></p>
-			<p>Ends Monday, October 19th, 2015 starting at 7:30 p.m.</p>
-		<p><strong>Pickup</strong></p>
-			<p>Tuesday, October 20th, 2015 from 11 a.m. to 4 p.m.</p>
-		<p><strong>Auctioneer's Notes</strong></p>
-			<p>No Tax</p>
-</div>
+
 
 <!-- End of Current Auctions -->
 
@@ -182,6 +146,25 @@
 <div class="clearfix"></div>
 
 <div class="recent">
+	<h2><a href="http://www.auctionmn.com/cgi-bin/mndetails.cgi?auctionmn3">Online Auction Ending Monday, October 19th at 7:30 p.m.</a></h2>
+	<div class="flexbox">
+		<a href="http://www.auctionmn.com/cgi-bin/mnlist.cgi?auctionmn3/5"><img src="http://www.auctionmn.com/images/2015-10-19/T5-1.jpg" alt="5"></a>
+		<a href="http://www.auctionmn.com/cgi-bin/mnlist.cgi?auctionmn3/8"><img src="http://www.auctionmn.com/images/2015-10-19/T8-1.jpg" alt="8"></a>
+		<a href="http://www.auctionmn.com/cgi-bin/mnlist.cgi?auctionmn3/9"><img src="http://www.auctionmn.com/images/2015-10-19/T9-1.jpg" alt="9"></a>
+		<a href="http://www.auctionmn.com/cgi-bin/mnlist.cgi?auctionmn3/37"><img src="http://www.auctionmn.com/images/2015-10-19/T37-1.jpg" alt="37"></a>
+		<a href="http://www.auctionmn.com/cgi-bin/mnlist.cgi?auctionmn3/51"><img src="http://www.auctionmn.com/images/2015-10-19/T51-1.jpg" alt="51"></a>
+	</div>
+		<p><strong>Location</strong></p>
+			<p><a target="_blank" href="https://www.google.com/maps/place/19800+Nowthen+Blvd+NW,+Anoka,+MN+55303/@45.328857,-93.470258,16z/data=!4m2!3m1!1s0x52b36cac2a3f4e03:0x556a431d9b7a8c21?hl=en-US">Old Nowthen City Hall Building</a><br>
+			19800 Nowthen Blvd NW<br>
+			Nowthen MN 55303-9655</p>
+		<p><strong>Auction</strong></p>
+			<p>Ends Monday, October 19th, 2015 starting at 7:30 p.m.</p>
+		<p><strong>Pickup</strong></p>
+			<p>Tuesday, October 20th, 2015 from 11 a.m. to 4 p.m.</p>
+</div>
+
+<div class="recent">
 	<h2>2-day Live Auction on October 3rd And 4th</h2>
 	<div class="flexbox">
 			<a href="http://www.auctionmn.com/images/2015-10-03-live/c_lot_1.jpg"><img src="http://www.auctionmn.com/images/2015-10-03-live/c_lot_1.jpg" alt=""></a>
@@ -250,16 +233,8 @@
 </div>
 
 <div class="recent">
-	<h2><a href="https://www.proxibid.com/asp/Catalog.asp?aid=98442">Dr. John Najarian Auction</a></h2>
-	<div class="flexbox">
-		<a href="https://www.proxibid.com/asp/LotDetail.asp?ahid=4977&aid=98442&lid=25950378&title=Art-deco-vase-12-."><img src="https://www.proxibid.com/AuctionImages/4977/98442/FullSize/17-1.jpg" alt=""></a>
-		<a href="https://www.proxibid.com/asp/LotDetail.asp?ahid=4977&aid=98442&lid=25950381&title=Capodimonte-floral-centerpiece-marked-Italy.-20-tail-to-tail.-No-shipping-available."><img src="https://www.proxibid.com/AuctionImages/4977/98442/FullSize/20-1.jpg" alt=""></a>
-		<a href="https://www.proxibid.com/asp/LotDetail.asp?ahid=4977&aid=98442&lid=25950385&title=Two-antique-lamps-with-marble-base-and-crystal-stems.-Believed-to-be-over-a-100-years-old."><img src="https://www.proxibid.com/AuctionImages/4977/98442/FullSize/24-1.jpg" alt=""></a>
-		<a href="https://www.proxibid.com/asp/LotDetail.asp?ahid=4977&aid=98442&lid=25950388&title=Howdy-Doody-lunch-box."><img src="https://www.proxibid.com/AuctionImages/4977/98442/FullSize/27-1.jpg" alt=""></a>
-		<a href="https://www.proxibid.com/asp/LotDetail.asp?ahid=4977&aid=98442&lid=25950399&title=Roseville-vase-4-and-numbered-387."><img src="https://www.proxibid.com/AuctionImages/4977/98442/FullSize/38-1.jpg" alt=""></a>
-		<a href="https://www.proxibid.com/asp/LotDetail.asp?ahid=4977&aid=98442&lid=25950408&title=Tiffany-style-lamp.-No-shipping-available."><img src="https://www.proxibid.com/AuctionImages/4977/98442/FullSize/47-1.jpg" alt=""></a>
-	</div>
 	<a href="https://www.proxibid.com/asp/Catalog.asp?aid=98442"><img class="rfloat" src="http://www.auctionmn.com/images/2014-02-14/proxibid.gif" alt=""></a>
+	<h2><a href="https://www.proxibid.com/asp/Catalog.asp?aid=98442">Dr. John Najarian Auction</a></h2>
 		<p><strong>Date</strong></p>
 			<p>CLOSED Saturday, July 18th, 2015</p>
 		<div class="clearfix"></div>
@@ -403,8 +378,8 @@
 </div>
 
 <div class="recent">
-	<h2><a href="https://www.proxibid.com/asp/Catalog.asp?aid=88177">Online Breweriana Auction</a></h2>
 	<a href="https://www.proxibid.com/asp/AuctionsByCompany.asp?ahid=4977"><img class="rfloat" src="http://www.auctionmn.com/images/2014-02-14/proxibid.gif" alt="Proxibid" /></a>
+	<h2><a href="https://www.proxibid.com/asp/Catalog.asp?aid=88177">Online Breweriana Auction</a></h2>
 	<p><strong>Date</strong></p>
 		<p>CLOSED Sunday, November 30th, 2014</p>
 	<div class="clearfix"></div>
