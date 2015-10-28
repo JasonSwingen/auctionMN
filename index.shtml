@@ -63,6 +63,39 @@
 <div class="clearfix"></div>
 
 
+<div class="current">
+	<h2><a href="http://www.auctionmn.com/cgi-bin/mndetails.cgi?auctionmn4">Sporting Goods Auction Ending November 4th at 7:30 p.m.</a></h2>
+	<div class="flexbox">
+			<a href="http://www.auctionmn.com/cgi-bin/mnlist.cgi?auctionmn4/8"><img src="http://www.auctionmn.com/images/2015-11-04/T8-1.jpg" alt="8"></a>
+			<a href="http://www.auctionmn.com/cgi-bin/mnlist.cgi?auctionmn4/10"><img src="http://www.auctionmn.com/images/2015-11-04/T10-1.jpg" alt="10"></a>
+			<a href="http://www.auctionmn.com/cgi-bin/mnlist.cgi?auctionmn4/11"><img src="http://www.auctionmn.com/images/2015-11-04/T11-1.jpg" alt="11"></a>
+			<a href="http://www.auctionmn.com/cgi-bin/mnlist.cgi?auctionmn4/13"><img src="http://www.auctionmn.com/images/2015-11-04/T13-1.jpg" alt="13"></a>
+			<a href="http://www.auctionmn.com/cgi-bin/mnlist.cgi?auctionmn4/16"><img src="http://www.auctionmn.com/images/2015-11-04/T16-1.jpg" alt="16"></a>
+			<a href="http://www.auctionmn.com/cgi-bin/mnlist.cgi?auctionmn4/19"><img src="http://www.auctionmn.com/images/2015-11-04/T19-1.jpg" alt="19"></a>
+			<a href="http://www.auctionmn.com/cgi-bin/mnlist.cgi?auctionmn4/22"><img src="http://www.auctionmn.com/images/2015-11-04/T22-1.jpg" alt="22"></a>
+			<a href="http://www.auctionmn.com/cgi-bin/mnlist.cgi?auctionmn4/26"><img src="http://www.auctionmn.com/images/2015-11-04/T26-1.jpg" alt="26"></a>
+			<a href="http://www.auctionmn.com/cgi-bin/mnlist.cgi?auctionmn4/39"><img src="http://www.auctionmn.com/images/2015-11-04/T39-1.jpg" alt="39"></a>
+			<a href="http://www.auctionmn.com/cgi-bin/mnlist.cgi?auctionmn4/49"><img src="http://www.auctionmn.com/images/2015-11-04/T49-1.jpg" alt="49"></a>
+			<a href="http://www.auctionmn.com/cgi-bin/mnlist.cgi?auctionmn4/68"><img src="http://www.auctionmn.com/images/2015-11-04/T68-1.jpg" alt="68"></a>
+			<a href="http://www.auctionmn.com/cgi-bin/mnlist.cgi?auctionmn4/75"><img src="http://www.auctionmn.com/images/2015-11-04/T75-1.jpg" alt="75"></a>
+			<a href="http://www.auctionmn.com/cgi-bin/mnlist.cgi?auctionmn4/84"><img src="http://www.auctionmn.com/images/2015-11-04/T84-1.jpg" alt="84"></a>
+			<a href="http://www.auctionmn.com/cgi-bin/mnlist.cgi?auctionmn4/85"><img src="http://www.auctionmn.com/images/2015-11-04/T85-1.jpg" alt="85"></a>
+			<a href="http://www.auctionmn.com/cgi-bin/mnlist.cgi?auctionmn4/87"><img src="http://www.auctionmn.com/images/2015-11-04/T87-1.jpg" alt="87"></a>
+			<a href="http://www.auctionmn.com/cgi-bin/mnlist.cgi?auctionmn4/98"><img src="http://www.auctionmn.com/images/2015-11-04/T98-1.jpg" alt="98"></a>
+			<a href="http://www.auctionmn.com/cgi-bin/mnlist.cgi?auctionmn4/102"><img src="http://www.auctionmn.com/images/2015-11-04/T102-1.jpg" alt="102"></a>
+			<a href="http://www.auctionmn.com/cgi-bin/mnlist.cgi?auctionmn4/142"><img src="http://www.auctionmn.com/images/2015-11-04/T142-1.jpg" alt="142"></a>
+		</div>
+	<!-- Enable if auction is an online auction -->
+	<a href="http://www.auctionmn.com/cgi-bin/mnlist.cgi?auctionmn4/category/ALL" class="bidnow rfloat"></a>
+		<p><strong>Auction</strong></p>
+			<p>Auction will end on Wednesday November 4th <br>starting at 7:30 p.m.</p>
+		<p><strong>Pickup</strong></p>
+			<p>Thursday November 5th at 10 a.m. until 6 p.m.</p>
+			<p><a target="_blank" href="https://www.google.com/maps/place/19803+Nowthen+Blvd+NW,+Anoka,+MN+55303/@45.330027,-93.4720397,17z/data=!3m1!4b1!4m2!3m1!1s0x52b36cadc32f7e37:0x3b897ab6134c0f92">Tony and Denise's House</a></p>
+			<p>19803 Nowthen Blvd NW</p>
+			<p>Nowthen MN, 55303</p>
+</div>
+
 
 <!-- End of Current Auctions -->
 
@@ -94,10 +127,21 @@
 <div class="clearfix"></div>
 </div>
 
-<div class="upcoming">
+<!-- End of Upcoming Auctions -->
+
+<!-- Start of Recent Auctions -->
+
+<div id="recent" class="recentheading">
+	<h1>Recent Auctions</h1>
+		<!-- Go to www.addthis.com/dashboard to customize your tools -->
+		<div class="addthis_sharing_toolbox"></div>
+</div>
+<div class="clearfix"></div>
+
+<div class="recent">
 <!-- <div class="closed" style="top:494px;">No Auction This Tuesday Due To Weather</div> -->
 	<h2 id="maus"><a href="http://www.auctionmn.com/mauscorner.shtml">Mau's Corner Flea Market & Live Auction</a></h2>
-	<p><strong>See You Next Year</strong></p>
+	<p><strong>See You Next Year!</strong></p>
 	<p>What a great time we had at our Tuesday Auctions at Mau's Corner this year! Next Tuesday will be our 28th and last Mau's Corner Auction in 2016. We will miss all of our old and new friends. Thank you everyone - consignors, bidders, flea market vendors, Joe and Wanda Mau and of course my hard-working staff and dedicated wife, Denise.</p>
 	<p>We will have several online auctions between now and next spring when we start up again, so please watch for emails and come and see us on pick-up day.</p>
 	<p>It will be nice to sleep in a little on Tuesdays for a while, but I am sure it won't be long before we are chomping at the bit to get rolling again next March - "Yes, Denise. March."</p>
@@ -120,34 +164,23 @@
 		<a href="http://www.auctionmn.com/images/mausgallery/maus13.jpg"><img src="http://www.auctionmn.com/images/mausgallery/maus13.jpg" alt=""></a>
 	</div>
 		<p><a href="http://www.auctionmn.com/images/mausgallery/index.html">View more photos from Mau's Auction</a></p>
-		<p>Cancellations due to weather will be listed here &#x21d2; <span class="success">See you at the Auction!</span> <!-- <span class="alert">No Auction This Tuesday Due To Weather</span> --></p>
+		<!-- <p>Cancellations due to weather will be listed here &#x21d2; <span class="success">See you at the Auction!</span> <span class="alert">No Auction This Tuesday Due To Weather</span></p> -->
 
-	<p><strong>Date (Every Tuesday)</strong></p>
+<!-- 	<p><strong>Date (Every Tuesday)</strong></p>
 		<p>Flea Market at 7 a.m.</p>
-		<p>Tuesday Auction at 9 a.m.</p>
+		<p>Tuesday Auction at 9 a.m.</p> -->
 	<p><strong>Location</strong></p>
 		<p>26025 Highway 47 <a href="http://www.auctionmn.com/mauscorner.shtml#map">(Map)</a></p>
 		<p>Stanford Township, Isanti County</p>
-		<p>This is three miles north of St. Francis, just south of the intersection of Blackfoot St NW (State Highway 47) and 261st Ave NW.</p>
+		<!-- <p>This is three miles north of St. Francis, just south of the intersection of Blackfoot St NW (State Highway 47) and 261st Ave NW.</p> -->
 		<!-- <p><strong>Auctioneer's Notes</strong></p> -->
 		<!-- <p>Yes, its that time again. Bag it, box it, bring it, and we will sell it for you at Mau's corner. Located 3 miles north of St. Francis on Highway 47. Although we usually do not know what folks will be bringing to sell, we usually have plenty of tools, collectibles, antiques, furniture, sporting goods, electronics and even cars, boats, ATV's, power equipment, and the like. See you at the auction!</p> -->
 		<!-- <p>Whether you are a buyer or a seller, please join us next Tuesday, and every Tuesday for our regular Tuesday Auction and Flea Market at Mau's Corner, three miles north of St. Francis on Highway 47. Anyone can sell. Just load up your stuff and bring it over any time after 6 a.m.</p> -->
-		<p class="success">No flea market vendor charges!</p>
+		<!-- <p class="success">No flea market vendor charges!</p>
 		<p>We have more information on <a href="http://www.auctionmn.com/mauscorner.shtml">selling at our Tuesday Auctions</a>.</p>
 		<p>Please call us at <strong>(763) 421-3044</strong> for more information.</p>
-		<p>Bag it. Box it. Bring it or Buy it at Mau's Corner.</p>
+		<p>Bag it. Box it. Bring it or Buy it at Mau's Corner.</p> -->
 </div>
-
-<!-- End of Upcoming Auctions -->
-
-<!-- Start of Recent Auctions -->
-
-<div id="recent" class="recentheading">
-	<h1>Recent Auctions</h1>
-		<!-- Go to www.addthis.com/dashboard to customize your tools -->
-		<div class="addthis_sharing_toolbox"></div>
-</div>
-<div class="clearfix"></div>
 
 <div class="recent">
 	<h2><a href="http://www.auctionmn.com/cgi-bin/mndetails.cgi?auctionmn3">Online Auction Ending Monday, October 19th at 7:30 p.m.</a></h2>
