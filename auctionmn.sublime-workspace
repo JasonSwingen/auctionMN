@@ -123,7 +123,7 @@
 			"file": "index.shtml",
 			"settings":
 			{
-				"buffer_size": 45367,
+				"buffer_size": 45838,
 				"line_ending": "Windows"
 			}
 		}
@@ -436,7 +436,7 @@
 				"Snippet: bs3-navbar-inverse"
 			]
 		],
-		"width": 681.0
+		"width": 615.0
 	},
 	"console":
 	{
@@ -458,10 +458,23 @@
 	},
 	"expanded_folders":
 	[
-		"/C/Users/Jason/Documents/GitHub/auctionMN"
+		"/C/Users/Jason/Documents/AAA Auction",
+		"/C/Users/Jason/Documents/AAA Auction/Templates",
+		"/C/Users/Jason/Documents/GitHub/auctionMN",
+		"/C/Users/Jason/Documents/GitHub/auctionMN/images"
 	],
 	"file_history":
 	[
+		"/C/Users/Jason/Documents/AAA Auction/Templates/AAA_Template_Email_7.5",
+		"/C/Users/Jason/Documents/AAA Auction/Auctions_and_Backups/2015-10-19/2015-10-19_maxanet_results.txt",
+		"/C/Users/Jason/Documents/AAA Auction/Auctions_and_Backups/2015-10-19/2015-10-19_winning_bidders.txt",
+		"/C/Users/Jason/Documents/AAA Auction/Auctions_and_Backups/2015-10-19/2015-10-19_Auction_Details.html",
+		"/C/Users/Jason/Documents/AAA Auction/Auctions_and_Backups/2015-10-19/2015-10-19_Terms_and_Conditions.html",
+		"/C/Users/Jason/Documents/AAA Auction/Templates/AAA_Template_Email_7.4",
+		"/C/Users/Jason/Documents/AAA Auction/Auctions_and_Backups/2015-10-19/2015-10-19_Inventory_TEXT.txt",
+		"/C/Users/Jason/Documents/AAA Auction/Templates/AAA_Template_Invoices_Wavebid_v8",
+		"/C/Users/Jason/Documents/GitHub/auctionMN/images/2015-10-19/index.html",
+		"/C/Users/Jason/Documents/AAA Auction/Auctions_and_Backups/2015-10-19/2015-10-19_Auction_Details.txt",
 		"/C/Users/Jason/Documents/AAA Auction/Templates/AAA_Template_Email_7.3",
 		"/C/Users/Jason/Google Drive/Development/AuctionMN/AuctionMN_ST_Project.sublime-project",
 		"/C/Users/Jason/Documents/AAA Auction/Templates/AAA_Template_Email_Blank",
@@ -579,17 +592,7 @@
 		"/C/wamp/www/wordpress/wp-config.php",
 		"/C/wamp/www/backyardleisure/wp-admin/info.php",
 		"/C/wamp/bin/apache/apache2.4.9/bin/php.ini",
-		"/C/wamp/www/wordpress/index.php",
-		"/C/wamp/www/wordpress/wp-blog-header.php",
-		"/C/wamp/www/wordpress/wp-content/themes/twentyfourteen/index.php",
-		"/C/Users/Jason/Google Drive/Development/Portfolio/readme.md",
-		"/C/wamp/www/backyardleisure/backup/php.ini",
-		"/C/wamp/www/wordpress/wp-content/themes/twentytwelve/style.css",
-		"/C/wamp/www/backyardleisure/sub/backup/php.ini",
-		"/C/Users/Jason/Google Drive/Development/AuctionMN/auctionmn_Current_Build/auctionmn.css",
-		"/C/Users/Jason/Google Drive/Development/AuctionMN/auctionmn_Beta_Build/components/header.ssi",
-		"/C/Users/Jason/Google Drive/Work/AAA Auction/2014-09-05/2014-09-05_Inventory_TEXT_v4.txt",
-		"/C/Users/Jason/Google Drive/Development/AuctionMN/auctionmn_Current_Build/index.shtml"
+		"/C/wamp/www/wordpress/index.php"
 	],
 	"find":
 	{
@@ -608,6 +611,14 @@
 		"case_sensitive": false,
 		"find_history":
 		[
+			"’",
+			"https://www.proxibid.com/asp/Catalog.asp",
+			"(",
+			"306",
+			"<h3>",
+			"</p>",
+			"</h3>",
+			"</h2>",
 			"h1",
 			"<li>",
 			"class=\"imgrotate\" ",
@@ -727,15 +738,7 @@
 			"small/",
 			"jpg",
 			"400px",
-			"float:left;",
-			"</a>",
-			"class=\"image\"",
-			"border=\"0\"",
-			"style=\"margin-left: 1em; margin-right: 1em;\"",
-			"</div>",
-			"<div>",
-			"width",
-			"height"
+			"float:left;"
 		],
 		"highlight": true,
 		"in_selection": false,
@@ -764,15 +767,15 @@
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 45367,
+						"buffer_size": 45838,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								9292,
-								9292
+								3328,
+								3328
 							]
 						],
 						"settings":
@@ -785,11 +788,11 @@
 								"bh_c_define_open",
 								"bh_c_define_close",
 								"bh_c_define_content",
-								"bh_regex",
-								"bh_regex_center",
-								"bh_regex_open",
-								"bh_regex_close",
-								"bh_regex_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
 								"bh_single_quote",
 								"bh_single_quote_center",
 								"bh_single_quote_open",
@@ -800,41 +803,41 @@
 								"bh_curly_open",
 								"bh_curly_close",
 								"bh_curly_content",
-								"bh_double_quote",
-								"bh_double_quote_center",
-								"bh_double_quote_open",
-								"bh_double_quote_close",
-								"bh_double_quote_content",
-								"bh_tag",
-								"bh_tag_center",
-								"bh_tag_open",
-								"bh_tag_close",
-								"bh_tag_content",
-								"bh_angle",
-								"bh_angle_center",
-								"bh_angle_open",
-								"bh_angle_close",
-								"bh_angle_content",
-								"bh_round",
-								"bh_round_center",
-								"bh_round_open",
-								"bh_round_close",
-								"bh_round_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
 								"bh_default",
 								"bh_default_center",
 								"bh_default_open",
 								"bh_default_close",
 								"bh_default_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
 								"bh_unmatched",
 								"bh_unmatched_center",
 								"bh_unmatched_open",
 								"bh_unmatched_close",
 								"bh_unmatched_content",
-								"bh_square",
-								"bh_square_center",
-								"bh_square_open",
-								"bh_square_close",
-								"bh_square_content"
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content"
 							],
 							"color_scheme": "Packages/User/Color Highlighter/themes/Material-Theme-Darker.tmTheme",
 							"incomplete_sync": null,
@@ -844,7 +847,7 @@
 							"translate_tabs_to_spaces": false
 						},
 						"translation.x": 0.0,
-						"translation.y": 2843.0,
+						"translation.y": 1845.0,
 						"zoom_level": 1.0
 					},
 					"stack_index": 0,
@@ -971,7 +974,7 @@
 	"show_open_files": false,
 	"show_tabs": true,
 	"side_bar_visible": true,
-	"side_bar_width": 223.0,
+	"side_bar_width": 309.0,
 	"status_bar_visible": true,
 	"template_settings":
 	{
