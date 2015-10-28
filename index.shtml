@@ -80,7 +80,7 @@
 	<img class="rfloatimg" src="http://www.auctionmn.com/images/Storage_Containers.jpg" alt="Live Storage Auction">
 	<h2>Live Storage Auction</h2>
 		<p><strong>Location</strong></p>
-			<p>10264 Xylite, Blaine, MN</p>
+			<p><a target="_blank" href="https://www.google.com/maps/place/10264+Xylite+St+NE,+Blaine,+MN+55449/@45.156885,-93.2078977,17z/data=!3m1!4b1!4m2!3m1!1s0x52b32423e3ed6f87:0x1af2a27de443b291">10264 Xylite, Blaine, MN</a></p>
 <!-- 		<p><strong>Preview</strong></p>
 			<p>PREVIEW</p> -->
 		<p><strong>Date</strong></p>
@@ -89,16 +89,20 @@
 			<p>PICKUP</p> -->
 		<p><strong>Auctioneer's Notes</strong></p>
 			<p>Contents of two 20-foot storage containers</p>
+			<p>We will sell the entire contents of each container in one lot to the highest bidder. The winner will have 24 hours to remove the items. the containers themselves are not being sold. </p>
 			<p>Cash Only</p>
 <div class="clearfix"></div>
 </div>
 
 <div class="upcoming">
 <!-- <div class="closed" style="top:494px;">No Auction This Tuesday Due To Weather</div> -->
-	<h2 id="maus"><a href="http://www.auctionmn.com/mauscorner.shtml">Mau’s Corner Flea Market & Live Auction</a></h2>
-		<p id="zerocommission"><strong>Zero Commission Special</strong></p>
-		<p>Although AAA Auction already has a zero commission rate on any item selling for $1,000 or more, we are now happy to offer the following ZERO COMMISSION DAYS for the items listed:</p>
-			<p><strong>October 20th</strong> - Snowblowers.</p>
+	<h2 id="maus"><a href="http://www.auctionmn.com/mauscorner.shtml">Mau's Corner Flea Market & Live Auction</a></h2>
+	<p><strong>See You Next Year</strong></p>
+	<p>What a great time we had at our Tuesday Auctions at Mau's Corner this year! Next Tuesday will be our 28th and last Mau's Corner Auction in 2016. We will miss all of our old and new friends. Thank you everyone - consignors, bidders, flea market vendors, Joe and Wanda Mau and of course my hard-working staff and dedicated wife, Denise.</p>
+	<p>We will have several online auctions between now and next spring when we start up again, so please watch for emails and come and see us on pick-up day.</p>
+	<p>It will be nice to sleep in a little on Tuesdays for a while, but I am sure it won't be long before we are chomping at the bit to get rolling again next March - "Yes, Denise. March."</p>
+	<p>Here’s hoping that you stay safe, happy and healthy until we see you again.</p>
+	<p>Tony</p>
 	<div class="flexbox">
 		<a href="http://www.auctionmn.com/images/mausgallery/maus01.html"><img src="http://www.auctionmn.com/images/mausgallery/maus01.jpg" alt=""></a>
 		<a href="http://www.auctionmn.com/images/mausgallery/maus02.html"><img src="http://www.auctionmn.com/images/mausgallery/maus02.jpg" alt=""></a>
@@ -125,8 +129,8 @@
 		<p>26025 Highway 47 <a href="http://www.auctionmn.com/mauscorner.shtml#map">(Map)</a></p>
 		<p>Stanford Township, Isanti County</p>
 		<p>This is three miles north of St. Francis, just south of the intersection of Blackfoot St NW (State Highway 47) and 261st Ave NW.</p>
-		<!-- <p><strong>Auctioneer’s Notes</strong></p> -->
-		<!-- <p>Yes, its that time again. Bag it, box it, bring it, and we will sell it for you at Mau’s corner. Located 3 miles north of St. Francis on Highway 47. Although we usually do not know what folks will be bringing to sell, we usually have plenty of tools, collectibles, antiques, furniture, sporting goods, electronics and even cars, boats, ATV’s, power equipment, and the like. See you at the auction!</p> -->
+		<!-- <p><strong>Auctioneer's Notes</strong></p> -->
+		<!-- <p>Yes, its that time again. Bag it, box it, bring it, and we will sell it for you at Mau's corner. Located 3 miles north of St. Francis on Highway 47. Although we usually do not know what folks will be bringing to sell, we usually have plenty of tools, collectibles, antiques, furniture, sporting goods, electronics and even cars, boats, ATV's, power equipment, and the like. See you at the auction!</p> -->
 		<!-- <p>Whether you are a buyer or a seller, please join us next Tuesday, and every Tuesday for our regular Tuesday Auction and Flea Market at Mau's Corner, three miles north of St. Francis on Highway 47. Anyone can sell. Just load up your stuff and bring it over any time after 6 a.m.</p> -->
 		<p class="success">No flea market vendor charges!</p>
 		<p>We have more information on <a href="http://www.auctionmn.com/mauscorner.shtml">selling at our Tuesday Auctions</a>.</p>
@@ -548,17 +552,17 @@
 	<p><a class="recentbutton" href="#recent" title="View auctions that have recently ended">View Recent</a></p>
 	<p><a class="currentbutton" href="http://www.auctionmn.com/cgi-bin/mdemail.cgi?auctionmn" title="Join our Email List">Subscribe</a></p>
 	
-	<hr>
+<!-- 	<hr>
 
 	<h2>News</h2>
-	<p><a href="#zerocommission">Zero Commission Special</a></p>
+	<p><a href="#zerocommission">Zero Commission Special</a></p> -->
 
 	<hr>
 
 	<h2><a href="http://www.auctionmn.com/benefittest.shtml">Testimonials</a></h2>
 		<p><i>"Thank you for all your help with the gala this year! You do a wonderful job and we definitely would not be as successful without you!"</i></p>
 		<p>-Tina Stofferahn</p>
-<!-- 		<p><i>"Thanks Tony – We certainly wouldn’t be as successful as we are if we didn’t have you in the picture."</i></p>
+<!-- 		<p><i>"Thanks Tony – We certainly wouldn't be as successful as we are if we didn't have you in the picture."</i></p>
 		<p>-Jill Munsinger</p> -->
 	<hr>
 	<h2>Messages</h2>
