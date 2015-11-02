@@ -108,25 +108,6 @@
 </div>
 <div class="clearfix"></div>
 
-
-<div class="upcoming">
-	<img class="rfloatimg" src="http://www.auctionmn.com/images/Storage_Containers.jpg" alt="Live Storage Auction">
-	<h2>Live Storage Auction</h2>
-		<p><strong>Location</strong></p>
-			<p><a target="_blank" href="https://www.google.com/maps/place/10264+Xylite+St+NE,+Blaine,+MN+55449/@45.156885,-93.2078977,17z/data=!3m1!4b1!4m2!3m1!1s0x52b32423e3ed6f87:0x1af2a27de443b291">10264 Xylite, Blaine, MN</a></p>
-<!-- 		<p><strong>Preview</strong></p>
-			<p>PREVIEW</p> -->
-		<p><strong>Date</strong></p>
-			<p>Thursday, October 29th, at 2 p.m.</p>
-<!-- 		<p><strong>Pickup</strong></p>
-			<p>PICKUP</p> -->
-		<p><strong>Auctioneer's Notes</strong></p>
-			<p>Contents of two 20-foot storage containers</p>
-			<p>We will sell the entire contents of each container in one lot to the highest bidder. The winner will have 24 hours to remove the items. the containers themselves are not being sold. </p>
-			<p>Cash Only</p>
-<div class="clearfix"></div>
-</div>
-
 <!-- End of Upcoming Auctions -->
 
 <!-- Start of Recent Auctions -->
@@ -180,6 +161,22 @@
 		<p>We have more information on <a href="http://www.auctionmn.com/mauscorner.shtml">selling at our Tuesday Auctions</a>.</p>
 		<p>Please call us at <strong>(763) 421-3044</strong> for more information.</p>
 		<p>Bag it. Box it. Bring it or Buy it at Mau's Corner.</p> -->
+</div>
+
+<div class="recent">
+	<img class="rfloatimg" src="http://www.auctionmn.com/images/Storage_Containers.jpg" alt="Live Storage Auction">
+	<h2>Live Storage Auction</h2>
+		<p><strong>Location</strong></p>
+			<p><a target="_blank" href="https://www.google.com/maps/place/10264+Xylite+St+NE,+Blaine,+MN+55449/@45.156885,-93.2078977,17z/data=!3m1!4b1!4m2!3m1!1s0x52b32423e3ed6f87:0x1af2a27de443b291">10264 Xylite, Blaine, MN</a></p>
+<!-- 		<p><strong>Preview</strong></p>
+			<p>PREVIEW</p> -->
+		<p><strong>Date</strong></p>
+			<p>Thursday, October 29th, at 2 p.m.</p>
+<!-- 		<p><strong>Pickup</strong></p>
+			<p>PICKUP</p> -->
+		<p><strong>Auctioneer's Notes</strong></p>
+			<p>We will sell the entire contents of each container in one lot to the highest bidder. The winner will have 24 hours to remove the items. the containers themselves are not being sold. </p>
+<div class="clearfix"></div>
 </div>
 
 <div class="recent">

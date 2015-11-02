@@ -123,8 +123,19 @@
 			"file": "index.shtml",
 			"settings":
 			{
-				"buffer_size": 45838,
+				"buffer_size": 49316,
 				"line_ending": "Windows"
+			}
+		},
+		{
+			"contents": "Package Control Messages\n========================\n\nTheme - Gravity\n---------------\n\n  \n  Thanks for using the Gravity theme!\n  You \"may\" need to restart Sublime Text for it to display correctly.\n  \n  Feel free to contact me if you have any questions, or need to report any issues via:\n  \n  GitHub Issues\n  https://github.com/frankyonnetti/gravity-sublime-theme/issues\n  \n  or Twitter\n  @dh_Frank\n  \n  \n  --------------------------------\n  \n  To activate the theme for ST3, add or replace your current theme settings with the code below.\n  \n  For dark theme:\n  \n  {\n      \"theme\": \"Gravity.sublime-theme\",\n      \"color_scheme\": \"Packages/Theme - Gravity/Monokai Gravity (SL).tmTheme\"\n  }\n  \n  For light theme:\n  \n  {\n      \"theme\": \"Reverse Gravity.sublime-theme\",\n      \"color_scheme\": \"Packages/Theme - Gravity/Monokai Gravity (SL).tmTheme\"\n  }\n  \n  \n  To increase the file tab height use:\n  \n  \"tab_height_tall\": true\n  \n  \n  For blue hightlight color option use:\n  \n  \"highlight_color_blue\": true\n  \n  \n  --------------------------------\n  \n  Changes in 2.5.5\n  \n  - Thinned out a few lines in the tabs and other misc changes.\n  \n  \n  Changes in 2.5.4\n  \n  - Fixed padding around the 'search, find & replace' buttons.\n  \n  \n  Changes in 2.5.3\n  \n  - Added a slight gradient to the 'search, find & replace' buttons to match the OSX 10.11 update.\n  \n  \n  Changes in 2.5.1\n  \n  - Removed the gap above the active tab.\n  \n  \n  Changes in 2.5.0\n  \n  - Added a new blue highlight color to match the OS X Yosemite / El Capitan UI.\n  - Cleaned up a bunch of UI elements.\n  \n  \n  Changes in 2.1.4\n  \n  - Fixed the code-fold arrows so they show in both dark and light color schemes.\n  - Also lighten the status bar text so it's easier to read when using the Gravity (dark) theme.\n      - Thanks again tschundeee - https://github.com/tschundeee\n  \n  \n  Changes in 2.1.3\n  \n  - Fixed grid border color.\n  \n  \n  Changes in 2.1.2\n  \n  - Fix the color contrast for the \"Check for Update\" dialog box in bothe themes.\n      - Thanks for the heads up tschundeee - https://github.com/tschundeee\n  \n  \n  Changes in 2.1.1\n  \n  - Fix variable color mismatch for PHP.\n  - Added new syntax color for JS 'variable other' which got overwritten by the PHP fix.\n      - Thanks for your help GloryFish - https://github.com/GloryFish\n  \n  \n  Changes in 2.0.9 & 2.1.0\n  \n  - Very small Monokai Extended changes.\n  \n  \n  Changes in 2.0.8\n  \n  - Replaced Monokai with Monokai Extended. Biggest change I made to it was the background color to match the Gravity theme.\n  \n  \n  Changes in 2.0.7\n  \n  - Minor color change.\n  \n  \n  Changes in 2.0.5 / 2.0.6\n  \n  - Changed back color to jSON strings.\n  - Added color to 'this' keyword for JS. \n      - Thanks again giltig - https://github.com/giltig\n  \n  \n  Changes in 2.0.4\n  \n  - Added a fix for a bug that caused the file tab font descenders to get cut off (g, y, etc.) on Linux and Windows. Macs are not effected.\n  https://github.com/jamiewilson/predawn/issues/35#issuecomment-51838224\n      - Thanks giltig - https://github.com/giltig\n  - To apply the fix, add this setting to your \"Settings - User\" file.\n      \"tab_font_small\": true\n  \n  \n  Changes in 2.0.3\n  \n  - Changed the style and color of the close indicators.\n      - Thanks pentag0 - http://www.reddit.com/user/pentag0\n  \n  \n  Changes in v2.0.2\n  \n  - Fixed the double border issue on file tabs.\n      - Thanks pickx - https://github.com/pickx\n  - Fixed the display issue with the overlay scrollbars.\n  \n  \n  Changes in v2.0.1\n  \n  - Added height option for the file tabs. In your settings add:\n      \"tab_height_short\": true\n          - or -\n      \"tab_height_tall\": true\n      (Tip: resize window or type \"Super + F\" to automatically adjust the tab display after saving settings)\n      - Thanks Gagan Janjua - https://github.com/gj1118\n  \n  - Added more contrast to the auto-complete pop-up\n      - Thanks Jasper Jorna - https://github.com/Twiebie\n      - & Alex Whitman - https://github.com/alexwhitman\n  \n  \n  Changes in v2.0.0\n  \n  - Introducing a new light theme called \"Reverse Gravity\"!\n  - Updated all sidebar icons to more consistent with OSX.\n  - Updated the Gravity tabs so the active tab is brighter then the inactive tabs.\n  - The Gravity theme value was lighten slightly overall.\n  - Many other UI tweaks and cleanups.\n  \n  \n  Credit to those who have helped me discover issues in v1.x.x\n  \n  Jesse Leite - https://github.com/JerseyMilker\n  Nico Hoffmann - https://github.com/distantnative\n  Nicolás Santángelo - https://github.com/NicoSantangelo\n",
+			"settings":
+			{
+				"buffer_size": 4543,
+				"line_ending": "Windows",
+				"name": "Package Control Messages",
+				"read_only": true,
+				"scratch": true
 			}
 		}
 	],
@@ -136,9 +147,29 @@
 	"command_palette":
 	{
 		"height": 443.0,
-		"last_filter": "title",
+		"last_filter": "packagev",
 		"selected_items":
 		[
+			[
+				"packagev",
+				"PackageResourceViewer: Open Resource"
+			],
+			[
+				"snippet auc",
+				"Snippet: auction-highlights"
+			],
+			[
+				"package res",
+				"PackageResourceViewer: Open Resource"
+			],
+			[
+				"packa",
+				"Package Control: Install Package"
+			],
+			[
+				"nowthen",
+				"Snippet: location-nowthen"
+			],
 			[
 				"title",
 				"Convert Case: Title Case"
@@ -178,10 +209,6 @@
 			[
 				"xml",
 				"Set Syntax: XML"
-			],
-			[
-				"packa",
-				"Package Control: Install Package"
 			],
 			[
 				"word",
@@ -436,7 +463,7 @@
 				"Snippet: bs3-navbar-inverse"
 			]
 		],
-		"width": 615.0
+		"width": 681.0
 	},
 	"console":
 	{
@@ -461,10 +488,17 @@
 		"/C/Users/Jason/Documents/AAA Auction",
 		"/C/Users/Jason/Documents/AAA Auction/Templates",
 		"/C/Users/Jason/Documents/GitHub/auctionMN",
-		"/C/Users/Jason/Documents/GitHub/auctionMN/images"
+		"/C/Users/Jason/Documents/GitHub/auctionMN/images",
+		"/C/Users/Jason/Documents/GitHub/auctionMN/images/2015-08-08"
 	],
 	"file_history":
 	[
+		"/C/Users/Jason/Documents/AAA Auction/Templates/AAA_Template_Invoices_Wavebid_v9",
+		"/C/Users/Jason/AppData/Roaming/Sublime Text 3/Packages/User/new-auction.sublime-snippet",
+		"/C/Users/Jason/Documents/AAA Auction/Templates/AAA_Template_Email_7.6",
+		"/C/Users/Jason/Documents/AAA Auction/Auctions_and_Backups/2015-11-04/2015-11-04_Inventory_TEXT.txt",
+		"/C/Users/Jason/AppData/Roaming/Sublime Text 3/Packages/HTML/html.sublime-snippet",
+		"/C/Users/Jason/Documents/GitHub/auctionMN/images/2015-11-04/index.html",
 		"/C/Users/Jason/Documents/AAA Auction/Templates/AAA_Template_Email_7.5",
 		"/C/Users/Jason/Documents/AAA Auction/Auctions_and_Backups/2015-10-19/2015-10-19_maxanet_results.txt",
 		"/C/Users/Jason/Documents/AAA Auction/Auctions_and_Backups/2015-10-19/2015-10-19_winning_bidders.txt",
@@ -502,7 +536,6 @@
 		"/C/Users/Jason/AppData/Roaming/Sublime Text 3/Packages/User/location-nowthen.sublime-snippet",
 		"/C/Users/Jason/AppData/Roaming/Sublime Text 3/Packages/User/auction-highlights.sublime-snippet",
 		"/C/Users/Jason/AppData/Roaming/Sublime Text 3/Packages/User/location-maus.sublime-snippet",
-		"/C/Users/Jason/AppData/Roaming/Sublime Text 3/Packages/User/new-auction.sublime-snippet",
 		"/C/Users/Jason/Documents/GitHub/auctionMN/auctionmn.css",
 		"/C/Users/Jason/Documents/GitHub/auctionMN/index.shtml",
 		"/C/Users/Jason/AppData/Roaming/Sublime Text 3/Packages/User/Preferences.sublime-settings",
@@ -587,12 +620,7 @@
 		"/C/Users/Jason/Google Drive/Development/SaveMyAsh/index.html",
 		"/C/Users/Jason/Links/Work.lnk",
 		"/C/Users/Jason/Google Drive/Development/AuctionMN/auctionmn_Beta_Build/sftp-config.json",
-		"/C/Users/Jason/Documents/AAA Auction/AuctionMN_Server/sftp-config.json",
-		"/C/wamp/www/backyardleisure/wp-config.php",
-		"/C/wamp/www/wordpress/wp-config.php",
-		"/C/wamp/www/backyardleisure/wp-admin/info.php",
-		"/C/wamp/bin/apache/apache2.4.9/bin/php.ini",
-		"/C/wamp/www/wordpress/index.php"
+		"/C/Users/Jason/Documents/AAA Auction/AuctionMN_Server/sftp-config.json"
 	],
 	"find":
 	{
@@ -611,6 +639,7 @@
 		"case_sensitive": false,
 		"find_history":
 		[
+			"102",
 			"’",
 			"https://www.proxibid.com/asp/Catalog.asp",
 			"(",
@@ -737,8 +766,7 @@
 			"11",
 			"small/",
 			"jpg",
-			"400px",
-			"float:left;"
+			"400px"
 		],
 		"highlight": true,
 		"in_selection": false,
@@ -767,15 +795,15 @@
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 45838,
+						"buffer_size": 49316,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								3328,
-								3328
+								11674,
+								11674
 							]
 						],
 						"settings":
@@ -783,26 +811,6 @@
 							"BracketHighlighterBusy": false,
 							"bh_regions":
 							[
-								"bh_c_define",
-								"bh_c_define_center",
-								"bh_c_define_open",
-								"bh_c_define_close",
-								"bh_c_define_content",
-								"bh_round",
-								"bh_round_center",
-								"bh_round_open",
-								"bh_round_close",
-								"bh_round_content",
-								"bh_single_quote",
-								"bh_single_quote_center",
-								"bh_single_quote_open",
-								"bh_single_quote_close",
-								"bh_single_quote_content",
-								"bh_curly",
-								"bh_curly_center",
-								"bh_curly_open",
-								"bh_curly_close",
-								"bh_curly_content",
 								"bh_square",
 								"bh_square_center",
 								"bh_square_open",
@@ -813,31 +821,51 @@
 								"bh_default_open",
 								"bh_default_close",
 								"bh_default_content",
-								"bh_double_quote",
-								"bh_double_quote_center",
-								"bh_double_quote_open",
-								"bh_double_quote_close",
-								"bh_double_quote_content",
-								"bh_unmatched",
-								"bh_unmatched_center",
-								"bh_unmatched_open",
-								"bh_unmatched_close",
-								"bh_unmatched_content",
 								"bh_angle",
 								"bh_angle_center",
 								"bh_angle_open",
 								"bh_angle_close",
 								"bh_angle_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
 								"bh_tag",
 								"bh_tag_center",
 								"bh_tag_open",
 								"bh_tag_close",
 								"bh_tag_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
 								"bh_regex",
 								"bh_regex_center",
 								"bh_regex_open",
 								"bh_regex_close",
-								"bh_regex_content"
+								"bh_regex_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content"
 							],
 							"color_scheme": "Packages/User/Color Highlighter/themes/Material-Theme-Darker.tmTheme",
 							"incomplete_sync": null,
@@ -847,10 +875,102 @@
 							"translate_tabs_to_spaces": false
 						},
 						"translation.x": 0.0,
-						"translation.y": 1845.0,
+						"translation.y": 3827.0,
 						"zoom_level": 1.0
 					},
 					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 4543,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								4543,
+								4543
+							]
+						],
+						"settings":
+						{
+							"BracketHighlighterBusy": false,
+							"auto_indent": false,
+							"bh_regions":
+							[
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content"
+							],
+							"color_scheme": "Packages/User/Color Highlighter/themes/Material-Theme-Darker.tmTheme",
+							"default_dir": "C:\\Users\\Jason\\Documents\\AAA Auction",
+							"incomplete_sync": null,
+							"syntax": "Packages/Text/Plain text.tmLanguage",
+							"tab_width": 2,
+							"word_wrap": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
 					"type": "text"
 				}
 			]
