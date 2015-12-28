@@ -1,0 +1,27 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
+<html><head>
+<meta http-equiv="content-type" content="text/html; charset=ISO-8859-1"><title>AAA Auction and Realty Company | Upcoming Auctions</title>
+
+<link rel="stylesheet" href="/auctionmn.css" type="text/css">
+<link rel="stylesheet" href="/auctionmnpr.css" type="text/css" media="print"><!--#include file="head_sitemap.inc"--></head>
+<body>
+<br>
+<div id="Content">
+<div align="center"><img src="http://www.auctionmnonline.com/images/logo001.gif" alt="AAA Auction and Realty &#8212; Your Benefit Auctioneer Specialist" height="64" width="340"><br>
+<big><b><big><font face="Helvetica, Arial, sans-serif"><a href="https://server2.maxanet.com/cgi-bin/mnregister.cgi?auctionmn">Register
+to bid / Update bidder info</a></font></big></b></big><big><b><big><font face="Helvetica, Arial, sans-serif">&nbsp; &nbsp; <a href="http://www.auctionmn.com/cgi-bin/mdemail.cgi?auctionmn">Join Our E-mail List</a> 
+&nbsp; &nbsp;</font></big></b></big><big><b><big><font face="Helvetica, Arial, sans-serif"><a href="https://server2.maxanet.com/cgi-bin/mnregister.cgi?auctionmn"></a><br>
+&nbsp; </font></big></b></big><br>
+</div>
+<font face="Helvetica, Arial, sans-serif"><big><big><a href="http://www.auctionmn.com/">Current auctions</a> are listed on our home page. We're currently preparing another online auction. We recommend that you <a target="_blank" href="http://www.auctionmn.com/cgi-bin/mdemail.cgi?auctionmn">join the auctionmn.com e-mail list</a></big></big></font><font face="Helvetica, Arial, sans-serif"><big><big> to be informed about upcoming auctions, and
+that&nbsp;you <a href="https://server2.maxanet.com/cgi-bin/mnregister.cgi?auctionmn">get an auctionmn.com online bidder number</a>&nbsp;</big></big></font><font face="Helvetica, Arial, sans-serif"><big><big>so you can bid in our online auctions</big></big></font><font face="Helvetica, Arial, sans-serif"><big><big>.</big></big></font><br>
+<big><font face="Helvetica, Arial, sans-serif"><big><a href="http://www.auctionmn.com/cgi-bin/mdemail.cgi?auctionmn"><img alt="Join our e-mail list!" title="Join our e-mail list!" src="http://www.auctionmn.com/images/join_our_e-mail_list.jpg" border="0" height="348" width="564"></a></big></font></big><br>
+<br>
+<b> </b>
+<div id="Footer"><!--#include file="footer.ssi"--></div>
+</div>
+<div id="Menu">
+<p>&nbsp;</p>
+<!--#include file="body_sitemap.inc"--><!--#include file="footer2.ssi"-->
+</div>
+</body></html>

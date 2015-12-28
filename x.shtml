@@ -1,0 +1,184 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
+<html><head>
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+<title>AAA Auction and Realty, LLC - Your Online, Live, and Benefit Auction Specialist</title><link rel="stylesheet" href="2013-03-11%20main%20auction%20page%20to%20edit%20-%20copy%20text%20to%20other%20one_files/maxanet.css" type="text/css">
+<script language="JavaScript" src="2013-03-11%20main%20auction%20page%20to%20edit%20-%20copy%20text%20to%20other%20one_files/sitemap_scr.js">
+</script><script language="JavaScript1.2" src="2013-03-11%20main%20auction%20page%20to%20edit%20-%20copy%20text%20to%20other%20one_files/menu_dom.js"></script><style type="text/css">
+.hidim{visibility:hidden}
+.m1CL0,.m1CL0:link{text-decoration:none;color:#d8d08d; }
+.m1CL0:visited{color:#d8d08d}
+.topFold{position:static}
+.m1mit{padding-left:10px;padding-right:10px;color:#d8d08d; font-family:Arial,Verdana,Tahoma; font-size:10px; }
+</style>
+
+
+<link rel="stylesheet" href="2013-03-11%20main%20auction%20page%20to%20edit%20-%20copy%20text%20to%20other%20one_files/auctionmn.css" type="text/css">
+<link rel="stylesheet" href="2013-03-11%20main%20auction%20page%20to%20edit%20-%20copy%20text%20to%20other%20one_files/auctionmnpr.css" type="text/css" media="print"></head><body bgcolor="#ffffff"><!--
+Copyright 2012, JBS Software
+-->		
+	<script language="JavaScript" type="text/javascript">;
+	<!--;
+	function searchtest()
+	{
+		if (document.searchform.atype.value == 'EVENT')
+		{
+			document.searchform.submit();
+			return true;
+		}
+		document.searchform1.atype.value = document.searchform.atype.value;
+		document.searchform1.stype.value = document.searchform.stype.value;
+		document.searchform1.keyword.value = document.searchform.keyword.value;
+		document.searchform1.submit();
+		return false;
+	}
+	//-->;
+	</script><div id="Content">  	<div id="Header"> <table border="0" cellpadding="0" cellspacing="0" width="650"> <tbody><tr> <td>   <center> <img src="2013-03-11%20main%20auction%20page%20to%20edit%20-%20copy%20text%20to%20other%20one_files/logo001.gif" alt="AAA Auction and Realty — Your Benefit Auctioneer Specialist" height="64" width="340"><br></center></td> <td align="right">   </td> </tr> </tbody></table> 	</div>   
+<div id="SearchArea" align="center">
+<form method="post" name="searchform" action="/cgi-bin/mnlist.cgi" onsubmit="return searchtest()">
+<input name="auction" value="auctionmn1" type="hidden">Keywords: <input name="keyword" size="15" type="text"> 
+<select name="stype"><option selected="selected" value="ANY">Any of the words</option><option value="ALL">All of the words</option><option value="PHRASE">Exact phrase</option><option value="CONTAIN">Containing...</option></select> 
+<input name="search" value="Go!" type="submit">
+<div id="NavLinks" align="center">
+ <a href="http://www.auctionmn.com/cgi-bin/mndetails.cgi?auctionmn1">Auction Details</a> - <a href="https://server2.maxanet.com/cgi-bin/mnregister.cgi?auctionmn1" target="_top"><big><b>Register to bid / I forgot my number or my password</b></big></a><b>
+</b></div><b>
+
+
+<input name="auction" value="auctionmn" type="hidden">
+<input name="atype" value="" type="hidden">
+<input name="stype" value="" type="hidden">
+<input name="keyword" value="" type="hidden">
+<input name="search" value="Go!" type="hidden">
+
+</b></form></div><b>
+<table align="center" border="0" cellpadding="3" cellspacing="1" width="100%">
+<tbody><tr><td colspan="2" align="center"><font color="#3e7719" size="+1"><strong><span id="auction_title"><big>Online Auction - CLOSED March 11, 2013</big></span></strong><br></font></td></tr>
+<tr valign="top"><td align="right" bgcolor="#d8d08d" width="15%"><strong>Date &amp; Time: </strong></td><td> <big>CLOSED March 11, 2013 starting at 7:30 p.m. CST</big></td></tr>
+<tr valign="top"><td align="right" bgcolor="#d8d08d" width="15%"><strong>Highlights: </strong></td><td><b><a href="http://www.auctionmn.com/cgi-bin/mnlist.cgi?auctionmn1/1"><img src="2013-03-11%20main%20auction%20page%20to%20edit%20-%20copy%20text%20to%20other%20one_files/T1-1.JPG" alt="1" border="0"></a> <a href="http://www.auctionmn.com/cgi-bin/mnlist.cgi?auctionmn1/3"><img src="2013-03-11%20main%20auction%20page%20to%20edit%20-%20copy%20text%20to%20other%20one_files/T3-1.JPG" alt="3" border="0"></a> <a href="http://www.auctionmn.com/cgi-bin/mnlist.cgi?auctionmn1/7"><img src="2013-03-11%20main%20auction%20page%20to%20edit%20-%20copy%20text%20to%20other%20one_files/T7-1.JPG" alt="7" border="0"></a> <a href="http://www.auctionmn.com/cgi-bin/mnlist.cgi?auctionmn1/8"><img src="2013-03-11%20main%20auction%20page%20to%20edit%20-%20copy%20text%20to%20other%20one_files/T8-1.JPG" alt="8" border="0"></a> <a href="http://www.auctionmn.com/cgi-bin/mnlist.cgi?auctionmn1/10"><img src="2013-03-11%20main%20auction%20page%20to%20edit%20-%20copy%20text%20to%20other%20one_files/T10-2.JPG" alt="10" border="0"></a> <br> </b><b><a href="http://www.auctionmn.com/cgi-bin/mnlist.cgi?auctionmn1/11"><img src="2013-03-11%20main%20auction%20page%20to%20edit%20-%20copy%20text%20to%20other%20one_files/T11-1.JPG" alt="11" border="0"></a> <a href="http://www.auctionmn.com/cgi-bin/mnlist.cgi?auctionmn1/14"><img src="2013-03-11%20main%20auction%20page%20to%20edit%20-%20copy%20text%20to%20other%20one_files/T14-1.JPG" alt="14" border="0"></a> <a href="http://www.auctionmn.com/cgi-bin/mnlist.cgi?auctionmn1/16"><img src="2013-03-11%20main%20auction%20page%20to%20edit%20-%20copy%20text%20to%20other%20one_files/T16-1.JPG" alt="16" border="0"></a> <a href="http://www.auctionmn.com/cgi-bin/mnlist.cgi?auctionmn1/21"><img src="2013-03-11%20main%20auction%20page%20to%20edit%20-%20copy%20text%20to%20other%20one_files/T21-1.JPG" alt="21" border="0"></a> <a href="http://www.auctionmn.com/cgi-bin/mnlist.cgi?auctionmn1/23"><img src="2013-03-11%20main%20auction%20page%20to%20edit%20-%20copy%20text%20to%20other%20one_files/T23-1.JPG" alt="23" border="0"></a> <br> </b><b><a href="http://www.auctionmn.com/cgi-bin/mnlist.cgi?auctionmn1/41"><img src="2013-03-11%20main%20auction%20page%20to%20edit%20-%20copy%20text%20to%20other%20one_files/T41-1.JPG" alt="41" border="0"></a> <a href="http://www.auctionmn.com/cgi-bin/mnlist.cgi?auctionmn1/72"><img src="2013-03-11%20main%20auction%20page%20to%20edit%20-%20copy%20text%20to%20other%20one_files/T72-1.JPG" alt="72" border="0"></a> <a href="http://www.auctionmn.com/cgi-bin/mnlist.cgi?auctionmn1/87"><img src="2013-03-11%20main%20auction%20page%20to%20edit%20-%20copy%20text%20to%20other%20one_files/T87-1.JPG" alt="87" border="0"></a> <a href="http://www.auctionmn.com/cgi-bin/mnlist.cgi?auctionmn1/88"><img src="2013-03-11%20main%20auction%20page%20to%20edit%20-%20copy%20text%20to%20other%20one_files/T88-1.JPG" alt="88" border="0"></a> <a href="http://www.auctionmn.com/cgi-bin/mnlist.cgi?auctionmn1/90"><img src="2013-03-11%20main%20auction%20page%20to%20edit%20-%20copy%20text%20to%20other%20one_files/T90-1.JPG" alt="90" border="0"></a> <br> </b><b><a href="http://www.auctionmn.com/cgi-bin/mnlist.cgi?auctionmn1/133"><img src="2013-03-11%20main%20auction%20page%20to%20edit%20-%20copy%20text%20to%20other%20one_files/T133-1.JPG" alt="133" border="0"></a> <a href="http://www.auctionmn.com/cgi-bin/mnlist.cgi?auctionmn1/160"><img src="2013-03-11%20main%20auction%20page%20to%20edit%20-%20copy%20text%20to%20other%20one_files/T160-1.JPG" alt="160" border="0"></a> <a href="http://www.auctionmn.com/cgi-bin/mnlist.cgi?auctionmn1/162"><img src="2013-03-11%20main%20auction%20page%20to%20edit%20-%20copy%20text%20to%20other%20one_files/T162-1.JPG" alt="162" border="0"></a> <a href="http://www.auctionmn.com/cgi-bin/mnlist.cgi?auctionmn1/194"><img src="2013-03-11%20main%20auction%20page%20to%20edit%20-%20copy%20text%20to%20other%20one_files/T194-1.JPG" alt="194" border="0"></a> <a href="http://www.auctionmn.com/cgi-bin/mnlist.cgi?auctionmn1/203"><img src="2013-03-11%20main%20auction%20page%20to%20edit%20-%20copy%20text%20to%20other%20one_files/T203-1.JPG" alt="203" border="0"></a></b> </td></tr>
+<tr valign="top"><td align="right" bgcolor="#d8d08d" width="15%"><strong>Categories: </strong></td>
+<td><a href="http://www.auctionmn.com/cgi-bin/mnprint.cgi?auctionmn1">List of items</a> - <a href="http://www.auctionmn.com/cgi-bin/mnlist.cgi?auctionmn1/category/ALL"><big><big><big><big><b>VIEW AND BID</b></big></big></big></big> (308)</a> - <a href="http://www.auctionmn.com/cgi-bin/mnlist.cgi?auctionmn1/category/ART">ART (4)</a> - <a href="http://www.auctionmn.com/cgi-bin/mnlist.cgi?auctionmn1/category/AUTOGRAPHS">AUTOGRAPHS (3)</a> - <a href="http://www.auctionmn.com/cgi-bin/mnlist.cgi?auctionmn1/category/BOOKS">BOOKS (3)</a> - <a href="http://www.auctionmn.com/cgi-bin/mnlist.cgi?auctionmn1/category/BREWERIANA">BREWERIANA (4)</a> - <a href="http://www.auctionmn.com/cgi-bin/mnlist.cgi?auctionmn1/category/COINS-AND-CERTIFICATES">COINS AND CERTIFICATES (87)</a> - <a href="http://www.auctionmn.com/cgi-bin/mnlist.cgi?auctionmn1/category/COLLECTIBLES">COLLECTIBLES (75)</a> - <a href="http://www.auctionmn.com/cgi-bin/mnlist.cgi?auctionmn1/category/COMICS">COMICS (12)</a> - <a href="http://www.auctionmn.com/cgi-bin/mnlist.cgi?auctionmn1/category/COSTUME-JEWELRY">COSTUME JEWELRY (6)</a> - <a href="http://www.auctionmn.com/cgi-bin/mnlist.cgi?auctionmn1/category/FIREARMS">FIREARMS (3)</a> - <a href="http://www.auctionmn.com/cgi-bin/mnlist.cgi?auctionmn1/category/FURNITURE">FURNITURE (1)</a> - <a href="http://www.auctionmn.com/cgi-bin/mnlist.cgi?auctionmn1/category/HOUSEHOLD">HOUSEHOLD (53)</a> - <a href="http://www.auctionmn.com/cgi-bin/mnlist.cgi?auctionmn1/category/JEWELRY">JEWELRY (1)</a> - <a href="http://www.auctionmn.com/cgi-bin/mnlist.cgi?auctionmn1/category/MISC">MISC (14)</a> - <a href="http://www.auctionmn.com/cgi-bin/mnlist.cgi?auctionmn1/category/PETROLIANA">PETROLIANA (7)</a> - <a href="http://www.auctionmn.com/cgi-bin/mnlist.cgi?auctionmn1/category/SPORTING-GOODS">SPORTING GOODS (16)</a> - <a href="http://www.auctionmn.com/cgi-bin/mnlist.cgi?auctionmn1/category/TOOLS-YARD-GARDEN">TOOLS YARD GARDEN (11)</a> - <a href="http://www.auctionmn.com/cgi-bin/mnlist.cgi?auctionmn1/category/TOYS">TOYS (8)</a></td></tr>
+<tr valign="top"><td align="right" bgcolor="#d8d08d" width="15%"><strong>Notes: </strong></td><td><font face="Helvetica, Arial, sans-serif"> <table border="0" cellpadding="0" cellspacing="2" height="90" width="598"> <tbody>  <tr>  <td align="undefined" valign="undefined"> <big><b><big>Preview and Pickup location</big></b><br> AAA Auction Center<br> 7129 Highway 10 NW<br> Ramsey, MN 55303<br> (Old Ramsey Wine &amp; Spirits store)<br> See <a href="#directions">map and directions</a> below. </big></td>  <td align="undefined" valign="undefined">  <p align="center"><big><img src="2013-03-11%20main%20auction%20page%20to%20edit%20-%20copy%20text%20to%20other%20one_files/aaa_auction_center.jpg" title="AAA Auction Center" alt="AAA Auction Center" border="2" height="116" width="200"></big></p>  </td>  </tr> </tbody> </table> <big><b><big>Preview</big></b></big></font><br> <font face="Helvetica, Arial, sans-serif"><big> Wednesday, </big></font><font face="Helvetica, Arial, sans-serif"><big>March 6</big></font><font face="Helvetica, Arial, sans-serif"><big>, 2013, 2-7 p.m.<br> Thursday, March</big></font><font face="Helvetica, Arial, sans-serif"><big> </big></font><font face="Helvetica, Arial, sans-serif"><big>7, 2013, 9 a.m. - Noon</big></font> <p><font face="Helvetica, Arial, sans-serif"><big><b><big>Closing</big></b><br> Starting at 7:30 p.m. Central Standard Time on Monday, </big></font><font face="Helvetica, Arial, sans-serif"><big>March 11</big></font><font face="Helvetica, Arial, sans-serif"><big>,
+ 2013, this auction will close at the rate of 10 items per minute. 
+Bidding on individual items may remain open past the closing time until 
+no bids are received for three minutes.<br> </big> </font></p> <p><font face="Helvetica, Arial, sans-serif"><big><b><big>Pickup</big></b><br> Wednesday, March</big></font><font face="Helvetica, Arial, sans-serif"><big> 13</big></font><font face="Helvetica, Arial, sans-serif"><big>, 2013, 2-7 p.m.<br> Thursday, March</big></font><font face="Helvetica, Arial, sans-serif"><big> 14</big></font><font face="Helvetica, Arial, sans-serif"><big>, 2013, 9 a.m. - Noon</big></font></p> <font face="Helvetica, Arial, sans-serif"><big><b><big>Shipping</big></b><br> </big></font> <table border="2" cellpadding="2" cellspacing="2" height="61" width="698"> <tbody>  <tr>  <td align="undefined" valign="undefined"> <font face="Helvetica, Arial, sans-serif"><big><i><b>All Buyers</b></i><br> All Buyers must arrange their own shipping of large items.<br> We recommend Craters &amp; Freighters (763) 424-3300<br>  <br> Please contact us as well so we can have your items ready for your shipper to pick up.<br>  <br> To ship guns, please call the Auction Center at (763) 421-3044.</big></font>  </td>  </tr>  <tr>  <td align="undefined" valign="undefined"> <font face="Helvetica, Arial, sans-serif"><big><i><b>Non-Minnesota Residents</b></i><br>
+ We will ship your small and medium-sized items unless you let us know 
+within 24 hours of the end of the auction that you will pick up your 
+items in person.</big></font>  <p><font face="Helvetica, Arial, sans-serif"><big>We
+ will charge actual shipping costs plus insurance and $9 per parcel. If 
+possible, we will combine your purchases to save shipping costs. Your 
+credit card will be charged once for the purchase and a second time for 
+the shipping costs.</big></font></p>  <p><big><font face="Helvetica, Arial, sans-serif">We will call you if your item is too large for us to ship. </font><br>  </big></p>  </td>  </tr>  <tr>  <td align="undefined" valign="undefined"> <font face="Helvetica, Arial, sans-serif"><big><i><b>Minnesota Residents </b></i><br>
+ We will assume that all Minnesota residents will pick up their 
+purchases in person unless we are informed otherwise before the end of 
+the scheduled pickup. Any items not picked up by a Minnesota resident 
+for which other arrangements have not been made will be shipped to the 
+buyer in the same manner as if shipped to a nonresident.</big></font></td>  </tr> </tbody> </table> <font face="Helvetica, Arial, sans-serif"><big><br> <b><big>Taxes</big></b><br> Minnesota and Anoka County sales taxes apply to this auction. </big> </font> </td></tr>
+<tr valign="top"><td align="right" bgcolor="#d8d08d" width="15%"><strong>Terms: </strong></td><td><a name="terms"></a> <big><font face="Helvetica, Arial, sans-serif"> <b><big><big>Terms and Conditions</big></big></b></font></big> <p><big><font face="Helvetica, Arial, sans-serif">Bidders must be at least 18 years old.<br> <br>
+ All items are sold "AS IS", "WHERE IS", and "FINAL," with no 
+warranties, express or implied. Illustrations, pictures, sounds, or 
+videos posted on AAA Auction's web site are for identification purposes 
+only and are not warranties of any type. All measurements are 
+approximate and AAA Auction encourages bidders to preview our auctions 
+and measure items themselves. AAA Auction does not guarantee the 
+authenticity of any item, including autographs. Many specific 
+descriptions are provided by the sellers and are assumed to be true; 
+however, AAA Auction does not know whether the descriptions provided by 
+sellers are correct. AAA Auction does not know whether some items are 
+reproductions or originals. Please note that items seen in the 
+photographs are not included in the lot unless specifically mentioned in
+ the description. Buyer assumes complete and sole responsibility for 
+inspection of items prior to bidding and relies solely on his or her own
+ inspection as to the condition, authenticity, and value of items. Buyer
+ waives any and all claims against AAA Auction and seller based on the 
+condition or value of items.<br> <br> We accept cash, good checks, 
+cashier's checks, Visa, and MasterCard. Two forms of ID are needed for 
+checks, with at least one being a photo ID. No out-of-state checks. 
+There is a $30.00 fee on all returned checks. Credit cards will be 
+accepted up to $5,000. Unless prior arrangements are made, coins must be
+ paid for with cash, and titled items must be paid for with cash, an 
+approved Visa, MasterCard, American Express, Discover Card, a cashier's 
+check, or a personal check with a bank letter of guarantee. Checks in an
+ amount over $5,000 must be guaranteed with a valid credit card and not a
+ check card.<br> <br> AAA Auction requires a valid credit card in order 
+to guarantee all online bids. Of course, bidders may pay for their 
+purchases with cash or a good check in person at the live auction or 
+scheduled pickup time. Bidder agrees that AAA Auction may charge the 
+buyer's credit card for any purchase for which payment has not been 
+received and which has not been picked up at the scheduled pickup time. 
+Buyer shall call AAA Auction and advise AAA Auction if buyer is unable 
+to pick up at the scheduled time. AAA Auction will then reschedule your 
+pick up within the next two days.<br> <br> <font color="#cc0000">All 
+late pickups shall be assessed a $2 per day late pickup fee with a $10 
+minimum fee which shall be charged to buyer's credit card.</font><br> <br>
+ If the winning bidder has paid for his items, but does not pick up his 
+items at the scheduled pickup time, or within two business days 
+following the close of the auction, or at such other time as may be 
+agreed to by AAA Auction, then that winning bidder authorizes AAA 
+Auction to re-list the items not picked up and sell them again on behalf
+ of the winning bidder at the prevailing standard commission rate. The 
+winning bidder shall also be barred from participating in future 
+auctions at AAA Auction.<br> <br> If the winning bidder breaches the 
+bidding contract by failing to pay for his items, then he shall be 
+barred from bidding in the future and is also liable for damages. 
+Bidders agree that damages shall be liquidated and shall equal 35% of 
+the total winning bids made by the buyer for which payment has not been 
+made.<br> <br> There is a 13% buyer's premium on all auction purchases 
+after receiving a 3% discount for paying with cash or check. All 
+purchases paid with a credit card or a check card shall have a buyer's 
+premium of 16%.<br> <br> Minnesota and county sales tax applies to this auction. The sales tax also applies to the buyer's premium.<br> <br>
+ The auctioneer reserves the right to add items to or remove items from 
+the auction; to split or combine lots; to edit descriptions; to add or 
+remove photos; to add minimum bids or reserve prices; to cancel, 
+suspend, extend or reschedule an individual item and or an entire 
+auction; or to change an auction's closing time, preview time, or pickup
+ time.<br> <br> The buyer of any titled vehicle shall provide AAA 
+Auction with all necessary information and fees to complete a title 
+transfer. In addition to the regular State of Minnesota transfer fees 
+for titled vehicles and trailers, the buyer of each titled vehicle or 
+trailer shall also pay AAA Auction a $20 processing fee for the title 
+transfer.<br> <br> Federal and State Firearms Licensing Rules apply to 
+firearms sales. If you are buying a handgun, then you also must have a 
+purchase permit, carry permit, or a federal firearms license. All guns 
+must leave the Auction Center in a case. Please bring a case if you are 
+buying a gun. If you do not have a long case, AAA will supply one to you
+ for $2.00. Any gun buyer who does not pass the background check 
+authorizes the auctioneer to resell the gun for him, with a standard 
+commission to be charged.<br> <br> AAA Auction disclaims any knowledge 
+of the history of any ammunition sold. AAA Auction does not know how old
+ the ammo is or whether the ammo has been reloaded. Use at your own 
+risk. AAA Auction disclaims any liability arising out of the use of said
+ ammunition.<br> <br> All auctions and auction items by law in Minnesota
+ are with reserve unless stated as absolute. Sellers, and Auctioneer and
+ his staff reserve the right to bid on and purchase items in this 
+auction. <br> <br> Bidder does hereby indemnify and hold harmless the 
+Auctioneer and the Seller from any and all damages, claims, or 
+liabilities from injuries to persons or property of any type whatsoever,
+ caused before, during, or after the auction.<br> <br> All terms and conditions are subject to change.<br><br><i><font color="#cc0000">If
+ you are reading this in a window that popped up when you clicked a 
+"TERMS" link, go ahead and close this window now to get back to where 
+you were.</font></i></font></big></p></td></tr>
+<tr valign="top"><td align="right" bgcolor="#d8d08d" width="15%"><strong>Directions: </strong></td><td><a name="directions"></a> <table border="1" cellpadding="2" cellspacing="2" width="100%"> <tbody> <tr> <td align="undefined" valign="undefined"><font face="Helvetica, Arial, sans-serif"><big><b><big>Our Home<br> </big></b></big></font><font face="Helvetica, Arial, sans-serif"><big>The AAA Auction Center is at 7129 HIGHWAY 10 NW, RAMSEY MN 55303-6043 (<a href="#map">Map</a>). We're in the former <i>Ramsey Wine &amp; Spirits</i>
+ building at the intersection of Highway 10 and Ramsey Boulevard (Anoka 
+County Road 56). We're across Highway 10 from a Holiday Stationstore, 
+and across Ramsey Boulevard from a Burger King. Look for the bright red 
+roof over our entryway. <br> <br> </big></font><font face="Helvetica, Arial, sans-serif"><big>Note:
+ the Google Maps satellite view and the street view still show an old 
+gas station to the west of our place. It is no longer there.</big></font><br> <font face="Helvetica, Arial, sans-serif"><big><br> <b><big>From the east on Highway 10</big></b><br> Coming from the southeast on Highway 10, turn right into our driveway before you get to Ramsey Boulevard.<br> <br> </big></font><font face="Helvetica, Arial, sans-serif"><big><b><big>From the west on Highway 10<br> </big></b></big></font><font face="Helvetica, Arial, sans-serif"><big>Coming
+ from the west on Highway 10, turn north (left) onto Ramsey Boulevard. 
+Exit Ramsey Boulevard directly across from Burger King's driveway, then 
+pull around to the front of our building.<br> <br> </big></font><font face="Helvetica, Arial, sans-serif"><big><b><big>From the north on Ramsey Blvd.</big></b></big></font><br> <font face="Helvetica, Arial, sans-serif"><big>Continue
+ on Ramsey Boulevard past the Auction Center and cross Highway 10. Make a
+ U-turn at the Holiday Station and go back north on Ramsey Boulevard. 
+Exit Ramsey Boulevard directly across from Burger King's driveway, then 
+pull around to the front of our building.<br> <br> </big></font><br> </td> <td align="undefined" valign="undefined"><font face="Helvetica, Arial, sans-serif"><big><img alt="AAA Auction Center" title="AAA Auction Center" src="2013-03-11%20main%20auction%20page%20to%20edit%20-%20copy%20text%20to%20other%20one_files/aaa_location2.jpg" align="left" height="172" width="300"></big></font></td> </tr> </tbody> </table> <a name="map"></a><br> <font face="Helvetica, Arial, sans-serif"><big> </big></font> <iframe marginheight="0" marginwidth="0" src="2013-03-11%20main%20auction%20page%20to%20edit%20-%20copy%20text%20to%20other%20one_files/maps.htm" frameborder="0" height="350" scrolling="no" width="425"></iframe><br><small><a href="http://maps.google.com/maps?f=q&amp;source=embed&amp;hl=en&amp;geocode=&amp;q=45.226752027419934,+-93.44856923729554&amp;aq=&amp;sll=46.44186,-93.36129&amp;sspn=12.085717,19.753418&amp;ie=UTF8&amp;t=m&amp;z=14&amp;ll=45.226752,-93.448569" style="color: rgb(0, 0, 255); text-align: left;">View Larger Map</a></small></td></tr>
+<tr valign="top"><td align="right" bgcolor="#d8d08d" width="15%"><strong>Contact: </strong></td><td>AAA Auction and Realty, LLC - Your  Online, Live, and Benefit Auction Specialist<br>Auction Center address <b>(See individual auction notices for auction locations.)</b><br>7129 Highway 10 NW<br>Ramsey  MN  55303-6043<br>Phone: Auction Center: (763) 421-3044  Business Office: (763) 421-2099<br>Fax: (763) 427-3803<br><a href="mailto:auctioneer@auctionmn.com">Email</a> <a href="http://www.auctionmn.com/" target="_parent">Web-page</a><br></td></tr>
+</tbody></table>
+<div id="SubmitBids" align="center">
+<form method="post" action="/cgi-bin/mnlistb.cgi">
+<input name="auction" value="auctionmn1" type="hidden">
+<input name="contents" value="" type="hidden">Bidder number <input name="bidder" size="8" type="text"> Password <input name="password" size="8" type="password"> 
+<input name="review" value="Review Bids" type="submit"> 
+</form>
+</div><div id="Footer"><a name="footer"></a><p align="center"> </p><center> <img src="2013-03-11%20main%20auction%20page%20to%20edit%20-%20copy%20text%20to%20other%20one_files/naa_logo.gif" alt="NAA logo" border="0"> <img src="2013-03-11%20main%20auction%20page%20to%20edit%20-%20copy%20text%20to%20other%20one_files/msaa_logo.gif" alt="MSAA logo" border="0"> <img src="2013-03-11%20main%20auction%20page%20to%20edit%20-%20copy%20text%20to%20other%20one_files/mls_logo.gif" alt="MLS logo" border="0"> </center>   <font size="1"> <a href="http://www.auctionmn.com/">Home</a> -  <a href="http://www.auctionmn.com/team.shtml">Our Team</a> -  <a href="http://www.auctionmn.com/auctionqa.shtml">Auction Q &amp; A</a> -   <a href="http://www.auctionmn.com/consignment_info.shtml">How to Consign Items</a> -  <a href="http://www.auctionmn.com/estates.shtml">Estate Sales</a> -  <a href="http://www.auctionmn.com/video1.shtml">Benefit Auctions</a><br> <a href="http://www.auctionmn.com/tonysblog.shtml">Tony's Auction News</a> -  <a href="http://www.auctionmn.com/cgi-bin/mncal.cgi?auctionmnr">Real Estate Listings</a> -  <a href="http://www.auctionmn.com/whyaaa.shtml">Why Choose Us?</a> -   <a href="http://www.auctionmn.com/benefittest.shtml">Testimonials</a> -  <a href="http://www.auctionmn.com/cgi-bin/mdemail.cgi?auctionmn">Email Registration</a> -  <a href="http://www.auctionmn.com/contact.shtml">Contact Us</a> <br>© 2013 AAA Auction and Real Estate, L.L.C.  All rights reserved. <br>  7129 HIGHWAY 10 NW <br>RAMSEY MN 55303-6043 <br>Auction Center (763) 421-3044 <br>Business Office (763) 421-2099</font> <p></p>   </div> </b></div><b>   <div id="Menu"> <p> </p> <table id="m1mainSXMenu1" bgcolor="#ffffff" border="0" cellpadding="0" cellspacing="0" width="100%"><tbody><tr><td><table id="m1mainSXMenu2" class="x1" border="0" cellpadding="4" cellspacing="1" width="100%"> <tbody><tr align="center"> <td onmouseover="chgBg(m1,'m1tlm0',3);exM(m1,'none','',event)" onmouseout="chgBg(m1,'m1tlm0',0,1)" id="m1tlm0" class="m1mit" bgcolor="#3e7719">  <a id="m1tlm0a" class="m1CL0" href="http://www.auctionmn.com/"><div class="topFold">Home<img src="2013-03-11%20main%20auction%20page%20to%20edit%20-%20copy%20text%20to%20other%20one_files/empty.gif" align="texttop" border="0" height="8" width="8"></div></a></td></tr>   <tr align="center"><td onmouseover="chgBg(m1,'m1tlm1',3);exM(m1,'none','',event)" onmouseout="chgBg(m1,'m1tlm1',0,1)" id="m1tlm1" class="m1mit" bgcolor="#3e7719"> <a id="m1tlm1a" class="m1CL0" href="http://www.auctionmn.com/team.shtml"><div class="topFold">Our Team<img src="2013-03-11%20main%20auction%20page%20to%20edit%20-%20copy%20text%20to%20other%20one_files/empty.gif" align="texttop" border="0" height="8" width="8"></div></a></td></tr>  <tr align="center"><td onmouseover="chgBg(m1,'m1tlm2',3);exM(m1,'none','',event)" onmouseout="chgBg(m1,'m1tlm2',0,1)" id="m1tlm2" class="m1mit" bgcolor="#3e7719"> <a id="m1tlm2a" class="m1CL0" href="http://www.auctionmn.com/online_bidding_information.shtml"><div class="topFold">How to Bid<img src="2013-03-11%20main%20auction%20page%20to%20edit%20-%20copy%20text%20to%20other%20one_files/empty.gif" align="texttop" border="0" height="8" width="8"></div></a></td></tr>    <tr align="center"><td onmouseover="chgBg(m1,'m1tlm3',3);exM(m1,'m1mn1','m1tlm3',event)" onmouseout="chgBg(m1,'m1tlm3',0);coM(m1,'m1mn1')" id="m1tlm3" class="m1mit" bgcolor="#3e7719"> <a id="m1tlm3a" class="m1CL0" href="http://www.auctionmn.com/auctionqa.shtml" onmouseover="exMNS(m1,'m1mn1',event)" onmouseout="coMNS(m1,'m1mn1')"> <div id="m1mn1top" class="topFold">Auction Q &amp; A<img id="hidim1" class="hidim" src="2013-03-11%20main%20auction%20page%20to%20edit%20-%20copy%20text%20to%20other%20one_files/sitemap_m1ia.gif" align="texttop" border="0" height="8" width="8"></div></a></td></tr>     <tr align="center"> <td bgcolor="#3e7719">  <a id="m1tlm4a" class="m1CL0" href="http://www.auctionmn.com/consignment_info.shtml"> <div class="topFold">How to Consign <img src="2013-03-11%20main%20auction%20page%20to%20edit%20-%20copy%20text%20to%20other%20one_files/empty.gif" align="texttop" border="0" height="8" width="8"> </div> </a> </td> </tr>   <tr align="center"> <td bgcolor="#3e7719">  <a id="m1tlm4a" class="m1CL0" href="http://www.auctionmn.com/estates.shtml"> <div class="topFold">Estate Sales <img src="2013-03-11%20main%20auction%20page%20to%20edit%20-%20copy%20text%20to%20other%20one_files/empty.gif" align="texttop" border="0" height="8" width="8"> </div> </a> </td> </tr>    <tr align="center"><td bgcolor="#3e7719"> <a id="m1tlm4a" class="m1CL0" href="http://www.auctionmn.com/cgi-bin/mncal.cgi?auctionmnr"><div class="topFold">Real Estate Listings<img src="2013-03-11%20main%20auction%20page%20to%20edit%20-%20copy%20text%20to%20other%20one_files/empty.gif" align="texttop" border="0" height="8" width="8"></div></a></td></tr>    <tr align="center"><td onmouseover="chgBg(m1,'m1tlm5',3);exM(m1,'none','',event)" onmouseout="chgBg(m1,'m1tlm5',0,1)" id="m1tlm5" class="m1mit" bgcolor="#3e7719"> <a id="m1tlm5a" class="m1CL0" href="http://www.auctionmn.com/whyaaa.shtml"><div class="topFold">Why Choose Us?<img src="2013-03-11%20main%20auction%20page%20to%20edit%20-%20copy%20text%20to%20other%20one_files/empty.gif" align="texttop" border="0" height="8" width="8"></div></a></td></tr>    <tr align="center"><td onmouseover="chgBg(m1,'m1tlm6',3);exM(m1,'none','',event)" onmouseout="chgBg(m1,'m1tlm6',0,1)" id="m1tlm6" class="m1mit" bgcolor="#3e7719"> <a id="m1tlm6a" class="m1CL0" href="http://www.auctionmn.com/benefittest.shtml"><div class="topFold">Testimonials<img src="2013-03-11%20main%20auction%20page%20to%20edit%20-%20copy%20text%20to%20other%20one_files/empty.gif" align="texttop" border="0" height="8" width="8"></div></a></td></tr>    <tr align="center"><td onmouseover="chgBg(m1,'m1tlm6',3);exM(m1,'none','',event)" onmouseout="chgBg(m1,'m1tlm6',0,1)" id="m1tlm6" class="m1mit" bgcolor="#3e7719"> <a id="m1tlm6a" class="m1CL0" href="https://server2.maxanet.com/cgi-bin/mnregister.cgi?auctionmn"><div class="topFold">Register to Bid<img src="2013-03-11%20main%20auction%20page%20to%20edit%20-%20copy%20text%20to%20other%20one_files/empty.gif" align="texttop" border="0" height="8" width="8"></div></a></td></tr>    <tr align="center"><td onmouseover="chgBg(m1,'m1tlm7',3);exM(m1,'none','',event)" onmouseout="chgBg(m1,'m1tlm7',0,1)" id="m1tlm7" class="m1mit" bgcolor="#3e7719"> <a id="m1tlm7a" class="m1CL0" href="http://www.auctionmn.com/cgi-bin/mdemail.cgi?auctionmn"><div class="topFold">E-Mail Registration<img src="2013-03-11%20main%20auction%20page%20to%20edit%20-%20copy%20text%20to%20other%20one_files/empty.gif" align="texttop" border="0" height="8" width="8"></div></a></td></tr>   <tr align="center"><td onmouseover="chgBg(m1,'m1tlm8',3);exM(m1,'none','',event)" onmouseout="chgBg(m1,'m1tlm8',0,1)" id="m1tlm8" class="m1mit" bgcolor="#3e7719">  <a id="m1tlm8a" class="m1CL0" href="http://www.auctionmn.com/video1.shtml"><div class="topFold">Benefit Auctions<img src="2013-03-11%20main%20auction%20page%20to%20edit%20-%20copy%20text%20to%20other%20one_files/empty.gif" align="texttop" border="0" height="8" width="8"></div></a></td></tr>   <tr align="center"><td onmouseover="chgBg(m1,'m1tlm9',3);exM(m1,'none','',event)" onmouseout="chgBg(m1,'m1tlm9',0,1)" id="m1tlm9" class="m1mit" bgcolor="#3e7719"> <a id="m1tlm9a" class="m1CL0" href="http://www.auctionmn.com/tonysblog.shtml"><div class="topFold">Auction News<img src="2013-03-11%20main%20auction%20page%20to%20edit%20-%20copy%20text%20to%20other%20one_files/empty.gif" align="texttop" border="0" height="8" width="8"></div></a></td></tr>     <tr align="center"><td onmouseover="chgBg(m1,'m1tlm10',3);exM(m1,'none','',event)" onmouseout="chgBg(m1,'m1tlm10',0,1)" id="m1tlm10" class="m1mit" bgcolor="#3e7719"> <a id="m1tlm10a" class="m1CL0" href="http://www.auctionmn.com/contact.shtml"><div class="topFold">Contact Us<img src="2013-03-11%20main%20auction%20page%20to%20edit%20-%20copy%20text%20to%20other%20one_files/empty.gif" align="texttop" border="0" height="8" width="8"></div></a></td></tr>     </tbody></table></td></tr>    </tbody></table> 	<p> </p> 	<p align="center"><i>Houses to Housewares 	<br>Acres to Antiques 	<br>Large or Small 	<br>We Buy or Sell 	<br>It All!</i></p>  	<p> </p> 	<p align="center"><b>Auction Center<br>(763) 421-3044<br><br>Business Office<br>(763) 421-2099</b></p>  </div> 
+
+</b><img src="2013-03-11%20main%20auction%20page%20to%20edit%20-%20copy%20text%20to%20other%20one_files/sitemap_m1ia.gif" style="position: absolute; top: 86px; left: 129px;" height="8" width="8"></body></html>

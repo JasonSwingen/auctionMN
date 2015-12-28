@@ -1,0 +1,123 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
+<html><head>
+<meta http-equiv="content-type" content="text/html; charset=ISO-8859-1"><title>AAA Auction and Realty Company | Real Estate Questions and Answers</title>
+
+<link rel="stylesheet" href="/auctionmn.css" type="text/css">
+<link rel="stylesheet" href="/auctionmnpr.css" type="text/css" media="print"><!--#include file="head_sitemap.inc"--></head>
+<body>
+<div id="Content">
+<div id="Header"><!--#include file="header.ssi"--></div>
+<div id="SearchArea" align="center">
+<form method="post" action="/cgi-bin/mncal.cgi">
+<table align="center" border="0" cellpadding="0" cellspacing="0" width="100%">
+<tbody>
+<tr>
+<td align="center"><input name="auction" value="auctionmn" type="hidden">
+Search all online auctions for keyword(s): <input name="keyword" size="15" value="" type="text">
+<select name="stype"><option value="ANY">Any of the words</option><option value="ALL">All of the words</option><option value="PHRASE">Exact phrase</option><option value="CONTAIN">Containing...</option></select>
+<input name="search" value="Go!" type="submit">
+</td>
+</tr>
+</tbody>
+</table>
+</form>
+</div><h1>Real Estate Auction Questions and Answers</h1>
+
+
+<p><b>Q. What makes a property right for the auction method?</b>
+<br><b>A.&nbsp;&nbsp;&nbsp; </b>
+     &#8226; It must be desirable so there will be more than one person bidding on it.
+<br>
+<font color="#ffffff"><b>A.</b></font>&nbsp;&nbsp;&nbsp; &#8226; There needs to be some equity in the property.
+<br>
+<b><font color="#ffffff">A.</font></b>&nbsp;&nbsp;&nbsp;&nbsp;&#8226; The seller must have a reasonable expectation of the selling price.
+    
+</p><p><b>Q. What makes a property desirable?</b>
+<br><b>A.&nbsp;&nbsp;&nbsp; Scarcity: </b>
+    If there are not many properties like the seller's property on the market, 
+<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; that would be a good one for an auction.
+<br>
+<b>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Price:</b> On the other hand, if the property is just one of many similar properties on the market,<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; then it would take a lower
+price to create the desirability necessary to make an auction work. </p><p><b>Q. What are some examples of desirable properties?</b>
+<br><b>A.</b> Lake homes, building lots, recreational properties, lower-priced homes, homes with acreage, and multi-family dwellings.
+</p>
+
+<p><b>Q. Why would anyone lower their price below the price of other comparable properties on the market?</b>
+<br><b>A.</b> These are the traditional fire-sale properties, or the seller may have some other unrelated pressure to sell.
+</p>
+
+<p><b>Q. Why is equity necessary to make an auction work?</b>
+<br><b>A.</b> Just as in a traditional sale, there must be enough
+equity to pay off all of the encumbrances and still have enough money
+left over to pay the sales commission, or the seller likely won't want
+to sell.
+</p>
+
+<p><b>Q. What is a reasonable expectation 
+of a selling price?</b>
+<br><b>A.</b> A reasonable expectation
+of a selling price is an amount that is likely to be bid at the
+auction. That amount is decided before the auction and is put into the
+auction contract. It is called a reserve price or minimum price.
+</p>
+
+<p><b>Q. What is the effect of putting a "reserve amount" or "minimum bid" into the auction contract?</b>
+<br><b>A.</b> The seller will not be required to sell if that reserve amount or minimum 
+bid is not met.
+</p>
+
+<p><b>Q. Will an auction likely result in a higher sales price than a traditional listing?</b>
+<br><b>A.</b> An auction is a true representation of the value of a property at 
+that time and place. Sometimes a property sells for more than its true value, but usually the 
+highest bid is a fair representation of a property's true value.</p>
+
+<p><b>Q. What happens if the property doesn't sell at the auction?</b>
+<br><b>A.</b> We then list the property with a new traditional listing agreement, or the realtor who retained us does so.
+</p>
+
+<p><b>Q. How are commissions usually paid?</b>
+<br><b>A.</b> Commissions are negotiable, but they are usually paid by the buyer 
+and divided among the auctioneer, the listing realtor, 
+and the buyer's realtor.
+</p>
+
+<p><b>Q. Who pays for the advertising of the auction?</b>
+<br><b>A.</b> <font id="role_document">The seller usually pays for the 
+advertising, but if the property sells at the auction and closes,</font> AAA Auction usually reimburses the seller for 
+all the advertising costs out of its portion of the sales commission.
+</p>
+
+<b>Q. So, if a seller has a reasonable sales price expectation and
+has a desirable property with equity, why should he or she consider an
+auction? </b>
+<br><b>A.</b> Because aauctions have many benefits over traditional sales, 
+including:<br>
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+&#8226; The buyer usually pays the sales commission.<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+&#8226; The seller is not required to sell if the bid is too low.<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+&#8226; The true value of the property is determined by competitive bidding.<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+&#8226; The seller doesn't have to worry about accepting a bid that turns out to be too low. <br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+&#8226; Auction sales are quicker than traditional sales, thereby avoiding carrying costs.<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+&#8226; Auction sales are non-contingent, so closings are fast.<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+&#8226; Auction sales are AS-IS.<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+&#8226; Auctions take the seller out of the negotiation process.<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+&#8226; Buyers come pre-approved, because they are required to pay a sizeable, 
+<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <font color="#ffffff">&#8226;</font> non-refundable down payment on the day of the auction.
+<div id="Footer"><!--#include file="footer.ssi"--></div>
+</div>
+<div id="Menu">
+<!--#include file="body_sitemap.inc"--><!--#include file="footer2.ssi"--></div>
+</body></html>
