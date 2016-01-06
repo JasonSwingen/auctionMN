@@ -7,66 +7,33 @@
 <body>
 <div id="Content">
 <div id="Header"><!--#include file="header.ssi"--></div>
-<div id="SearchArea" align="center">
-<form method="post" action="/cgi-bin/mncal.cgi">
-<table align="center" border="0" cellpadding="0" cellspacing="0" width="100%">
-<tbody>
-<tr>
-<td align="center"><input name="auction" value="auctionmn" type="hidden">
-Search all online auctions for keyword(s): <input name="keyword" size="15" value="" type="text">
-<select name="stype"><option value="ANY">Any of the words</option><option value="ALL">All of the words</option><option value="PHRASE">Exact phrase</option><option value="CONTAIN">Containing...</option></select>
-<input name="search" value="Go!" type="submit">
-</td>
-</tr>
-</tbody>
-</table>
-</form>
-</div><a href="http://www.auctionmn.com/contact.shtml"><img alt="Consign today sign" src="http://www.auctionmn.com/images/consign_today.jpg" title="Click here to go to the contact page." border="0" height="176" width="600"></a><br>
-<h1>Consigning Items</h1>
-<p>People bring items to us, or we go get everything from
-individual
-items to truckloads to whole estates. We then sell those items in an
-online auction or at a live auction. Most of our sellers let us decide
-how to sell their items, but we are happy to follow your directions if
-you prefer one type of auction over the other.<br>
-<br>
-Items are sold individually or in groups. Each item or group of items
-is called a "lot." You may group your items into lots, or you may
-choose to have us do that for you. Anyone can sell at these
-auctions. Please call us at (763) 421-3044 to learn about our new low
-commission rates. We also offer special rates for entire estates. We do
-not charge a seller's commission for selling guns.<br>
-<br>
-You can drop off items just about any time, but it is best to call
-(763) 421-3044 first to make sure we are there and that we have room
-for your items. Please bring your own manpower to unload your items and
-bring them into our building. We will take over from that point.<br>
-<br>
-Please make sure that your items are clean and have no price stickers
-or price tags on them. We will reject items that we do not think will
-be of interest to our buyers. For example, we do not accept doors,
-windows, appliances, or TVs (unless they have a built-in HDTV tuner).
-Please don't bring us items that did not sell at a garage sale. Those
-items probably would not sell at an auction either. If any of your
-items do not sell, AAA Auction will send you an e-mail or call you and
-you will have 48 hours to come and pick up the unsold items. Any items
-remaining at the Auction Center after 48 hours will be disposed of. See
-the table below for examples of <a href="consignment_info2.shtml#consignment_items">good
-and
-not-so-good consignment items</a>. If you have any questions
-about what we accept, we would be happy to speak with you.<br>
-<br>
-If you bring us an item with a value of over $300, you may place a
-reserve on that item. This is your minimum selling price that you would
-accept. Your item will not sell if that price isn't met. There is a
-small fee if your item does not sell.<br><br>
-We also purchase estates and single items, so if you prefer to sell
-your items right away, we would be happy to meet with you to consider
-purchasing your items directly.<br>
-<br>
-<a href="http://www.auctionmn.com/contact.shtml">Contact
-us to consign items</a> for an upcoming auction.<br>
-</p>
+
+<h1>Selling Tips</h1>
+
+<p>Often sellers do not know the best way for them to sell their items. When that happens we are happy to review your needs and your items with you and make a recommendation. We often begin by asking you to send us photographs. This can sometimes determine whether an in-person visit would be helpful.</p>
+
+<p>As a general rule, if you bring good items, you will get good prices. If you bring junk, you will get bad prices.</p>
+
+<p>We recommend that you group your small items in lots that will sell for at least $10. If you do not do that, we will try to group your items to get a bid of at least $5. If we cannot get a bid for $5, we will sell your items for whatever we can get.</p>
+
+<p>See the table below for examples of good and not-so-good consignment items.</p>
+
+<p>Please make sure that your items are clean and have no price stickers or price tags on them.</p>
+
+<p>If you think that there is information about a particular item that would be helpful to the buyer, please write the information on a piece of paper and tape it to your item.</p>
+
+<p>Although there are no guarantees at an auction, we try to be as upfront about the items we are selling as possible. So if you have an item that has value still even though it does not work, please leave a note on it that provides the buyer with information that fairly describes the condition.</p>
+
+<p>If you bring us an item with a value of over $300, you may place a reserve on that item. This is your minimum selling price. Your item will not sell if that price is not met. We charge a $20 fee if your item does not meet the reserve.</p>
+
+<p>Large value items can be included in the advertising done by AAA Auction provided the Seller gives AAA Auction sufficient notice.</p>
+
+<p>If a seller buys his own item back, he is required to pay for it in the same manner as would anyone else.</p>
+
+<p>We are often asked what good items to sell are. The following are examples of items that seem to sell well and others that do not.</p>
+
+<p><a href="http://www.auctionmn.com/contact.shtml">Contact us to consign items</a> for an upcoming auction.</p>
+
 <table border="3" cellpadding="2" cellspacing="2" width="80%">
 <tbody>
 <tr>

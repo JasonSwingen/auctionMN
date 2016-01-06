@@ -7,262 +7,74 @@
 <body>
 <div id="Content">
 <div id="Header"><!--#include file="header.ssi"--></div>
-<div id="SearchArea" align="center">
-<form method="post" action="/cgi-bin/mncal.cgi">
-<table align="center" border="0" cellpadding="0" cellspacing="0" width="100%">
-<tbody>
-<tr>
-<td align="center"><input name="auction" value="auctionmn" type="hidden">
-Search all online auctions for keyword(s): <input name="keyword" size="15" value="" type="text">
-<select name="stype"><option value="ANY">Any of the words</option><option value="ALL">All of the words</option><option value="PHRASE">Exact phrase</option><option value="CONTAIN">Containing...</option></select>
-<input name="search" value="Go!" type="submit">
-</td>
-</tr>
-</tbody>
-</table>
-</form>
-</div><h1><big><font face="Helvetica, Arial, sans-serif">Auction
-Q &amp; A</font></big></h1>
-<p><big><big><font face="Helvetica, Arial, sans-serif"><b>General
-Info</b></font></big></big></p>
-<big>
-</big>
-<p><big><font face="Helvetica, Arial, sans-serif"><b>Q:
-What types of auctions does AAA Auction
-and Realty do?</b>
-<br>
-<b>A:</b>
-AAA Auction and Realty is a
-full-service auction
-company. Our experienced auctioneers are fully licensed to legally sell
-your cars, guns, and real estate. In addition to doing online
-consignment auctions and traditional on-site live auctions, our
-owner,&nbsp;Tony Elfelt, is a certified benefit auction specialist
-who
-is
-often asked to conduct&nbsp;live benefit auctions. AAA Auction and
-Realty is also
-a real estate brokerage, and we represent buyers and sellers in real
-estate transactions&nbsp;using</font></big><big><font face="Helvetica, Arial, sans-serif"> either</font></big><big><font face="Helvetica, Arial, sans-serif"> the auction method, or
-traditional
-real estate sales techniques.<br>
-<br>
-<b><big>Auctions</big></b>&nbsp;<br>
-<b><br>
-Q:
-Where do your auctions take place? </b><br>
-<b>A:</b> If
-your facility or residence is large enough to conduct a live auction,
-we
-will conduct it at your location. If you would rather not have the
-auction at your location or if your property is not large enough to
-support an auction, we will conduct the auction at the Anoka Auction
-and Estate Center (AAEC) at 530 West Main Street in Anoka, or at
-another facility.
-Common facilities to use for auctions are county fairgrounds, VFW's,
-American Legions and other halls.&nbsp;</font></big></p>
-<p><big><font face="Helvetica, Arial, sans-serif">If
-you need help moving your items to
-the Auction Center, we
-can help you with that. If we come to your location, we bring
-everything necessary to hold a good old-fashioned auction. We can also
-do all of the set-up or show you how to do it. If you don't have enough
-items for your own auction, we can add your items to other items we
-have for a consignment auction.</font></big></p>
-<p><big><font face="Helvetica, Arial, sans-serif">Items
-for online auctions are
-typically stored at and picked up from the AAEC.&nbsp;</font></big></p>
-<p><big><font face="Helvetica, Arial, sans-serif"><b>Q:
-How does that work if I want to bring something to Mau's Corner to sell?<br>
-A:</b></font></big> &nbsp;<font face="Helvetica, Arial, sans-serif"><big>Please see
-our&nbsp;<a href="http://www.auctionmn.com/mauscorner.shtml">Mau's
-Corner&nbsp;Information Page</a>.<br>
-</big></font></p>
-<p><big><font face="Helvetica, Arial, sans-serif"><b>Q:
-What is a reserve auction? </b><br>
-<b>A:</b>
-A reserve auction is an
-auction where the seller has
-the final choice to either accept or reject the highest bid. Common
-places to find reserves are at auctions of real estate or of other
-valuable items.</font>
-</big></p>
-<p><big><font face="Helvetica, Arial, sans-serif"><b>Q:
-What is an absolute auction?</b>
-<br>
-<b>A:</b> In an absolute auction, an item sells for the
-highest bid regardless of the amount.
-</font></big></p>
-<p><big><big><font face="Helvetica, Arial, sans-serif"><b>For
-Buyers</b></font></big></big></p>
-<p><big><font face="Helvetica, Arial, sans-serif"><b>Q:
-What is an absentee bid and do you
-accept them?</b>
-<br>
-<b>A:</b>
-An absentee bid is a bid
-placed on an item before the
-auction starts. The bid is usually guaranteed with a credit card. The
-auctioneer will then bid for you as much as is necessary, up to your
-maximum bid, for you to win the item. For example, if your maximum bid
-is $100 and the bidding is progressing in $10 increments, and if the
-last bid was $50, the auctioneer will put you in for $60. If no one
-else bids, you will win the item for $60. There is usually a $5 fee if
-you are the winning bidder with an absentee bid.</font>
-</big></p>
-<p><big><font face="Helvetica, Arial, sans-serif"><b>Q:
-What is a Buyer's Premium?</b>
-<br>
-<b>A:</b> A Buyer's Premium is an additional charge paid by
-the purchaser of an item. It is often around 13% of the winning bid.
-For example, if a buyer purchases an item for $100.00, the total charge
-to the buyer would be $113.00. This amount, together with whatever the
-seller is being charged, makes up the auctioneer's commission.
-</font></big></p>
-<p><big><font face="Helvetica, Arial, sans-serif"><b>Q:
-How do I pay for my items?</b>
-<br>
-<b>A:</b> AAA Auction accepts cash, in-state checks, Visa
-and Mastercard.
-</font></big></p>
-<p><big><font face="Helvetica, Arial, sans-serif"><b>Q:
-Do I have to pay sales tax?</b>
-<br>
-<b>A:</b> Usually there is no sales tax charged at an
-auction where all of the&nbsp;items are from one seller, but there
-are some exceptions. For example, when we sell
-inventory owned by a business, buyers must pay the same sales tax that
-they would have paid at that business. Sales tax is charged at
-consignment auctions when the items are from more than one person. The
-buyer's premium is also taxable.
-</font></big></p>
-<big><font face="Helvetica, Arial, sans-serif"><b>Q:
-What
-if I have only a few things that I would
-like to sell?</b>
-<br>
-</font></big>
-<p><big><font face="Helvetica, Arial, sans-serif"><b>A:</b>
-If you have only a few things
-to sell, you are welcome to consign them to us for sale at one of our
-auctions. It is very common to combine items from more than one seller
-in order to have a good amount of items to sell. AAA Auction reserves
-the right to refuse any items that have no value or that are
-inconsistent with the other items being sold.
-</font></big></p>
-<p><big><big><font face="Helvetica, Arial, sans-serif"><b>For
-Sellers</b></font></big></big></p>
-<p><big><font face="Helvetica, Arial, sans-serif"><b>Q:
-Why should I sell at auction?</b>
-<br>
-<b>A:</b>
-Auctions are the best way to
-sell items for their true
-market value. The excitement of the auction experience often helps
-bring even higher prices for the items sold. Auctions are also
-predictable because the seller can determine the day his merchandise
-will sell as opposed to placing an ad in the paper and hoping the
-telephone rings. Also, all sales are "As Is," so returns are not a
-problem.
-</font></big></p>
-<p><big><font face="Helvetica, Arial, sans-serif"><b>Q:
-How much would it cost me to have you
-do an auction for me?</b>
-<br>
-<b>A:</b> We determine the
-commission for a full estate auction or a
-business liquidation on a case-by-case basis. The commission
-depends on
-the amount of work involved and the approximate value of the auction.
-We are also able to charge a reduced rate for an estate auction if we
-are asked to sell the real estate too. So, if we are doing an auction
-that brings in a lot of money, our rates are very low. On the other
-hand, if the auction has a low value, we will need to charge a higher
-rate. <br>
-<b><br>
-Q: </b><b>I don't have enough items for a full auction. </b><b>What
-do you charge to sell something on consignment?&nbsp;</b><br>
-<b>A:</b> </font></big><font face="Helvetica, Arial, sans-serif"><big>The commission rate for guns is 0%. You get the full amount of whatever the gun sells for. The
-commission
-rate for coins&nbsp;is 12%. Our&nbsp;commission rates on other items are
-shown in the&nbsp;table below. </big></font><big><font face="Helvetica, Arial, sans-serif">Different
-commissions are determined for entire estates.</font></big><font face="Helvetica, Arial, sans-serif"><big><br>
-</big></font></p>
-<table style="width: 52%;" border="1" cellpadding="2" cellspacing="2">
-<tbody>
-<tr>
-<td style="font-family: Helvetica,Arial,sans-serif; font-weight: bold;"><big>Sale
-price per lot</big></td>
-<td style="font-family: Helvetica,Arial,sans-serif; font-weight: bold;"><big>Sellers
-Pay</big></td>
-</tr>
-<tr>
-<td style="font-family: Helvetica,Arial,sans-serif;"><big>$0
-to $14.99</big></td>
-<td style="font-family: Helvetica,Arial,sans-serif; text-align: center;"><big>$5
-flat</big></td>
-</tr>
-<tr>
-<td style="font-family: Helvetica,Arial,sans-serif;"><big>$15
-to $99.99</big></td>
-<td style="font-family: Helvetica,Arial,sans-serif; text-align: center;"><big>35%</big></td>
-</tr>
-<tr>
-<td style="font-family: Helvetica,Arial,sans-serif;"><big>$100
-to $799.99</big></td>
-<td style="font-family: Helvetica,Arial,sans-serif; text-align: center;"><big>10%</big></td>
-</tr>
-<tr>
-<td style="font-family: Helvetica,Arial,sans-serif;"><big>$800
-and up</big></td>
-<td style="font-family: Helvetica,Arial,sans-serif; text-align: center;"><big>0%</big></td>
-</tr>
-</tbody>
-</table>
-<font face="Helvetica, Arial, sans-serif"><big><span style="font-weight: bold;"></span></big></font><big><font face="Helvetica, Arial, sans-serif"><br>
-</font></big><big><font face="Helvetica, Arial, sans-serif"><b>Q:
-How soon do I get paid after the
-auction?</b>
-</font></big><big><font face="Helvetica, Arial, sans-serif"><b><br>
-A:</b>
-We will have a check for you within seven days of
-the auction.
-</font></big>
-<p dir="ltr"><big><font face="Helvetica, Arial, sans-serif"><b>Q:
-What do I have to do
-to get ready for the auction?</b>
-<br>
-<b>A:</b> Most of our clients set up their items for their
-auctions themselves. We will show you how to group your items and how
-to display them. Most people have friends and family help with this job
-because it can be a lot of work. If you are unable to set up your items
-for the auction, we will hire people to do that for you and bill you
-for that service.
-</font></big></p>
-<big><font face="Helvetica, Arial, sans-serif"><b>Q:
-What
-happens to the items that don't sell?</b>
-<br>
-</font></big>
-<p><big><font face="Helvetica, Arial, sans-serif"><b>A:</b>
-Usually everything sells at
-an auction. For example, if
-something does not get a bid by itself, we simply add other items to it
-until a bid is made. However, if there are things left over after an
-auction that the purchaser fails to remove from the property, it is the
-seller's responsibility to remove them. Once again, AAA Auction can
-provide help for that if our seller cannot do it himself or herself.
-</font></big></p>
-<p><big><font face="Helvetica, Arial, sans-serif"><b>Q:
-Who does the advertising?</b>
-<br>
-<b>A:</b> AAA Auction does all of the advertising for the
-auction. This will include newspapers and various internet web sites.
-It also may include direct mail. Although the auctioneer initially pays
-for the advertising, the seller reimburses the auctioneer for all of
-those expenses out of the sale proceeds. These expenses are discussed
-with our clients when the auction contract is signed.
-</font></big></p>
+
+<h1>GENERAL Q and A</h1>
+
+<h2>Q: Why do auctions work?</h2>
+	<p>The most important reason why auctions work is because it brings interested buyers together who then compete for the items being sold. Auctions create urgency. Bid now or it will be too late. They also create competition between bidders, so sometimes winning the item could be more important than getting the item.</p>
+	<p>Auctions make planning personal moves easier. You set the date and time of the sale and AAA Auction and Realty Company turns it all into cash.</p>
+
+<h2>Q: What types of auctions do you do?</h2>
+	<p>We do live and online auction. We begin by visiting with you about needs and then we recommend the best method of converting your assets into cash. This may result in a recommendation for a live auction, an online auction, a consignment auction or an outright sale to AAA Auction.</p>
+
+<h2>Q: Where do your auctions take place?</h2>
+	<p>The auction may take place at your location, at a rented location, or online. Some examples of rented locations we have used are the VFW, the Anoka County Fairgrounds and the Medina Ballroom. For smaller estates our Live Tuesday Consignment Auctions at Mau’s Corner may work best. Items purchased during one of our online auctions are usually picked-up by the buyer at the Nowthen City Hall.</p>
+
+<h2>Q: How do I get my things to you?</h2>
+	<p>You can bring your items to us, or we can come and pick them up.</p>
+
+<h2>Q: How does that work if I want to bring something to Mau's Corner to sell?</h2>
+	<p>Please see <a href="http://auctionmn.com/consignment_info.shtml">How to Consign</a>.</p>
+
+<h2>Q: What is a reserve auction?</h2>
+	<p>A reserve auction is an auction where the seller has the final choice either accept or reject the highest bid. Reserves are frequently used for real estate auctions and for high value items.</p>
+
+<h2>Q: What is an absolute auction?</h2>
+	<p>In an absolute auction, an item sells for the highest bid regardless of amount.</p>
+
+<h1>For Buyers</h1>
+
+<h2>Q: What is an absentee bid and do you accept them?</h2>
+	<p>A: An absentee bid is a bid placed on an item before the auction starts. bid is guaranteed with a credit card. We will then bid for you up to your maximum amount if necessary. For example, if your maximum bid is $100 and the bidding is progressing in $10 increments, and if the last bid were $50, we would then bid $60 for you. If no one else were to bid, then you would win the item for $60.</p>
+
+<h2>Q: What is a Buyer's Premium?</h2>
+	<p>A: A Buyer's Premium is an additional charge paid by the purchaser of item. It is often 15% of the winning bid. For example, if a buyer purchases an item for $100.00, the total charge to the buyer would be $115.00. This amount, together with whatever the seller is being charged, makes up the our commission and is a method of dividing the cost of the auction between the seller and the buyer.</p>
+
+<h2>Q: How do I pay for my items?</h2>
+	<p>We accept cash, in-state checks, and all of the major credit</p>
+
+<h2>Q: Do I have to pay sales tax?</h2>
+	<p>A: Usually there is no sales tax charged at an auction where all of are from one non-commercial seller, but sales tax must be charged at consignment auctions, such as at Mau’s Corner. The buyer's premium is also taxable.</p>
+
+<h1>For Sellers</h1>
+
+<h2>Q: Why should I sell at auction?</h2>
+	<p>Auctions are the best way to sell items for their true market value. Excitement of the auction also often helps bring even higher prices. Auctions also save time, since your items will be sold on the day of the auction, rather than sit around waiting for the right person to come along. They are also safer than inviting strangers into your home to sell them something. Also, all auction sales are "As Is," so returns are not a problem.</p>
+
+<h2>Q: Should I sell my items online or at Mau’s Corner</h2>
+	<p>Both are good choices. The basic rule is this: if you sell a good item, you will get a good price. If you sell a bad item, you will get a bad price. That being said, many people bring their larger items to Mau’s Corner and their smaller items to us for our online auctions.</p>
+
+<h2>Q: What are my items worth?</h2>
+	<p>In most instances, we do not provide estimates of value. Of course this can vary depending on the nature of the auction we are holding. If you need an estimate, we will be happy to discuss that with you. In most cases, a good way to get an idea of the likely auction price of your items is to review our past auctions on our website.</p>
+
+<h2>Q: How much would it cost me to have you do an auction for me?</h2>
+	<p>A: We determine the commission for a full estate auction or a liquidation on a case-by-case basis. Please see <a href="http://auctionmn.com/consignment_info.shtml">How to Consign</a>.</p>
+
+<h2>Q: What do you charge to sell something on consignment?</h2>
+	<p>A:  Please see <a href="http://auctionmn.com/consignment_info.shtml">How to Consign</a>.</p>
+
+<h2>Q: How soon do I get paid after the auction?</h2>
+	<p>We will usually have a check for you within 7-10 seven days of auction. If you sell your items at Mau’s Corner, we will pay you on the day of the auction.</p>
+
+<h2>Q: What do I have to do to get ready for the auction?</h2>
+	<p>A: We will set up your live auction at your location for you, although recommend that you provide as much labor as you can to help keep the set-up costs to a minimum. You set up your own items at the Tuesday Consignment Auctions at Mau’s Corner.</p>
+
+<h2>Q: What happens to the items that don't sell at the Tuesday Consignment Auction at Mau’s Corner?</h2>
+	<p>A: Usually nearly everything sells at a live auction. For example, something does not get a bid by itself, we simply add other items to it until a bid is obtained.  However, if there are things left over after the live auction at Mau’s Corner, you must remove them from the property before you get paid.</p>
+
+<h2>Q: Who does the advertising?</h2>
+	<p>We do all of the advertising for the auction. This will include and various internet web sites. It also may include direct mail. Although we initially pay for the advertising, you reimburse us for those expenses out of the sale proceeds. We determine these costs with you when the auction contract is signed.</p>
+
 <div id="Footer"><!--#include file="footer.ssi"--></div>
 </div>
 <div id="Menu">

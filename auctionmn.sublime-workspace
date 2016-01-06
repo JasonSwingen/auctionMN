@@ -123,7 +123,7 @@
 			"file": "index.shtml",
 			"settings":
 			{
-				"buffer_size": 46357,
+				"buffer_size": 44670,
 				"line_ending": "Windows"
 			}
 		}
@@ -135,13 +135,21 @@
 	"build_varint": "",
 	"command_palette":
 	{
-		"height": 490.0,
-		"last_filter": "title",
+		"height": 443.0,
+		"last_filter": "beau",
 		"selected_items":
 		[
 			[
+				"beau",
+				"HTMLBeautify"
+			],
+			[
 				"title",
 				"Convert Case: Title Case"
+			],
+			[
+				"upper",
+				"Convert Case: Upper Case"
 			],
 			[
 				"auction",
@@ -460,7 +468,7 @@
 				"Snippet: bs3-navbar-inverse"
 			]
 		],
-		"width": 637.0
+		"width": 681.0
 	},
 	"console":
 	{
@@ -482,11 +490,20 @@
 	},
 	"expanded_folders":
 	[
-		"/C/Users/Jason/Documents/AAA Auction",
-		"/C/Users/Jason/Documents/AAA Auction/Templates"
+		"/C/Users/Jason/Documents/GitHub/auctionMN"
 	],
 	"file_history":
 	[
+		"/C/Users/Jason/Documents/GitHub/auctionMN/whyaaa.shtml",
+		"/C/Users/Jason/Documents/GitHub/auctionMN/consignment_info.shtml",
+		"/C/Users/Jason/Documents/AAA Auction/Other/footer_2.html",
+		"/C/Users/Jason/Documents/GitHub/auctionMN/footer2.ssi",
+		"/C/Users/Jason/Documents/GitHub/auctionMN/auctionqa.shtml",
+		"/C/Users/Jason/Documents/GitHub/auctionMN/online_bidding_information.shtml",
+		"/C/Users/Jason/Documents/GitHub/auctionMN/reqa.shtml",
+		"/C/Users/Jason/Documents/GitHub/auctionMN/benefitqa.shtml",
+		"/C/Users/Jason/Documents/GitHub/auctionMN/footer.ssi",
+		"/C/Users/Jason/Documents/GitHub/auctionMN/team.shtml",
 		"/C/Users/Jason/Documents/AAA Auction/Auctions_and_Backups/2015-12-20/2015-12-20_winning_bidders.txt",
 		"/C/Users/Jason/Documents/AAA Auction/Auctions_and_Backups/2015-12-20/2015-12-20_maxanet_results.txt",
 		"/C/Users/Jason/Documents/AAA Auction/Templates/AAA_Template_Invoices_Wavebid_v10",
@@ -527,7 +544,6 @@
 		"/C/Users/Jason/Desktop/.temp/index.html",
 		"/C/Users/Jason/Documents/GitHub/auctionMN/auctionmn.scss",
 		"/C/Users/Jason/Google Drive/Work/AAA Auction/Templates/AAA_Picture_Highlights.html",
-		"/C/Users/Jason/Documents/GitHub/auctionMN/consignment_info.shtml",
 		"/C/Users/Jason/Documents/GitHub/auctionMN/tonysblog.shtml",
 		"/C/Users/Jason/Google Drive/Work/AAA Auction/Templates/AAA_Template_Email_7.2",
 		"/C/Users/Jason/Documents/AAA Auction/Auctions_and_Backups/2015-08-08.html",
@@ -541,7 +557,6 @@
 		"/C/Users/Jason/Google Drive/Work/AAA Auction/2015-08-08/index.html",
 		"/C/Users/Jason/Documents/GitHub/auctionMN/images/DSCN9985.JPG",
 		"/C/Users/Jason/Documents/AAA Auction/Auctions_and_Backups/blank-inventory.txt",
-		"/C/Users/Jason/Documents/GitHub/auctionMN/footer.ssi",
 		"/C/Users/Jason/AppData/Roaming/Sublime Text 3/Packages/User/test-snippet.sublime-snippet",
 		"/C/Users/Jason/AppData/Roaming/Sublime Text 3/Packages/User/location-nowthen.sublime-snippet",
 		"/C/Users/Jason/AppData/Roaming/Sublime Text 3/Packages/User/auction-highlights.sublime-snippet",
@@ -606,19 +621,11 @@
 		"/C/Users/Jason/Google Drive/Work/AAA Auction/2015-03-17/2015-03-17_Inventory_TEXT_v3.txt",
 		"/C/Users/Jason/Google Drive/Work/AAA Auction/2015-03-17/index.html",
 		"/C/Users/Jason/Documents/Development/AuctionMN/Backup/auctionmn.css",
-		"/C/Users/Jason/Documents/GitHub/auctionMN/.gitignore",
-		"/C/Users/Jason/Documents/GitHub/auctionMN/r2zjennw.lwh.txt",
-		"/C/Users/Jason/Google Drive/Work/AAA Auction/Templates/AAA_Template_Email_5.4",
-		"/C/Users/Jason/Documents/Development/AuctionMN/footer_v2.html",
-		"/C/Users/Jason/Google Drive/Work/AAA Auction/2015-03-05/Auction_Messages.html",
-		"/C/Users/Jason/Google Drive/Work/AAA Auction/2015-03-05/2015-03-05_Inventory_TEXT_v4.txt",
-		"/C/Users/Jason/Google Drive/Work/AAA Auction/2015-03-05/2015-03-05_Inventory_TEXT_v3.txt",
-		"/C/Users/Jason/Google Drive/Work/AAA Auction/2014-10-29/2014-10-29_Inventory_TEXT_v1.txt",
-		"/C/Users/Jason/Pictures/AAA Pictures/2015-03-05/index.html"
+		"/C/Users/Jason/Documents/GitHub/auctionMN/.gitignore"
 	],
 	"find":
 	{
-		"height": 43.0
+		"height": 86.0
 	},
 	"find_in_files":
 	{
@@ -633,6 +640,11 @@
 		"case_sensitive": false,
 		"find_history":
 		[
+			"td align",
+			"</font></big>",
+			"valign=\"undefined\"><big><font face=\"Helvetica, Arial, sans-serif\"",
+			"paul",
+			"<table border=\"0\" cellpadding=\"2\" cellspacing=\"2\">\n<tbody>\n<tr>\n<td align=\"undefined\" valign=\"undefined\"><img src=\"http://www.auctionmn.com/images/dorothy.jpg\" alt=\"John\" border=\"1\" height=\"100\" width=\"72\"></td>\n<td align=\"undefined\" valign=\"undefined\"><b>Dorothy\nFinn<br>\n</b>Dorothy\njoined us this past year and we are glad she did. She is our bookkeeper\nand our cashier. She also helps process items for our online auctions\nby taking photos and typing descriptions. Dorothy was born in the\nNetherlands and she grew up in South Africa. Dorothy is married to\nanother hard working AAA member, Paul Finn.&nbsp; </td>\n</tr>",
 			"(",
 			"auctionmn5",
 			"102",
@@ -755,12 +767,7 @@
 			"18",
 			"17",
 			"16",
-			"15",
-			"14",
-			"13",
-			"12",
-			"11",
-			"small/"
+			"15"
 		],
 		"highlight": true,
 		"in_selection": false,
@@ -789,15 +796,15 @@
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 46357,
+						"buffer_size": 44670,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								1950,
-								1950
+								1180,
+								1180
 							]
 						],
 						"settings":
@@ -810,56 +817,56 @@
 								"bh_curly_open",
 								"bh_curly_close",
 								"bh_curly_content",
-								"bh_round",
-								"bh_round_center",
-								"bh_round_open",
-								"bh_round_close",
-								"bh_round_content",
-								"bh_default",
-								"bh_default_center",
-								"bh_default_open",
-								"bh_default_close",
-								"bh_default_content",
-								"bh_unmatched",
-								"bh_unmatched_center",
-								"bh_unmatched_open",
-								"bh_unmatched_close",
-								"bh_unmatched_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
 								"bh_c_define",
 								"bh_c_define_center",
 								"bh_c_define_open",
 								"bh_c_define_close",
 								"bh_c_define_content",
-								"bh_angle",
-								"bh_angle_center",
-								"bh_angle_open",
-								"bh_angle_close",
-								"bh_angle_content",
-								"bh_single_quote",
-								"bh_single_quote_center",
-								"bh_single_quote_open",
-								"bh_single_quote_close",
-								"bh_single_quote_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
 								"bh_double_quote",
 								"bh_double_quote_center",
 								"bh_double_quote_open",
 								"bh_double_quote_close",
 								"bh_double_quote_content",
-								"bh_tag",
-								"bh_tag_center",
-								"bh_tag_open",
-								"bh_tag_close",
-								"bh_tag_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
 								"bh_regex",
 								"bh_regex_center",
 								"bh_regex_open",
 								"bh_regex_close",
 								"bh_regex_content",
-								"bh_square",
-								"bh_square_center",
-								"bh_square_open",
-								"bh_square_close",
-								"bh_square_content"
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content"
 							],
 							"color_scheme": "Packages/User/Color Highlighter/themes/Material-Theme-Darker.tmTheme",
 							"incomplete_sync": null,
@@ -869,7 +876,7 @@
 							"translate_tabs_to_spaces": false
 						},
 						"translation.x": 0.0,
-						"translation.y": 2016.0,
+						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
 					"stack_index": 0,
