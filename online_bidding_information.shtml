@@ -15,59 +15,58 @@ Information</title>
 
 <h2>Register to Bid</h2>
 	<p>To bid in our online auctions, you will need a bidder number and a password. Your bidder number will be e-mailed to you after you fill out the <a href="https://server2.maxanet.com/cgi-bin/mnregister.cgi?auctionmn">new bidder registration form</a>. Use that bidder number for all of our online auctions. <a href="https://server2.maxanet.com/cgi-bin/mnregup.cgi?auctionmn">If you forget your bidder number or your password</a>, our system can remind you what they are. Once you have your bidder number, you are ready to view an auction.</p>
-	<p>After you get your bidder number, go to our home page <a href="http://www.auctionmn.com/">www.auctionmn.com</a>, where we have links to our past auctions. Clicking on one of those links will bring up the "Auction Details" page for that particular auction. The Auction Details page highlights some of the items in the auction; provides category links; and shows the dates and times for preview, closing, and pick-up. It provides shipping information and indicates whether Minnesota sales tax will be charged. Also included are the auction terms and map directions.</p>
+	<p>After you get your bidder number, go to our home page <a href="http://www.auctionmn.com/">www.auctionmn.com</a>, where we have links to our auctions. Clicking on one of those links will bring up the "Auction Details" page for that particular auction. The Auction Details page highlights some of the items in that auction; provides category links; and shows the dates and times for preview, closing, and pick-up. It also provides shipping information and indicates whether Minnesota sales tax will be charged. Also included are the auction terms and map directions.</p>
 
 <h2>Resellers</h2>
 	<p>If you are a re-seller, you must present us with a Tax Exempt form <span class="alert">at the time of payment</span> to avoid paying sales tax.</p>
 
 <h2>View Photos, Descriptions, and Bid Boxes</h2>
-	<p>Next, click on the CLICK HERE TO BID link. This will show you the items in the auction. There will usually be 50 displayed per page. Scroll down to view all 50 items on the page. You can also click on the small photo of the item to enlarge that photo and also to see other photos for that item. When you have looked at all 50 items, then advance to the next page of the auction by clicking on the page button at the bottom of each page. There will also be "Previous page" and "Next page" links above the first item on the top of each page.</p>
-	<p>If you would like to narrow your search to items of a special category, you can go to the Auction Details page and click on the category that interests you. That way, you will only see items that we have placed in that category. You may also enter a word into the search box at the top of the Auction Details page and all items with the word entered will appear.</p>
+	<p>Next, click on the CLICK HERE TO BID link. This will show you the items in the auction. There will usually be 50 displayed per page. Scroll down to view all 50 items on the page. You can also click on the small photo of the item to enlarge that photo and also to see other photos of that item. When you have looked at all 50 items, then advance to the next page of the auction by clicking on the page button at the bottom of each page. There are also "Previous page" and "Next page" links above the first item at the top of each page.</p>
+	<p>If you would like to narrow your search to items of a special category, you can go to the Auction Details page and click on the category that interests you. That way, you will only see items that we have placed in that category. You may also enter a word into the search box at the top of the Auction Details page and all items with the word will appear.</p>
 
 <h2>Bid Increments</h2>
-	<p>Our software will tell you what the minimum required bid is on every item. Basically, when the bids are low, so are the required bid amounts. When the bid is high, the required bids are also higher. The chart below shows the required bid increments:</p>
+	<p>Our software will tell you what the minimum required bid is on every item. Basically, when the bids are low, so are the required bid amounts. When the bid is high, the required bids are higher. The chart below shows the required bid increments:</p>
 
 	<table border="1" cellpadding="2" cellspacing="2" height="456" width="350">
 		<tbody>
 		<tr>
-		<td align="center">Current Price is at
-		least...</font></big></td>
+		<td align="center">Price</font></big></td>
 		<td align="center">Bid Increment</font></big></td>
 		</tr>
 		<tr>
-			<td align="center">$15</td>
+			<td align="center">$2</td>
 			<td align="center">$1</td>
 		</tr>
 		<tr>
-			<td align="center">$100</td>
+			<td align="center">$16</td>
 			<td align="center">$2.50</td>
 		</tr>
 		<tr>
-			<td align="center">$300</td>
+			<td align="center">$101</td>
 			<td align="center">$5</td>
 		</tr>
 		<tr>
-			<td align="center">$500 </td>
+			<td align="center">$301 </td>
 			<td align="center">$10</td>
 		</tr>
 		<tr>
-			<td align="center">$1,000</td>
+			<td align="center">$501</td>
 			<td align="center">$25</td>
 		</tr>
 		<tr>
-			<td align="center">$3,000</td>
+			<td align="center">$1,001</td>
 			<td align="center">$50</td>
 		</tr>
 		<tr>
-			<td align="center">$10,000</td>
+			<td align="center">$3,001</td>
 			<td align="center">$100</td>
 		</tr>
 		<tr>
-			<td align="center">$20,000</td>
+			<td align="center">$10,001</td>
 			<td align="center">$250</td>
 		</tr>
 		<tr>
-			<td align="center">$35,000</td>
+			<td align="center">$20,001</td>
 			<td align="center">$500</td>
 		</tr>
 		<tr>
@@ -81,22 +80,22 @@ Information</title>
 	<p>Our software will tell you what the next required bid is on any item. If someone outbids you, you will receive an email informing you of that fact; however, <span class="alert">no e-mail out bid notices will be sent after the auction starts to close</span>. Also, if you try to enter a bid that is less than the required amount, our system will advise you that your bid has not been accepted.</p>
 
 <h2>Maximum Bids</h2>
-	<p>You may enter the largest amount you are willing to pay for an item in the Max Bid box. The amount entered must be at least equal to the next required bid. The auction system will place the lowest bid necessary, and then will bid on your behalf in predetermined increments up to the amount of your Max Bid. You may increase your Max Bid, but no decreases are allowed. There is a link to the increments at the bottom of each bidding page. If two people each place a Max Bid, then the higher Max Bid cancels out the lower Max Bid, even if the difference is as small as one penny.</p>
+	<p>You may enter the largest amount you are willing to pay for an item in the Max Bid box. The amount entered must be at least equal to the next required bid. Our auction software will place the lowest bid necessary, and then will bid on your behalf in predetermined increments up to the amount of your Max Bid. You may increase your Max Bid, but no decreases are allowed. There is a link to the increments at the bottom of each bidding page. If two people each place a Max Bid, then the higher Max Bid cancels out the lower Max Bid, even if the difference is as small as one penny.</p>
 
 <h2>Auction Closing Times / Refresh Browser To See Current Bid</h2>
-	<p>Our online auctions close at the rate of ten items per minute, starting at the time given on the main page for the auction that is closing. For example, if the scheduled closing time is 7:30 p.m., items 1-10 will close at 7:30 p.m., items 11-20 will close at 7:31 p.m., and so on until all items have closed. <span class="alert">After the auction starts to close, no "You're been outbid" e-mails are sent</span>. To make sure you are aware of the current bid amount during closing, you should <span class="alert">refresh your browser frequently</span>. If you fail to do that, your own screen may not show the correct total. In other words, you may think you are the high bidder when you are not.</p>
+	<p>Our online auctions close at the rate of ten items per minute, starting at the time given on the main page for the auction that is closing. For example, if the scheduled closing time is 7:30 p.m.; items 1-10 will close at 7:30 p.m.; items 11-20 will close at 7:31 p.m., and so on until all items have closed. <span class="alert">After the auction starts to close, no "You're been outbid" e-mails are sent</span>. To make sure you are aware of the current bid amount during closing, you should <span class="alert">refresh your browser frequently</span>. If you fail to do that, your own screen may not show the correct total. In other words, you may think you are the high bidder when you are not.</p>
 
 <h2>Bidding Time Extension</h2>
-	<p>Bidding remains open on any item for a minimum of two minutes and a maximum of three minutes from the last recorded bid time on that item, even if the scheduled closing time has been reached for that item. These closing-time extensions continue until no new bid is placed during the extended bidding time. This feature makes online bidding more like bidding at a live auction. You can always put in a Max Bid (see above) so you don't have to worry about bidding at the end of the auction. Note: Our site records the time of a bid as Eastern Time (ET). All other times are in Central Time.</p>
+	<p>Bidding remains open on any item for a minimum of two minutes and a maximum of three minutes from the last recorded bid time on that item, even if the scheduled closing time has been reached for that item. These closing-time extensions continue until no new bid is placed during the extended bidding time. This feature makes online bidding more like bidding at a live auction. You can always put in a Max Bid (see above) so you don't have to worry about bidding at the end of the auction. Note: Our software records the time of a bid as Eastern Time (ET). All other times are in Central Time.</p>
 
 <h2>Buyer's Premium</h2>
-	<p>Buyers pay a 15% buyer's premium on all auction purchases after receiving a 3% discount for paying with cash or check. The buyer's premium is taxable.</p>
+	<p>Buyers pay a 15% buyer's premium on all auction purchases. An addition of 3% is charged for paying with a credit card. The buyer's premium is taxable.</p>
 
 <h2>Invoices</h2>
 	<p>High bidders will receive an e-mailed invoice by 12 p.m. the day after the auction closes. We will also have a copy of the invoice at the pick-up location.</p>
 
 <h2>Loading</h2>
-	<p>Please note that the staff at AAA Auction is not authorized to help customers load or unload their items. However, if someone from AAA Auction volunteers to assist you with loading or unloading, you agree to hold that person and AAA Auction harmless for any injury or damages as a result.</p>
+	<p>Please note that the staff at AAA Auction is not authorized to help customers load or unload their items. However, if someone from AAA Auction volunteers to assist you with loading or unloading, you agree to hold that person and AAA Auction harmless for any injury or damages that may result.</p>
 
 <div id="Footer"><!--#include file="footer.ssi"-->
 </div>
