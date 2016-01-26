@@ -8,6 +8,7 @@
 <div id="Content">
 <div id="Header"><!--#include file="header.ssi"--></div>
 
+<article>
 <h1>Selling Tips</h1>
 
 <p>Often sellers do not know the best way for them to sell their items. When that happens we are happy to review with you, your needs and your items and make a recommendation. We often begin by asking you to send us photographs. This can sometimes determine whether an in-person visit would be helpful.</p>
@@ -34,111 +35,103 @@
 
 <p><a href="http://www.auctionmn.com/contact.shtml">Contact us to consign items</a> for an upcoming auction.</p>
 
-<table border="3" cellpadding="2" cellspacing="2" width="80%">
-<tbody>
-<tr>
-<td align="undefined" valign="top" width="50%">
-<a id="consignment_items" name="consignment_items"></a>
-<h2><span style="color: rgb(0, 153, 0);">Good
-Consignment Items</span></h2>
-<br>
-Advertising<br> 
-Ammunition<br>
-Antiques<br>
-Art<br>
-ATVs<br>
-Autographs<br>
-Beer Items (Breweriana)<br>
-Boats<br>
-Canoes<br>
-Cars<br>
-Clocks, Vintage<br>
-Coins<br>
-Collectibles<br>
-Decoys<br>
-Ephemera<br>
-Equipment<br>
-Fishing<br>
-Furniture, Good Newer<br>
-Gasoline Items<br>
-Gold and Silver<br>
-Guns<br>
-Hunting<br>
-Jewelry<br>
-Kayaks<br>
-Lawn Mowers<br>
-Military Items<br>
-Motorcycles<br>
-Motors, Outboard<br>
-Pottery<br>
-Primitives<br>
-Records<br>
-Signs, Old<br>
-Signs<br> 
-Snowblowers<br>
-Snowmobiles<br>
-Stoneware, Name-brand<br>
-Tools, Power<br>
-Tools<br>
-Toys, Old<br>
-Toys, Vintage<br>
-Trucks<br>
-WWI<br>
-WWII<br>
-<br>
-</td>
-<td align="undefined" valign="top" width="50%">
-<h2><span style="color: rgb(204, 0, 0);">Not
-So Good
-Consignment Items</span></h2>
-<br>
-These items generally do not sell well. If you do see any of these at our
-auctions, it is probably because we have agreed to do
-an entire estate auction and sell everything for our
-client.<br>
-Appliances, Kitchen<br>
-Appliances, Large<br>
-Appliances, Used<br>
-Blankets<br>
-Bowling Balls<br>
-Chemicals<br>
-Christmas Trees, Artificial<br>
-Cleaning Supplies<br>
-Clothing (unless vintage, collectible, or high end)<br>
-Computer Desks<br>
-Computers, Desktop<br>
-Consoles<br>
-Crutches and Walkers<br>
-Dinner and Drink Ware<br>
-Electronics with Missing Parts<br>
-Entertainment Centers<br>
-Exercise Equipment<br>
-Fax Machines<br>
-Fruit Jars, Clear<br>
-Furniture, Dirty or Damaged<br>
-Furniture, Particle Board<br>
-Furniture, Upholstered<br>
-Garage Sale Items<br>
-Glassware<br>
-Ice Skates<br>
-Ironing Boards<br>
-Luggage (unless high end or newer)<br>
-Mattresses, Used<br>
-National Geographic Magazines<br>
-Paint<br>
-Pots and Pans<br>
-Printers<br>
-Tins<br>
-Tires, Used<br>
-Towels<br>
-Treadmills<br>
-TVs (unless they are LCD, LED, or plasma)<br>
-Vacuums<br>
-VHS Tapes
+<h2><span style="color: rgb(0, 153, 0);">Good Consignment Items</span></h2>
+<ul>
+	<li>Advertising </li>
+	<li>Ammunition</li>
+	<li>Antiques</li>
+	<li>Art</li>
+	<li>ATVs</li>
+	<li>Autographs</li>
+	<li>Beer Items (Breweriana)</li>
+	<li>Boats</li>
+	<li>Canoes</li>
+	<li>Cars</li>
+	<li>Clocks, Vintage</li>
+	<li>Coins</li>
+	<li>Collectibles</li>
+	<li>Decoys</li>
+	<li>Ephemera</li>
+	<li>Equipment</li>
+	<li>Fishing</li>
+	<li>Furniture, Good Newer</li>
+	<li>Gasoline Items</li>
+	<li>Gold and Silver</li>
+	<li>Guns</li>
+	<li>Hunting</li>
+	<li>Jewelry</li>
+	<li>Kayaks</li>
+	<li>Lawn Mowers</li>
+	<li>Military Items</li>
+	<li>Motorcycles</li>
+	<li>Motors, Outboard</li>
+	<li>Pottery</li>
+	<li>Primitives</li>
+	<li>Records</li>
+	<li>Signs, Old</li>
+	<li>Signs </li>
+	<li>Snowblowers</li>
+	<li>Snowmobiles</li>
+	<li>Stoneware, Name-brand</li>
+	<li>Tools, Power</li>
+	<li>Tools</li>
+	<li>Toys, Old</li>
+	<li>Toys, Vintage</li>
+	<li>Trucks</li>
+	<li>WWI</li>
+	<li>WWII</li>
+</ul>
+
+<h2><span style="color: rgb(204, 0, 0);">Not So Good Consignment Items</span></h2>
+<p>These items generally do not sell well. If you do see any of these at our auctions, it is probably because we have agreed to do an entire estate auction and sell everything for our client.</p>
+<ul>
+	<li>Appliances, Kitchen</li>
+	<li>Appliances, Large</li>
+	<li>Appliances, Used</li>
+	<li>Blankets</li>
+	<li>Bowling Balls</li>
+	<li>Chemicals</li>
+	<li>Christmas Trees, Artificial</li>
+	<li>Cleaning Supplies</li>
+	<li>Clothing (unless vintage, collectible, or high end)</li>
+	<li>Computer Desks</li>
+	<li>Computers, Desktop</li>
+	<li>Consoles</li>
+	<li>Crutches and Walkers</li>
+	<li>Dinner and Drink Ware</li>
+	<li>Electronics with Missing Parts</li>
+	<li>Entertainment Centers</li>
+	<li>Exercise Equipment</li>
+	<li>Fax Machines</li>
+	<li>Fruit Jars, Clear</li>
+	<li>Furniture, Dirty or Damaged</li>
+	<li>Furniture, Particle Board</li>
+	<li>Furniture, Upholstered</li>
+	<li>Garage Sale Items</li>
+	<li>Glassware</li>
+	<li>Ice Skates</li>
+	<li>Ironing Boards</li>
+	<li>Luggage (unless high end or newer)</li>
+	<li>Mattresses, Used</li>
+	<li>National Geographic Magazines</li>
+	<li>Paint</li>
+	<li>Pots and Pans</li>
+	<li>Printers</li>
+	<li>Tins</li>
+	<li>Tires, Used</li>
+	<li>Towels</li>
+	<li>Treadmills</li>
+	<li>TVs (unless they are LCD, LED, or plasma)</li>
+	<li>Vacuums</li>
+	<li>VHS Tapes</li>
+</ul>
 </td>
 </tr>
 </tbody>
 </table>
+
+</article>
+
 <div id="Footer"></div>
 </div>
 <div id="Menu">

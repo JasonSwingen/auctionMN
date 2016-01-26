@@ -10,6 +10,7 @@ Information</title>
 <body>
 <div id="Content">
 <div id="Header"><!--#include file="header.ssi"--></div>
+<article>
 
 <h1>How To Bid Online</h1>
 
@@ -27,51 +28,51 @@ Information</title>
 <h2>Bid Increments</h2>
 	<p>Our software will tell you what the minimum required bid is on every item. Basically, when the bids are low, so are the required bid amounts. When the bid is high, the required bids are higher. The chart below shows the required bid increments:</p>
 
-	<table border="1" cellpadding="2" cellspacing="2" height="456" width="350">
+	<table border="1">
 		<tbody>
 		<tr>
-		<td align="center">Price</font></big></td>
-		<td align="center">Bid Increment</font></big></td>
+			<th>Price</th>
+			<th>Bid Increment</th>
 		</tr>
 		<tr>
-			<td align="center">$2</td>
-			<td align="center">$1</td>
+			<td>$2</td>
+			<td>$1</td>
 		</tr>
 		<tr>
-			<td align="center">$16</td>
-			<td align="center">$2.50</td>
+			<td>$16</td>
+			<td>$2.50</td>
 		</tr>
 		<tr>
-			<td align="center">$101</td>
-			<td align="center">$5</td>
+			<td>$101</td>
+			<td>$5</td>
 		</tr>
 		<tr>
-			<td align="center">$301 </td>
-			<td align="center">$10</td>
+			<td>$301 </td>
+			<td>$10</td>
 		</tr>
 		<tr>
-			<td align="center">$501</td>
-			<td align="center">$25</td>
+			<td>$501</td>
+			<td>$25</td>
 		</tr>
 		<tr>
-			<td align="center">$1,001</td>
-			<td align="center">$50</td>
+			<td>$1,001</td>
+			<td>$50</td>
 		</tr>
 		<tr>
-			<td align="center">$3,001</td>
-			<td align="center">$100</td>
+			<td>$3,001</td>
+			<td>$100</td>
 		</tr>
 		<tr>
-			<td align="center">$10,001</td>
-			<td align="center">$250</td>
+			<td>$10,001</td>
+			<td>$250</td>
 		</tr>
 		<tr>
-			<td align="center">$20,001</td>
-			<td align="center">$500</td>
+			<td>$20,001</td>
+			<td>$500</td>
 		</tr>
 		<tr>
-			<td align="center">Over $35,000</td>
-			<td align="center">$1,000</td>
+			<td>Over $35,000</td>
+			<td>$1,000</td>
 		</tr>
 		</tbody>
 	</table>
@@ -96,6 +97,8 @@ Information</title>
 
 <h2>Loading</h2>
 	<p>Please note that the staff at AAA Auction is not authorized to help customers load or unload their items. However, if someone from AAA Auction volunteers to assist you with loading or unloading, you agree to hold that person and AAA Auction harmless for any injury or damages that may result.</p>
+
+</article>
 
 <div id="Footer"><!--#include file="footer.ssi"-->
 </div>

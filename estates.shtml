@@ -10,20 +10,14 @@
 <div id="Content">
 <div id="Header"><!--#include file="header.ssi"-->
 </div>
-<big><b><big>Estate Auctions</big></b><br>
-</big><big>If an estate auction fits your needs best, our
-experienced
-staff will conduct one for you at your location, or we can&nbsp;
-transport your items to the AAA Auction and Estate Center for a live
-auction or online auction. We have plenty of room inside for your items
-and outside for parking. The AAA Auction and Estate Center is at 7129
-Highway 10 NW, at the intersection of Highway 10 NW and Ramsey
-Boulevard in Ramsey.<br>
-<br>
-<big><b>We Buy Estates</b></big><br>
-We
-are also happy to make an offer on a whole estate if you would rather
-liquidate an estate right away. We also buy single items.</big>
+
+<article>
+	<h1>Estate Auctions</h1>
+		<p>If an estate auction fits your needs best, our experienced staff will conduct one for you at your location, or we can transport your items to the AAA Auction and Estate Center for a live auction or online auction. We have plenty of room inside for your items and outside for parking.</p>
+	<h1>We Buy Estates</h1>
+	<p>We are also happy to make an offer on a whole estate if you would rather liquidate an estate right away. We also buy single items.</p>
+</article>
+
 <div id="Footer"><!--#include file="footer.ssi"-->
 </div>
 </div>

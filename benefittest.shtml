@@ -9,373 +9,108 @@
 <body>
 <div id="Content">
 <div id="Header"><!--#include file="header.ssi"--></div>
-<h1>Our Clients Say It Best...
-</h1>
-<p><b>Tina Stofferahn</b><br>
-<span style="font-style: italic;">
-I cannot possibly thank you enough for all your help in making the 2015 gala such a success! Thank you again for all your help with the gala this year! You do a wonderful job and we definitely would not be as successful without you!
-<br>
-</span></p>
-<p><b>Jill Munsinger</b><br>
-<span style="font-style: italic;">Thanks Tony
-&#8211; coming from you, who have attended countless numbers of these events
-&#8211;
-your
-feedback is extremely appreciated! We certainly wouldn&#8217;t be as
-successful as we are if we didn&#8217;t have you in the picture. We have
-heard nothing but great comments on your leading us through the auction
-and fund-a-need. Again &#8211; it is our pleasure to work with you!<br>
-</span></p>
-<p><b>Asher Tristani, Online Auction Consignor</b><br>
-<span style="font-style: italic;">Denise, the
-auction just ended for my first coin lot.&nbsp; I am very pleased
-with the
-results. The prices realized were right where I wanted them to be -
-numismatic
-coin value. I want to say Thank You to you and your staff
-(please tell them for me). You guys did a great job. I appreciate it.<br>
-</span></p>
-<p><b>Martha Weaver, Chairperson of the Board of Directors
-for Youth First
-</b><br>
-<span style="font-style: italic;">
-Tony, your presence made all the difference in the world! Our annual
-program had always been successful in raising support for Youth First,
-but with your gift of communicating a need and engaging the audience,
-we raised three times more than usual! Thanks, Tony, for your passion
-for the program and special touch that put this year's Annual Mayors'
-Prayer Breakfast over the top!
-</span></p>
-<p><b>
-T.M. from Maple Grove
-</b><br>
-<span style="font-style: italic;">Denise, thanks for your
-prompt
-service in sending the check for the estate. And I also appreciate how
-thorough the voucher is. I like the good records that you and the
-auction company obviously keep. Put it all together and it adds up to
-me being glad to use your service in liquidating the Estate's personal
-property. </span>
+
+<article>
+
+<h1>Our Clients Say It Best...</h1>
+
+<h2>Tina Stofferah</h2>
+	<blockquote>I cannot possibly thank you enough for all your help in making the 2015 gala such a success! Thank you again for all your help with the gala this year! You do a wonderful job and we definitely would not be as successful without you!</blockquote>
+
+<h2>Jill Munsinger</h2>
+	<blockquote>Thanks Tony - coming from you, who have attended countless numbers of these events your feedback is extremely appreciated! We certainly wouldn't be as successful as we are if we didn't have you in the picture. We have heard nothing but great comments on your leading us through the auction and fund-a-need. Again - it is our pleasure to work with you!</blockquote>
+
+<h2>Asher Tristani, Online Auction Consignor</h2>
+	<blockquote>Denise, the auction just ended for my first coin lot.&nbsp; I am very pleased with the results. The prices realized were right where I wanted them to be - numismatic coin value. I want to say Thank You to you and your staff (please tell them for me). You guys did a great job. I appreciate it</blockquote>
+
+<h2>Martha Weaver, Chairperson of the Board of Directors for Youth First</h2>
+	<blockquote>Tony, your presence made all the difference in the world! Our annual program had always been successful in raising support for Youth First, but with your gift of communicating a need and engaging the audience, we raised three times more than usual! Thanks, Tony, for your passion for the program and special touch that put this year's Annual Mayors' Prayer Breakfast over the top!</blockquote>
+
+<h2>T.M. from Maple Grove</h2>
+	<blockquote>Denise, thanks for your prompt service in sending the check for the estate. And I also appreciate how thorough the voucher is. I like the good records that you and the auction company obviously keep. Put it all together and it adds up to me being glad to use your service in liquidating the Estate's personal property.</blockquote>
+
+<h2>Tom Weaver, CEO of Achieve Services</h2>
+	<blockquote>As the CEO of Achieve Services, Inc. in Anoka County, I want to thank you for a fantastic auction. Thanks to your exceptional auction skills and persuasive approach during our Fund-a-Need, we far surpassed our goals. Too bad we have to wait a whole year to hold another gala and auction. Thanks again for a fun and profitable auction. You are a total ROCK STAR!!!</blockquote>
+
+<h2>Rick Ruprecht, Horizons Hunting and Fishing Ministry Wild Game Dinner and Revival</h2>
+	<blockquote>Wow, what a show! Many people came up to me afterwards and said that auctioneer was great. Thank you Tony for a fantastic job. We had no idea that the auction could be so successful and also be so much fun. Everyone loved your Auctioneer song too. Thanks again.</blockquote>
+
+<h2>P. Y.</h2>
+	<blockquote>I just received my 2nd check from you for money that you found in my Aunt's personal belongings. The first check was quite a surprise, but the second one was amazing - thank you for being such an honest person and company.</blockquote>
+
+<h2>Colleen Pederson, Spring Lake Park Panther Foundation</h2>
+	<blockquote>Tony has been an essential part of our fund-raising event team. I cannot say enough about the passion and energy he brings to our auction year after year. He believes in our purpose and does everything he can to make our auction a success.</blockquote>
+
+<h2>Jill Munsinger, St. John the Baptist Church and School Benefit Auction</h2>
+	<blockquote>Tony - Once again - you and your ring men were stellar in getting our crowd engaged and involved in the great auction items and most importantly, funding the science lab during our Wines to Wishes event. What you have done for our event and the school is simply remarkable. When I saw fund-a-need rolling as well as you predicted - it gave me goose bumps! I'd love to know how you were so confident we would be able to raise the money, given the bar was a good 5-6k higher than we raised last year!!! Regardless, you did it and I can't thank you enough! Again it was a pleasure to work with you - thanks for all of your great insight and guidance in getting us through the evening. We look forward to working with you again in 2014.</blockquote>
+
+<h2>Stacey Buchanan, Anoka Rotary Benefit Auction</h2>
+	<blockquote>Tony did a fabulous job. We truly appreciate his dedication and integrity. He helped Anoka Rotary have their best year ever for fund-raising since we started. Tony and his team acted very professionally and we would love the opportunity to work with him again.</blockquote>
+
+<h2> Gary Campbell, Anoka Rotary Benefit Auction</h2>
+	<blockquote>Tony auctioneered our Anniversary Dinner live auction and did a wonderful job. His humor and auction expertise allows us to achieve the best results we have ever had for this event. We, at Anoka Rotary would highly recommend his skill and his integrity.</blockquote>
+
+<h2>Gary and Judy Anderson, Estate Liquidation</h2>
+	<blockquote>Tony, a thousand thanks go to you and your crew! You all were dependable, prompt, and courteous. You gave us extremely fast service when we needed you....a real godsend.</blockquote>
+
+<h2>Brandon Sochor, Storage Vault Auction</h2>
+	<blockquote>Thank you for holding the storage unit auction that took place at AAA Movers a few weeks back. I was, to the best of my knowledge, the only buyer there that had been to a vault auction at this location in the past. As owner of a very large eBay store, The_Professor_Brandon, I go to auctions, storage units, estate, household auctions on a weekly basis as well as buy out many stores each year. The way you ran the auction, I was very impressed. You had a reasonable crowd, the right buyers, pulled reasonable prices, and ran it very professionally. This, compared to the other vault auctions I've been to was done very well and was a pleasure to go to.</blockquote>
+
+<h2>J. M., St. John the Baptist Benefit Auction</h2>
+	<blockquote>Tony - two simple words - that carry so much meaning - THANK YOU! What you did for St. John the Baptist school and our Wines to Wishes event was amazing! Not to mention all the guidance and spot on advice you provided me personally leading into the event. We knew going in that you would be great, but the compliments keep coming in as to your ability to come in and command the attention of the crowd, be entertaining, and do a fabulous job for the event and school. Can't thank you enough! -- and I'm looking forward to your feedback -- as I know we can continue to improve. We'll be in contact soon.</blockquote>
+
+<h2>Len and Joyce K., Online Estate Auction</h2>
+	<blockquote>Tony, we want to thank you for our online auction! You taught us about something we knew nothing about. All things happened just like you said they would. You and your team were a delight to work with - they did the work and we watched. In the end all things were sold and we made more money than we expected. Thank you! We have already recommended you to our friends.</blockquote>
+
+<h2>Liza M. Anderson Schmid, ZOOM House Board</h2>
+	<blockquote>What a night! The ZOOM House Benefit was held on a balmy April evening at Jax Cafe in Northeast Minneapolis and it was a grand success. Hearts were moved to make a difference in the lives of the families living at ZOOM House in a way that guarantees the program will continue for years to come. You gave us a quick lesson in "auctioneer speak" (can you say Betty's better butter made her bitter batter better, ten times, fast?). You quickly led the bidding through the dozen items in the live auction and on to the highlight of the evening - the Fund A Need. Thank you for sharing your gifts with us and helping to make this evening a huge success. You made a huge difference in our evening and in the lives of the residents of ZOOM House.</blockquote>
+
+<h2>Rick and Betty Piper, Personal Property Auction</h2>
+	<blockquote>I wanted to say that we were very satisfied with your auction services. Numerous people commented to us about your professionalism and how fun it was to be there. We were especially impressed with how you often thanked the crowd for coming to our auction.</blockquote>
+
 </p>
-<p><b>
-Tom Weaver, CEO of Achieve Services
-</b><br>
-<span style="font-style: italic;">
-As the CEO of Achieve Services, Inc. in Anoka County, I want to thank
-you for a fantastic auction. Thanks to your exceptional auction skills
-and persuasive approach during our Fund-a-Need, we far surpassed our
-goals. Too bad we have to wait a whole year to hold another gala and
-auction. Thanks again for a fun and profitable auction. You are a total
-ROCK STAR!!!
-</span></p>
-<p><b>
-Rick Ruprecht, Horizons Hunting and Fishing Ministry Wild Game Dinner
-and Revival
-</b><br>
-<span style="font-style: italic;">Wow, what a show! Many
-people came up
-to me afterwards and said that auctioneer was great. Thank you Tony for
-a fantastic job. We had no idea that the auction could be so successful
-and also be so much fun. Everyone loved your Auctioneer song too.
-Thanks again.
-</span></p>
-<p><b>
-P. Y.
-</b><br>
-<span style="font-style: italic;">I just received my 2nd
-check from you
-for money that you found in my Aunt's personal belongings. The first
-check was quite a surprise, but the second one was amazing - thank you
-for being such an honest person and company.
-</span></p>
-<p><b>
-Colleen Pederson, Spring Lake Park Panther Foundation
-</b><br>
-<span style="font-style: italic;">Tony has been an
-essential part of
-our fund-raising event team. I cannot say enough about the passion and
-energy he brings to our auction year after year. He believes in our
-purpose and does everything he can to make our auction a success.
-</span></p>
-<p><b>
-Jill Munsinger, St. John the Baptist Church and School Benefit Auction
-</b><br>
-<span style="font-style: italic;">
-Tony -
-<br>
-Once again &#8211; you and your ring men were stellar in getting our
-crowd engaged and involved in the great auction items and most
-importantly, funding the science lab during our Wines to Wishes event.
-What you have done for our event and the school is simply remarkable.
-When I saw fund-a-need rolling as well as you predicted &#8211; it gave me
-goose bumps! I'd love to know how you were so confident we would be
-able to raise the money, given the bar was a good 5-6k higher than we
-raised last year!!! Regardless, you did it and I can't thank you
-enough! <br>
-<br>
-Again it was a pleasure to work with you &#8211; thanks for all of your great
-insight and guidance in getting us through the evening. We look forward
-to working with you again in 2014.
-</span></p>
-<p><b>
-Stacey Buchanan, Anoka Rotary Benefit Auction
-</b><br>
-<span style="font-style: italic;">Tony did a fabulous job.
-We truly
-appreciate his dedication and integrity. He helped Anoka Rotary have
-their best year ever for fundraising since we started. Tony and his
-team acted very professionally and we would love the opportunity to
-work with him again.
-</span></p>
-<p><b>
-Gary Campbell, Anoka Rotary Benefit Auction
-</b><br>
-<span style="font-style: italic;">Tony auctioneered our
-Anniversary
-Dinner live auction and did a wonderful job. His humor and auction
-expertise allows us to achieve the best results we have ever had for
-this event. We, at Anoka Rotary would highly recommend his skill and
-his integrity.
-</span></p>
-<p><b>
-Gary and Judy Anderson, Estate Liquidation
-</b><br>
-<span style="font-style: italic;">Tony, a thousand thanks
-go to you and
-your crew! You all were dependable, prompt, and courteous. You gave us
-extremely fast service when we needed you....a real godsend.
-</span></p>
-<p><b>
-Brandon Sochor, Storage Vault Auction
-</b><br>
-<span style="font-style: italic;">Thank you for holding
-the storage
-unit auction that took place at AAA Movers a few weeks back. I was, to
-the best of my knowledge, the only buyer there that had been to a vault
-auction at this location in the past. As owner of a very large eBay
-store, The_Professor_Brandon, I go to auctions, storage units, estate,
-household auctions on a weekly basis as well as buy out many stores
-each year. The way you ran the auction, I was very impressed. You had a
-reasonable crowd, the right buyers, pulled reasonable prices, and ran
-it very professionally. This, compared to the other vault auctions I've
-been to was done very well and was a pleasure to go to.
-</span></p>
-<p><b>
-J. M., St. John the Baptist Benefit Auction
-</b><br>
-<span style="font-style: italic;">
-Tony &#8211; two simple words &#8211; that carry so much meaning &#8211; THANK YOU!
-<br>
-<br>
-What you did for St. John the Baptist school and our Wines to
-Wishes event was amazing! Not to mention all the guidance and spot on
-advice you provided me personally leading into the event. We knew going
-in that you would be great, but the compliments keep coming in as to
-your ability to come in and command the attention of the crowd, be
-entertaining, and do a fabulous job for the event and school. Can't
-thank you enough! -- and I'm looking forward to your feedback -- as I
-know we can continue to improve. We'll be in contact soon.
-</span></p>
-<p><b>
-Len and Joyce K., Online Estate Auction
-</b><br>
-<span style="font-style: italic;">Tony, we want to thank
-you for our
-online auction! You taught us about something we knew nothing about.
-All things happened just like you said they would. You and your team
-were a delight to work with - they did the work and we watched. In the
-end all things were sold and we made more money than we expected. Thank
-you! We have already recommended you to our friends.
-</span></p>
-<p><b>
-Liza M. Anderson Schmid, ZOOM House Board
-</b><br>
-<span style="font-style: italic;">What a night! The ZOOM
-House Benefit
-was held on a balmy April evening at Jax Cafe in Northeast Minneapolis
-and it was a grand success. Hearts were moved to make a difference in
-the lives of the families living at ZOOM House in a way that guarantees
-the program will continue for years to come.
-<br>
-<br>
-You gave us a quick lesson in "auctioneer speak" (can you say
-Betty's better butter made her bitter batter better, ten times, fast?).
-You quickly led the bidding through the dozen items in the live auction
-and on to the highlight of the evening - the Fund A Need.
-<br>
-<br>
-Thank you for sharing your gifts with us and helping to make
-this evening a huge success. You made a huge difference in our evening
-and in the lives of the residents of ZOOM House.
-</span></p>
-<p><b>
-Rick and Betty Piper, Personal Property Auction
-</b><br>
-<span style="font-style: italic;">I wanted to say that we
-were very
-satisfied with your auction services. Numerous people commented to us
-about your professionalism and how fun it was to be there. We were
-especially impressed with how you often thanked the crowd for coming to
-our auction. </span>
-</p>
-<p><b>
-Pat Terry, Estate Auction
-</b><br>
-<span style="font-style: italic;">
-I wanted to say thanks for the excellent job that your auction company
-did for our family. You and your staff did everything possible to make
-our estate sale a success. The combination of your auction center and
-on-line auction helped us sell all the items. I want to thank you for
-keeping us clearly informed of each step of the process, not having
-been through this before.
-</span></p>
-<p><b>
-Ed Krumme, Panther Foundation Gala, Spring Lake Park Schools
-</b><br>
-<span style="font-style: italic;">
-Thank you for auctioneering for the Panther Foundation Gala.
-<br>
-<br>
-As a former auctioneer, I understand and appreciate the way you
-connected with the crowd to bring out the best bids! Your savvy memory
-serves you well in remembering folks from the last time your
-auctioneered two years ago and that brought a personal touch to the
-evening.
-<br>
-<br>
-Your idea of bringing the head football coach in to interact
-with the crowd at the optimum time during the bidding process made all
-the difference in obtaining the values we got for that item. It is this
-type of activity that sets you apart from your competition.
-</span></p>
-<p><b>
-Beth C. Olds, Personal Property Auction
-</b><br>
-<span style="font-style: italic;">Tony was prompt at
-dealing with all
-aspects of the auction. He and his staff were knowledgeable and
-helpful. They cleaned up the area after the auction. I recommend AAA
-Auction and Realty to others who plan to have a personal property
-auction.
-</span></p>
-<p><b>
-Bob Simpson, Personal Property Auction
-</b><br>
-<span style="font-style: italic;">
-Dear Tony:
-<br>
-Thank you very much for the terrific job you and your staff did at
-my auction! Even though Mother Nature tried to soak the auction, the
-buyers were very happy that you brought walled tents to protect them
-from the wind and rain. We also had a great auction turnout thanks to
-your marketing and the friendly way you do business. Thanks again!
-</span></p>
-<p><b>
-Annette Grillo, Sale of House and Personal Property
-</b><br>
-<span style="font-style: italic;">I do not have the words
-to say how
-much I would like to thank you or to describe my admiration of you as a
-wonderful person. All the work you have done for us was incredible to
-watch. Thank you isn't enough from us. I hope we bump into you again
-another day somehow.
-</span></p>
-<p><b>
-Marilyn K. Speedie, Ph.D.
-<br>
-Dean, University of Minnesota College of Pharmacy
-</b><br>
-<span style="font-style: italic;">Thank you for a great
-job at the
-auction on Friday night. Tony was a great auctioneer! He kept
-everyone's attention throughout the whole thing and items were selling
-as well at the end of the evening as at the beginning. He was
-entertaining and his timing was exquisite so that bids sometimes kept
-going up even after one thought they were finished. He raised t most
-money ever - and for a great cause. Thanks, Tony!
-</span>(I am pleased to be able to work from time to time
-assisting
-Glen Fladaboe with his benefit auctions. These kind words from Marilyn
-K. Speedie followed an auction I did for Glen. -
-<span style="font-style: italic;">Tony
-</span>)
-</p>
-<p><b>
-Pat Novacek, Mercy Academy
-</b><br>
-<span style="font-style: italic;">Many of our guests came
-back [this
-year] because you provided them with a thoroughly entertaining evening
-[last year]. Your enthusiasm is contagious and everyone had a great
-time. We are certain that your professionalism, talent, wit, and
-enthusiasm brought more money for the school. Having you as our
-auctioneer assures us of a successful event.
-</span></p>
-<p><b>
-Laura Hudson, Church of St. Stephen, Anoka, Minnesota
-</b><br>
-<span style="font-style: italic;">You did a fantastic job.
-Your energy
-was outstanding and your many creative approaches produced higher bids
-which made the auction more successful that it has been in the past.
-You have a very pleasant and enjoyable style and you were very
-entertaining to everyone present. The people who attended have told
-their friends that this is an event that should not be missed.
-</span></p>
-<p><b>
-Chris Murphy, Woodbury Public Safety Board Liaison
-</b><br>
-<span style="font-style: italic;">You helped make this
-year's event the
-most profitable one yet. You were able to get the crowd involved and
-people really enjoyed bidding in the live auction. We made more money
-from the few items we auctioned off then we did from the rest of the
-fund raising events combined! We heard nothing but positive feedback on
-you and your employees.
-</span></p>
-<p><b>
-Cheryl Kish, Anoka Technical College Foundation
-</b><br>
-<span style="font-style: italic;">Tony did an outstanding
-job and I
-would strongly recommend him to other organizations. Tony engaged our
-guests and got them involved in bidding. I heard many positive comments
-on Tony's ability to keep the crowd involved and to keep the auction
-moving quickly. He made the auction fun! The profits for our live
-auction this year were much higher than previous years with the use of
-Tony as our auctioneer.
-</span></p>
-<p><b>
-Evelyn Gedde, Anoka-Ramsey Community College Campus Foundation-Coon
-Rapids Campus
-</b><br>
-<span style="font-style: italic;">Colonel Tony Elfelt is
-more than an
-auctioneer&#8212;he is an entertainer. His opening rendition of [LeRoy
-VanDyke's] "The Auctioneer" captivates the bidders. Then he delves into
-the auction with an exceptional level of sophistication and warmth.
-Behind the scenes, he is as personable and helpful as he is on stage.
-</span></p>
-<p><b>
-Mary Lufkin Batinich, Children's Surgery International
-</b><br>
-<span style="font-style: italic;">Tony Elfelt was a
-lively,
-motivational, and fun auctioneer that really energized the life auction
-portion of our Children's Surgery International Gala. He really knows
-how to get the crowd involved and, most importantly, made everyone want
-to participate in the auction.
-</span></p>
-<p><b>
-Mike Wock and Larry Morelli, St. Croix Valley Minnesota Deer Hunter's
-Association
-</b><br>
-<span style="font-style: italic;">Due largely to your
-auctioneering
-skill, determination and demeanor, our live auction was a huge success.
-You did an outstanding job and the auction results exceeded all of our
-financial expectations.
-</span></p>
+<h2>Pat Terry, Estate Auction</h2>
+	<blockquote>I wanted to say thanks for the excellent job that your auction company did for our family. You and your staff did everything possible to make our estate sale a success. The combination of your auction center and on-line auction helped us sell all the items. I want to thank you for keeping us clearly informed of each step of the process, not having been through this before.</blockquote>
+
+<h2>Ed Krumme, Panther Foundation Gala, Spring Lake Park Schools</h2>
+	<blockquote>Thank you for auctioneering for the Panther Foundation Gala. As a former auctioneer, I understand and appreciate the way you connected with the crowd to bring out the best bids! Your savvy memory serves you well in remembering folks from the last time your auctioneered two years ago and that brought a personal touch to the evening. Your idea of bringing the head football coach in to interact with the crowd at the optimum time during the bidding process made all the difference in obtaining the values we got for that item. It is this type of activity that sets you apart from your competition.</blockquote>
+
+<h2>Beth C. Olds, Personal Property Auction</h2>
+	<blockquote>Tony was prompt at dealing with all aspects of the auction. He and his staff were knowledgeable and helpful. They cleaned up the area after the auction. I recommend AAA Auction and Realty to others who plan to have a personal property auction.</blockquote>
+
+<h2>Bob Simpson, Personal Property Auction</h2>
+	<blockquote>Dear Tony: Thank you very much for the terrific job you and your staff did at my auction! Even though Mother Nature tried to soak the auction, the buyers were very happy that you brought walled tents to protect them from the wind and rain. We also had a great auction turnout thanks to your marketing and the friendly way you do business. Thanks again!</blockquote>
+
+<h2>Annette Grillo, Sale of House and Personal Property</h2>
+	<blockquote>I do not have the words to say how much I would like to thank you or to describe my admiration of you as a wonderful person. All the work you have done for us was incredible to watch. Thank you isn't enough from us. I hope we bump into you again another day somehow.</blockquote>
+
+<h2>Marilyn K. Speedie, Ph.D. Dean, University of Minnesota College of Pharmacy</h2>
+	<blockquote>Thank you for a great job at the auction on Friday night. Tony was a great auctioneer! He kept everyone's attention throughout the whole thing and items were selling as well at the end of the evening as at the beginning. He was entertaining and his timing was exquisite so that bids sometimes kept going up even after one thought they were finished. He raised t most money ever - and for a great cause. Thanks, Tony!</blockquote>
+	<p>I am pleased to be able to work from time to time assisting Glen Fladaboe with his benefit auctions. These kind words from Marilyn K. Speedie followed an auction I did for Glen. - Tony</p>
+	
+<h2>Pat Novacek, Mercy Academy</h2>
+	<blockquote>Many of our guests came back this year because you provided them with a thoroughly entertaining evening [last year]. Your enthusiasm is contagious and everyone had a great time. We are certain that your professionalism, talent, wit, and enthusiasm brought more money for the school. Having you as our auctioneer assures us of a successful event.</blockquote>
+
+<h2>Laura Hudson, Church of St. Stephen, Anoka, Minnesota</h2>
+	<blockquote>You did a fantastic job. Your energy was outstanding and your many creative approaches produced higher bids which made the auction more successful that it has been in the past. You have a very pleasant and enjoyable style and you were very entertaining to everyone present. The people who attended have told their friends that this is an event that should not be missed.</blockquote>
+
+<h2>Chris Murphy, Woodbury Public Safety Board Liaison</h2>
+	<blockquote>You helped make this year's event the most profitable one yet. You were able to get the crowd involved and people really enjoyed bidding in the live auction. We made more money from the few items we auctioned off then we did from the rest of the fund raising events combined! We heard nothing but positive feedback on you and your employees.</blockquote>
+
+<h2>Cheryl Kish, Anoka Technical College Foundation</h2>
+	<blockquote>Tony did an outstanding job and I would strongly recommend him to other organizations. Tony engaged our guests and got them involved in bidding. I heard many positive comments on Tony's ability to keep the crowd involved and to keep the auction moving quickly. He made the auction fun! The profits for our live auction this year were much higher than previous years with the use of Tony as our auctioneer.</blockquote>
+
+<h2>Evelyn Gedde, Anoka-Ramsey Community College Campus Foundation-Coon Rapids Campus</h2>
+	<blockquote>Colonel Tony Elfelt is more than an auctioneer&#8212;he is an entertainer. His opening rendition of [LeRoy VanDyke's] "The Auctioneer" captivates the bidders. Then he delves into the auction with an exceptional level of sophistication and warmth. Behind the scenes, he is as personable and helpful as he is on stage.</blockquote>
+
+<h2>Mary Lufkin Batinich, Children's Surgery International</h2>
+	<blockquote>Tony Elfelt was a lively, motivational, and fun auctioneer that really energized the life auction portion of our Children's Surgery International Gala. He really knows how to get the crowd involved and, most importantly, made everyone want to participate in the auction.</blockquote>
+
+<h2>Mike Wock and Larry Morelli, St. Croix Valley Minnesota Deer Hunter's Association</h2>
+	<blockquote>Due largely to your auctioneering skill, determination and demeanor, our live auction was a huge success. You did an outstanding job and the auction results exceeded all of our financial expectations.</blockquote>
+
+
+</article>
 <div id="Footer">
 <!--#include file="footer.ssi"--></div>
 </div>

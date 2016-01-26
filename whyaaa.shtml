@@ -9,6 +9,7 @@
 <body>
 <div id="Content">
 <div id="Header"><!--#include file="header.ssi"--> </div>
+<article>
 
 <h1>Why Choose Us?</h1>
 
@@ -29,6 +30,7 @@
 
 <p><img alt="Why Choose AAA Auction" src="images/2016_Canoe/Canoe_9.jpg" border="2" width="785"></p>
 
+</article>
 <div id="Footer"><!--#include file="footer.ssi"--> </div>
 </div>
 <div id="Menu">
