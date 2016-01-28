@@ -2,7 +2,7 @@
 <html><head>
     <meta content="text/html; charset=ISO-8859-1" http-equiv="content-type">
     
-    <title>AAA Auction and Realty Company | Auction News</title><link rel="stylesheet" href="/auctionmn.css" type="text/css">
+    <title>Tony's Auction Blog | AAA Auction and Realty Company</title><link rel="stylesheet" href="/auctionmn.css" type="text/css">
     <link rel="stylesheet" href="http://www.auctionmn.com/auctionmn.css" type="text/css">
     <link rel="stylesheet" href="/auctionmnpr.css" type="text/css" media="print"><!--#include file="head_sitemap.inc"-->
     
@@ -11,6 +11,9 @@
   <body>
     <div id="Content">
       <div id="Header"><!--#include file="header.ssi"--></div>
+
+<article>
+
       <big><big><big><big><big><b><font face="Helvetica, Arial, sans-serif">Messages from Tony</font></b></big></big></big></big></big><span style="font-family: Helvetica,Arial,sans-serif;">&nbsp;</span>
 
       <hr>
@@ -1621,6 +1624,9 @@ bidder
         <br>
       </p>
     </div>
+
+</article>
+
     <div id="Menu">
       <!--#include file="body_sitemap.inc"--><!--#include file="footer2.ssi"--></div>
   </body></html>

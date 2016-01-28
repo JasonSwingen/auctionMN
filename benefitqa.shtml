@@ -1,72 +1,38 @@
 <!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
 <html><head>
-<meta http-equiv="content-type" content="text/html; charset=ISO-8859-1"><title>AAA Auction and Realty Company | Benefit Auction Q</title>
+<meta http-equiv="content-type" content="text/html; charset=ISO-8859-1"><title>Benefit Auction Q & A | AAA Auction and Realty Company</title>
 
 <link rel="stylesheet" href="/auctionmn.css" type="text/css">
 <link rel="stylesheet" href="/auctionmnpr.css" type="text/css" media="print"><!--#include file="head_sitemap.inc"--></head>
 <body>
 <div id="Content">
 <div id="Header"><!--#include file="header.ssi"--></div>
-<div id="SearchArea" align="center">
-<form method="post" action="/cgi-bin/mncal.cgi">
-<table align="center" border="0" cellpadding="0" cellspacing="0" width="100%">
-<tbody>
-<tr>
-<td align="center"><input name="auction" value="auctionmn" type="hidden">
-Search all online auctions for keyword(s): <input name="keyword" size="15" value="" type="text">
-<select name="stype"><option value="ANY">Any of the words</option><option value="ALL">All of the words</option><option value="PHRASE">Exact phrase</option><option value="CONTAIN">Containing...</option></select>
-<input name="search" value="Go!" type="submit">
-</td>
-</tr>
-</tbody>
-</table>
-</form>
-</div><h1>Benefit Auction Q &amp; A</h1>
-<p><strong>Q. What is a Certified Benefit Auction Specialist?</strong>
-<br>
-<strong>A.</strong> A Certified Benefit Auction Specialist is an
-auctioneer who has had additional training, experience and testing by
-the National Auctioneers Association in the specialty of conducting
-benefit auctions.
-</p>
-<p><strong>Q. Do I need a Certified Benefit Auction Specialist?.</strong>
-<br>
-<strong>A.</strong> Yes. A Certified Benefit Auction Specialist
-brings considerably more value to your event. The BAS Auctioneer has
-the expertise to consult with your event leaders from the initial
-planning stages through the event itself for the purpose of providing
-guidance and training to help make your event as profitable as
-possible.
-</p>
-<p><strong>Q. Are benefit auctions all the same?</strong>
-<br>
-<strong>A.</strong> No. There is a wide variety of
-benefit auctions. We will be happy to consult with you and advise you
-regarding the type of auction that best suits your needs.
-</p>
-<p><strong>Q. When I hire AAA Auction to conduct a benefit
-auction, who will be the auctioneer?</strong>
-<br>
-<strong>A.</strong> In most cases, our owner,&nbsp;Tony Elfelt,
-will be your benefit auctioneer. If he has a conflict on your auction
-date, then with your approval, AAA Auction will send another highly
-experienced, competent and entertaining individual to be your
-auctioneer.
-</p>
-<p><strong>Q. Who does the clerking at the benefit auctions?</strong>
-<br>
-<strong>A.</strong> Generally, the organization provides volunteers
-to record the items sold, the amount of the winning bid, and the
-identity of the winning bidder.
-</p>
-<p><strong>Q. Do you have any references for benefit auctions
-that you have conducted?</strong>
-<br>
-<strong>A.</strong> Yes. Please click on the <a href="file:///benefittest.shtml">testimonial link</a> to read
-kind words that have been said about our previous benefit auctions.
-</p>
-<p><strong><font size="5">Watch Tony's <a href="http://www.auctionmn.com/video1.shtml">video about
-benefit auctions</a>!</font></strong></p>
+
+<article>
+
+<h1>Benefit Auction Q & A</h1>
+
+<h3>What is a Certified Benefit Auction Specialist?</h3>
+	<p>A Certified Benefit Auction Specialist is an auctioneer who has had additional training, experience and testing by the National Auctioneers Association in the specialty of conducting benefit auctions.</p>
+
+<h3>Do I need a Certified Benefit Auction Specialist?.</h3>
+	<p>Yes. A Certified Benefit Auction Specialist brings considerably more value to your event. The BAS Auctioneer has the expertise to consult with your event leaders from the initial planning stages through the event itself for the purpose of providing guidance and training to help make your event as profitable as possible. </p>
+
+<h3>Are benefit auctions all the same?</h3>
+	<p>No. There is a wide variety of benefit auctions. We will be happy to consult with you and advise you regarding the type of auction that best suits your needs. </p>
+
+<h3>When I hire AAA Auction to conduct a benefit auction, who will be the auctioneer?</h3>
+	<p>In most cases, Tony Elfelt, will be your benefit auctioneer. If he has a conflict on your auction date, then with your approval, AAA Auction will send another highly experienced, competent and entertaining individual to be your auctioneer.</p>
+
+<h3>Who does the clerking at the benefit auctions?</h3>
+	<p>Generally, the organization provides volunteers to record the items sold, the amount of the winning bid, and the identity of the winning bidder.</p>
+
+<h3>Do you have any references for benefit auctions that you have conducted?</h3>
+	<p>Yes. Please click on the <a href="file:///benefittest.shtml">testimonials</a> link to read kind words that have been said about our previous benefit auctions.</p>
+	<p>You can also watch Tony's <a href="http://www.auctionmn.com/video1.shtml">video about benefit auctions</a>!</p>
+
+</article>
+
 <div id="Footer"><!--#include file="footer.ssi"--></div>
 </div>
 <div id="Menu">

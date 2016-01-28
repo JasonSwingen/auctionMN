@@ -1,13 +1,14 @@
 <!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
 <html><head>
-<meta http-equiv="content-type" content="text/html; charset=iso-8859-1"><title>AAA Auction and Realty Company | Our Team</title>
+<meta http-equiv="content-type" content="text/html; charset=iso-8859-1"><title>The AAA Team | AAA Auction and Realty Company</title>
 
 <link rel="stylesheet" href="/auctionmn.css" type="text/css">
 <link rel="stylesheet" href="/auctionmnpr.css" type="text/css" media="print"><!--#include file="head_sitemap.inc"--></head>
 <body>
 <div id="Content">
 <div id="Header"><!--#include file="header.ssi"--></div>
-<h1>Our Team</h1>
+
+<h1>The AAA Team</h1>
 <p>
 <table border="0" cellpadding="2" cellspacing="2">
 <tbody>
@@ -130,6 +131,7 @@ be buying at someone else's auction.</td>
 <br>
 </p>
 </div>
+
 <div id="Menu">
 
 <!--#include file="body_sitemap.inc"--><!--#include file="footer2.ssi"-->
