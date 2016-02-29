@@ -7,8 +7,9 @@
 <body>
 <div id="Content">
 <div id="Header"><!--#include file="header.ssi"--></div>
-
+<article>
 <h1>The AAA Team</h1>
+</article>
 <p>
 <table border="0" cellpadding="2" cellspacing="2">
 <tbody>
@@ -113,7 +114,7 @@ Anoka or putting out fires in Andover.&nbsp;</td>
 <td align="undefined" valign="undefined"><img alt="Jason" src="http://www.auctionmn.com/images/teamJason.jpg" border="1" height="100"></td>
 <td align="undefined" valign="undefined"><b>Jason Swingen</b>
 <br>
-Jason is a super smart, good looking, and talented Web Developer and Online Marketer. Also, because he writes the content for auctionmn.com he is able to write his own description on the Team Page.</td>
+Jason is a super smart, good looking, and talented Web Developer and Online Marketer. Also, because he writes the content for www.auctionmn.com he is able to write his own description on the Team Page.</td>
 </tr>
 <!-- <tr>
 <td align="undefined" valign="undefined"></td>
