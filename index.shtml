@@ -73,6 +73,53 @@
 <!-- Start of Upcoming Auctions -->
 
 <div class="upcoming">
+<!-- <div class="closed" style="top:494px;">No Auction This Tuesday Due To Weather</div> -->
+	<h2 id="maus"><a href="http://www.auctionmn.com/mauscorner.shtml">Mau's Corner Flea Market & Live Auction</a></h2>
+
+	<h3>Starting Tuesday April 5th, 2016</h3>
+
+	<p>April 5th will be here before you know it. Whether you are a buyer or seller, we hope to see you.  The Flea Market is still free for vendors and it starts at 7 am. The live auction starts at 9 am. If you would like to sell at the live auction, we recommend that you arrive by 6 am to be in a lottery for position, but you are still welcome to sell even if you arrive later. Also, just like last year, if you sell at least $200 worth of items, you will have a position the following week ahead of everyone in the lottery.</p>
+	
+	<p>Everything is much the same as it was last year. We have, however, <span class="success">LOWERED THE COMMISSION</span> on items selling for $50 to $100 and raised the commission on items selling for $4 or less. We have also lowered our <span class="success">FREE RATE</span> to $600. That means that there will be no commission for any item selling for $600 or more.</p>
+
+	<p>As always, please check back here in case there may be a weather cancellation.  See you at the auction!</p>
+
+	<div class="flexbox">
+		<a href="http://www.auctionmn.com/images/mausgallery/maus01.html"><img src="http://www.auctionmn.com/images/mausgallery/maus01.jpg" alt=""></a>
+		<a href="http://www.auctionmn.com/images/mausgallery/maus02.html"><img src="http://www.auctionmn.com/images/mausgallery/maus02.jpg" alt=""></a>
+		<a href="http://www.auctionmn.com/images/mausgallery/images/maus25.jpg"><img src="http://www.auctionmn.com/images/mausgallery/images/maus25.jpg" alt=""></a>
+		<a href="http://www.auctionmn.com/images/mausgallery/maus08.html"><img src="http://www.auctionmn.com/images/mausgallery/maus08.jpg" alt=""></a>
+		<a href="http://www.auctionmn.com/images/mausgallery/maus16.html"><img src="http://www.auctionmn.com/images/mausgallery/maus16.jpg" alt=""></a>
+		<a href="http://www.auctionmn.com/images/mausgallery/maus15.html"><img src="http://www.auctionmn.com/images/mausgallery/maus15.jpg" alt=""></a>
+		<a href="http://www.auctionmn.com/images/mausgallery/maus14.html"><img src="http://www.auctionmn.com/images/mausgallery/maus14.jpg" alt=""></a>
+		<a href="http://www.auctionmn.com/images/mausgallery/maus09.html"><img src="http://www.auctionmn.com/images/mausgallery/maus09.jpg" alt=""></a>
+		<a href="http://www.auctionmn.com/images/mausgallery/maus18.html"><img src="http://www.auctionmn.com/images/mausgallery/maus18.jpg" alt=""></a>
+		<a href="http://www.auctionmn.com/images/mausgallery/maus10.html"><img src="http://www.auctionmn.com/images/mausgallery/maus10.jpg" alt=""></a>
+		<a href="http://www.auctionmn.com/images/mausgallery/maus07.jpg"><img src="http://www.auctionmn.com/images/mausgallery/maus07.jpg" alt=""></a>
+		<a href="http://www.auctionmn.com/images/mausgallery/maus11.jpg"><img src="http://www.auctionmn.com/images/mausgallery/maus11.jpg" alt=""></a>
+		<a href="http://www.auctionmn.com/images/mausgallery/maus12.jpg"><img src="http://www.auctionmn.com/images/mausgallery/maus12.jpg" alt=""></a>
+		<a href="http://www.auctionmn.com/images/mausgallery/maus13.jpg"><img src="http://www.auctionmn.com/images/mausgallery/maus13.jpg" alt=""></a>
+	</div>
+		<p><a href="http://www.auctionmn.com/images/mausgallery/index.html">View more photos from Mau's Auction</a></p>
+		<!-- <p>Cancellations due to weather will be listed here &#x21d2; <span class="success">See you at the Auction!</span> <span class="alert">No Auction This Tuesday Due To Weather</span></p> -->
+
+<!-- 	<p><strong>Date (Every Tuesday)</strong></p>
+		<p>Flea Market at 7 a.m.</p>
+		<p>Tuesday Auction at 9 a.m.</p> -->
+	<p><strong>Location</strong></p>
+		<p>26025 Highway 47 <a href="http://www.auctionmn.com/mauscorner.shtml#map">(Map)</a></p>
+		<p>Stanford Township, Isanti County</p>
+		<!-- <p>This is three miles north of St. Francis, just south of the intersection of Blackfoot St NW (State Highway 47) and 261st Ave NW.</p> -->
+		<p><strong>Auctioneer's Notes</strong></p>
+		<p>Yes, its that time again. Bag it, box it, bring it, and we will sell it for you at Mau's corner. Located 3 miles north of St. Francis on Highway 47. Although we usually do not know what folks will be bringing to sell, we usually have plenty of tools, collectibles, antiques, furniture, sporting goods, electronics and even cars, boats, ATV's, power equipment, and the like. See you at the auction!</p>
+		<!-- <p>Whether you are a buyer or a seller, please join us next Tuesday, and every Tuesday for our regular Tuesday Auction and Flea Market at Mau's Corner, three miles north of St. Francis on Highway 47. Anyone can sell. Just load up your stuff and bring it over any time after 6 a.m.</p> -->
+		<!-- <p class="success">No flea market vendor charges!</p>
+		<p>We have more information on <a href="http://www.auctionmn.com/mauscorner.shtml">selling at our Tuesday Auctions</a>.</p>
+		<p>Please call us at <strong>(763) 421-3044</strong> for more information.</p>
+		<p>Bag it. Box it. Bring it or Buy it at Mau's Corner.</p> -->
+</div>
+
+<div class="upcoming">
 	<h2>Annual Canoe And Kayak Auction on April 23rd, 2016</h2>
 		<div class="flexbox">
 			<a href="http://www.auctionmn.com/images/2016_Canoe/Canoe_1.jpg"><img src="http://www.auctionmn.com/images/2016_Canoe/Canoe_1.jpg" alt="Annual Canoe and Kayak Auction"></a>
@@ -152,50 +199,6 @@
 		</div>
 		<p><strong>Auction</strong></p>
 			<p>CLOSED on Wednesday, November 4th</p>
-</div>
-
-<div class="recent">
-<!-- <div class="closed" style="top:494px;">No Auction This Tuesday Due To Weather</div> -->
-	<h2 id="maus"><a href="http://www.auctionmn.com/mauscorner.shtml">Mau's Corner Flea Market & Live Auction</a></h2>
-	<p><strong>See You Next Year!</strong></p>
-	<p>What a great time we had at our Tuesday Auctions at Mau's Corner this year! We will miss all of our old and new friends. Thank you everyone - consignors, bidders, flea market vendors, Joe and Wanda Mau and of course my hard-working staff and dedicated wife, Denise.</p>
-	<p>We will have several online auctions between now and next spring when we start up again, so please watch for emails and come and see us on pick-up day.</p>
-	<p>It will be nice to sleep in a little on Tuesdays for a while, but I am sure it won't be long before we are chomping at the bit to get rolling again next March - "Yes, Denise. March."</p>
-	<p>Here’s hoping that you stay safe, happy and healthy until we see you again.</p>
-	<p>Tony</p>
-	<div class="flexbox">
-		<a href="http://www.auctionmn.com/images/mausgallery/maus01.html"><img src="http://www.auctionmn.com/images/mausgallery/maus01.jpg" alt=""></a>
-		<a href="http://www.auctionmn.com/images/mausgallery/maus02.html"><img src="http://www.auctionmn.com/images/mausgallery/maus02.jpg" alt=""></a>
-		<a href="http://www.auctionmn.com/images/mausgallery/images/maus25.jpg"><img src="http://www.auctionmn.com/images/mausgallery/images/maus25.jpg" alt=""></a>
-		<a href="http://www.auctionmn.com/images/mausgallery/maus08.html"><img src="http://www.auctionmn.com/images/mausgallery/maus08.jpg" alt=""></a>
-		<a href="http://www.auctionmn.com/images/mausgallery/maus16.html"><img src="http://www.auctionmn.com/images/mausgallery/maus16.jpg" alt=""></a>
-		<a href="http://www.auctionmn.com/images/mausgallery/maus15.html"><img src="http://www.auctionmn.com/images/mausgallery/maus15.jpg" alt=""></a>
-		<a href="http://www.auctionmn.com/images/mausgallery/maus14.html"><img src="http://www.auctionmn.com/images/mausgallery/maus14.jpg" alt=""></a>
-		<a href="http://www.auctionmn.com/images/mausgallery/maus09.html"><img src="http://www.auctionmn.com/images/mausgallery/maus09.jpg" alt=""></a>
-		<a href="http://www.auctionmn.com/images/mausgallery/maus18.html"><img src="http://www.auctionmn.com/images/mausgallery/maus18.jpg" alt=""></a>
-		<a href="http://www.auctionmn.com/images/mausgallery/maus10.html"><img src="http://www.auctionmn.com/images/mausgallery/maus10.jpg" alt=""></a>
-		<a href="http://www.auctionmn.com/images/mausgallery/maus07.jpg"><img src="http://www.auctionmn.com/images/mausgallery/maus07.jpg" alt=""></a>
-		<a href="http://www.auctionmn.com/images/mausgallery/maus11.jpg"><img src="http://www.auctionmn.com/images/mausgallery/maus11.jpg" alt=""></a>
-		<a href="http://www.auctionmn.com/images/mausgallery/maus12.jpg"><img src="http://www.auctionmn.com/images/mausgallery/maus12.jpg" alt=""></a>
-		<a href="http://www.auctionmn.com/images/mausgallery/maus13.jpg"><img src="http://www.auctionmn.com/images/mausgallery/maus13.jpg" alt=""></a>
-	</div>
-		<p><a href="http://www.auctionmn.com/images/mausgallery/index.html">View more photos from Mau's Auction</a></p>
-		<!-- <p>Cancellations due to weather will be listed here &#x21d2; <span class="success">See you at the Auction!</span> <span class="alert">No Auction This Tuesday Due To Weather</span></p> -->
-
-<!-- 	<p><strong>Date (Every Tuesday)</strong></p>
-		<p>Flea Market at 7 a.m.</p>
-		<p>Tuesday Auction at 9 a.m.</p> -->
-	<p><strong>Location</strong></p>
-		<p>26025 Highway 47 <a href="http://www.auctionmn.com/mauscorner.shtml#map">(Map)</a></p>
-		<p>Stanford Township, Isanti County</p>
-		<!-- <p>This is three miles north of St. Francis, just south of the intersection of Blackfoot St NW (State Highway 47) and 261st Ave NW.</p> -->
-		<!-- <p><strong>Auctioneer's Notes</strong></p> -->
-		<!-- <p>Yes, its that time again. Bag it, box it, bring it, and we will sell it for you at Mau's corner. Located 3 miles north of St. Francis on Highway 47. Although we usually do not know what folks will be bringing to sell, we usually have plenty of tools, collectibles, antiques, furniture, sporting goods, electronics and even cars, boats, ATV's, power equipment, and the like. See you at the auction!</p> -->
-		<!-- <p>Whether you are a buyer or a seller, please join us next Tuesday, and every Tuesday for our regular Tuesday Auction and Flea Market at Mau's Corner, three miles north of St. Francis on Highway 47. Anyone can sell. Just load up your stuff and bring it over any time after 6 a.m.</p> -->
-		<!-- <p class="success">No flea market vendor charges!</p>
-		<p>We have more information on <a href="http://www.auctionmn.com/mauscorner.shtml">selling at our Tuesday Auctions</a>.</p>
-		<p>Please call us at <strong>(763) 421-3044</strong> for more information.</p>
-		<p>Bag it. Box it. Bring it or Buy it at Mau's Corner.</p> -->
 </div>
 
 <div class="recent">
