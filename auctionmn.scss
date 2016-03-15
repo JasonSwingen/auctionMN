@@ -509,13 +509,14 @@ article {
   box-shadow: 0 0 0 1px black;
   text-shadow: 1px 1px 1px black;
   &::before {
-    content: "Online Bidding";
+    content: "Online Auction";
   }
   &:hover {
   	text-decoration: none;
+    background: lighten(steelblue, 5%);
   }
   &:hover::before {
-    content: "Online Bidding";
+    content: "Start Bidding";
   }
   &:active {
     text-shadow: none;
