@@ -2,3 +2,6 @@ sftp-config.json
 *.cfg
 deployment-config.json
 .sublime-workspace
+*.jpg
+*.png
+*.jpeg
