@@ -131,7 +131,7 @@
 			"file": "index.shtml",
 			"settings":
 			{
-				"buffer_size": 61139,
+				"buffer_size": 56825,
 				"line_ending": "Windows"
 			}
 		}
@@ -522,6 +522,10 @@
 	],
 	"file_history":
 	[
+		"/C/Users/Jason/Documents/GitHub/auctionMN/general-terms-and-conditions.shtml",
+		"/C/Users/Jason/Documents/GitHub/auctionMN/body_sitemap.inc",
+		"/C/Users/Jason/Documents/AAA Auction/Auctions_and_Backups/2016-04-20/2016-04-20_winning_bidders.txt",
+		"/C/Users/Jason/Documents/AAA Auction/Auctions_and_Backups/2016-04-20/2016-04-20_maxanet_resluts.txt",
 		"/C/Users/Jason/Documents/GitHub/auctionMN/footer.ssi",
 		"/C/Users/Jason/Documents/GitHub/auctionMN/.gitignore",
 		"/C/Users/Jason/Documents/AAA Auction/Templates/AAA_Template_Email_8.1",
@@ -542,7 +546,6 @@
 		"/C/Users/Jason/Documents/AAA Auction/Templates/AAA_Template_Invoices_Wavebid_v9",
 		"/C/Users/Jason/Documents/AAA Auction/Auctions_and_Backups/2016-03-24/2016-03-24_winning_bidders_TEXT.txt",
 		"/C/Users/Jason/Documents/AAA Auction/Auctions_and_Backups/2016-03-24/2016-03-24_maxanet_results_TEXT.txt",
-		"/C/Users/Jason/Documents/GitHub/auctionMN/body_sitemap.inc",
 		"/C/Users/Jason/Documents/AAA Auction/Auctions_and_Backups/2016-03-24/2016-03-24_Inventory_TEXT_V2.txt",
 		"/C/Users/Jason/Documents/GitHub/auctionMN/auctionmn.scss",
 		"/C/Users/Jason/Documents/GitHub/auctionMN/auctionmn.css",
@@ -551,7 +554,6 @@
 		"/C/Users/Jason/Documents/AAA Auction/Auctions_and_Backups/2016-03-24/2016-03-24_Inventory_TEXT.txt",
 		"/C/Users/Jason/Documents/AAA Auction/Templates/AAA_Template_Email_7.9",
 		"/C/Users/Jason/Documents/GitHub/auctionMN/images/2016-03-24/index.html",
-		"/C/Users/Jason/Documents/GitHub/auctionMN/general-terms-and-conditions.shtml",
 		"/C/Users/Jason/Documents/GitHub/auctionMN/team.shtml",
 		"/C/Users/Jason/Documents/GitHub/auctionMN/tonysblog.shtml",
 		"/C/Users/Jason/Documents/GitHub/auctionMN/whyaaa.shtml",
@@ -647,13 +649,11 @@
 		"/C/Users/Jason/Documents/GitHub/auctionMN/jquery-dist.js",
 		"/C/Users/Jason/Google Drive/Work/AAA Auction/Templates/Online Auction Closing April 29th, 2015",
 		"/C/Users/Jason/Google Drive/Work/AAA Auction/Templates/AAA_Template_Email_6.5",
-		"/C/Users/Jason/Google Drive/Work/AAA Auction/2015-04-29/index.html",
-		"/C/Users/Jason/Google Drive/Work/AAA Auction/Templates/AAA_Template_Email_5.9",
-		"/C/Users/Jason/Google Drive/Work/AAA Auction/Templates/AAA_Template_Email_5.8"
+		"/C/Users/Jason/Google Drive/Work/AAA Auction/2015-04-29/index.html"
 	],
 	"find":
 	{
-		"height": 86.0
+		"height": 43.0
 	},
 	"find_in_files":
 	{
@@ -668,6 +668,11 @@
 		"case_sensitive": false,
 		"find_history":
 		[
+			"m1tlm14",
+			"m1tlm13",
+			"m1tlm12",
+			"m1tlm11",
+			"m1tlm10",
 			"175",
 			"  ",
 			"(",
@@ -790,12 +795,7 @@
 			"http://www.auctionmn.com/images/2015",
 			"jpg",
 			"62",
-			"img",
-			"sub",
-			"img",
-			"***",
-			"**",
-			"2014"
+			"img"
 		],
 		"highlight": true,
 		"in_selection": false,
@@ -824,15 +824,15 @@
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 61139,
+						"buffer_size": 56825,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								6677,
-								6677
+								15805,
+								15805
 							]
 						],
 						"settings":
@@ -840,61 +840,61 @@
 							"BracketHighlighterBusy": false,
 							"bh_regions":
 							[
-								"bh_curly",
-								"bh_curly_center",
-								"bh_curly_open",
-								"bh_curly_close",
-								"bh_curly_content",
-								"bh_double_quote",
-								"bh_double_quote_center",
-								"bh_double_quote_open",
-								"bh_double_quote_close",
-								"bh_double_quote_content",
 								"bh_round",
 								"bh_round_center",
 								"bh_round_open",
 								"bh_round_close",
 								"bh_round_content",
-								"bh_c_define",
-								"bh_c_define_center",
-								"bh_c_define_open",
-								"bh_c_define_close",
-								"bh_c_define_content",
-								"bh_tag",
-								"bh_tag_center",
-								"bh_tag_open",
-								"bh_tag_close",
-								"bh_tag_content",
-								"bh_single_quote",
-								"bh_single_quote_center",
-								"bh_single_quote_open",
-								"bh_single_quote_close",
-								"bh_single_quote_content",
-								"bh_default",
-								"bh_default_center",
-								"bh_default_open",
-								"bh_default_close",
-								"bh_default_content",
 								"bh_unmatched",
 								"bh_unmatched_center",
 								"bh_unmatched_open",
 								"bh_unmatched_close",
 								"bh_unmatched_content",
-								"bh_regex",
-								"bh_regex_center",
-								"bh_regex_open",
-								"bh_regex_close",
-								"bh_regex_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
 								"bh_angle",
 								"bh_angle_center",
 								"bh_angle_open",
 								"bh_angle_close",
 								"bh_angle_content",
-								"bh_square",
-								"bh_square_center",
-								"bh_square_open",
-								"bh_square_close",
-								"bh_square_content"
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content"
 							],
 							"color_scheme": "Packages/User/Color Highlighter/themes/Material-Theme-Darker.tmTheme",
 							"incomplete_sync": null,
@@ -904,7 +904,7 @@
 							"translate_tabs_to_spaces": false
 						},
 						"translation.x": 0.0,
-						"translation.y": 1368.0,
+						"translation.y": 4424.0,
 						"zoom_level": 1.0
 					},
 					"stack_index": 0,
@@ -1031,7 +1031,7 @@
 	"show_open_files": false,
 	"show_tabs": true,
 	"side_bar_visible": true,
-	"side_bar_width": 358.0,
+	"side_bar_width": 384.0,
 	"status_bar_visible": true,
 	"template_settings":
 	{

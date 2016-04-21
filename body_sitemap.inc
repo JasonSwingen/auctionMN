@@ -57,25 +57,29 @@ onmouseout="chgBg(m1,'m1tlm10',0,1)" id="m1tlm10" class="m1mit"
 bgcolor="#3e7719" >
 <a id="m1tlm10a" class="m1CL0" href="https://server2.maxanet.com/cgi-bin/mnregister.cgi?auctionmn" ><div class='topFold'>Register to Bid<img width="8" height="8" src="/scripts/empty.gif" align="texttop" border="0" /></div></a></td></tr>
 
-
 <tr align="center"><td onmouseover="chgBg(m1,'m1tlm11',3);exM(m1,'none','',event)"
 onmouseout="chgBg(m1,'m1tlm11',0,1)" id="m1tlm11" class="m1mit" 
 bgcolor="#3e7719" >
-<a id="m1tlm11a" class="m1CL0" href="/cgi-bin/mdemail.cgi?auctionmn" ><div class='topFold'>E-Mail Registration<img width="8" height="8" src="/scripts/empty.gif" align="texttop" border="0" /></div></a></td></tr>
+<a id="m1tlm11a" class="m1CL0" href="/general-terms-and-conditions.shtml" ><div class='topFold'>General Terms<img width="8" height="8" src="/scripts/empty.gif" align="texttop" border="0" /></div></a></td></tr>
 
 <tr align="center"><td onmouseover="chgBg(m1,'m1tlm12',3);exM(m1,'none','',event)"
 onmouseout="chgBg(m1,'m1tlm12',0,1)" id="m1tlm12" class="m1mit" 
 bgcolor="#3e7719" >
-<a id="m1tlm12a" class="m1CL0" href="/video1.shtml" ><div class='topFold'>Benefit Auctions<img width="8" height="8" src="/scripts/empty.gif" align="texttop" border="0" /></div></a></td></tr>
+<a id="m1tlm12a" class="m1CL0" href="/cgi-bin/mdemail.cgi?auctionmn" ><div class='topFold'>E-Mail Registration<img width="8" height="8" src="/scripts/empty.gif" align="texttop" border="0" /></div></a></td></tr>
 
 <tr align="center"><td onmouseover="chgBg(m1,'m1tlm13',3);exM(m1,'none','',event)"
 onmouseout="chgBg(m1,'m1tlm13',0,1)" id="m1tlm13" class="m1mit" 
 bgcolor="#3e7719" >
-<a id="m1tlm13a" class="m1CL0" href="/tonysblog.shtml" ><div class='topFold'>Tony's Auction Blog<img width="8" height="8" src="/scripts/empty.gif" align="texttop" border="0" /></div></a></td></tr>
+<a id="m1tlm13a" class="m1CL0" href="/video1.shtml" ><div class='topFold'>Benefit Auctions<img width="8" height="8" src="/scripts/empty.gif" align="texttop" border="0" /></div></a></td></tr>
 
 <tr align="center"><td onmouseover="chgBg(m1,'m1tlm14',3);exM(m1,'none','',event)"
 onmouseout="chgBg(m1,'m1tlm14',0,1)" id="m1tlm14" class="m1mit" 
 bgcolor="#3e7719" >
-<a id="m1tlm14a" class="m1CL0" href="/contact.shtml" ><div class='topFold'>Contact Us<img width="8" height="8" src="/scripts/empty.gif" align="texttop" border="0" /></div></a></td></tr>
+<a id="m1tlm14a" class="m1CL0" href="/tonysblog.shtml" ><div class='topFold'>Tony's Auction Blog<img width="8" height="8" src="/scripts/empty.gif" align="texttop" border="0" /></div></a></td></tr>
+
+<tr align="center"><td onmouseover="chgBg(m1,'m1tlm15',3);exM(m1,'none','',event)"
+onmouseout="chgBg(m1,'m1tlm15',0,1)" id="m1tlm15" class="m1mit" 
+bgcolor="#3e7719" >
+<a id="m1tlm15a" class="m1CL0" href="/contact.shtml" ><div class='topFold'>Contact Us<img width="8" height="8" src="/scripts/empty.gif" align="texttop" border="0" /></div></a></td></tr>
 </table></td></tr>
 </table>
