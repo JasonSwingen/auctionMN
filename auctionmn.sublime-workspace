@@ -131,7 +131,7 @@
 			"file": "index.shtml",
 			"settings":
 			{
-				"buffer_size": 56946,
+				"buffer_size": 48372,
 				"line_ending": "Windows"
 			}
 		}
@@ -143,10 +143,18 @@
 	"build_varint": "",
 	"command_palette":
 	{
-		"height": 490.0,
-		"last_filter": "title ",
+		"height": 105.0,
+		"last_filter": "snippet location",
 		"selected_items":
 		[
+			[
+				"snippet location",
+				"Snippet: location-nowthen"
+			],
+			[
+				"snippet up",
+				"Snippet: upcoming-auction"
+			],
 			[
 				"title ",
 				"Convert Case: Title Case"
@@ -518,10 +526,16 @@
 	},
 	"expanded_folders":
 	[
+		"/C/Users/Jason/Documents/AAA Auction",
+		"/C/Users/Jason/Documents/AAA Auction/Templates",
 		"/C/Users/Jason/Documents/GitHub/auctionMN"
 	],
 	"file_history":
 	[
+		"/C/Users/Jason/Documents/AAA Auction/Templates/maus cancelled or show goes on css",
+		"/C/Users/Jason/Documents/AAA Auction/Templates/AAA_List_of_Emails_2016-05-11.txt",
+		"/C/Users/Jason/Documents/AAA Auction/Templates/AAA_Template_Email_8.2",
+		"/C/Users/Jason/Documents/GitHub/auctionMN/live-storage-auction-may-2016.shtml",
 		"/C/Users/Jason/Documents/GitHub/auctionMN/online_bidding_information.shtml",
 		"/C/Users/Jason/Documents/GitHub/auctionMN/general-terms-and-conditions.shtml",
 		"/C/Users/Jason/Documents/GitHub/auctionMN/body_sitemap.inc",
@@ -645,11 +659,7 @@
 		"/C/Users/Jason/Google Drive/Work/AAA Auction/Templates/AAA_Template_Invoices_Wavebid_v5",
 		"/C/Users/Jason/Documents/AAA Auction/Images/2015-05-05/index.html",
 		"/C/Users/Jason/Google Drive/Work/AAA Auction/2015-04-29/2015-04-29_Inventory_TEXT_v1.txt",
-		"/C/Users/Jason/Google Drive/Work/AAA Auction/Templates/AAA_Template_Email_6.6",
-		"/C/Users/Jason/Documents/GitHub/auctionMN/jquery-dist.js",
-		"/C/Users/Jason/Google Drive/Work/AAA Auction/Templates/Online Auction Closing April 29th, 2015",
-		"/C/Users/Jason/Google Drive/Work/AAA Auction/Templates/AAA_Template_Email_6.5",
-		"/C/Users/Jason/Google Drive/Work/AAA Auction/2015-04-29/index.html"
+		"/C/Users/Jason/Google Drive/Work/AAA Auction/Templates/AAA_Template_Email_6.6"
 	],
 	"find":
 	{
@@ -668,6 +678,7 @@
 		"case_sensitive": false,
 		"find_history":
 		[
+			"leah.m.nagel@gmail.com",
 			"m1tlm14",
 			"m1tlm13",
 			"m1tlm12",
@@ -794,8 +805,7 @@
 			")",
 			"http://www.auctionmn.com/images/2015",
 			"jpg",
-			"62",
-			"img"
+			"62"
 		],
 		"highlight": true,
 		"in_selection": false,
@@ -824,15 +834,15 @@
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 56946,
+						"buffer_size": 48372,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								15023,
-								15023
+								11888,
+								11888
 							]
 						],
 						"settings":
@@ -840,41 +850,26 @@
 							"BracketHighlighterBusy": false,
 							"bh_regions":
 							[
-								"bh_single_quote",
-								"bh_single_quote_center",
-								"bh_single_quote_open",
-								"bh_single_quote_close",
-								"bh_single_quote_content",
 								"bh_default",
 								"bh_default_center",
 								"bh_default_open",
 								"bh_default_close",
 								"bh_default_content",
-								"bh_round",
-								"bh_round_center",
-								"bh_round_open",
-								"bh_round_close",
-								"bh_round_content",
-								"bh_unmatched",
-								"bh_unmatched_center",
-								"bh_unmatched_open",
-								"bh_unmatched_close",
-								"bh_unmatched_content",
-								"bh_double_quote",
-								"bh_double_quote_center",
-								"bh_double_quote_open",
-								"bh_double_quote_close",
-								"bh_double_quote_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
 								"bh_angle",
 								"bh_angle_center",
 								"bh_angle_open",
 								"bh_angle_close",
 								"bh_angle_content",
-								"bh_tag",
-								"bh_tag_center",
-								"bh_tag_open",
-								"bh_tag_close",
-								"bh_tag_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
 								"bh_regex",
 								"bh_regex_center",
 								"bh_regex_open",
@@ -885,16 +880,31 @@
 								"bh_c_define_open",
 								"bh_c_define_close",
 								"bh_c_define_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
 								"bh_curly",
 								"bh_curly_center",
 								"bh_curly_open",
 								"bh_curly_close",
 								"bh_curly_content",
-								"bh_square",
-								"bh_square_center",
-								"bh_square_open",
-								"bh_square_close",
-								"bh_square_content"
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content"
 							],
 							"color_scheme": "Packages/User/Color Highlighter/themes/Material-Theme-Darker.tmTheme",
 							"incomplete_sync": null,
@@ -904,7 +914,7 @@
 							"translate_tabs_to_spaces": false
 						},
 						"translation.x": 0.0,
-						"translation.y": 4805.0,
+						"translation.y": 2747.0,
 						"zoom_level": 1.0
 					},
 					"stack_index": 0,
@@ -1031,7 +1041,7 @@
 	"show_open_files": false,
 	"show_tabs": true,
 	"side_bar_visible": true,
-	"side_bar_width": 168.0,
+	"side_bar_width": 344.0,
 	"status_bar_visible": true,
 	"template_settings":
 	{
