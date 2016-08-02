@@ -87,11 +87,11 @@
 		<a href="http://www.auctionmn.com/cgi-bin/mnlist.cgi?auctionmn11/220"><img src="http://www.auctionmn.com/images/2016-08-17/T220-1.jpg" alt="220"></a>
 		<a href="http://www.auctionmn.com/cgi-bin/mnlist.cgi?auctionmn11/227"><img src="http://www.auctionmn.com/images/2016-08-17/T227-1.jpg" alt="227"></a>
 		<a href="http://www.auctionmn.com/cgi-bin/mnlist.cgi?auctionmn11/228"><img src="http://www.auctionmn.com/images/2016-08-17/T228-1.jpg" alt="228"></a>
-		<a href="http://www.auctionmn.com/cgi-bin/mnlist.cgi?auctionmn11/243"><img src="http://www.auctionmn.com/images/2016-08-17/T243-1.jpg" alt="243"></a>
-		<a href="http://www.auctionmn.com/cgi-bin/mnlist.cgi?auctionmn11/250"><img src="http://www.auctionmn.com/images/2016-08-17/T250-1.jpg" alt="250"></a>
+<!-- 		<a href="http://www.auctionmn.com/cgi-bin/mnlist.cgi?auctionmn11/243"><img src="http://www.auctionmn.com/images/2016-08-17/T243-1.jpg" alt="243"></a>
+		<a href="http://www.auctionmn.com/cgi-bin/mnlist.cgi?auctionmn11/250"><img src="http://www.auctionmn.com/images/2016-08-17/T250-1.jpg" alt="250"></a> -->
 	</div>
 	<!-- Enable if auction is an online auction -->
-	<!-- <a href="http://www.auctionmn.com/cgi-bin/mnlist.cgi?auctionmn11/category/ALL" class="bidnow rfloat"></a> -->
+	<a href="http://www.auctionmn.com/cgi-bin/mnlist.cgi?auctionmn11/category/ALL" class="bidnow rfloat"></a>
 	<!-- Enable if auction is an online auction hosted on proxibid -->
 	<!-- <a href="https://www.proxibid.com/asp/Catalog.asp?aid=*"><img class="rfloat" src="http://www.auctionmn.com/images/2014-02-14/proxibid.gif" alt=""></a> -->
 		<p><strong>Location</strong></p>
@@ -99,13 +99,11 @@
 			<p>19800 Nowthen Blvd NW</p>
 			<p>Nowthen MN 55303-9655</p>
 		<p><strong>Preview Time</strong></p>
-			<p>PREVIEW</p>
+			<p>August 17th, from 1 to 5 p.m.</p>
 		<p><strong>Auction Ending Time</strong></p>
-			<p>AUCTION</p>
+			<p>August 17th, 7:30 p.m.</p>
 		<p><strong>Pickup Time</strong></p>
-			<p>PICKUP</p>
-		<p><strong>Auctioneer's Notes</strong></p>
-			<p>NOTES</p>
+			<p>August 18th, from 9 a.m. to 5:30 p.m.</p>
 </div>
 
 
