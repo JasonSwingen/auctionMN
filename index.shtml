@@ -123,24 +123,62 @@
             *************      Start of Upcoming Auctions       ***************
 ******************************************************************************** -->
 
-<!-- <div class="upcoming">
-	<h2>High-End Online Estate Auction</h2>
-	<div class="flexbox">
-		<a href="http://www.auctionmn.com/images/2016-04-20-high-end/lot_1.jpeg"><img src="http://www.auctionmn.com/images/2016-04-20-high-end/lot_1.jpeg" alt=""></a>
-		<a href="http://www.auctionmn.com/images/2016-04-20-high-end/lot_1.jpg"><img src="http://www.auctionmn.com/images/2016-04-20-high-end/lot_1.jpg" alt=""></a>
-		<a href="http://www.auctionmn.com/images/2016-04-20-high-end/lot_2.jpg"><img src="http://www.auctionmn.com/images/2016-04-20-high-end/lot_2.jpg" alt=""></a>
-		<a href="http://www.auctionmn.com/images/2016-04-20-high-end/lot_3.jpg"><img src="http://www.auctionmn.com/images/2016-04-20-high-end/lot_3.jpg" alt=""></a>
-		<a href="http://www.auctionmn.com/images/2016-04-20-high-end/lot_4.jpg"><img src="http://www.auctionmn.com/images/2016-04-20-high-end/lot_4.jpg" alt=""></a>
-		<a href="http://www.auctionmn.com/images/2016-04-20-high-end/lot_5.jpg"><img src="http://www.auctionmn.com/images/2016-04-20-high-end/lot_5.jpg" alt=""></a>
-		<a href="http://www.auctionmn.com/images/2016-04-20-high-end/lot_6.jpg"><img src="http://www.auctionmn.com/images/2016-04-20-high-end/lot_6.jpg" alt=""></a>
-		<a href="http://www.auctionmn.com/images/2016-04-20-high-end/lot_8.jpg"><img src="http://www.auctionmn.com/images/2016-04-20-high-end/lot_8.jpg" alt=""></a>
-		<a href="http://www.auctionmn.com/images/2016-04-20-high-end/lot_9.jpg"><img src="http://www.auctionmn.com/images/2016-04-20-high-end/lot_9.jpg" alt=""></a>
-		<a href="http://www.auctionmn.com/images/2016-04-20-high-end/lot_10.jpg"><img src="http://www.auctionmn.com/images/2016-04-20-high-end/lot_10.jpg" alt=""></a>
-	</div>
+
+<div class="upcoming">
+	<h2>Live Auction With Some Pre-bidding Jim Westphal Estate</h2>
+		<div class="flexbox">
+				<a href="http://www.auctionmn.com/images/2016-09-10-estate/JW_1.JPG"><img src="http://www.auctionmn.com/images/2016-09-10-estate/JW_1.JPG" alt=""></a>
+				<a href="http://www.auctionmn.com/images/2016-09-10-estate/JW_2.JPG"><img src="http://www.auctionmn.com/images/2016-09-10-estate/JW_2.JPG" alt=""></a>
+				<a href="http://www.auctionmn.com/images/2016-09-10-estate/JW_3.JPG"><img src="http://www.auctionmn.com/images/2016-09-10-estate/JW_3.JPG" alt=""></a>
+				<a href="http://www.auctionmn.com/images/2016-09-10-estate/JW_4.jpg"><img src="http://www.auctionmn.com/images/2016-09-10-estate/JW_4.jpg" alt=""></a>
+				<a href="http://www.auctionmn.com/images/2016-09-10-estate/JW_5.jpg"><img src="http://www.auctionmn.com/images/2016-09-10-estate/JW_5.jpg" alt=""></a>
+				<a href="http://www.auctionmn.com/images/2016-09-10-estate/JW_6.jpg"><img src="http://www.auctionmn.com/images/2016-09-10-estate/JW_6.jpg" alt=""></a>
+				<a href="http://www.auctionmn.com/images/2016-09-10-estate/JW_7.jpg"><img src="http://www.auctionmn.com/images/2016-09-10-estate/JW_7.jpg" alt=""></a>
+				<a href="http://www.auctionmn.com/images/2016-09-10-estate/JW_8.jpg"><img src="http://www.auctionmn.com/images/2016-09-10-estate/JW_8.jpg" alt=""></a>
+				<a href="http://www.auctionmn.com/images/2016-09-10-estate/JW_9.jpg"><img src="http://www.auctionmn.com/images/2016-09-10-estate/JW_9.jpg" alt=""></a>
+				<a href="http://www.auctionmn.com/images/2016-09-10-estate/JW_10.jpg"><img src="http://www.auctionmn.com/images/2016-09-10-estate/JW_10.jpg" alt=""></a>
+				<a href="http://www.auctionmn.com/images/2016-09-10-estate/JW_11.jpg"><img src="http://www.auctionmn.com/images/2016-09-10-estate/JW_11.jpg" alt=""></a>
+				<a href="http://www.auctionmn.com/images/2016-09-10-estate/JW_12.jpg"><img src="http://www.auctionmn.com/images/2016-09-10-estate/JW_12.jpg" alt=""></a>
+				<a href="http://www.auctionmn.com/images/2016-09-10-estate/JW_13.jpg"><img src="http://www.auctionmn.com/images/2016-09-10-estate/JW_13.jpg" alt=""></a>
+				<a href="http://www.auctionmn.com/images/2016-09-10-estate/JW_14.jpg"><img src="http://www.auctionmn.com/images/2016-09-10-estate/JW_14.jpg" alt=""></a>
+				<a href="http://www.auctionmn.com/images/2016-09-10-estate/JW_15.jpg"><img src="http://www.auctionmn.com/images/2016-09-10-estate/JW_15.jpg" alt=""></a>
+				<a href="http://www.auctionmn.com/images/2016-09-10-estate/JW_16.jpg"><img src="http://www.auctionmn.com/images/2016-09-10-estate/JW_16.jpg" alt=""></a>
+				<a href="http://www.auctionmn.com/images/2016-09-10-estate/JW_17.jpg"><img src="http://www.auctionmn.com/images/2016-09-10-estate/JW_17.jpg" alt=""></a>
+				<a href="http://www.auctionmn.com/images/2016-09-10-estate/JW_18.jpg"><img src="http://www.auctionmn.com/images/2016-09-10-estate/JW_18.jpg" alt=""></a>
+				<a href="http://www.auctionmn.com/images/2016-09-10-estate/JW_19.jpg"><img src="http://www.auctionmn.com/images/2016-09-10-estate/JW_19.jpg" alt=""></a>
+				<a href="http://www.auctionmn.com/images/2016-09-10-estate/JW_20.jpg"><img src="http://www.auctionmn.com/images/2016-09-10-estate/JW_20.jpg" alt=""></a>
+			</div>
+		<p><strong>Location</strong></p>
+			<p><a target="_blank" href="https://www.google.com/maps/place/19721+Nowthen+Blvd+NW,+Anoka,+MN+55303/@45.328513,-93.4710596,17z/data=!3m1!4b1!4m5!3m4!1s0x52b36cac488fb51f:0x5447db74e9ed9fd8!8m2!3d45.328513!4d-93.4688709">19721 Nowthen Blvd NW, Anoka, MN 55303</a></p>
+<!-- 		<p><strong>Preview Time</strong></p>
+			<p>PREVIEW</p> -->
+		<p><strong>Live Auction Time</strong></p>
+			<p>September 10th, 2016 at 10 a.m.</p>
+<!-- 		<p><strong>Pickup Time</strong></p>
+			<p>T.B.A.</p> -->
 		<p><strong>Auctioneer's Notes</strong></p>
-			<p>We have a terrific upcoming online auction filled with many high-end items!</p>
-			<p>Some of this estate will also be sold live at our Tuesday Auction at Mau's Corner</p>
-</div> -->
+			<p>NE corner of Viking and Nowthen Blvd’s in Nowthen. 4.75 Acres. Zoned commercial but residential use is OK. 3BR, 1BA. Pole building 60' x 46'. Commercial MLS#4745432. Broker: RE/MAX RESULTS. Agent: Rick Ruprecht (612) 384-8093.</p>
+			<p><strong>Real Estate Terms:</strong></p>
+			<p>Live Auction with reserve. 8% Buyer’s Premium. Non-contingent. Purchase agreement to be signed at the auction. $15,000 in certified funds made payable to self will be due from the buyer at the time the P.A. is signed. Endorsed only if seller accepts the final bid. These funds are a down-payment and are NON-REFUNDABLE. Balance due at closing within 45 days.</p>
+			<p><strong>Disclaimer And Absence Of Warranties.</strong><p>
+			<p>All information contained in this article and all related materials are subject to the terms and conditions outlined in the Purchase Agreement. The property is offered ‘AS-IS’-‘WHERE-IS’, and no warranty is either expressed or implied by the seller(s) or the auction company. Each potential bidder(s) is responsible for conducting his or her own independent inspections, investigations, inquiries and due diligence concerning the property</p>
+		<h3 class="inventory">Partial Inventory of Personal Property</h3>
+			<p><strong>Guns</strong></p>
+				<p>Rusty Stevens 12-Guage Shotgun; Very Nice .22 Pistol.</p>
+			<p><strong>Cars</strong></p>
+				<p>Citroen DS-21 (Does Not Run); 2004 VW Golf. Runs.</p>
+			<p><strong>Rusty Gold</strong></p>
+				<p>(None of these items have been started or tested) 680E Case Back Hoe and Bucket;2 Dump Rakes; 2 Field Cultivators; 2 2-Bottom Plows; Portable Saw Rig-No Engine; 2 Trailers; 2 Conveyors; Rollover Scraper; 3 Spring Tooth Harrow Sections; Portable Arch Welder; Bucket Scraper; Sickle Mower; IHC Single Bottom Plow; 6 Spike Tooth Drag/Harrow Sections; Mounted Cultivator; 2 Tractor Fenders; Single Disc; 2 Old Chevy Trucks (don’t run); 680E Case Backhoe and Bucket (does not run); Large Scrap Pile; 3 Semi Trailers, and Misc. Contents; Chevy C60 Flatbed Tilt Bed Truck ; 5 Walk Behind Tractors; Simplicity Broadmoor Garden Tractor; Jari Brush Cutter; Track for Bull Dozer; RR jacks; and more to be found.</p>
+			<p><strong>Tools</strong></p>
+				<p>(Jim had many tools. Many have been boxed up and are not available for an inventory at this time.) Oliver Crawler Loader 46-3 Runs; Master Force 2-Piece Tool Box Like New; Ladder; Jacks; Fleetwood Drill Press; Gantry Frame; Torpedo Kerosene Heater; Simplicity Garden Tiller; Acetylene Torch; Power Washer; Large Weed Eater; Simplicity Mower (Works) with Snow Thrower and Cultivator Attachments; Trailer for Simplicity Mower and More.</p>
+			<p><strong>Household</strong></p>
+				<p>(Jim was a bachelor and lived his entire life in Nowthen. All of the regular household contents will be sold including): Living Room and Bedroom Furniture; Kitchenware; Tables; Lamps; Bookcases; Reel to Reel Tape Recorder; IBM Selectric; Fence Posts and More.</p>
+			<p><strong>Collectibles</strong></p>
+				<p>(We haven’t unpacked all of Jim’s boxes yet.) Vintage Toys Including Cars, Trucks,  and Trains; Original Advertising Brochure for the 1948 Tucker as depicted in the movie); Kaiser Darrin Adverting Manual; Grey Rock Brake Manual; Radio Shack TRS-80 Model 4P Portable Computer; Pinback Buttons; Glass Iris Pitcher; Blue Band Pitcher;  Toledo Scale; Many Old Hot Rod Magazines and More. </p>
+
+
+</div>
+
 
 <div class="upcoming">
 <!-- <div class="closed" style="top:189px;">No Auction This Tuesday Due To Weather</div> -->
