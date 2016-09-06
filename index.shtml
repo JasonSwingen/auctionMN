@@ -94,9 +94,7 @@
 	<!-- Enable if auction is an online auction hosted on proxibid -->
 	<!-- <a href="https://www.proxibid.com/asp/Catalog.asp?aid=*"><img class="rfloat" src="http://www.auctionmn.com/images/2014-02-14/proxibid.gif" alt=""></a> -->
 		<p><strong>Location</strong></p>
-			<p><a target="_blank" href="https://www.google.com/maps/place/19800+Nowthen+Blvd+NW,+Anoka,+MN+55303/@45.3288574,-93.4702582,17z/data=!3m1!4b1!4m2!3m1!1s0x52b36cac2a3f4e03:0x556a431d9b7a8c21">Old Nowthen City Hall Building</a></p>
-			<p>19800 Nowthen Blvd NW</p>
-			<p>Nowthen MN 55303-9655</p>
+			<p><a target="_blank" href="https://www.google.com/maps/place/19721+Nowthen+Blvd+NW,+Anoka,+MN+55303/@45.328513,-93.4710596,17z/data=!3m1!4b1!4m5!3m4!1s0x52b36cac488fb51f:0x5447db74e9ed9fd8!8m2!3d45.328513!4d-93.4688709">19721 Nowthen Blvd NW, Anoka, MN 55303</a></p>
 		<p><strong>Online Auction Ending Time</strong></p>
 			<p>Live bidding for this auction will end on September 10th at 8 a.m.</p>
 		<p><strong>Preview Time</strong></p>
@@ -129,12 +127,13 @@
 
 
 <div class="upcoming maus">
-<!-- <div class="closed" style="top:189px;">No Auction This Tuesday Due To Weather</div> -->
+<div class="closed" style="top:1127px;height:300px;">No Auction This Tuesday Due To Weather</div>
 	<h2 id="maus"><a href="http://www.auctionmn.com/mauscorner.shtml">Mau's Corner Flea Market & Live Auction</a></h2>
 		<p>Cancellations due to weather will be listed here:
-		<span class="success">See you at the Auction!</span>
-		<!-- <span class="alert">No Auction This Tuesday Due To Weather</span> -->
+		<!-- <span class="success">See you at the Auction!</span> -->
+		<span class="alert">No Auction This Tuesday Due To Weather!</span>
 		</p>
+		<p>The next auction at Mau's Corner will be on September 13th. The last auction at Mau's Corner this year will be on September 27th.</p>
 		<!-- <h2 class="success">We're not made of sugar. The auction will go on!</h2> -->
 	<div class="flexbox">
 		<a href="http://www.auctionmn.com/images/mausgallery/maus01.html"><img src="http://www.auctionmn.com/images/mausgallery/maus01.jpg" alt=""></a>
@@ -164,7 +163,6 @@
 		<p>Yes, its that time again. Bag it, box it, bring it, and we will sell it for you at Mau's corner. Located 3 miles north of St. Francis on Highway 47. Although we usually do not know what folks will be bringing to sell, we usually have plenty of tools, collectibles, antiques, furniture, sporting goods, electronics and even cars, boats, ATV's, power equipment, and the like. See you at the auction!</p>
 		<p>Whether you are a buyer or seller, we hope to see you. The Flea Market is still free for vendors and it starts at 7 am. The live auction starts at 9 am. If you would like to sell at the live auction, we recommend that you arrive by 6 am to be in a lottery for position, but you are still welcome to sell even if you arrive later. Also, just like last year, if you sell at least $200 worth of items, you will have a position the following week ahead of everyone in the lottery.</p>
 		<p>Everything is much the same as it was last year. We have, however, raised the commission on items selling for $4 or less. We try though to avoid selling items for $4 or less. So if we don't get a bid of at least $5 will will usually add an item to the item we are selling until we get a bid of $5.  We have also lowered our <span class="success">FREE RATE</span> to items selling for $600 or more.</p>
-		<p>As always, please check back here in case there may be a weather cancellation. See you at the auction!</p>
 		<!-- <p>Whether you are a buyer or a seller, please join us next Tuesday, and every Tuesday for our regular Tuesday Auction and Flea Market at Mau's Corner, three miles north of St. Francis on Highway 47. Anyone can sell. Just load up your stuff and bring it over any time after 6 a.m.</p> -->
 		<!-- <p class="success">No flea market vendor charges!</p>
 		<p>We have more information on <a href="http://www.auctionmn.com/mauscorner.shtml">selling at our Tuesday Auctions</a>.</p>

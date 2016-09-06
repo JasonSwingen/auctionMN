@@ -131,7 +131,7 @@
 			"file": "index.shtml",
 			"settings":
 			{
-				"buffer_size": 49894,
+				"buffer_size": 49900,
 				"line_ending": "Windows"
 			}
 		},
@@ -139,7 +139,7 @@
 			"file": "/C/Users/Jason/Documents/AAA Auction/Templates/AAA_Template_Email_8.5",
 			"settings":
 			{
-				"buffer_size": 1130,
+				"buffer_size": 1131,
 				"line_ending": "Windows"
 			}
 		},
@@ -594,6 +594,7 @@
 	],
 	"file_history":
 	[
+		"/C/Users/Jason/Documents/AAA Auction/Templates/AAA_List_of_Emails_2016-05-20.txt",
 		"/C/Users/Jason/Documents/AAA Auction/Templates/AAA_Template_Email_8.4",
 		"/C/Users/Jason/Documents/AAA Auction/Auctions_and_Backups/2016-08-17/2016-08-17_Maxanet_Bidders.txt",
 		"/C/Users/Jason/Documents/AAA Auction/Auctions_and_Backups/2016-08-17/2016-08-17_Maxanet_Results.txt",
@@ -608,7 +609,6 @@
 		"/C/Users/Jason/Documents/AAA Auction/Auctions_and_Backups/2016-06-01/2016-06-01_maxanet_bidders.txt",
 		"/C/Users/Jason/Documents/AAA Auction/Auctions_and_Backups/2016-06-01/2016-06-01_maxanet_results.txt",
 		"/C/Users/Jason/Documents/AAA Auction/Templates/AAA_Template_Invoices_Wavebid_v11",
-		"/C/Users/Jason/Documents/AAA Auction/Templates/AAA_List_of_Emails_2016-05-20.txt",
 		"/C/Users/Jason/Documents/AAA Auction/Templates/AAA_Template_Email_8.1",
 		"/C/Users/Jason/Documents/AAA Auction/Auctions_and_Backups/2016-06-01/2016-06-01_Inventory_TEXT.txt",
 		"/C/Users/Jason/Documents/AAA Auction/Templates/AAA_Template_Email_8.2",
@@ -887,7 +887,7 @@
 	"groups":
 	[
 		{
-			"selected": 1,
+			"selected": 0,
 			"sheets":
 			[
 				{
@@ -896,15 +896,15 @@
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 49894,
+						"buffer_size": 49900,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								8066,
-								8066
+								8133,
+								8133
 							]
 						],
 						"settings":
@@ -986,61 +986,61 @@
 							},
 							"bracket_highlighter.regions":
 							[
-								"bh_default",
-								"bh_default_center",
-								"bh_default_open",
-								"bh_default_close",
-								"bh_default_content",
-								"bh_unmatched",
-								"bh_unmatched_center",
-								"bh_unmatched_open",
-								"bh_unmatched_close",
-								"bh_unmatched_content",
-								"bh_curly",
-								"bh_curly_center",
-								"bh_curly_open",
-								"bh_curly_close",
-								"bh_curly_content",
-								"bh_round",
-								"bh_round_center",
-								"bh_round_open",
-								"bh_round_close",
-								"bh_round_content",
-								"bh_double_quote",
-								"bh_double_quote_center",
-								"bh_double_quote_open",
-								"bh_double_quote_close",
-								"bh_double_quote_content",
-								"bh_tag",
-								"bh_tag_center",
-								"bh_tag_open",
-								"bh_tag_close",
-								"bh_tag_content",
-								"bh_regex",
-								"bh_regex_center",
-								"bh_regex_open",
-								"bh_regex_close",
-								"bh_regex_content",
-								"bh_single_quote",
-								"bh_single_quote_center",
-								"bh_single_quote_open",
-								"bh_single_quote_close",
-								"bh_single_quote_content",
-								"bh_square",
-								"bh_square_center",
-								"bh_square_open",
-								"bh_square_close",
-								"bh_square_content",
 								"bh_c_define",
 								"bh_c_define_center",
 								"bh_c_define_open",
 								"bh_c_define_close",
 								"bh_c_define_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
 								"bh_angle",
 								"bh_angle_center",
 								"bh_angle_open",
 								"bh_angle_close",
-								"bh_angle_content"
+								"bh_angle_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content"
 							],
 							"color_scheme": "Packages/User/Color Highlighter/themes/Material-Theme-Darker.tmTheme",
 							"incomplete_sync": null,
@@ -1050,10 +1050,10 @@
 							"translate_tabs_to_spaces": false
 						},
 						"translation.x": 0.0,
-						"translation.y": 1748.0,
+						"translation.y": 2698.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 2,
+					"stack_index": 0,
 					"type": "text"
 				},
 				{
@@ -1062,15 +1062,15 @@
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 1130,
+						"buffer_size": 1131,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								1130,
-								1130
+								105,
+								105
 							]
 						],
 						"settings":
@@ -1149,6 +1149,7 @@
 								"bh_angle_close",
 								"bh_angle_content"
 							],
+							"color_scheme": "Packages/User/Color Highlighter/themes/Monokai (SL).tmTheme",
 							"incomplete_sync": null,
 							"remote_loading": false,
 							"synced": false,
@@ -1158,7 +1159,7 @@
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 0,
+					"stack_index": 1,
 					"type": "text"
 				},
 				{
@@ -1255,6 +1256,7 @@
 								"bh_angle_close",
 								"bh_angle_content"
 							],
+							"color_scheme": "Packages/User/Color Highlighter/themes/Monokai (SL).tmTheme",
 							"incomplete_sync": null,
 							"syntax": "Packages/Text/Plain text.tmLanguage"
 						},
@@ -1374,6 +1376,7 @@
 								"bh_angle_close",
 								"bh_angle_content"
 							],
+							"color_scheme": "Packages/User/Color Highlighter/themes/Monokai (SL).tmTheme",
 							"incomplete_sync": null,
 							"syntax": "Packages/HTML/HTML.sublime-syntax"
 						},
@@ -1381,7 +1384,7 @@
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 1,
+					"stack_index": 2,
 					"type": "text"
 				}
 			]
