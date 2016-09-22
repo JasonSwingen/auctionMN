@@ -65,7 +65,7 @@
 ******************************************************************************** -->
 
 
-<div class="current">
+<!-- <div class="current">
 	<h2><a href="http://www.auctionmn.com/cgi-bin/mndetails.cgi?auctionmn13">Online Auction Closing on September 22nd, 2016</a></h2>
 	<div class="flexbox">
 		<a href="http://www.auctionmn.com/cgi-bin/mnlist.cgi?auctionmn13/7"><img src="http://www.auctionmn.com/images/2016-09-22/T7-1.jpg" alt="7"></a>
@@ -85,14 +85,8 @@
 		<a href="http://www.auctionmn.com/cgi-bin/mnlist.cgi?auctionmn13/82"><img src="http://www.auctionmn.com/images/2016-09-22/T82-1.jpg" alt="82"></a>
 		<a href="http://www.auctionmn.com/cgi-bin/mnlist.cgi?auctionmn13/105"><img src="http://www.auctionmn.com/images/2016-09-22/T105-1.jpg" alt="105"></a>
 		<a href="http://www.auctionmn.com/cgi-bin/mnlist.cgi?auctionmn13/137"><img src="http://www.auctionmn.com/images/2016-09-22/T137-1.jpg" alt="137"></a>
-<!-- 		<a href="http://www.auctionmn.com/cgi-bin/mnlist.cgi?auctionmn13/142"><img src="http://www.auctionmn.com/images/2016-09-22/T142-1.jpg" alt="142"></a>
-		<a href="http://www.auctionmn.com/cgi-bin/mnlist.cgi?auctionmn13/144"><img src="http://www.auctionmn.com/images/2016-09-22/T144-1.jpg" alt="144"></a>
-		<a href="http://www.auctionmn.com/cgi-bin/mnlist.cgi?auctionmn13/148"><img src="http://www.auctionmn.com/images/2016-09-22/T148-1.jpg" alt="148"></a> -->
 	</div>
-	<!-- Enable if auction is an online auction -->
 	<a href="http://www.auctionmn.com/cgi-bin/mnlist.cgi?auctionmn13/category/ALL" class="bidnow rfloat"></a>
-	<!-- Enable if auction is an online auction hosted on proxibid -->
-	<!-- <a href="https://www.proxibid.com/asp/Catalog.asp?aid=*"><img class="rfloat" src="http://www.auctionmn.com/images/2014-02-14/proxibid.gif" alt=""></a> -->
 		<p><strong>Location for Preview and Pickup</strong></p>
 			<p><a target="_blank" href="https://www.google.com/maps/place/19800+Nowthen+Blvd+NW,+Anoka,+MN+55303/@45.3288574,-93.4702582,17z/data=!3m1!4b1!4m2!3m1!1s0x52b36cac2a3f4e03:0x556a431d9b7a8c21">Old Nowthen City Hall Building</a></p>
 			<p>19800 Nowthen Blvd NW</p>
@@ -103,9 +97,7 @@
 			<p>September 22nd at 7:30 p.m.</p>
 		<p><strong>Pickup Time</strong></p>
 			<p>September 23rd from 9 a.m. to 5:30 p.m.</p>
-<!-- 		<p><strong>Auctioneer's Notes</strong></p>
-			<p>NOTES</p> -->
-</div>
+</div> -->
 
 
 <div class="current">
@@ -229,10 +221,8 @@
             *************      Start of Recent Auctions       ***************
 ******************************************************************************** -->
 
-<!--
-
 <div class="recent">
-	<h2><a href="http://www.auctionmn.com/cgi-bin/mndetails.cgi?auctionmn13">Online Auction Closing on September 22nd, 2016</a></h2>
+	<h2><a href="http://www.auctionmn.com/cgi-bin/mndetails.cgi?auctionmn13">Online Auction Closed on September 22nd, 2016</a></h2>
 	<div class="flexbox">
 		<a href="http://www.auctionmn.com/cgi-bin/mnlist.cgi?auctionmn13/7"><img src="http://www.auctionmn.com/images/2016-09-22/T7-1.jpg" alt="7"></a>
 		<a href="http://www.auctionmn.com/cgi-bin/mnlist.cgi?auctionmn13/11"><img src="http://www.auctionmn.com/images/2016-09-22/T11-1.jpg" alt="11"></a>
@@ -247,8 +237,6 @@
 		<p><strong>Pickup Time</strong></p>
 			<p>September 23rd from 9 a.m. to 5:30 p.m.</p>
 </div>
-
--->
 
 <div class="recent">
 	<h2><a href="http://www.auctionmn.com/cgi-bin/mndetails.cgi?auctionmn12">Live Auction With Some Pre-bidding Jim Westphal Estate</a></h2>
