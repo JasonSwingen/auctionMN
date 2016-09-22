@@ -131,28 +131,19 @@
 			"file": "index.shtml",
 			"settings":
 			{
-				"buffer_size": 51108,
+				"buffer_size": 59756,
 				"line_ending": "Windows"
 			}
 		},
 		{
-			"file": "/C/Users/Jason/Documents/AAA Auction/Templates/AAA_Template_Invoices_Wavebid_v13",
+			"file": "/C/Users/Jason/Documents/AAA Auction/Auctions_and_Backups/2016-10-03/2016-10-03_Inventory_TEXT_v3.txt",
 			"settings":
 			{
-				"buffer_size": 964,
+				"buffer_size": 25348,
 				"line_ending": "Windows"
 			}
 		},
 		{
-			"file": "/C/Users/Jason/Documents/AAA Auction/Other/2016-09-22_AAA_for_Sending_Invoices/2016-09-22_maxanet_results_TEXT.txt",
-			"settings":
-			{
-				"buffer_size": 0,
-				"line_ending": "Windows"
-			}
-		},
-		{
-			"file": "/C/Users/Jason/Documents/AAA Auction/Other/2016-09-22_AAA_for_Sending_Invoices/2016-09-22_maxanet_bidders_TEXT.txt",
 			"settings":
 			{
 				"buffer_size": 0,
@@ -160,26 +151,10 @@
 			}
 		},
 		{
-			"file": "general-terms-and-conditions.shtml",
+			"file": "/C/Users/Jason/Documents/AAA Auction/Templates/AAA_Template_Email_8.7",
 			"settings":
 			{
-				"buffer_size": 6732,
-				"line_ending": "Windows"
-			}
-		},
-		{
-			"file": "/C/Users/Jason/Documents/AAA Auction/Auctions_and_Backups/2016-09-22/2016-09-22_Inventory_TEXT.txt",
-			"settings":
-			{
-				"buffer_size": 22399,
-				"line_ending": "Windows"
-			}
-		},
-		{
-			"file": "/C/Users/Jason/Documents/AAA Auction/Templates/AAA_Template_Email_8.6",
-			"settings":
-			{
-				"buffer_size": 1417,
+				"buffer_size": 1293,
 				"line_ending": "Windows"
 			}
 		}
@@ -191,10 +166,14 @@
 	"build_varint": "",
 	"command_palette":
 	{
-		"height": 392.0,
-		"last_filter": "title",
+		"height": 200.0,
+		"last_filter": "new au",
 		"selected_items":
 		[
+			[
+				"new au",
+				"Snippet: new-auction"
+			],
 			[
 				"title",
 				"Convert Case: Title Case"
@@ -214,10 +193,6 @@
 			[
 				"beau",
 				"HTMLBeautify"
-			],
-			[
-				"new au",
-				"Snippet: new-auction"
 			],
 			[
 				"upcom",
@@ -615,11 +590,16 @@
 	"expanded_folders":
 	[
 		"/C/Users/Jason/Documents/AAA Auction",
-		"/C/Users/Jason/Documents/AAA Auction/Other/2016-09-22_AAA_for_Sending_Invoices",
 		"/C/Users/Jason/Documents/AAA Auction/Templates"
 	],
 	"file_history":
 	[
+		"/C/Users/Jason/Documents/AAA Auction/Templates/AAA_Template_Email_8.6",
+		"/C/Users/Jason/Documents/AAA Auction/Auctions_and_Backups/2016-09-22/2016-09-22_Inventory_TEXT.txt",
+		"/C/Users/Jason/Documents/AAA Auction/Other/2016-09-22_AAA_for_Sending_Invoices/2016-09-22_maxanet_bidders_TEXT.txt",
+		"/C/Users/Jason/Documents/AAA Auction/Other/2016-09-22_AAA_for_Sending_Invoices/2016-09-22_maxanet_results_TEXT.txt",
+		"/C/Users/Jason/Documents/GitHub/auctionMN/general-terms-and-conditions.shtml",
+		"/C/Users/Jason/Documents/AAA Auction/Templates/AAA_Template_Invoices_Wavebid_v13",
 		"/C/Users/Jason/Documents/Development/stfrancischoir_Amazon_iframe.html",
 		"/C/Users/Jason/Documents/AAA Auction/Templates/Additional_Auction_Notes.html",
 		"/C/Users/Jason/Documents/AAA Auction/Auctions_and_Backups/2016-09-10/2016-09-10_Inventory_TXT.txt",
@@ -629,7 +609,6 @@
 		"/C/Users/Jason/Documents/AAA Auction/Auctions_and_Backups/2016-08-17/2016-08-17_Maxanet_Results.txt",
 		"/C/Users/Jason/Documents/AAA Auction/Templates/AAA_Template_Invoices_Wavebid_v12",
 		"/C/Users/Jason/Documents/AAA Auction/Templates/AAA_Picture_Highlights.html",
-		"/C/Users/Jason/Documents/GitHub/auctionMN/general-terms-and-conditions.shtml",
 		"/C/Users/Jason/Documents/GitHub/auctionMN/auctionmnpr.css",
 		"/C/Users/Jason/Documents/AAA Auction/Auctions_and_Backups/2016-08-17/2016-08-17_Inventory_v2.txt",
 		"/C/Users/Jason/Documents/AAA Auction/Templates/AAA_Template_Email_8.3",
@@ -742,12 +721,7 @@
 		"/C/Users/Jason/Documents/AAA Auction/Auctions_and_Backups/2015-08-08/2015-08-08_Inventory_TEXT.txt",
 		"/C/Users/Jason/Google Drive/Work/AAA Auction/Templates/AAA_Template_Invoices_Wavebid_v8",
 		"/C/Users/Jason/Documents/GitHub/auctionMN/images/2015-08-08/index.html",
-		"/C/Users/Jason/Google Drive/Work/AAA Auction/2015-08-08/index.html",
-		"/C/Users/Jason/Documents/GitHub/auctionMN/images/DSCN9985.JPG",
-		"/C/Users/Jason/Documents/AAA Auction/Auctions_and_Backups/blank-inventory.txt",
-		"/C/Users/Jason/Documents/GitHub/auctionMN/index.shtml",
-		"/C/Users/Jason/AppData/Roaming/Sublime Text 3/Packages/User/Default (Windows).sublime-keymap",
-		"/C/Users/Jason/Google Drive/Work/AAA Auction/Templates/AAA_Template_Email_7.1"
+		"/C/Users/Jason/Google Drive/Work/AAA Auction/2015-08-08/index.html"
 	],
 	"find":
 	{
@@ -913,7 +887,7 @@
 	"groups":
 	[
 		{
-			"selected": 0,
+			"selected": 3,
 			"sheets":
 			[
 				{
@@ -922,15 +896,15 @@
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 51108,
+						"buffer_size": 59756,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								1170,
-								1170
+								6845,
+								6845
 							]
 						],
 						"settings":
@@ -999,12 +973,27 @@
 							{
 								"close":
 								{
+									"1":
+									[
+										6843,
+										6844
+									]
 								},
 								"icon":
 								{
+									"1":
+									[
+										"Packages/BracketHighlighter/icons/tag.png",
+										"brackethighlighter.default"
+									]
 								},
 								"open":
 								{
+									"1":
+									[
+										6812,
+										6813
+									]
 								},
 								"unmatched":
 								{
@@ -1027,11 +1016,11 @@
 								"bh_default_open",
 								"bh_default_close",
 								"bh_default_content",
-								"bh_round",
-								"bh_round_center",
-								"bh_round_open",
-								"bh_round_close",
-								"bh_round_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
 								"bh_double_quote",
 								"bh_double_quote_center",
 								"bh_double_quote_open",
@@ -1042,11 +1031,6 @@
 								"bh_angle_open",
 								"bh_angle_close",
 								"bh_angle_content",
-								"bh_single_quote",
-								"bh_single_quote_center",
-								"bh_single_quote_open",
-								"bh_single_quote_close",
-								"bh_single_quote_content",
 								"bh_square",
 								"bh_square_center",
 								"bh_square_open",
@@ -1057,16 +1041,21 @@
 								"bh_regex_open",
 								"bh_regex_close",
 								"bh_regex_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
 								"bh_unmatched",
 								"bh_unmatched_center",
 								"bh_unmatched_open",
 								"bh_unmatched_close",
 								"bh_unmatched_content",
-								"bh_curly",
-								"bh_curly_center",
-								"bh_curly_open",
-								"bh_curly_close",
-								"bh_curly_content"
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content"
 							],
 							"color_scheme": "Packages/User/Color Highlighter/themes/Material-Theme-Darker.tmTheme",
 							"incomplete_sync": null,
@@ -1076,27 +1065,27 @@
 							"translate_tabs_to_spaces": false
 						},
 						"translation.x": 0.0,
-						"translation.y": 0.0,
+						"translation.y": 1843.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 0,
+					"stack_index": 2,
 					"type": "text"
 				},
 				{
 					"buffer": 1,
-					"file": "/C/Users/Jason/Documents/AAA Auction/Templates/AAA_Template_Invoices_Wavebid_v13",
+					"file": "/C/Users/Jason/Documents/AAA Auction/Auctions_and_Backups/2016-10-03/2016-10-03_Inventory_TEXT_v3.txt",
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 964,
+						"buffer_size": 25348,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								964,
-								817
+								25348,
+								25348
 							]
 						],
 						"settings":
@@ -1119,11 +1108,26 @@
 							},
 							"bracket_highlighter.regions":
 							[
-								"bh_tag",
-								"bh_tag_center",
-								"bh_tag_open",
-								"bh_tag_close",
-								"bh_tag_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
 								"bh_c_define",
 								"bh_c_define_center",
 								"bh_c_define_open",
@@ -1134,151 +1138,31 @@
 								"bh_default_open",
 								"bh_default_close",
 								"bh_default_content",
-								"bh_round",
-								"bh_round_center",
-								"bh_round_open",
-								"bh_round_close",
-								"bh_round_content",
-								"bh_double_quote",
-								"bh_double_quote_center",
-								"bh_double_quote_open",
-								"bh_double_quote_close",
-								"bh_double_quote_content",
-								"bh_angle",
-								"bh_angle_center",
-								"bh_angle_open",
-								"bh_angle_close",
-								"bh_angle_content",
-								"bh_single_quote",
-								"bh_single_quote_center",
-								"bh_single_quote_open",
-								"bh_single_quote_close",
-								"bh_single_quote_content",
-								"bh_square",
-								"bh_square_center",
-								"bh_square_open",
-								"bh_square_close",
-								"bh_square_content",
-								"bh_regex",
-								"bh_regex_center",
-								"bh_regex_open",
-								"bh_regex_close",
-								"bh_regex_content",
-								"bh_unmatched",
-								"bh_unmatched_center",
-								"bh_unmatched_open",
-								"bh_unmatched_close",
-								"bh_unmatched_content",
-								"bh_curly",
-								"bh_curly_center",
-								"bh_curly_open",
-								"bh_curly_close",
-								"bh_curly_content"
-							],
-							"incomplete_sync": null,
-							"remote_loading": false,
-							"synced": false,
-							"syntax": "Packages/Text/Plain text.tmLanguage"
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 1,
-					"type": "text"
-				},
-				{
-					"buffer": 2,
-					"file": "/C/Users/Jason/Documents/AAA Auction/Other/2016-09-22_AAA_for_Sending_Invoices/2016-09-22_maxanet_results_TEXT.txt",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 0,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								0,
-								0
-							]
-						],
-						"settings":
-						{
-							"bracket_highlighter.busy": false,
-							"bracket_highlighter.locations":
-							{
-								"close":
-								{
-								},
-								"icon":
-								{
-								},
-								"open":
-								{
-								},
-								"unmatched":
-								{
-								}
-							},
-							"bracket_highlighter.regions":
-							[
 								"bh_tag",
 								"bh_tag_center",
 								"bh_tag_open",
 								"bh_tag_close",
 								"bh_tag_content",
-								"bh_c_define",
-								"bh_c_define_center",
-								"bh_c_define_open",
-								"bh_c_define_close",
-								"bh_c_define_content",
-								"bh_default",
-								"bh_default_center",
-								"bh_default_open",
-								"bh_default_close",
-								"bh_default_content",
-								"bh_round",
-								"bh_round_center",
-								"bh_round_open",
-								"bh_round_close",
-								"bh_round_content",
-								"bh_double_quote",
-								"bh_double_quote_center",
-								"bh_double_quote_open",
-								"bh_double_quote_close",
-								"bh_double_quote_content",
-								"bh_angle",
-								"bh_angle_center",
-								"bh_angle_open",
-								"bh_angle_close",
-								"bh_angle_content",
 								"bh_single_quote",
 								"bh_single_quote_center",
 								"bh_single_quote_open",
 								"bh_single_quote_close",
 								"bh_single_quote_content",
-								"bh_square",
-								"bh_square_center",
-								"bh_square_open",
-								"bh_square_close",
-								"bh_square_content",
-								"bh_regex",
-								"bh_regex_center",
-								"bh_regex_open",
-								"bh_regex_close",
-								"bh_regex_content",
-								"bh_unmatched",
-								"bh_unmatched_center",
-								"bh_unmatched_open",
-								"bh_unmatched_close",
-								"bh_unmatched_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
 								"bh_curly",
 								"bh_curly_center",
 								"bh_curly_open",
 								"bh_curly_close",
-								"bh_curly_content"
+								"bh_curly_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content"
 							],
 							"incomplete_sync": null,
 							"open_with_edit": true,
@@ -1294,8 +1178,7 @@
 					"type": "text"
 				},
 				{
-					"buffer": 3,
-					"file": "/C/Users/Jason/Documents/AAA Auction/Other/2016-09-22_AAA_for_Sending_Invoices/2016-09-22_maxanet_bidders_TEXT.txt",
+					"buffer": 2,
 					"semi_transient": false,
 					"settings":
 					{
@@ -1313,6 +1196,37 @@
 						"settings":
 						{
 							"bracket_highlighter.busy": false,
+							"default_dir": "C:\\Users\\Jason\\Documents\\AAA Auction",
+							"incomplete_sync": null,
+							"syntax": "Packages/Text/Plain text.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "/C/Users/Jason/Documents/AAA Auction/Templates/AAA_Template_Email_8.7",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1293,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								58,
+								1293
+							]
+						],
+						"settings":
+						{
+							"bracket_highlighter.busy": false,
 							"bracket_highlighter.locations":
 							{
 								"close":
@@ -1345,11 +1259,11 @@
 								"bh_default_open",
 								"bh_default_close",
 								"bh_default_content",
-								"bh_round",
-								"bh_round_center",
-								"bh_round_open",
-								"bh_round_close",
-								"bh_round_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
 								"bh_double_quote",
 								"bh_double_quote_center",
 								"bh_double_quote_open",
@@ -1360,11 +1274,6 @@
 								"bh_angle_open",
 								"bh_angle_close",
 								"bh_angle_content",
-								"bh_single_quote",
-								"bh_single_quote_center",
-								"bh_single_quote_open",
-								"bh_single_quote_close",
-								"bh_single_quote_content",
 								"bh_square",
 								"bh_square_center",
 								"bh_square_open",
@@ -1375,198 +1284,6 @@
 								"bh_regex_open",
 								"bh_regex_close",
 								"bh_regex_content",
-								"bh_unmatched",
-								"bh_unmatched_center",
-								"bh_unmatched_open",
-								"bh_unmatched_close",
-								"bh_unmatched_content",
-								"bh_curly",
-								"bh_curly_center",
-								"bh_curly_open",
-								"bh_curly_close",
-								"bh_curly_content"
-							],
-							"incomplete_sync": null,
-							"open_with_edit": true,
-							"remote_loading": false,
-							"synced": false,
-							"syntax": "Packages/Text/Plain text.tmLanguage"
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 2,
-					"type": "text"
-				},
-				{
-					"buffer": 4,
-					"file": "general-terms-and-conditions.shtml",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 6732,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								4925,
-								4925
-							]
-						],
-						"settings":
-						{
-							"bracket_highlighter.busy": false,
-							"bracket_highlighter.locations":
-							{
-								"close":
-								{
-									"1":
-									[
-										4923,
-										4924
-									]
-								},
-								"icon":
-								{
-									"1":
-									[
-										"Packages/BracketHighlighter/icons/tag.png",
-										"brackethighlighter.default"
-									]
-								},
-								"open":
-								{
-									"1":
-									[
-										4659,
-										4660
-									]
-								},
-								"unmatched":
-								{
-								}
-							},
-							"bracket_highlighter.regions":
-							[
-								"bh_round",
-								"bh_round_center",
-								"bh_round_open",
-								"bh_round_close",
-								"bh_round_content",
-								"bh_default",
-								"bh_default_center",
-								"bh_default_open",
-								"bh_default_close",
-								"bh_default_content",
-								"bh_c_define",
-								"bh_c_define_center",
-								"bh_c_define_open",
-								"bh_c_define_close",
-								"bh_c_define_content",
-								"bh_double_quote",
-								"bh_double_quote_center",
-								"bh_double_quote_open",
-								"bh_double_quote_close",
-								"bh_double_quote_content",
-								"bh_single_quote",
-								"bh_single_quote_center",
-								"bh_single_quote_open",
-								"bh_single_quote_close",
-								"bh_single_quote_content",
-								"bh_angle",
-								"bh_angle_center",
-								"bh_angle_open",
-								"bh_angle_close",
-								"bh_angle_content",
-								"bh_regex",
-								"bh_regex_center",
-								"bh_regex_open",
-								"bh_regex_close",
-								"bh_regex_content",
-								"bh_square",
-								"bh_square_center",
-								"bh_square_open",
-								"bh_square_close",
-								"bh_square_content",
-								"bh_curly",
-								"bh_curly_center",
-								"bh_curly_open",
-								"bh_curly_close",
-								"bh_curly_content",
-								"bh_unmatched",
-								"bh_unmatched_center",
-								"bh_unmatched_open",
-								"bh_unmatched_close",
-								"bh_unmatched_content",
-								"bh_tag",
-								"bh_tag_center",
-								"bh_tag_open",
-								"bh_tag_close",
-								"bh_tag_content"
-							],
-							"incomplete_sync": null,
-							"remote_loading": false,
-							"synced": false,
-							"syntax": "Packages/HTML/HTML.sublime-syntax",
-							"translate_tabs_to_spaces": false
-						},
-						"translation.x": 0.0,
-						"translation.y": 1045.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 4,
-					"type": "text"
-				},
-				{
-					"buffer": 5,
-					"file": "/C/Users/Jason/Documents/AAA Auction/Auctions_and_Backups/2016-09-22/2016-09-22_Inventory_TEXT.txt",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 22399,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								22399,
-								22399
-							]
-						],
-						"settings":
-						{
-							"bracket_highlighter.busy": false,
-							"bracket_highlighter.locations":
-							{
-								"close":
-								{
-								},
-								"icon":
-								{
-								},
-								"open":
-								{
-								},
-								"unmatched":
-								{
-								}
-							},
-							"bracket_highlighter.regions":
-							[
-								"bh_c_define",
-								"bh_c_define_center",
-								"bh_c_define_open",
-								"bh_c_define_close",
-								"bh_c_define_content",
-								"bh_round",
-								"bh_round_center",
-								"bh_round_open",
-								"bh_round_close",
-								"bh_round_content",
 								"bh_single_quote",
 								"bh_single_quote_center",
 								"bh_single_quote_open",
@@ -1577,149 +1294,12 @@
 								"bh_unmatched_open",
 								"bh_unmatched_close",
 								"bh_unmatched_content",
-								"bh_square",
-								"bh_square_center",
-								"bh_square_open",
-								"bh_square_close",
-								"bh_square_content",
-								"bh_angle",
-								"bh_angle_center",
-								"bh_angle_open",
-								"bh_angle_close",
-								"bh_angle_content",
-								"bh_default",
-								"bh_default_center",
-								"bh_default_open",
-								"bh_default_close",
-								"bh_default_content",
-								"bh_curly",
-								"bh_curly_center",
-								"bh_curly_open",
-								"bh_curly_close",
-								"bh_curly_content",
-								"bh_double_quote",
-								"bh_double_quote_center",
-								"bh_double_quote_open",
-								"bh_double_quote_close",
-								"bh_double_quote_content",
-								"bh_tag",
-								"bh_tag_center",
-								"bh_tag_open",
-								"bh_tag_close",
-								"bh_tag_content",
-								"bh_regex",
-								"bh_regex_center",
-								"bh_regex_open",
-								"bh_regex_close",
-								"bh_regex_content"
-							],
-							"incomplete_sync": null,
-							"open_with_edit": true,
-							"remote_loading": false,
-							"synced": false,
-							"syntax": "Packages/Text/Plain text.tmLanguage"
-						},
-						"translation.x": 0.0,
-						"translation.y": 4521.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 6,
-					"type": "text"
-				},
-				{
-					"buffer": 6,
-					"file": "/C/Users/Jason/Documents/AAA Auction/Templates/AAA_Template_Email_8.6",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 1417,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								562,
-								562
-							]
-						],
-						"settings":
-						{
-							"bracket_highlighter.busy": false,
-							"bracket_highlighter.locations":
-							{
-								"close":
-								{
-								},
-								"icon":
-								{
-								},
-								"open":
-								{
-								},
-								"unmatched":
-								{
-								}
-							},
-							"bracket_highlighter.regions":
-							[
-								"bh_c_define",
-								"bh_c_define_center",
-								"bh_c_define_open",
-								"bh_c_define_close",
-								"bh_c_define_content",
 								"bh_round",
 								"bh_round_center",
 								"bh_round_open",
 								"bh_round_close",
-								"bh_round_content",
-								"bh_single_quote",
-								"bh_single_quote_center",
-								"bh_single_quote_open",
-								"bh_single_quote_close",
-								"bh_single_quote_content",
-								"bh_unmatched",
-								"bh_unmatched_center",
-								"bh_unmatched_open",
-								"bh_unmatched_close",
-								"bh_unmatched_content",
-								"bh_square",
-								"bh_square_center",
-								"bh_square_open",
-								"bh_square_close",
-								"bh_square_content",
-								"bh_angle",
-								"bh_angle_center",
-								"bh_angle_open",
-								"bh_angle_close",
-								"bh_angle_content",
-								"bh_default",
-								"bh_default_center",
-								"bh_default_open",
-								"bh_default_close",
-								"bh_default_content",
-								"bh_curly",
-								"bh_curly_center",
-								"bh_curly_open",
-								"bh_curly_close",
-								"bh_curly_content",
-								"bh_double_quote",
-								"bh_double_quote_center",
-								"bh_double_quote_open",
-								"bh_double_quote_close",
-								"bh_double_quote_content",
-								"bh_tag",
-								"bh_tag_center",
-								"bh_tag_open",
-								"bh_tag_close",
-								"bh_tag_content",
-								"bh_regex",
-								"bh_regex_center",
-								"bh_regex_open",
-								"bh_regex_close",
-								"bh_regex_content"
+								"bh_round_content"
 							],
-							"color_scheme": "Packages/User/Color Highlighter/themes/Monokai (SL).tmTheme",
 							"incomplete_sync": null,
 							"remote_loading": false,
 							"synced": false,
@@ -1729,7 +1309,7 @@
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 5,
+					"stack_index": 0,
 					"type": "text"
 				}
 			]
