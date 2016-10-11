@@ -5,3 +5,4 @@ deployment-config.json
 *.jpg
 *.png
 *.jpeg
+*.sublime-workspace
