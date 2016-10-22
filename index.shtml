@@ -107,6 +107,47 @@
 
 
 
+<div class="current">
+	<h2><a href="http://www.auctionmn.com/cgi-bin/mndetails.cgi?auctionmn">Online Auction Ending on November 2nd, 2016</a></h2>
+	<div class="flexbox">
+		<a href="http://www.auctionmn.com/cgi-bin/mnlist.cgi?auctionmn/7"><img src="http://www.auctionmn.com/images/2016-11-02/T7-1.jpg" alt="7"></a>
+		<a href="http://www.auctionmn.com/cgi-bin/mnlist.cgi?auctionmn/17"><img src="http://www.auctionmn.com/images/2016-11-02/T17-1.jpg" alt="17"></a>
+		<a href="http://www.auctionmn.com/cgi-bin/mnlist.cgi?auctionmn/24"><img src="http://www.auctionmn.com/images/2016-11-02/T24-1.jpg" alt="24"></a>
+		<a href="http://www.auctionmn.com/cgi-bin/mnlist.cgi?auctionmn/47"><img src="http://www.auctionmn.com/images/2016-11-02/T47-1.jpg" alt="47"></a>
+		<a href="http://www.auctionmn.com/cgi-bin/mnlist.cgi?auctionmn/55"><img src="http://www.auctionmn.com/images/2016-11-02/T55-1.jpg" alt="55"></a>
+		<a href="http://www.auctionmn.com/cgi-bin/mnlist.cgi?auctionmn/68"><img src="http://www.auctionmn.com/images/2016-11-02/T68-1.jpg" alt="68"></a>
+		<a href="http://www.auctionmn.com/cgi-bin/mnlist.cgi?auctionmn/91"><img src="http://www.auctionmn.com/images/2016-11-02/T91-1.jpg" alt="91"></a>
+		<a href="http://www.auctionmn.com/cgi-bin/mnlist.cgi?auctionmn/101"><img src="http://www.auctionmn.com/images/2016-11-02/T101-1.jpg" alt="101"></a>
+		<a href="http://www.auctionmn.com/cgi-bin/mnlist.cgi?auctionmn/108"><img src="http://www.auctionmn.com/images/2016-11-02/T108-1.jpg" alt="108"></a>
+		<a href="http://www.auctionmn.com/cgi-bin/mnlist.cgi?auctionmn/143"><img src="http://www.auctionmn.com/images/2016-11-02/T143-1.jpg" alt="143"></a>
+		<a href="http://www.auctionmn.com/cgi-bin/mnlist.cgi?auctionmn/160"><img src="http://www.auctionmn.com/images/2016-11-02/T160-1.jpg" alt="160"></a>
+		<a href="http://www.auctionmn.com/cgi-bin/mnlist.cgi?auctionmn/183"><img src="http://www.auctionmn.com/images/2016-11-02/T183-1.jpg" alt="183"></a>
+		<a href="http://www.auctionmn.com/cgi-bin/mnlist.cgi?auctionmn/199"><img src="http://www.auctionmn.com/images/2016-11-02/T199-1.jpg" alt="199"></a>
+		<a href="http://www.auctionmn.com/cgi-bin/mnlist.cgi?auctionmn/275"><img src="http://www.auctionmn.com/images/2016-11-02/T275-1.jpg" alt="275"></a>
+		<a href="http://www.auctionmn.com/cgi-bin/mnlist.cgi?auctionmn/280"><img src="http://www.auctionmn.com/images/2016-11-02/T280-1.jpg" alt="280"></a>
+		<a href="http://www.auctionmn.com/cgi-bin/mnlist.cgi?auctionmn/289"><img src="http://www.auctionmn.com/images/2016-11-02/T289-1.jpg" alt="289"></a>
+		<a href="http://www.auctionmn.com/cgi-bin/mnlist.cgi?auctionmn/327"><img src="http://www.auctionmn.com/images/2016-11-02/T327-1.jpg" alt="327"></a>
+		<a href="http://www.auctionmn.com/cgi-bin/mnlist.cgi?auctionmn/330"><img src="http://www.auctionmn.com/images/2016-11-02/T330-1.jpg" alt="330"></a>
+		<a href="http://www.auctionmn.com/cgi-bin/mnlist.cgi?auctionmn/362"><img src="http://www.auctionmn.com/images/2016-11-02/T362-1.jpg" alt="362"></a>
+	</div>
+	<!-- Enable if auction is an online auction -->
+	<a href="http://www.auctionmn.com/cgi-bin/mnlist.cgi?auctionmn/category/ALL" class="bidnow rfloat"></a>
+	<!-- Enable if auction is an online auction hosted on proxibid -->
+	<!-- <a href="https://www.proxibid.com/asp/Catalog.asp?aid=*"><img class="rfloat" src="http://www.auctionmn.com/images/2014-02-14/proxibid.gif" alt=""></a> -->
+		<p><strong>Location</strong></p>
+			<p><a target="_blank" href="https://www.google.com/maps/place/19800+Nowthen+Blvd+NW,+Anoka,+MN+55303/@45.3288574,-93.4702582,17z/data=!3m1!4b1!4m2!3m1!1s0x52b36cac2a3f4e03:0x556a431d9b7a8c21">Old Nowthen City Hall Building</a></p>
+			<p>19800 Nowthen Blvd NW</p>
+			<p>Nowthen MN 55303-9655</p>
+		<p><strong>Preview Time</strong></p>
+			<p>November 2nd, from 2 to 5 p.m.</p>
+		<p><strong>Auction Ending Time</strong></p>
+			<p>November 2nd, closing begins at 7:30 p.m.</p>
+		<p><strong>Pickup Time</strong></p>
+			<p>November 3rd, from 9:30 a.m. to 5:30 p.m.</p>
+</div>
+
+
+
 
 <!-- *******************************************************************************
             *************      End of Current Auctions       ***************
