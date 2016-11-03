@@ -131,7 +131,7 @@
 			"file": "index.shtml",
 			"settings":
 			{
-				"buffer_size": 56779,
+				"buffer_size": 55846,
 				"encoding": "UTF-8",
 				"line_ending": "Windows"
 			}
@@ -151,6 +151,14 @@
 			[
 				"title",
 				"Convert Case: Title Case"
+			],
+			[
+				"no",
+				"Snippet: location-nowthen"
+			],
+			[
+				"new ",
+				"Snippet: new-auction"
 			],
 			[
 				"nowthen",
@@ -569,11 +577,18 @@
 	[
 		"/C/Users/Jason/Documents/AAA Auction",
 		"/C/Users/Jason/Documents/AAA Auction/Auctions_and_Backups/2016-10-24",
+		"/C/Users/Jason/Documents/AAA Auction/Auctions_and_Backups/2016-11-02",
 		"/C/Users/Jason/Documents/AAA Auction/Templates",
 		"/C/Users/Jason/Documents/GitHub/auctionMN"
 	],
 	"file_history":
 	[
+		"/C/Users/Jason/Documents/AAA Auction/Auctions_and_Backups/2016-11-02/2016-11-02_Winning_Bidders_v2.txt",
+		"/C/Users/Jason/Documents/AAA Auction/Auctions_and_Backups/2016-11-02/2016-11-02_Maxanet_Results.txt",
+		"/C/Users/Jason/Documents/AAA Auction/Templates/AAA_Template_Invoices_Wavebid_v15",
+		"/C/Users/Jason/Documents/AAA Auction/Auctions_and_Backups/2016-11-02/2016-11-02_Winning_Bidders.txt",
+		"/C/Users/Jason/Documents/AAA Auction/Auctions_and_Backups/2016-11-02/2016-11-02_Inventory_TEXT_v2.txt",
+		"/C/Users/Jason/Documents/AAA Auction/Templates/AAA_Template_Email_8.9",
 		"/C/Users/Jason/Documents/AAA Auction/Templates/AAA_Template_Email_8.8",
 		"/C/Users/Jason/Documents/AAA Auction/Auctions_and_Backups/2016-10-24/2016-10-24_Inventory_TEXT.txt",
 		"/C/Users/Jason/Documents/AAA Auction/Templates/AAA_List_of_Emails_2016-10-04.txt",
@@ -695,13 +710,7 @@
 		"/C/Users/Jason/Documents/AAA Auction/Auctions_and_Backups/2015-10-19/2015-10-19_Auction_Details.txt",
 		"/C/Users/Jason/Documents/AAA Auction/Templates/AAA_Template_Email_7.3",
 		"/C/Users/Jason/Google Drive/Development/AuctionMN/AuctionMN_ST_Project.sublime-project",
-		"/C/Users/Jason/Documents/AAA Auction/Templates/AAA_Template_Email_Blank",
-		"/C/Users/Jason/Documents/GitHub/auctionMN/images/2015-10-04-live/index.html",
-		"/C/Users/Jason/Pictures/AAA Pictures/2015-10-03-live/index.html",
-		"/C/Users/Jason/Desktop/.temp/index.html",
-		"/C/Users/Jason/Google Drive/Work/AAA Auction/Templates/AAA_Picture_Highlights.html",
-		"/C/Users/Jason/Google Drive/Work/AAA Auction/Templates/AAA_Template_Email_7.2",
-		"/C/Users/Jason/Documents/AAA Auction/Auctions_and_Backups/2015-08-08.html"
+		"/C/Users/Jason/Documents/AAA Auction/Templates/AAA_Template_Email_Blank"
 	],
 	"find":
 	{
@@ -720,6 +729,9 @@
 		"case_sensitive": false,
 		"find_history":
 		[
+			"- ",
+			"  ",
+			"(",
 			"  ",
 			"(",
 			"/cgi-bin/mnlist",
@@ -844,9 +856,6 @@
 			"images/",
 			"${2:TITLE}",
 			"${1:WORKSPACE}",
-			"{1:LINK}",
-			"1",
-			"1:LINK",
 			"{1:LINK}"
 		],
 		"highlight": true,
@@ -876,15 +885,15 @@
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 56779,
+						"buffer_size": 55846,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								2897,
-								2897
+								4218,
+								4218
 							]
 						],
 						"settings":
@@ -955,15 +964,15 @@
 								{
 									"1":
 									[
-										2899,
-										2900
+										4218,
+										4219
 									]
 								},
 								"icon":
 								{
 									"1":
 									[
-										"Packages/BracketHighlighter/icons/tag.png",
+										"Packages/BracketHighlighter/icons/double_quote.png",
 										"brackethighlighter.default"
 									]
 								},
@@ -971,8 +980,8 @@
 								{
 									"1":
 									[
-										2785,
-										2786
+										4211,
+										4212
 									]
 								},
 								"unmatched":
@@ -986,56 +995,56 @@
 								"bh_c_define_open",
 								"bh_c_define_close",
 								"bh_c_define_content",
-								"bh_round",
-								"bh_round_center",
-								"bh_round_open",
-								"bh_round_close",
-								"bh_round_content",
-								"bh_single_quote",
-								"bh_single_quote_center",
-								"bh_single_quote_open",
-								"bh_single_quote_close",
-								"bh_single_quote_content",
-								"bh_unmatched",
-								"bh_unmatched_center",
-								"bh_unmatched_open",
-								"bh_unmatched_close",
-								"bh_unmatched_content",
-								"bh_square",
-								"bh_square_center",
-								"bh_square_open",
-								"bh_square_close",
-								"bh_square_content",
-								"bh_angle",
-								"bh_angle_center",
-								"bh_angle_open",
-								"bh_angle_close",
-								"bh_angle_content",
-								"bh_curly",
-								"bh_curly_center",
-								"bh_curly_open",
-								"bh_curly_close",
-								"bh_curly_content",
-								"bh_default",
-								"bh_default_center",
-								"bh_default_open",
-								"bh_default_close",
-								"bh_default_content",
 								"bh_double_quote",
 								"bh_double_quote_center",
 								"bh_double_quote_open",
 								"bh_double_quote_close",
 								"bh_double_quote_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
 								"bh_tag",
 								"bh_tag_center",
 								"bh_tag_open",
 								"bh_tag_close",
 								"bh_tag_content",
-								"bh_regex",
-								"bh_regex_center",
-								"bh_regex_open",
-								"bh_regex_close",
-								"bh_regex_content"
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content"
 							],
 							"color_scheme": "Packages/User/Color Highlighter/themes/Material-Theme-Darker.tmTheme",
 							"incomplete_sync": null,
@@ -1045,7 +1054,7 @@
 							"translate_tabs_to_spaces": false
 						},
 						"translation.x": 0.0,
-						"translation.y": 1254.0,
+						"translation.y": 1956.0,
 						"zoom_level": 1.0
 					},
 					"stack_index": 0,
