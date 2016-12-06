@@ -89,6 +89,7 @@
 
 
 
+
 <!-- *******************************************************************************
             *************      End of Upcoming Auctions       ***************
 ******************************************************************************** -->
@@ -103,6 +104,25 @@
 <!-- *******************************************************************************
             *************      Start of Recent Auctions       ***************
 ******************************************************************************** -->
+
+<div class="recent">
+	<h2><a href="http://www.auctionmn.com/cgi-bin/mndetails.cgi?auctionmn2">Online Auction Ended on December 5th, 2016</a></h2>
+	<div class="flexbox">
+		<a href="http://www.auctionmn.com/cgi-bin/mnlist.cgi?auctionmn2/25"><img src="http://www.auctionmn.com/images/2016-12-05/T25-1.jpg" alt="25"></a>
+		<a href="http://www.auctionmn.com/cgi-bin/mnlist.cgi?auctionmn2/35"><img src="http://www.auctionmn.com/images/2016-12-05/T35-1.jpg" alt="35"></a>
+		<a href="http://www.auctionmn.com/cgi-bin/mnlist.cgi?auctionmn2/48"><img src="http://www.auctionmn.com/images/2016-12-05/T48-1.jpg" alt="48"></a>
+		<a href="http://www.auctionmn.com/cgi-bin/mnlist.cgi?auctionmn2/55"><img src="http://www.auctionmn.com/images/2016-12-05/T55-1.jpg" alt="55"></a>
+		<a href="http://www.auctionmn.com/cgi-bin/mnlist.cgi?auctionmn2/62"><img src="http://www.auctionmn.com/images/2016-12-05/T62-1.jpg" alt="62"></a>
+		<a href="http://www.auctionmn.com/cgi-bin/mnlist.cgi?auctionmn2/63"><img src="http://www.auctionmn.com/images/2016-12-05/T63-1.jpg" alt="63"></a>
+		<a href="http://www.auctionmn.com/cgi-bin/mnlist.cgi?auctionmn2/83"><img src="http://www.auctionmn.com/images/2016-12-05/T83-1.jpg" alt="83"></a>
+	</div>
+		<p><strong>Pickup Location</strong></p>
+			<p><a target="_blank" href="https://www.google.com/maps/place/19800+Nowthen+Blvd+NW,+Anoka,+MN+55303/@45.3288574,-93.4702582,17z/data=!3m1!4b1!4m2!3m1!1s0x52b36cac2a3f4e03:0x556a431d9b7a8c21">Old Nowthen City Hall Building</a></p>
+			<p>19800 Nowthen Blvd NW</p>
+			<p>Nowthen MN 55303-9655</p>
+		<p><strong>Pickup Time</strong></p>
+			<p>December 6th, from 10 a.m. to 6 p.m.</p>
+</div>
 
 <div class="recent">
 	<h2><a href="http://www.auctionmn.com/cgi-bin/mndetails.cgi?auctionmn">Online Auction Ended on November 2nd, 2016</a></h2>
@@ -123,7 +143,7 @@
 </div>
 
 <div class="recent">
-	<h2><a href="http://www.auctionmn.com/cgi-bin/mndetails.cgi?auctionmn15">Online Auction Closed on October 23rd, 2016</a></h2>
+	<h2><a href="http://www.auctionmn.com/cgi-bin/mndetails.cgi?auctionmn15">Online Auction Ended on October 23rd, 2016</a></h2>
 	<div class="flexbox">
 		<a href="http://www.auctionmn.com/cgi-bin/mnlist.cgi?auctionmn15/437"><img src="http://www.auctionmn.com/images/2016-10-24/T437-1.jpg" alt="437"></a>
 		<a href="http://www.auctionmn.com/cgi-bin/mnlist.cgi?auctionmn15/6"><img src="http://www.auctionmn.com/images/2016-10-24/T6-1.jpg" alt="6"></a>
@@ -143,7 +163,7 @@
 
 
 <div class="recent">
-	<h2><a href="http://www.auctionmn.com/cgi-bin/mndetails.cgi?auctionmn14">Online Estate Auction Closed on October 3rd, 2016</a></h2>
+	<h2><a href="http://www.auctionmn.com/cgi-bin/mndetails.cgi?auctionmn14">Online Estate Auction Ended on October 3rd, 2016</a></h2>
 	<div class="flexbox">
 		<a href="http://www.auctionmn.com/cgi-bin/mnlist.cgi?auctionmn14/1"><img src="http://www.auctionmn.com/images/2016-10-03/T1-1.jpg" alt="1"></a>
 		<a href="http://www.auctionmn.com/cgi-bin/mnlist.cgi?auctionmn14/7"><img src="http://www.auctionmn.com/images/2016-10-03/T7-1.jpg" alt="7"></a>
@@ -161,7 +181,7 @@
 </div>
 
 <div class="recent maus">
-<!-- <div class="closed" style="top:1127px;height:300px;">No Auction This Tuesday Due To Weather</div> -->
+<!-- <div class="Ended" style="top:1127px;height:300px;">No Auction This Tuesday Due To Weather</div> -->
 	<h2 id="maus"><a href="http://www.auctionmn.com/mauscorner.shtml">Mau's Corner Flea Market & Live Auction</a></h2>
 	<!-- <h3>Closing For The Season September 27</h3> -->
 		<!-- <p>Cancellations due to weather will be listed here: -->
@@ -206,7 +226,7 @@
 </div>
 
 <div class="recent">
-	<h2><a href="http://www.auctionmn.com/cgi-bin/mndetails.cgi?auctionmn13">Online Auction Closed on September 22nd, 2016</a></h2>
+	<h2><a href="http://www.auctionmn.com/cgi-bin/mndetails.cgi?auctionmn13">Online Auction Ended on September 22nd, 2016</a></h2>
 	<div class="flexbox">
 		<a href="http://www.auctionmn.com/cgi-bin/mnlist.cgi?auctionmn13/7"><img src="http://www.auctionmn.com/images/2016-09-22/T7-1.jpg" alt="7"></a>
 		<a href="http://www.auctionmn.com/cgi-bin/mnlist.cgi?auctionmn13/11"><img src="http://www.auctionmn.com/images/2016-09-22/T11-1.jpg" alt="11"></a>
@@ -259,12 +279,12 @@
 	<!-- Enable if auction is an online auction hosted on proxibid -->
 	<!-- <a href="https://www.proxibid.com/asp/Catalog.asp?aid=*"><img class="rfloat" src="http://www.auctionmn.com/images/2014-02-14/proxibid.gif" alt=""></a> -->
 		<p><strong>Auction</strong></p>
-			<p>CLOSED on September 10th, 2016</p>
+			<p>Ended on September 10th, 2016</p>
 </div>
 
 
 <div class="recent">
-	<h2><a href="http://www.auctionmn.com/cgi-bin/mndetails.cgi?auctionmn11">Online Auction Closed on August 17th</a></h2>
+	<h2><a href="http://www.auctionmn.com/cgi-bin/mndetails.cgi?auctionmn11">Online Auction Ended on August 17th</a></h2>
 	<div class="flexbox">
 		<a href="http://www.auctionmn.com/cgi-bin/mnlist.cgi?auctionmn11/25"><img src="http://www.auctionmn.com/images/2016-08-17/T25-1.jpg" alt="25"></a>
 		<a href="http://www.auctionmn.com/cgi-bin/mnlist.cgi?auctionmn11/34"><img src="http://www.auctionmn.com/images/2016-08-17/T34-1.jpg" alt="34"></a>
@@ -283,7 +303,7 @@
 
 
 <div class="recent">
-	<h2><a href="http://www.auctionmn.com/cgi-bin/mndetails.cgi?auctionmn10">Online Auction Closed on Wednesday, June 1st</a></h2>
+	<h2><a href="http://www.auctionmn.com/cgi-bin/mndetails.cgi?auctionmn10">Online Auction Ended on Wednesday, June 1st</a></h2>
 	<div class="flexbox">
 		<a href="http://www.auctionmn.com/cgi-bin/mnlist.cgi?auctionmn10/3"><img src="http://www.auctionmn.com/images/2016-06-01/T3-1.jpg" alt="3"></a>
 		<a href="http://www.auctionmn.com/cgi-bin/mnlist.cgi?auctionmn10/4"><img src="http://www.auctionmn.com/images/2016-06-01/T4-1.jpg" alt="4"></a>
@@ -367,7 +387,7 @@
 </div>
 
 <div class="recent">
-	<h2><a href="http://www.auctionmn.com/cgi-bin/mndetails.cgi?auctionmn8">Online Auction Closed on March 24th at 7:30 p.m.</a></h2>
+	<h2><a href="http://www.auctionmn.com/cgi-bin/mndetails.cgi?auctionmn8">Online Auction Ended on March 24th at 7:30 p.m.</a></h2>
 	<div class="flexbox">
 		<a href="http://www.auctionmn.com/cgi-bin/mnlist.cgi?auctionmn8/6"><img src="http://www.auctionmn.com/images/2016-03-24/T6-1.jpg" alt="6"></a>
 		<a href="http://www.auctionmn.com/cgi-bin/mnlist.cgi?auctionmn8/8"><img src="http://www.auctionmn.com/images/2016-03-24/T8-1.jpg" alt="8"></a>
@@ -387,7 +407,7 @@
 </div>
 
 <div class="recent">
-	<h2><a href="http://www.auctionmn.com/cgi-bin/mndetails.cgi?auctionmn7">Online Outdoorsman Auction Closed on December 20th</a></h2>
+	<h2><a href="http://www.auctionmn.com/cgi-bin/mndetails.cgi?auctionmn7">Online Outdoorsman Auction Ended on December 20th</a></h2>
 		<div class="flexbox">
 				<a href="http://www.auctionmn.com/cgi-bin/mnlist.cgi?auctionmn7/15"><img src="http://www.auctionmn.com/images/2015-12-20/T15-1.jpg" alt="15"></a>
 				<a href="http://www.auctionmn.com/cgi-bin/mnlist.cgi?auctionmn7/23"><img src="http://www.auctionmn.com/images/2015-12-20/T23-1.jpg" alt="23"></a>
@@ -397,11 +417,11 @@
 				<a href="http://www.auctionmn.com/cgi-bin/mnlist.cgi?auctionmn7/55"><img src="http://www.auctionmn.com/images/2015-12-20/T55-1.jpg" alt="55"></a>
 			</div>
 		<p><strong>Auction</strong></p>
-			<p>CLOSED on Sunday, December 20th</p>
+			<p>Ended on Sunday, December 20th</p>
 </div>
 
 <div class="recent">
-	<h2><a href="http://www.auctionmn.com/cgi-bin/mndetails.cgi?auctionmn6">Online Auction Closed on November 30th at 7:30</a></h2>
+	<h2><a href="http://www.auctionmn.com/cgi-bin/mndetails.cgi?auctionmn6">Online Auction Ended on November 30th at 7:30</a></h2>
 	<div class="flexbox">
 		<a href="http://www.auctionmn.com/cgi-bin/mnlist.cgi?auctionmn6/16"><img src="http://www.auctionmn.com/images/2015-11-30/T16-1.jpg" alt="16"></a>
 		<a href="http://www.auctionmn.com/cgi-bin/mnlist.cgi?auctionmn6/20"><img src="http://www.auctionmn.com/images/2015-11-30/T20-1.jpg" alt="20"></a>
@@ -411,11 +431,11 @@
 		<a href="http://www.auctionmn.com/cgi-bin/mnlist.cgi?auctionmn6/48"><img src="http://www.auctionmn.com/images/2015-11-30/T48-1.jpg" alt="48"></a>
 	</div>
 		<p><strong>Auction</strong></p>
-			<p>CLOSED on Monday, November 30th</p>
+			<p>Ended on Monday, November 30th</p>
 </div>
 
 <div class="recent">
-	<h2><a href="http://www.auctionmn.com/cgi-bin/mndetails.cgi?auctionmn4">Sporting Goods Auction Closed November 4th at 7:30 p.m.</a></h2>
+	<h2><a href="http://www.auctionmn.com/cgi-bin/mndetails.cgi?auctionmn4">Sporting Goods Auction Ended November 4th at 7:30 p.m.</a></h2>
 	<div class="flexbox">
 			<a href="http://www.auctionmn.com/cgi-bin/mnlist.cgi?auctionmn4/8"><img src="http://www.auctionmn.com/images/2015-11-04/T8-1.jpg" alt="8"></a>
 			<a href="http://www.auctionmn.com/cgi-bin/mnlist.cgi?auctionmn4/10"><img src="http://www.auctionmn.com/images/2015-11-04/T10-1.jpg" alt="10"></a>
@@ -426,7 +446,7 @@
 			<a href="http://www.auctionmn.com/cgi-bin/mnlist.cgi?auctionmn4/22"><img src="http://www.auctionmn.com/images/2015-11-04/T22-1.jpg" alt="22"></a>
 		</div>
 		<p><strong>Auction</strong></p>
-			<p>CLOSED on Wednesday, November 4th</p>
+			<p>Ended on Wednesday, November 4th</p>
 </div>
 
 <div class="recent">
@@ -446,7 +466,7 @@
 </div>
 
 <div class="recent">
-	<h2><a href="http://www.auctionmn.com/cgi-bin/mndetails.cgi?auctionmn3">Online Auction Closed Monday, October 19th at 7:30 p.m.</a></h2>
+	<h2><a href="http://www.auctionmn.com/cgi-bin/mndetails.cgi?auctionmn3">Online Auction Ended Monday, October 19th at 7:30 p.m.</a></h2>
 	<div class="flexbox">
 		<a href="http://www.auctionmn.com/cgi-bin/mnlist.cgi?auctionmn3/5"><img src="http://www.auctionmn.com/images/2015-10-19/T5-1.jpg" alt="5"></a>
 		<a href="http://www.auctionmn.com/cgi-bin/mnlist.cgi?auctionmn3/8"><img src="http://www.auctionmn.com/images/2015-10-19/T8-1.jpg" alt="8"></a>
@@ -455,7 +475,7 @@
 		<a href="http://www.auctionmn.com/cgi-bin/mnlist.cgi?auctionmn3/51"><img src="http://www.auctionmn.com/images/2015-10-19/T51-1.jpg" alt="51"></a>
 	</div>
 		<p><strong>Auction</strong></p>
-			<p>CLOSED Monday, October 19th, 2015</p>
+			<p>Ended Monday, October 19th, 2015</p>
 </div>
 
 <div class="recent">
@@ -468,7 +488,7 @@
 			</div>
 			<h2><a href="http://www.auctionmn.com/images/2015-10-04-live/" >View Inventory and More Photos</a></h2>
 		<p><strong>Dates and Times</strong></p>
-			<p>CLOSED Saturday, October 3rd and 4th, 2015</p>
+			<p>Ended Saturday, October 3rd and 4th, 2015</p>
 </div>
 
 <div class="recent">
@@ -481,19 +501,19 @@
 		<a href="http://www.auctionmn.com/cgi-bin/mnlist.cgi?auctionmn/22"><img src="http://www.auctionmn.com/images/2015-08-08/T22-1.jpg" alt="22"></a>
 	</div>
 		<p><strong>Date</strong></p>
-			<p>CLOSED Saturday, August 8th, 2015</p>
+			<p>Ended Saturday, August 8th, 2015</p>
 </div>
 
 <div class="recent">
 	<a href="https://www.proxibid.com/asp/Catalog.asp?aid=98442"><img class="rfloat" src="http://www.auctionmn.com/images/2014-02-14/proxibid.gif" alt=""></a>
 	<h2><a href="https://www.proxibid.com/asp/Catalog.asp?aid=98442">Dr. John Najarian Auction</a></h2>
 		<p><strong>Date</strong></p>
-			<p>CLOSED Saturday, July 18th, 2015</p>
+			<p>Ended Saturday, July 18th, 2015</p>
 		<div class="clearfix"></div>
 </div>
 
 <div class="recent">
-	<h2><a href="http://www.auctionmn.com/cgi-bin/mndetails.cgi?auctionmn15">Online Collectible Auction Closed June 24th</a></h2>
+	<h2><a href="http://www.auctionmn.com/cgi-bin/mndetails.cgi?auctionmn15">Online Collectible Auction Ended June 24th</a></h2>
 	<div class="flexbox">
 		<a href="http://www.auctionmn.com/cgi-bin/mnlist.cgi?auctionmn15/2"><img src="http://www.auctionmn.com/images/2015-06-24/T2-1.jpg" alt="2"></a>
 		<a href="http://www.auctionmn.com/cgi-bin/mnlist.cgi?auctionmn15/8"><img src="http://www.auctionmn.com/images/2015-06-24/T8-1.jpg" alt="8"></a>
@@ -502,7 +522,7 @@
 		<a href="http://www.auctionmn.com/cgi-bin/mnlist.cgi?auctionmn15/55"><img src="http://www.auctionmn.com/images/2015-06-24/T55-1.jpg" alt="55"></a>
 	</div>
 		<p><strong>Date</strong></p>
-			<p>CLOSED Wednesday, June 24th, 2015</p>
+			<p>Ended Wednesday, June 24th, 2015</p>
 </div>
 
 <div class="recent">
@@ -517,11 +537,11 @@
 		<a href="http://www.auctionmn.com/cgi-bin/mnlist.cgi?auctionmn14/131"><img src="http://www.auctionmn.com/images/2015-05-05/T131-1.jpg" alt="131"></a>
 	</div>
 		<p><strong>Date</strong></p>
-			<p>CLOSED Tuesday, May 5th, 2015</p>
+			<p>Ended Tuesday, May 5th, 2015</p>
 </div>
 
 <div class="recent">
-	<h2><a href="http://www.auctionmn.com/cgi-bin/mndetails.cgi?auctionmn13">Online Auction Closed April 29th, 2015</a></h2>
+	<h2><a href="http://www.auctionmn.com/cgi-bin/mndetails.cgi?auctionmn13">Online Auction Ended April 29th, 2015</a></h2>
 	<div class="flexbox">
 		<a href="http://www.auctionmn.com/cgi-bin/mnlist.cgi?auctionmn13/10"><img src="http://www.auctionmn.com/images/2015-04-29/T10-1.jpg" alt="010"></a>
 		<a href="http://www.auctionmn.com/cgi-bin/mnlist.cgi?auctionmn13/16"><img src="http://www.auctionmn.com/images/2015-04-29/T16-1.jpg" alt="016"></a>
@@ -531,7 +551,7 @@
 		<a href="http://www.auctionmn.com/cgi-bin/mnlist.cgi?auctionmn13/44"><img src="http://www.auctionmn.com/images/2015-04-29/T44-1.jpg" alt="044"></a>
 	</div>
 		<p><strong>Date</strong></p>
-			<p>CLOSED Wednesday, April 29th, 2015</p>
+			<p>Ended Wednesday, April 29th, 2015</p>
 </div>
 
 <div class="recent">
@@ -568,12 +588,12 @@
 	</div>
 	<a href="https://www.proxibid.com/asp/Catalog.asp?aid=93164"><img class="rfloat" src="http://www.auctionmn.com/images/2014-02-14/proxibid.gif" alt="Proxibid" /></a>
 		<p><strong>Date</strong></p>
-		<p>CLOSED Saturday, April 4th, 2015</p>
+		<p>Ended Saturday, April 4th, 2015</p>
 	<div class="clearfix"></div>
 </div>
 
 <div class="recent">
-	<h2><a href="http://www.auctionmn.com/cgi-bin/mndetails.cgi?auctionmn12">Online Auction Closed Wednesday, March 25th</a></h2>
+	<h2><a href="http://www.auctionmn.com/cgi-bin/mndetails.cgi?auctionmn12">Online Auction Ended Wednesday, March 25th</a></h2>
 	<div class="flexbox">
 		<a href="http://www.auctionmn.com/cgi-bin/mnlist.cgi?auctionmn12/2"><img src="http://www.auctionmn.com/images/2015-03-25/T2-1.jpg" alt="2"></a>
 		<a href="http://www.auctionmn.com/cgi-bin/mnlist.cgi?auctionmn12/5"><img src="http://www.auctionmn.com/images/2015-03-25/T5-1.jpg" alt="5"></a>
@@ -583,11 +603,11 @@
 		<a href="http://www.auctionmn.com/cgi-bin/mnlist.cgi?auctionmn12/25"><img src="http://www.auctionmn.com/images/2015-03-25/T25-1.jpg" alt="25"></a>
 	</div>
 	<p><strong>Date</strong></p>
-		<p>CLOSED Wednesday, March 25th</p>
+		<p>Ended Wednesday, March 25th</p>
 </div>
 
 <div class="recent">
-	<h2><a href="http://www.auctionmn.com/cgi-bin/mndetails.cgi?auctionmn11">Online Auction Closed March 17th, 2015</a></h2>
+	<h2><a href="http://www.auctionmn.com/cgi-bin/mndetails.cgi?auctionmn11">Online Auction Ended March 17th, 2015</a></h2>
 	<div class="flexbox">
 		<a href="http://www.auctionmn.com/cgi-bin/mnlist.cgi?auctionmn11/1"><img src="http://www.auctionmn.com/images/2015-03-17/T1-1.jpg" alt="1"></a>
 		<a href="http://www.auctionmn.com/cgi-bin/mnlist.cgi?auctionmn11/16"><img src="http://www.auctionmn.com/images/2015-03-17/T16-1.jpg" alt="16"></a>
@@ -596,11 +616,11 @@
 		<a href="http://www.auctionmn.com/cgi-bin/mnlist.cgi?auctionmn11/71"><img src="http://www.auctionmn.com/images/2015-03-17/T71-1.jpg" alt="71"></a>
 	</div>
 	<p><strong>Date</strong></p>
-		<p>CLOSED Thursday, March 17th, 2015</p>
+		<p>Ended Thursday, March 17th, 2015</p>
 </div>
 
 <div class="recent">
-	<h2><a href="http://www.auctionmn.com/cgi-bin/mndetails.cgi?auctionmn10">Online Auction Closed March 5th, 2015</a></h2>
+	<h2><a href="http://www.auctionmn.com/cgi-bin/mndetails.cgi?auctionmn10">Online Auction Ended March 5th, 2015</a></h2>
 	<div class="flexbox">
 		<a href="http://www.auctionmn.com/cgi-bin/mnlist.cgi?auctionmn10/19"><img src="http://www.auctionmn.com/images/2015-03-05/T19-1.jpg" alt="19"></a>
 		<a href="http://www.auctionmn.com/cgi-bin/mnlist.cgi?auctionmn10/23"><img src="http://www.auctionmn.com/images/2015-03-05/T23-1.jpg" alt="23"></a>
@@ -610,7 +630,7 @@
 		<a href="http://www.auctionmn.com/cgi-bin/mnlist.cgi?auctionmn10/46"><img src="http://www.auctionmn.com/images/2015-03-05/T46-1.jpg" alt="46"></a>
 	</div>
 	<p><strong>Date</strong></p>
-		<p>CLOSED Thursday, March 5th, 2015</p>
+		<p>Ended Thursday, March 5th, 2015</p>
 </div>
 
 <div class="recent">

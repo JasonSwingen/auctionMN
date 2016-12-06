@@ -131,8 +131,16 @@
 			"file": "index.shtml",
 			"settings":
 			{
-				"buffer_size": 55846,
+				"buffer_size": 59337,
 				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "/C/Users/Jason/Documents/AAA Auction/Templates/AAA_Template_Email_9.9",
+			"settings":
+			{
+				"buffer_size": 1045,
 				"line_ending": "Windows"
 			}
 		}
@@ -144,13 +152,17 @@
 	"build_varint": "",
 	"command_palette":
 	{
-		"height": 392.0,
+		"height": 490.0,
 		"last_filter": "title",
 		"selected_items":
 		[
 			[
 				"title",
 				"Convert Case: Title Case"
+			],
+			[
+				"new auc",
+				"Snippet: new-auction"
 			],
 			[
 				"no",
@@ -553,7 +565,7 @@
 				"Snippet: bs3-navbar-inverse"
 			]
 		],
-		"width": 464.0
+		"width": 637.0
 	},
 	"console":
 	{
@@ -576,13 +588,13 @@
 	"expanded_folders":
 	[
 		"/C/Users/Jason/Documents/AAA Auction",
-		"/C/Users/Jason/Documents/AAA Auction/Auctions_and_Backups/2016-10-24",
-		"/C/Users/Jason/Documents/AAA Auction/Auctions_and_Backups/2016-11-02",
 		"/C/Users/Jason/Documents/AAA Auction/Templates",
 		"/C/Users/Jason/Documents/GitHub/auctionMN"
 	],
 	"file_history":
 	[
+		"/C/Users/Jason/Documents/AAA Auction/Auctions_and_Backups/2016-12-05/2016-12-05_Inventory_TEXT_v2.txt",
+		"/C/Users/Jason/Documents/AAA Auction/Templates/AAA_Template_Email_9.9",
 		"/C/Users/Jason/Documents/AAA Auction/Auctions_and_Backups/2016-11-02/2016-11-02_Winning_Bidders_v2.txt",
 		"/C/Users/Jason/Documents/AAA Auction/Auctions_and_Backups/2016-11-02/2016-11-02_Maxanet_Results.txt",
 		"/C/Users/Jason/Documents/AAA Auction/Templates/AAA_Template_Invoices_Wavebid_v15",
@@ -708,9 +720,7 @@
 		"/C/Users/Jason/Documents/AAA Auction/Templates/AAA_Template_Invoices_Wavebid_v8",
 		"/C/Users/Jason/Documents/GitHub/auctionMN/images/2015-10-19/index.html",
 		"/C/Users/Jason/Documents/AAA Auction/Auctions_and_Backups/2015-10-19/2015-10-19_Auction_Details.txt",
-		"/C/Users/Jason/Documents/AAA Auction/Templates/AAA_Template_Email_7.3",
-		"/C/Users/Jason/Google Drive/Development/AuctionMN/AuctionMN_ST_Project.sublime-project",
-		"/C/Users/Jason/Documents/AAA Auction/Templates/AAA_Template_Email_Blank"
+		"/C/Users/Jason/Documents/AAA Auction/Templates/AAA_Template_Email_7.3"
 	],
 	"find":
 	{
@@ -729,6 +739,7 @@
 		"case_sensitive": false,
 		"find_history":
 		[
+			"(",
 			"- ",
 			"  ",
 			"(",
@@ -855,8 +866,7 @@
 			".jpg",
 			"images/",
 			"${2:TITLE}",
-			"${1:WORKSPACE}",
-			"{1:LINK}"
+			"${1:WORKSPACE}"
 		],
 		"highlight": true,
 		"in_selection": false,
@@ -876,7 +886,7 @@
 	"groups":
 	[
 		{
-			"selected": 0,
+			"selected": 1,
 			"sheets":
 			[
 				{
@@ -885,15 +895,15 @@
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 55846,
+						"buffer_size": 59337,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								4218,
-								4218
+								2927,
+								2927
 							]
 						],
 						"settings":
@@ -962,89 +972,79 @@
 							{
 								"close":
 								{
-									"1":
-									[
-										4218,
-										4219
-									]
 								},
 								"icon":
 								{
-									"1":
-									[
-										"Packages/BracketHighlighter/icons/double_quote.png",
-										"brackethighlighter.default"
-									]
 								},
 								"open":
 								{
-									"1":
-									[
-										4211,
-										4212
-									]
 								},
 								"unmatched":
 								{
+									"1":
+									[
+										2907,
+										2910
+									]
 								}
 							},
 							"bracket_highlighter.regions":
 							[
-								"bh_c_define",
-								"bh_c_define_center",
-								"bh_c_define_open",
-								"bh_c_define_close",
-								"bh_c_define_content",
-								"bh_double_quote",
-								"bh_double_quote_center",
-								"bh_double_quote_open",
-								"bh_double_quote_close",
-								"bh_double_quote_content",
 								"bh_regex",
 								"bh_regex_center",
 								"bh_regex_open",
 								"bh_regex_close",
 								"bh_regex_content",
-								"bh_default",
-								"bh_default_center",
-								"bh_default_open",
-								"bh_default_close",
-								"bh_default_content",
-								"bh_round",
-								"bh_round_center",
-								"bh_round_open",
-								"bh_round_close",
-								"bh_round_content",
-								"bh_tag",
-								"bh_tag_center",
-								"bh_tag_open",
-								"bh_tag_close",
-								"bh_tag_content",
-								"bh_angle",
-								"bh_angle_center",
-								"bh_angle_open",
-								"bh_angle_close",
-								"bh_angle_content",
-								"bh_single_quote",
-								"bh_single_quote_center",
-								"bh_single_quote_open",
-								"bh_single_quote_close",
-								"bh_single_quote_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
 								"bh_square",
 								"bh_square_center",
 								"bh_square_open",
 								"bh_square_close",
 								"bh_square_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
 								"bh_curly",
 								"bh_curly_center",
 								"bh_curly_open",
 								"bh_curly_close",
 								"bh_curly_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
 								"bh_unmatched",
 								"bh_unmatched_center",
 								"bh_unmatched_open",
 								"bh_unmatched_close",
-								"bh_unmatched_content"
+								"bh_unmatched_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content"
 							],
 							"color_scheme": "Packages/User/Color Highlighter/themes/Material-Theme-Darker.tmTheme",
 							"incomplete_sync": null,
@@ -1054,7 +1054,112 @@
 							"translate_tabs_to_spaces": false
 						},
 						"translation.x": 0.0,
-						"translation.y": 1956.0,
+						"translation.y": 1176.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "/C/Users/Jason/Documents/AAA Auction/Templates/AAA_Template_Email_9.9",
+					"semi_transient": true,
+					"settings":
+					{
+						"buffer_size": 1045,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								57,
+								0
+							]
+						],
+						"settings":
+						{
+							"bracket_highlighter.busy": false,
+							"bracket_highlighter.locations":
+							{
+								"close":
+								{
+								},
+								"icon":
+								{
+								},
+								"open":
+								{
+								},
+								"unmatched":
+								{
+								}
+							},
+							"bracket_highlighter.regions":
+							[
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content"
+							],
+							"incomplete_sync": null,
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/Text/Plain text.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
 					"stack_index": 0,
@@ -1181,7 +1286,7 @@
 	"show_open_files": false,
 	"show_tabs": true,
 	"side_bar_visible": true,
-	"side_bar_width": 282.0,
+	"side_bar_width": 354.0,
 	"status_bar_visible": true,
 	"template_settings":
 	{
