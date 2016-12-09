@@ -65,7 +65,6 @@
 ******************************************************************************** -->
 
 
-
 <div class="current">
 	<h2><a href="http://www.auctionmn.com/cgi-bin/mndetails.cgi?auctionmn1">Online Auction Ending on December 19th, 2016</a></h2>
 	<div class="flexbox">
@@ -92,6 +91,7 @@
 		<a href="http://www.auctionmn.com/cgi-bin/mnlist.cgi?auctionmn1/189"><img src="http://www.auctionmn.com/images/2016-12-19/T189-1.jpg" alt="189"></a>
 		<a href="http://www.auctionmn.com/cgi-bin/mnlist.cgi?auctionmn1/192"><img src="http://www.auctionmn.com/images/2016-12-19/T192-1.jpg" alt="192"></a>
 	</div>
+	<a href="http://www.auctionmn.com/cgi-bin/mnlist.cgi?auctionmn1/category/ALL" class="bidnow rfloat"></a>
 		<p><strong>Location</strong></p>
 			<p><a target="_blank" href="https://www.google.com/maps/place/19800+Nowthen+Blvd+NW,+Anoka,+MN+55303/@45.3288574,-93.4702582,17z/data=!3m1!4b1!4m2!3m1!1s0x52b36cac2a3f4e03:0x556a431d9b7a8c21">Old Nowthen City Hall Building</a></p>
 			<p>19800 Nowthen Blvd NW</p>

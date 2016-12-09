@@ -498,7 +498,7 @@ article {
   margin: 15px;
   padding: 12px;
   border: 6px solid white;
-  background: steelblue;
+  background: $current;
   color: white !important;
   border-radius: 15px;
   text-decoration: none;
@@ -513,7 +513,7 @@ article {
   }
   &:hover {
   	text-decoration: none;
-    background: lighten(steelblue, 5%);
+    background: lighten($current, 5%);
   }
   &:hover::before {
     content: "Start Bidding";
