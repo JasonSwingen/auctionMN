@@ -135,7 +135,7 @@
 			"file": "index.shtml",
 			"settings":
 			{
-				"buffer_size": 72744,
+				"buffer_size": 79888,
 				"encoding": "UTF-8",
 				"line_ending": "Windows"
 			}
@@ -149,9 +149,13 @@
 	"command_palette":
 	{
 		"height": 392.0,
-		"last_filter": "title",
+		"last_filter": "",
 		"selected_items":
 		[
+			[
+				"new",
+				"Snippet: new-auction"
+			],
 			[
 				"title",
 				"Convert Case: Title Case"
@@ -159,10 +163,6 @@
 			[
 				"resou",
 				"PackageResourceViewer: Open Resource"
-			],
-			[
-				"new",
-				"Snippet: new-auction"
 			],
 			[
 				"packageresou",
@@ -608,11 +608,14 @@
 	"expanded_folders":
 	[
 		"/C/Users/Jason/Documents/AAA Auction",
-		"/C/Users/Jason/Documents/AAA Auction/Templates",
 		"/C/Users/Jason/Documents/GitHub/auctionMN"
 	],
 	"file_history":
 	[
+		"/C/Users/Jason/Documents/AAA Auction/Templates/AAA_Template_Email_12.9",
+		"/C/Users/Jason/Documents/GitHub/auctionMN/index_preview.shtml",
+		"/C/Users/Jason/Documents/GitHub/auctionMN/jquery.js",
+		"/C/Users/Jason/Documents/AAA Auction/Auctions_and_Backups/2017-03-25/2017-03-25_Inventory_v2.txt",
 		"/C/Users/Jason/Documents/AAA Auction/Auctions_and_Backups/2017-03-20/2017-03-20_Inventory.txt",
 		"/C/Users/Jason/AppData/Roaming/Sublime Text 3/Packages/User/new-auction.sublime-snippet",
 		"/C/Users/Jason/Documents/AAA Auction/Templates/AAA_Template_Email_11.9",
@@ -736,11 +739,7 @@
 		"/C/Users/Jason/Documents/AAA Auction/Auctions_and_Backups/2015-11-30/2015-11-30_maxanet_results.txt",
 		"/C/Users/Jason/Documents/AAA Auction/Auctions_and_Backups/2015-11-30/2015-11-30_winning_bidders.txt",
 		"/C/Users/Jason/Documents/AAA Auction/Templates/AAA_Template_Email_7.7",
-		"/C/Users/Jason/Documents/AAA Auction/Auctions_and_Backups/2015-11-30/2015-11-30_Auction_Details.html",
-		"/C/Users/Jason/Documents/GitHub/auctionMN/images/2015-11-30/index.html",
-		"/C/Users/Jason/Documents/AAA Auction/Auctions_and_Backups/2015-11-04/2015-11-04_winning_bidders.txt",
-		"/C/Users/Jason/Documents/AAA Auction/Auctions_and_Backups/2015-11-04/2015-11-04_maxanet_results.txt",
-		"/C/Users/Jason/Documents/AAA Auction/Templates/AAA_Template_Email_7.6"
+		"/C/Users/Jason/Documents/AAA Auction/Auctions_and_Backups/2015-11-30/2015-11-30_Auction_Details.html"
 	],
 	"find":
 	{
@@ -915,15 +914,15 @@
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 72744,
+						"buffer_size": 79888,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								2862,
-								2910
+								13863,
+								13863
 							]
 						],
 						"settings":
@@ -992,27 +991,12 @@
 							{
 								"close":
 								{
-									"1":
-									[
-										2912,
-										2913
-									]
 								},
 								"icon":
 								{
-									"1":
-									[
-										"Packages/BracketHighlighter/icons/tag.png",
-										"brackethighlighter.default"
-									]
 								},
 								"open":
 								{
-									"1":
-									[
-										2785,
-										2786
-									]
 								},
 								"unmatched":
 								{
@@ -1020,16 +1004,21 @@
 							},
 							"bracket_highlighter.regions":
 							[
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
 								"bh_angle",
 								"bh_angle_center",
 								"bh_angle_open",
 								"bh_angle_close",
 								"bh_angle_content",
-								"bh_double_quote",
-								"bh_double_quote_center",
-								"bh_double_quote_open",
-								"bh_double_quote_close",
-								"bh_double_quote_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
 								"bh_round",
 								"bh_round_center",
 								"bh_round_open",
@@ -1040,26 +1029,26 @@
 								"bh_tag_open",
 								"bh_tag_close",
 								"bh_tag_content",
-								"bh_unmatched",
-								"bh_unmatched_center",
-								"bh_unmatched_open",
-								"bh_unmatched_close",
-								"bh_unmatched_content",
-								"bh_curly",
-								"bh_curly_center",
-								"bh_curly_open",
-								"bh_curly_close",
-								"bh_curly_content",
-								"bh_default",
-								"bh_default_center",
-								"bh_default_open",
-								"bh_default_close",
-								"bh_default_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
 								"bh_square",
 								"bh_square_center",
 								"bh_square_open",
 								"bh_square_close",
 								"bh_square_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
 								"bh_regex",
 								"bh_regex_center",
 								"bh_regex_open",
@@ -1069,12 +1058,7 @@
 								"bh_c_define_center",
 								"bh_c_define_open",
 								"bh_c_define_close",
-								"bh_c_define_content",
-								"bh_single_quote",
-								"bh_single_quote_center",
-								"bh_single_quote_open",
-								"bh_single_quote_close",
-								"bh_single_quote_content"
+								"bh_c_define_content"
 							],
 							"color_scheme": "Packages/User/Color Highlighter/themes/Material-Theme-Darker.tmTheme",
 							"incomplete_sync": null,
@@ -1084,7 +1068,7 @@
 							"translate_tabs_to_spaces": false
 						},
 						"translation.x": 0.0,
-						"translation.y": 1404.0,
+						"translation.y": 3778.0,
 						"zoom_level": 1.0
 					},
 					"stack_index": 0,
