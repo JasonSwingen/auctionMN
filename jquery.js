@@ -17,6 +17,11 @@ $(document).ready(function($) { // Start of Document Ready Javascript
     });
   });
 
+  // Toggles Google Maps Iframe
+  $('.address').click(function() {
+    $('.googleMap'),slideToggle(600);
+  });
+
 	// Toggles auctions
 	// $('.currentheading').click(function() {
 	// 	$('.current').slideToggle(600);
