@@ -67,56 +67,6 @@
 
 
 
-<div class="current">
-	<h2><a href="http://www.auctionmn.com/cgi-bin/mnlist.cgi?auctionmn6/category/ALL">Live Auction on March 25th with Online Pre-Bidding</a></h2>
-	<div class="flexbox">
-		<a href="http://www.auctionmn.com/cgi-bin/mnlist.cgi?auctionmn6/5"><img src="http://www.auctionmn.com/images/2017-03-25/T5-1.jpg" alt="5"></a>
-		<a href="http://www.auctionmn.com/cgi-bin/mnlist.cgi?auctionmn6/6"><img src="http://www.auctionmn.com/images/2017-03-25/T6-1.jpg" alt="6"></a>
-		<a href="http://www.auctionmn.com/cgi-bin/mnlist.cgi?auctionmn6/7"><img src="http://www.auctionmn.com/images/2017-03-25/T7-1.jpg" alt="7"></a>
-		<a href="http://www.auctionmn.com/cgi-bin/mnlist.cgi?auctionmn6/10"><img src="http://www.auctionmn.com/images/2017-03-25/T10-1.jpg" alt="10"></a>
-		<a href="http://www.auctionmn.com/cgi-bin/mnlist.cgi?auctionmn6/18"><img src="http://www.auctionmn.com/images/2017-03-25/T18-1.jpg" alt="18"></a>
-		<a href="http://www.auctionmn.com/cgi-bin/mnlist.cgi?auctionmn6/31"><img src="http://www.auctionmn.com/images/2017-03-25/T31-1.jpg" alt="31"></a>
-		<a href="http://www.auctionmn.com/cgi-bin/mnlist.cgi?auctionmn6/32"><img src="http://www.auctionmn.com/images/2017-03-25/T32-1.jpg" alt="32"></a>
-		<a href="http://www.auctionmn.com/cgi-bin/mnlist.cgi?auctionmn6/37"><img src="http://www.auctionmn.com/images/2017-03-25/T37-1.jpg" alt="37"></a>
-		<a href="http://www.auctionmn.com/cgi-bin/mnlist.cgi?auctionmn6/38"><img src="http://www.auctionmn.com/images/2017-03-25/T38-1.jpg" alt="38"></a>
-		<!-- <a href="http://www.auctionmn.com/cgi-bin/mnlist.cgi?auctionmn6/43"><img src="http://www.auctionmn.com/images/2017-03-25/T43-1.jpg" alt="43"></a> -->
-		<a href="http://www.auctionmn.com/cgi-bin/mnlist.cgi?auctionmn6/44"><img src="http://www.auctionmn.com/images/2017-03-25/T44-1.jpg" alt="44"></a>
-		<a href="http://www.auctionmn.com/cgi-bin/mnlist.cgi?auctionmn6/45"><img src="http://www.auctionmn.com/images/2017-03-25/T45-1.jpg" alt="45"></a>
-		<a href="http://www.auctionmn.com/cgi-bin/mnlist.cgi?auctionmn6/66"><img src="http://www.auctionmn.com/images/2017-03-25/T66-1.jpg" alt="66"></a>
-		<a href="http://www.auctionmn.com/cgi-bin/mnlist.cgi?auctionmn6/68"><img src="http://www.auctionmn.com/images/2017-03-25/T68-1.jpg" alt="68"></a>
-		<a href="http://www.auctionmn.com/cgi-bin/mnlist.cgi?auctionmn6/71"><img src="http://www.auctionmn.com/images/2017-03-25/T71-1.jpg" alt="71"></a>
-		<a href="http://www.auctionmn.com/cgi-bin/mnlist.cgi?auctionmn6/72"><img src="http://www.auctionmn.com/images/2017-03-25/T72-1.jpg" alt="72"></a>
-		<a href="http://www.auctionmn.com/cgi-bin/mnlist.cgi?auctionmn6/75"><img src="http://www.auctionmn.com/images/2017-03-25/T75-1.jpg" alt="75"></a>
-		<a href="http://www.auctionmn.com/cgi-bin/mnlist.cgi?auctionmn6/77"><img src="http://www.auctionmn.com/images/2017-03-25/T77-1.jpg" alt="77"></a>
-		<a href="http://www.auctionmn.com/cgi-bin/mnlist.cgi?auctionmn6/81"><img src="http://www.auctionmn.com/images/2017-03-25/T81-1.jpg" alt="81"></a>
-		<a href="http://www.auctionmn.com/cgi-bin/mnlist.cgi?auctionmn6/89"><img src="http://www.auctionmn.com/images/2017-03-25/T89-1.jpg" alt="89"></a>
-	</div>
-	<!-- Enable if auction is an online auction -->
-	<a href="http://www.auctionmn.com/cgi-bin/mnlist.cgi?auctionmn6/category/ALL" class="bidnow rfloat"></a>
-	<!-- Enable if auction is an online auction hosted on proxibid -->
-	<!-- <a href="https://www.proxibid.com/asp/Catalog.asp?aid=*"><img class="rfloat" src="http://www.auctionmn.com/images/2014-02-14/proxibid.gif" alt=""></a> -->
-		<p><strong>Location</strong></p>
-			<p><a target="_blank" href="https://goo.gl/maps/yeZC5qzHdZs">15280 South Robert Trail, Rosemount MN</a></p>
-		<p><strong>Preview Time</strong></p>
-			<p>March 24th, from 2 to 6 p.m.</p>
-		<p><strong>Auction Time</strong></p>
-			<p>Pre-bidding for this auction will end on Saturday, March 25th, at 8 a.m.</p>
-			<p>Live bidding will begin on Saturday, March 25th at 10 a.m.</p>
-		<p><strong>Pickup Time</strong></p>
-			<p>March 25th, from the time the live auction ends to 6 p.m.</p>
-			<p>So as to not disrupt the auction, large items cannot be removed until the bidding has ended. This auction will last about two hours. Items should be removed from the auction site by 6 p.m. if possible. Bidders are advised to bring tools to remove bolted equipment and attached cabinets. Buyer is responsible for avoidable damage during removal. Items may be picked up after March 25th only by appointment with the Auctioneer. All items must be paid for on the day of the auction even if to be picked up later.</p>
-		<p><strong>Auctioneer's Notes</strong></p>
-			<p>This auction will consist of about 100 lots that Rick Battaglia used in his auto repair business for nearly 40 years. This auction will be for the professional as well as for the backyard mechanic. Many of the items to be sold are large and heavy and some are still attached to the floor or walls. The winning bidder is solely responsible for removing the items from their locations. Some of the tool chests and cabinets are full of contents. The winning bidders may take or leave any of the contents of their purchases.</p>
-		<p><strong>Payment Instructions</strong></p>
-			<p>Payment shall be made at the live auction. We accept cash, good Minnesota checks, Visa, MasterCard and Discover. Two forms of ID are needed for checks, with at least one being a photo ID. No non-Minnesota checks. There is a $30 fee on all returned checks. There is a 10% Buyer's Premium for items purchased at the auction. There is a 3% service fee for all payments made by credit or debit card. Checks in an amount over $2,500 must be guaranteed with a valid credit card and not a check card. Credit cards will be accepted up to $5,000. If for any reason the winning bidder does not pick up his or her item when scheduled to do so, or for any reason his or her check is not honored by the bank, he or she authorizes us to bill his or her credit card for his or her purchase along with a 3% credit card convenience fee.</p>
-		<p><strong>Shipping Instructions</strong></p>
-			<p>There is no shipping available for this auction.</p>
-		<p><strong>Pre-Bids</strong></p>
-			<p>This is a live auction with online pre-bidding. That means that bids will be accepted online until 8 a.m. on the day of the auction. At the auction, people present will have the chance to increase the last online bid. If the online bidder has placed a maximum bid, the Auctioneer will place bids on behalf of the online bidder. When online bidding ends, anyone whose online bid is $200 or more on a single item will be called and required to guarantee their online bid with a credit card. Also, if the online high bidder wins an item at the live auction, he or she will be called right away and informed of his or her win. Then, unless other arrangements have been made with the Auctioneer, he or she shall come to the auction to pick up their item by 6 p.m. on the day of the auction.</p>
-		<p><strong>General Terms</strong></p>
-			<p><a href="http://auctionmn.com/general-terms-and-conditions.shtml">General Terms and Conditions</a> for this auction.</p>
-</div>
-
 <!-- *******************************************************************************
             *************      End of Current Auctions       ***************
 ******************************************************************************** -->
@@ -244,6 +194,41 @@
 <!-- *******************************************************************************
             *************      Start of Recent Auctions       ***************
 ******************************************************************************** -->
+
+
+<div class="recent">
+	<h2><a href="http://www.auctionmn.com/cgi-bin/mnlist.cgi?auctionmn6/category/ALL">Live Auction on March 25th with Online Pre-Bidding</a></h2>
+	<div class="flexbox">
+		<a href="http://www.auctionmn.com/cgi-bin/mnlist.cgi?auctionmn6/5"><img src="http://www.auctionmn.com/images/2017-03-25/T5-1.jpg" alt="5"></a>
+		<a href="http://www.auctionmn.com/cgi-bin/mnlist.cgi?auctionmn6/6"><img src="http://www.auctionmn.com/images/2017-03-25/T6-1.jpg" alt="6"></a>
+		<a href="http://www.auctionmn.com/cgi-bin/mnlist.cgi?auctionmn6/7"><img src="http://www.auctionmn.com/images/2017-03-25/T7-1.jpg" alt="7"></a>
+		<a href="http://www.auctionmn.com/cgi-bin/mnlist.cgi?auctionmn6/10"><img src="http://www.auctionmn.com/images/2017-03-25/T10-1.jpg" alt="10"></a>
+		<a href="http://www.auctionmn.com/cgi-bin/mnlist.cgi?auctionmn6/18"><img src="http://www.auctionmn.com/images/2017-03-25/T18-1.jpg" alt="18"></a>
+		<a href="http://www.auctionmn.com/cgi-bin/mnlist.cgi?auctionmn6/31"><img src="http://www.auctionmn.com/images/2017-03-25/T31-1.jpg" alt="31"></a>
+		<a href="http://www.auctionmn.com/cgi-bin/mnlist.cgi?auctionmn6/32"><img src="http://www.auctionmn.com/images/2017-03-25/T32-1.jpg" alt="32"></a>
+		<!-- <a href="http://www.auctionmn.com/cgi-bin/mnlist.cgi?auctionmn6/37"><img src="http://www.auctionmn.com/images/2017-03-25/T37-1.jpg" alt="37"></a>
+		<a href="http://www.auctionmn.com/cgi-bin/mnlist.cgi?auctionmn6/38"><img src="http://www.auctionmn.com/images/2017-03-25/T38-1.jpg" alt="38"></a> -->
+		<!-- <a href="http://www.auctionmn.com/cgi-bin/mnlist.cgi?auctionmn6/43"><img src="http://www.auctionmn.com/images/2017-03-25/T43-1.jpg" alt="43"></a> -->
+	</div>
+		<p><strong>Location</strong></p>
+			<p><a target="_blank" href="https://goo.gl/maps/yeZC5qzHdZs">15280 South Robert Trail, Rosemount MN</a></p>
+		<p><strong>Auction Time</strong></p>
+			<p>Pre-bidding for this auction will end on Saturday, March 25th, at 8 a.m.</p>
+			<p>Live bidding will begin on Saturday, March 25th at 10 a.m.</p>
+		<p><strong>Pickup Time</strong></p>
+			<p>March 25th, from the time the live auction ends to 6 p.m.</p>
+			<p>So as to not disrupt the auction, large items cannot be removed until the bidding has ended. This auction will last about two hours. Items should be removed from the auction site by 6 p.m. if possible. Bidders are advised to bring tools to remove bolted equipment and attached cabinets. Buyer is responsible for avoidable damage during removal. Items may be picked up after March 25th only by appointment with the Auctioneer. All items must be paid for on the day of the auction even if to be picked up later.</p>
+		<p><strong>Auctioneer's Notes</strong></p>
+			<p>This auction will consist of about 100 lots that Rick Battaglia used in his auto repair business for nearly 40 years. This auction will be for the professional as well as for the backyard mechanic. Many of the items to be sold are large and heavy and some are still attached to the floor or walls. The winning bidder is solely responsible for removing the items from their locations. Some of the tool chests and cabinets are full of contents. The winning bidders may take or leave any of the contents of their purchases.</p>
+		<p><strong>Payment Instructions</strong></p>
+			<p>Payment shall be made at the live auction. We accept cash, good Minnesota checks, Visa, MasterCard and Discover. Two forms of ID are needed for checks, with at least one being a photo ID. No non-Minnesota checks. There is a $30 fee on all returned checks. There is a 10% Buyer's Premium for items purchased at the auction. There is a 3% service fee for all payments made by credit or debit card. Checks in an amount over $2,500 must be guaranteed with a valid credit card and not a check card. Credit cards will be accepted up to $5,000. If for any reason the winning bidder does not pick up his or her item when scheduled to do so, or for any reason his or her check is not honored by the bank, he or she authorizes us to bill his or her credit card for his or her purchase along with a 3% credit card convenience fee.</p>
+		<p><strong>Shipping Instructions</strong></p>
+			<p>There is no shipping available for this auction.</p>
+		<p><strong>Pre-Bids</strong></p>
+			<p>This is a live auction with online pre-bidding. That means that bids will be accepted online until 8 a.m. on the day of the auction. At the auction, people present will have the chance to increase the last online bid. If the online bidder has placed a maximum bid, the Auctioneer will place bids on behalf of the online bidder. When online bidding ends, anyone whose online bid is $200 or more on a single item will be called and required to guarantee their online bid with a credit card. Also, if the online high bidder wins an item at the live auction, he or she will be called right away and informed of his or her win. Then, unless other arrangements have been made with the Auctioneer, he or she shall come to the auction to pick up their item by 6 p.m. on the day of the auction.</p>
+		<p><strong>General Terms</strong></p>
+			<p><a href="http://auctionmn.com/general-terms-and-conditions.shtml">General Terms and Conditions</a> for this auction.</p>
+</div>
 
 <div class="recent">
 	<h2><a href="http://www.auctionmn.com/cgi-bin/mnlist.cgi?auctionmn3/category/ALL">Online Auction Ended on March 20th at 7:30 p.m.</a></h2>
