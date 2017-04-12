@@ -135,7 +135,7 @@
 			"file": "index.shtml",
 			"settings":
 			{
-				"buffer_size": 75306,
+				"buffer_size": 75210,
 				"encoding": "UTF-8",
 				"line_ending": "Windows"
 			}
@@ -621,6 +621,9 @@
 	],
 	"file_history":
 	[
+		"/C/Users/Jason/Documents/AAA Auction/Auctions_and_Backups/2017-04-11/2017-04-11_Results.txt",
+		"/C/Users/Jason/Documents/AAA Auction/Auctions_and_Backups/2017-04-11/2017-04-11_Bidders.txt",
+		"/C/Users/Jason/Documents/AAA Auction/Templates/AAA_Template_Invoices_Wavebid_v18",
 		"/C/Users/Jason/Documents/AAA Auction/Auctions_and_Backups/2017-04-11/2017-04-11_Inventory.txt",
 		"/C/Users/Jason/Documents/AAA Auction/Templates/AAA_Template_Email_10.9",
 		"/C/Users/Jason/Documents/AAA Auction/Templates/AAA_Template_Email_13.1",
@@ -745,10 +748,7 @@
 		"/C/Users/Jason/AppData/Roaming/Sublime Text 3/Packages/User/Preferences.sublime-settings",
 		"/C/Users/Jason/AppData/Roaming/Sublime Text 3/Packages/Default/Preferences.sublime-settings",
 		"/C/Users/Jason/Documents/AAA Auction/Other/footer_2.html",
-		"/C/Users/Jason/Documents/GitHub/auctionMN/footer2.ssi",
-		"/C/Users/Jason/Documents/AAA Auction/Auctions_and_Backups/2015-12-20/2015-12-20_winning_bidders.txt",
-		"/C/Users/Jason/Documents/AAA Auction/Auctions_and_Backups/2015-12-20/2015-12-20_maxanet_results.txt",
-		"/C/Users/Jason/Documents/AAA Auction/Templates/AAA_Template_Invoices_Wavebid_v10"
+		"/C/Users/Jason/Documents/GitHub/auctionMN/footer2.ssi"
 	],
 	"find":
 	{
@@ -923,15 +923,15 @@
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 75306,
+						"buffer_size": 75210,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								7008,
-								7010
+								7935,
+								7935
 							]
 						],
 						"settings":
@@ -1018,56 +1018,56 @@
 								"bh_tag_open",
 								"bh_tag_close",
 								"bh_tag_content",
-								"bh_c_define",
-								"bh_c_define_center",
-								"bh_c_define_open",
-								"bh_c_define_close",
-								"bh_c_define_content",
 								"bh_default",
 								"bh_default_center",
 								"bh_default_open",
 								"bh_default_close",
 								"bh_default_content",
-								"bh_curly",
-								"bh_curly_center",
-								"bh_curly_open",
-								"bh_curly_close",
-								"bh_curly_content",
-								"bh_double_quote",
-								"bh_double_quote_center",
-								"bh_double_quote_open",
-								"bh_double_quote_close",
-								"bh_double_quote_content",
 								"bh_angle",
 								"bh_angle_center",
 								"bh_angle_open",
 								"bh_angle_close",
 								"bh_angle_content",
-								"bh_single_quote",
-								"bh_single_quote_center",
-								"bh_single_quote_open",
-								"bh_single_quote_close",
-								"bh_single_quote_content",
-								"bh_regex",
-								"bh_regex_center",
-								"bh_regex_open",
-								"bh_regex_close",
-								"bh_regex_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
 								"bh_square",
 								"bh_square_center",
 								"bh_square_open",
 								"bh_square_close",
 								"bh_square_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
 								"bh_round",
 								"bh_round_center",
 								"bh_round_open",
 								"bh_round_close",
 								"bh_round_content",
-								"bh_unmatched",
-								"bh_unmatched_center",
-								"bh_unmatched_open",
-								"bh_unmatched_close",
-								"bh_unmatched_content"
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content"
 							],
 							"color_scheme": "Packages/User/Color Highlighter/themes/Material-Theme-Darker.tmTheme",
 							"incomplete_sync": null,
@@ -1077,7 +1077,7 @@
 							"translate_tabs_to_spaces": false
 						},
 						"translation.x": 0.0,
-						"translation.y": 1992.0,
+						"translation.y": 2410.0,
 						"zoom_level": 1.0
 					},
 					"stack_index": 0,
