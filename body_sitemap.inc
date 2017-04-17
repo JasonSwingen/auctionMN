@@ -54,7 +54,7 @@ bgcolor="#3e7719" >
 <tr align="center"><td onmouseover="chgBg(m1,'m1tlm9',3);exM(m1,'none','',event)"
 onmouseout="chgBg(m1,'m1tlm9',0,1)" id="m1tlm9" class="m1mit" 
 bgcolor="#3e7719" >
-<a id="m1tlm9a" class="m1CL0" href="/benefittest.shtml" ><div class='topFold'>Testimonials<img width="8" height="8" src="/scripts/empty.gif" align="texttop" border="0" /></div></a></td></tr>
+<a id="m1tlm9a" class="m1CL0" href="/testimonials.shtml" ><div class='topFold'>Testimonials<img width="8" height="8" src="/scripts/empty.gif" align="texttop" border="0" /></div></a></td></tr>
 
 
 <tr align="center"><td onmouseover="chgBg(m1,'m1tlm10',3);exM(m1,'none','',event)"

@@ -86,29 +86,15 @@
 
 
 <div class="upcoming maus">
-<!-- <div class="Ended" style="top:1127px;height:300px;">No Auction This Tuesday Due To Weather</div> -->
 	<h2 id="maus">Mau's Corner Flea Market & Live Auction</h2>
-	<!-- <h3>Closing For The Season September 27</h3> -->
-		<!-- <p>Cancellations due to weather will be listed here: -->
-		<!-- <span class="success">See you at the Auction!</span> -->
-		<!-- <span class="alert">No Auction This Tuesday Due To Weather!</span> -->
-		<!-- </p> -->
-		<!-- <h2 class="success">We're not made of sugar. The auction will go on!</h2> -->
+<div class="canceled">No Auction This Tuesday Due To Weather!</div>
+	<p>The weather forecast is 90% chance of rain until about 10 am on Tuesday, April 18th and mostly sunny on Saturday, so do your taxes on Tuesday and come and spend your refund on Saturday.</p>
 	<div class="flexbox">
 		<a href="http://www.auctionmn.com/images/mausgallery/maus01.html"><img src="http://www.auctionmn.com/images/mausgallery/maus01.jpg" alt=""></a>
 		<a href="http://www.auctionmn.com/images/mausgallery/maus02.html"><img src="http://www.auctionmn.com/images/mausgallery/maus02.jpg" alt=""></a>
 		<a href="http://www.auctionmn.com/images/mausgallery/images/maus25.jpg"><img src="http://www.auctionmn.com/images/mausgallery/images/maus25.jpg" alt=""></a>
 		<a href="http://www.auctionmn.com/images/mausgallery/maus08.html"><img src="http://www.auctionmn.com/images/mausgallery/maus08.jpg" alt=""></a>
 		<a href="http://www.auctionmn.com/images/mausgallery/maus16.html"><img src="http://www.auctionmn.com/images/mausgallery/maus16.jpg" alt=""></a>
-		<!-- <a href="http://www.auctionmn.com/images/mausgallery/maus15.html"><img src="http://www.auctionmn.com/images/mausgallery/maus15.jpg" alt=""></a>
-		<a href="http://www.auctionmn.com/images/mausgallery/maus14.html"><img src="http://www.auctionmn.com/images/mausgallery/maus14.jpg" alt=""></a>
-		<a href="http://www.auctionmn.com/images/mausgallery/maus09.html"><img src="http://www.auctionmn.com/images/mausgallery/maus09.jpg" alt=""></a>
-		<a href="http://www.auctionmn.com/images/mausgallery/maus18.html"><img src="http://www.auctionmn.com/images/mausgallery/maus18.jpg" alt=""></a>
-		<a href="http://www.auctionmn.com/images/mausgallery/maus10.html"><img src="http://www.auctionmn.com/images/mausgallery/maus10.jpg" alt=""></a>
-		<a href="http://www.auctionmn.com/images/mausgallery/maus07.jpg"><img src="http://www.auctionmn.com/images/mausgallery/maus07.jpg" alt=""></a>
-		<a href="http://www.auctionmn.com/images/mausgallery/maus11.jpg"><img src="http://www.auctionmn.com/images/mausgallery/maus11.jpg" alt=""></a>
-		<a href="http://www.auctionmn.com/images/mausgallery/maus12.jpg"><img src="http://www.auctionmn.com/images/mausgallery/maus12.jpg" alt=""></a>
-		<a href="http://www.auctionmn.com/images/mausgallery/maus13.jpg"><img src="http://www.auctionmn.com/images/mausgallery/maus13.jpg" alt=""></a> -->
 	</div>
 		<p><a href="http://www.auctionmn.com/images/mausgallery/index.html">View more photos from Mau's Auction</a></p>
 	<p><strong>Date</strong></p>
@@ -123,16 +109,45 @@
 	<p><strong>Auctioneer's Notes</strong></p>
 		<p>Anyone can sell. Bag it. Box it or Bring it to Mau’s Corner 3 miles north of St. Francis on Highway 47 any Tuesday beginning April 4th. You don’t need to call ahead. There are NO FLEA MARKET VENDOR FEES and the auction commissions are low.</p>
 		<p><a href="http://www.auctionmn.com/maus-corner-selling-information.shtml">Click here for more information about selling at Mau's Corner</a></p>
-		<!-- <p>Hello Everyone. Please note, our last auction at Mau's Corner this year will be on September 27, 2016. We will still be holding online auctions all year. Thanks for all the bids and sales.</p>
-		<p>Bag it, box it, bring it, and we will sell it for you at Mau's corner. Located 3 miles north of St. Francis on Highway 47. Although we usually do not know what folks will be bringing to sell, we usually have plenty of tools, collectibles, antiques, furniture, sporting goods, electronics and even cars, boats, ATV's, power equipment, and the like.</p> -->
-		<!-- <p>Whether you are a buyer or seller, we hope to see you. The Flea Market is still free for vendors and it starts at 7 am. The live auction starts at 9 am. If you would like to sell at the live auction, we recommend that you arrive by 6 am to be in a lottery for position, but you are still welcome to sell even if you arrive later. Also, just like last year, if you sell at least $200 worth of items, you will have a position the following week ahead of everyone in the lottery.</p>
-		<p>Everything is much the same as it was last year. We have, however, raised the commission on items selling for $4 or less. We try though to avoid selling items for $4 or less. So if we don't get a bid of at least $5 will will usually add an item to the item we are selling until we get a bid of $5.  We have also lowered our <span class="success">FREE RATE</span> to items selling for $600 or more.</p> -->
-		<!-- <p>Whether you are a buyer or a seller, please join us next Tuesday, and every Tuesday for our regular Tuesday Auction and Flea Market at Mau's Corner, three miles north of St. Francis on Highway 47. Anyone can sell. Just load up your stuff and bring it over any time after 6 a.m.</p> -->
-		<!-- <p class="success">No flea market vendor charges!</p>
-		<p>We have more information on <a href="http://www.auctionmn.com/mauscorner.shtml">selling at our Tuesday Auctions</a>.</p>
-		<p>Please call us at <strong>(763) 421-3044</strong> for more information.</p>
-		<p>Bag it. Box it. Bring it or Buy it at Mau's Corner.</p> -->
 </div>
+
+
+<div class="upcoming">
+	<h2><a href="http://www.auctionmn.com/cgi-bin/mnlist.cgi?auctionmn8/category/ALL">Live Auction on May 2nd, 2017 at 11 a.m.</a></h2>
+	<div class="flexbox">
+		<a href="http://www.auctionmn.com/cgi-bin/mnlist.cgi?auctionmn8/1"><img src="http://www.auctionmn.com/images/2017-05-02/T1-1.jpg" alt="1"></a>
+		<a href="http://www.auctionmn.com/cgi-bin/mnlist.cgi?auctionmn8/3"><img src="http://www.auctionmn.com/images/2017-05-02/T3-1.jpg" alt="3"></a>
+		<a href="http://www.auctionmn.com/cgi-bin/mnlist.cgi?auctionmn8/5"><img src="http://www.auctionmn.com/images/2017-05-02/T5-1.jpg" alt="5"></a>
+		<a href="http://www.auctionmn.com/cgi-bin/mnlist.cgi?auctionmn8/7"><img src="http://www.auctionmn.com/images/2017-05-02/T7-1.jpg" alt="7"></a>
+		<a href="http://www.auctionmn.com/cgi-bin/mnlist.cgi?auctionmn8/9"><img src="http://www.auctionmn.com/images/2017-05-02/T9-1.jpg" alt="9"></a>
+		<a href="http://www.auctionmn.com/cgi-bin/mnlist.cgi?auctionmn8/11"><img src="http://www.auctionmn.com/images/2017-05-02/T11-1.jpg" alt="11"></a>
+		<a href="http://www.auctionmn.com/cgi-bin/mnlist.cgi?auctionmn8/13"><img src="http://www.auctionmn.com/images/2017-05-02/T13-1.jpg" alt="13"></a>
+		<a href="http://www.auctionmn.com/cgi-bin/mnlist.cgi?auctionmn8/15"><img src="http://www.auctionmn.com/images/2017-05-02/T15-1.jpg" alt="15"></a>
+		<a href="http://www.auctionmn.com/cgi-bin/mnlist.cgi?auctionmn8/17"><img src="http://www.auctionmn.com/images/2017-05-02/T17-1.jpg" alt="17"></a>
+		<a href="http://www.auctionmn.com/cgi-bin/mnlist.cgi?auctionmn8/19"><img src="http://www.auctionmn.com/images/2017-05-02/T19-1.jpg" alt="19"></a>
+		<a href="http://www.auctionmn.com/cgi-bin/mnlist.cgi?auctionmn8/21"><img src="http://www.auctionmn.com/images/2017-05-02/T21-1.jpg" alt="21"></a>
+		<a href="http://www.auctionmn.com/cgi-bin/mnlist.cgi?auctionmn8/23"><img src="http://www.auctionmn.com/images/2017-05-02/T23-1.jpg" alt="23"></a>
+		<a href="http://www.auctionmn.com/cgi-bin/mnlist.cgi?auctionmn8/25"><img src="http://www.auctionmn.com/images/2017-05-02/T25-1.jpg" alt="25"></a>
+		<a href="http://www.auctionmn.com/cgi-bin/mnlist.cgi?auctionmn8/27"><img src="http://www.auctionmn.com/images/2017-05-02/T27-1.jpg" alt="27"></a>
+		<a href="http://www.auctionmn.com/cgi-bin/mnlist.cgi?auctionmn8/29"><img src="http://www.auctionmn.com/images/2017-05-02/T29-1.jpg" alt="29"></a>
+		<a href="http://www.auctionmn.com/cgi-bin/mnlist.cgi?auctionmn8/31"><img src="http://www.auctionmn.com/images/2017-05-02/T31-1.jpg" alt="31"></a>
+		<a href="http://www.auctionmn.com/cgi-bin/mnlist.cgi?auctionmn8/33"><img src="http://www.auctionmn.com/images/2017-05-02/T33-1.jpg" alt="33"></a>
+		<a href="http://www.auctionmn.com/cgi-bin/mnlist.cgi?auctionmn8/35"><img src="http://www.auctionmn.com/images/2017-05-02/T35-1.jpg" alt="35"></a>
+		<a href="http://www.auctionmn.com/cgi-bin/mnlist.cgi?auctionmn8/37"><img src="http://www.auctionmn.com/images/2017-05-02/T37-1.jpg" alt="37"></a>
+		<a href="http://www.auctionmn.com/cgi-bin/mnlist.cgi?auctionmn8/42"><img src="http://www.auctionmn.com/images/2017-05-02/T42-1.jpg" alt="42"></a>
+	</div>
+		<p><strong>Location</strong></p>
+			<p><a target="_blank" href="https://goo.gl/maps/r5skTrpqdwv">26025 Highway 47</a></p>
+			<p>Stanford Township, Isanti County</p>
+			<p>Three miles north of St. Francis, just south of the intersection of Blackfoot St NW (State Highway 47) and 261st Ave NW.</p>
+		<p><strong>Auction Time</strong></p>
+			<p>May 2nd, 2017 at 11 a.m.</p>
+		<p><strong>Auctioneer's Notes</strong></p>
+			<p>Estate Of Michale Metzer</p>
+			<p>In addition to our regular consignment auction where anyone can bring things to sell, we will be holding a separate estate auction for the Estate of Michael Metzer starting at 11 am on May 2. Live bidding only.</p>
+</div>
+
+
 
 <div class="upcoming">
 	<h2>Annual Canoe, Kayak, and Paddle Board Auction <br>April 29th, 2017 at Midwest Mountaineering</h2>
@@ -823,9 +838,11 @@
 
 	<hr>
 
-	<h2><a href="http://www.auctionmn.com/benefittest.shtml">Testimonials</a></h2>
-		<p><i>"Thank you for all your help with the gala this year! You do a wonderful job and we definitely would not be as successful without you!"</i></p>
-		<p>-Tina Stofferahn</p>
+	<h2><a href="http://www.auctionmn.com/testimonials.shtml">Testimonials</a></h2>
+		<p><i>"When my husband died, the task of organizing and selling his business and hobbies seemed overwhelming. AAA Auction was recommended to me by a good friend, so I called. I met with Tony right away and he was able to form a plan to help me take care of everything. He listened to all my concerns and always put my needs first. Tony and his extremely able crew went to work immediately. Everyone involved has been respectful, honest and trustworthy. They have been wonderful to work with and I cannot recommend them highly enough!"</i></p>
+		<p>- Wendy Richardson</p>
+		<!-- <p><i>"Thank you for all your help with the gala this year! You do a wonderful job and we definitely would not be as successful without you!"</i></p>
+		<p>-Tina Stofferahn</p> -->
 <!-- 		<p><i>"Thanks Tony – We certainly wouldn't be as successful as we are if we didn't have you in the picture."</i></p>
 		<p>-Jill Munsinger</p> -->
 	<hr>
