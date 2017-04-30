@@ -66,46 +66,7 @@
 
 
 
-<div class="current">
-	<h2><a href="http://www.auctionmn.com/cgi-bin/mnlist.cgi?auctionmn9/category/ALL">Online Auction Ending on April 25th, 2017</a></h2>
-	<div class="flexbox">
-		<a href="http://www.auctionmn.com/cgi-bin/mnlist.cgi?auctionmn9/13"><img src="http://www.auctionmn.com/images/2017-04-25/T13-1.jpg" alt="13"></a>
-		<a href="http://www.auctionmn.com/cgi-bin/mnlist.cgi?auctionmn9/25"><img src="http://www.auctionmn.com/images/2017-04-25/T25-1.jpg" alt="25"></a>
-		<a href="http://www.auctionmn.com/cgi-bin/mnlist.cgi?auctionmn9/52"><img src="http://www.auctionmn.com/images/2017-04-25/T52-1.jpg" alt="52"></a>
-		<a href="http://www.auctionmn.com/cgi-bin/mnlist.cgi?auctionmn9/88"><img src="http://www.auctionmn.com/images/2017-04-25/T88-1.jpg" alt="88"></a>
-		<a href="http://www.auctionmn.com/cgi-bin/mnlist.cgi?auctionmn9/99"><img src="http://www.auctionmn.com/images/2017-04-25/T99-1.jpg" alt="99"></a>
-		<a href="http://www.auctionmn.com/cgi-bin/mnlist.cgi?auctionmn9/119"><img src="http://www.auctionmn.com/images/2017-04-25/T119-1.jpg" alt="119"></a>
-		<a href="http://www.auctionmn.com/cgi-bin/mnlist.cgi?auctionmn9/158"><img src="http://www.auctionmn.com/images/2017-04-25/T158-1.jpg" alt="158"></a>
-		<a href="http://www.auctionmn.com/cgi-bin/mnlist.cgi?auctionmn9/175"><img src="http://www.auctionmn.com/images/2017-04-25/T175-1.jpg" alt="175"></a>
-		<a href="http://www.auctionmn.com/cgi-bin/mnlist.cgi?auctionmn9/191"><img src="http://www.auctionmn.com/images/2017-04-25/T191-1.jpg" alt="191"></a>
-		<a href="http://www.auctionmn.com/cgi-bin/mnlist.cgi?auctionmn9/199"><img src="http://www.auctionmn.com/images/2017-04-25/T199-1.jpg" alt="199"></a>
-		<a href="http://www.auctionmn.com/cgi-bin/mnlist.cgi?auctionmn9/210"><img src="http://www.auctionmn.com/images/2017-04-25/T210-1.jpg" alt="210"></a>
-		<a href="http://www.auctionmn.com/cgi-bin/mnlist.cgi?auctionmn9/218"><img src="http://www.auctionmn.com/images/2017-04-25/T218-1.jpg" alt="218"></a>
-		<a href="http://www.auctionmn.com/cgi-bin/mnlist.cgi?auctionmn9/238"><img src="http://www.auctionmn.com/images/2017-04-25/T238-1.jpg" alt="238"></a>
-		<a href="http://www.auctionmn.com/cgi-bin/mnlist.cgi?auctionmn9/261"><img src="http://www.auctionmn.com/images/2017-04-25/T261-1.jpg" alt="261"></a>
-		<a href="http://www.auctionmn.com/cgi-bin/mnlist.cgi?auctionmn9/263"><img src="http://www.auctionmn.com/images/2017-04-25/T263-1.jpg" alt="263"></a>
-		<a href="http://www.auctionmn.com/cgi-bin/mnlist.cgi?auctionmn9/268"><img src="http://www.auctionmn.com/images/2017-04-25/T268-1.jpg" alt="268"></a>
-		<!-- <a href="http://www.auctionmn.com/cgi-bin/mnlist.cgi?auctionmn9/275"><img src="http://www.auctionmn.com/images/2017-04-25/T275-1.jpg" alt="275"></a>
-		<a href="http://www.auctionmn.com/cgi-bin/mnlist.cgi?auctionmn9/286"><img src="http://www.auctionmn.com/images/2017-04-25/T286-1.jpg" alt="286"></a>
-		<a href="http://www.auctionmn.com/cgi-bin/mnlist.cgi?auctionmn9/324"><img src="http://www.auctionmn.com/images/2017-04-25/T324-1.jpg" alt="324"></a>
-		<a href="http://www.auctionmn.com/cgi-bin/mnlist.cgi?auctionmn9/325"><img src="http://www.auctionmn.com/images/2017-04-25/T325-1.jpg" alt="325"></a> -->
-	</div>
-	<!-- Enable if auction is an online auction -->
-	<a href="http://www.auctionmn.com/cgi-bin/mnlist.cgi?auctionmn9/category/ALL" class="bidnow rfloat"></a>
-	<!-- Enable if auction is an online auction hosted on proxibid -->
-	<!-- <a href="https://www.proxibid.com/asp/Catalog.asp?aid=*"><img class="rfloat" src="http://www.auctionmn.com/images/2014-02-14/proxibid.gif" alt=""></a> -->
-		<p><strong>Location</strong></p>
-			<p><a target="_blank" href="https://goo.gl/maps/L9u81MhP4dq">7140 Old Viking Blvd NW, Nowthen MN</a></p>
-		<p><strong>Preview Time</strong></p>
-			<p>April 24th, from 2 to 5 p.m.</p>
-		<p><strong>Auction Ending Time</strong></p>
-			<p>April 25th, Auction ends starting at 7:30 p.m.</p>
-		<p><strong>Pickup Time</strong></p>
-			<p>April 26th, from 11 a.m. to 7 p.m.</p>
-		<!-- <p><strong>Auctioneer's Notes</strong></p>
-			<p>NOTES</p> -->
-		<p><a href="http://auctionmn.com/general-terms-and-conditions.shtml">Terms and Conditions</a> for this auction.</p>
-</div>
+
 
 
 
@@ -127,9 +88,8 @@
 
 
 <div class="upcoming maus">
-	<h2 id="maus">Mau's Corner Flea Market & Live Auction</h2>
-<div class="canceled">No Auction This Tuesday Due To Weather!</div>
-	<p>The weather forecast is 90% chance of rain until about 10 am on Tuesday, April 18th and mostly sunny on Saturday, so do your taxes on Tuesday and come and spend your refund on Saturday.</p>
+	<h2 id="maus">Mau's Corner Weekly Flea Market & Live Auction</h2>
+	<!-- <div class="canceled">No Auction This Tuesday Due To Weather!</div> -->
 	<div class="flexbox">
 		<a href="http://www.auctionmn.com/images/mausgallery/maus01.html"><img src="http://www.auctionmn.com/images/mausgallery/maus01.jpg" alt=""></a>
 		<a href="http://www.auctionmn.com/images/mausgallery/maus02.html"><img src="http://www.auctionmn.com/images/mausgallery/maus02.jpg" alt=""></a>
@@ -190,34 +150,52 @@
 
 
 
-<div class="upcoming">
+
+
+
+<!-- *******************************************************************************
+            *************      End of Upcoming Auctions       ***************
+******************************************************************************** -->
+
+<div id="recent" class="recentheading">
+	<h1>Recent Auctions</h1>
+		<!-- Go to www.addthis.com/dashboard to customize your tools -->
+		<!-- <div class="addthis_sharing_toolbox"></div> -->
+</div>
+<div class="clearfix"></div>
+
+<!-- *******************************************************************************
+            *************      Start of Recent Auctions       ***************
+******************************************************************************** -->
+
+<div class="recent">
 	<h2>Annual Canoe, Kayak, and Paddle Board Auction <br>April 29th, 2017 at Midwest Mountaineering</h2>
 		<div class="flexbox">
 			<a href="http://www.auctionmn.com/images/2016_Canoe/Canoe_1.jpg"><img src="http://www.auctionmn.com/images/2016_Canoe/Canoe_1.jpg" alt="Annual Canoe and Kayak Auction"></a>
 			<a href="http://www.auctionmn.com/images/2016_Canoe/Canoe_2.jpg"><img src="http://www.auctionmn.com/images/2016_Canoe/Canoe_2.jpg" alt="Annual Canoe and Kayak Auction"></a>
 			<a href="http://www.auctionmn.com/images/2016_Canoe/Canoe_4.jpg"><img src="http://www.auctionmn.com/images/2016_Canoe/Canoe_4.jpg" alt="Annual Canoe and Kayak Auction"></a>
 			<a href="http://www.auctionmn.com/images/2016_Canoe/Canoe_5.jpg"><img src="http://www.auctionmn.com/images/2016_Canoe/Canoe_5.jpg" alt="Annual Canoe and Kayak Auction"></a>
-			<a href="http://www.auctionmn.com/images/2016_Canoe/Canoe_6.jpg"><img src="http://www.auctionmn.com/images/2016_Canoe/Canoe_6.jpg" alt="Annual Canoe and Kayak Auction"></a>
-
+			<a href="http://www.auctionmn.com/images/2016_Canoe/Canoe_18.JPG"><img src="http://www.auctionmn.com/images/2016_Canoe/Canoe_18.JPG" alt="Annual Canoe and Kayak Auction"></a>
 			<a href="http://www.auctionmn.com/images/2016_Canoe/Canoe_8.jpg"><img src="http://www.auctionmn.com/images/2016_Canoe/Canoe_8.jpg" alt="Annual Canoe and Kayak Auction"></a>
 			<a href="http://www.auctionmn.com/images/2016_Canoe/Canoe_9.jpg"><img src="http://www.auctionmn.com/images/2016_Canoe/Canoe_9.jpg" alt="Annual Canoe and Kayak Auction"></a>
 			<a href="http://www.auctionmn.com/images/2016_Canoe/Canoe_10.jpg"><img src="http://www.auctionmn.com/images/2016_Canoe/Canoe_10.jpg" alt="Annual Canoe and Kayak Auction"></a>
 			<a href="http://www.auctionmn.com/images/2016_Canoe/Canoe_11.jpg"><img src="http://www.auctionmn.com/images/2016_Canoe/Canoe_11.jpg" alt="Annual Canoe and Kayak Auction"></a>
+
+			<!-- <a href="http://www.auctionmn.com/images/2016_Canoe/Canoe_6.jpg"><img src="http://www.auctionmn.com/images/2016_Canoe/Canoe_6.jpg" alt="Annual Canoe and Kayak Auction"></a>
 			<a href="http://www.auctionmn.com/images/2016_Canoe/Canoe_14.JPG"><img src="http://www.auctionmn.com/images/2016_Canoe/Canoe_14.JPG" alt="Annual Canoe and Kayak Auction"></a>
 			<a href="http://www.auctionmn.com/images/2016_Canoe/Canoe_15.JPG"><img src="http://www.auctionmn.com/images/2016_Canoe/Canoe_15.JPG" alt="Annual Canoe and Kayak Auction"></a>
-			<a href="http://www.auctionmn.com/images/2016_Canoe/Canoe_18.JPG"><img src="http://www.auctionmn.com/images/2016_Canoe/Canoe_18.JPG" alt="Annual Canoe and Kayak Auction"></a>
 			<a href="http://www.auctionmn.com/images/2016_Canoe/Canoe_19.JPG"><img src="http://www.auctionmn.com/images/2016_Canoe/Canoe_19.JPG" alt="Annual Canoe and Kayak Auction"></a>
 			<a href="http://www.auctionmn.com/images/2016_Canoe/Canoe_21.jpg"><img src="http://www.auctionmn.com/images/2016_Canoe/Canoe_21.jpg" alt="Annual Canoe and Kayak Auction"></a>
-			<!-- <a href="http://www.auctionmn.com/images/2015_Canoe_Kayak/Canoe_6.JPG"><img src="http://www.auctionmn.com/images/2015_Canoe_Kayak/TCanoe_6.JPG" alt=""></a> -->
-			<!-- <a href="http://www.auctionmn.com/images/2015_Canoe_Kayak/DSCN2762.JPG"><img src="http://www.auctionmn.com/images/2015_Canoe_Kayak/TDSCN2762.JPG" alt=""></a> -->
+			<a href="http://www.auctionmn.com/images/2015_Canoe_Kayak/Canoe_6.JPG"><img src="http://www.auctionmn.com/images/2015_Canoe_Kayak/TCanoe_6.JPG" alt=""></a>
+			<a href="http://www.auctionmn.com/images/2015_Canoe_Kayak/DSCN2762.JPG"><img src="http://www.auctionmn.com/images/2015_Canoe_Kayak/TDSCN2762.JPG" alt=""></a>
 			<a href="http://www.auctionmn.com/images/2015_Canoe_Kayak/DSCN2765.JPG"><img src="http://www.auctionmn.com/images/2015_Canoe_Kayak/TDSCN2765.JPG" alt=""></a>
-			<!-- <a href="http://www.auctionmn.com/images/2015_Canoe_Kayak/DSCN2768.JPG"><img src="http://www.auctionmn.com/images/2015_Canoe_Kayak/TDSCN2768.JPG" alt=""></a> -->
-			<!-- <a href="http://www.auctionmn.com/images/2015_Canoe_Kayak/DSCN2770.JPG"><img src="http://www.auctionmn.com/images/2015_Canoe_Kayak/TDSCN2770.JPG" alt=""></a> -->
+			<a href="http://www.auctionmn.com/images/2015_Canoe_Kayak/DSCN2768.JPG"><img src="http://www.auctionmn.com/images/2015_Canoe_Kayak/TDSCN2768.JPG" alt=""></a>
+			<a href="http://www.auctionmn.com/images/2015_Canoe_Kayak/DSCN2770.JPG"><img src="http://www.auctionmn.com/images/2015_Canoe_Kayak/TDSCN2770.JPG" alt=""></a>
 			<a href="http://www.auctionmn.com/images/2015_Canoe_Kayak/DSCN2771.JPG"><img src="http://www.auctionmn.com/images/2015_Canoe_Kayak/TDSCN2771.JPG" alt=""></a>
 			<a href="http://www.auctionmn.com/images/2015_Canoe_Kayak/DSCN2772.JPG"><img src="http://www.auctionmn.com/images/2015_Canoe_Kayak/TDSCN2772.JPG" alt=""></a>
 			<a href="http://www.auctionmn.com/images/2015_Canoe_Kayak/DSCN2773.JPG"><img src="http://www.auctionmn.com/images/2015_Canoe_Kayak/TDSCN2773.JPG" alt=""></a>
 			<a href="http://www.auctionmn.com/images/2015_Canoe_Kayak/DSCN2776.JPG"><img src="http://www.auctionmn.com/images/2015_Canoe_Kayak/TDSCN2776.JPG" alt=""></a>
-			<!-- <a href="http://www.auctionmn.com/images/2015-04-25/Canoe_5.jpg"><img src="http://www.auctionmn.com/images/2015-04-25/small/Canoe_5.jpg" alt=""></a> -->
+			<a href="http://www.auctionmn.com/images/2015-04-25/Canoe_5.jpg"><img src="http://www.auctionmn.com/images/2015-04-25/small/Canoe_5.jpg" alt=""></a> -->
 		</div>
 		<p><strong>Location</strong></p>
 			<p>Midwest Mountaineering - <a target="_blank" href="https://www.google.com/maps/dir/''/midwest+mountaineering/@44.9707033,-93.3170319,12z/data=!3m1!4b1!4m8!4m7!1m0!1m5!1m1!1s0x52b32d424effb00f:0x1c93ae128fd58e0!2m2!1d-93.2469921!2d44.9707247">Directions</a></p>
@@ -236,21 +214,23 @@
 			<p>View <a target="_blank" href="http://auctionmn.com/Bidding_Information_Canoe_Kayak_Auction.pdf">Buying Information</a>.</p>
 </div>
 
-
-<!-- *******************************************************************************
-            *************      End of Upcoming Auctions       ***************
-******************************************************************************** -->
-
-<div id="recent" class="recentheading">
-	<h1>Recent Auctions</h1>
-		<!-- Go to www.addthis.com/dashboard to customize your tools -->
-		<!-- <div class="addthis_sharing_toolbox"></div> -->
+<div class="recent">
+	<h2><a href="http://www.auctionmn.com/cgi-bin/mnlist.cgi?auctionmn9/category/ALL">Online Auction Ended on April 25th, 2017</a></h2>
+	<div class="flexbox">
+		<a href="http://www.auctionmn.com/cgi-bin/mnlist.cgi?auctionmn9/13"><img src="http://www.auctionmn.com/images/2017-04-25/T13-1.jpg" alt="13"></a>
+		<a href="http://www.auctionmn.com/cgi-bin/mnlist.cgi?auctionmn9/25"><img src="http://www.auctionmn.com/images/2017-04-25/T25-1.jpg" alt="25"></a>
+		<a href="http://www.auctionmn.com/cgi-bin/mnlist.cgi?auctionmn9/52"><img src="http://www.auctionmn.com/images/2017-04-25/T52-1.jpg" alt="52"></a>
+		<a href="http://www.auctionmn.com/cgi-bin/mnlist.cgi?auctionmn9/88"><img src="http://www.auctionmn.com/images/2017-04-25/T88-1.jpg" alt="88"></a>
+		<a href="http://www.auctionmn.com/cgi-bin/mnlist.cgi?auctionmn9/99"><img src="http://www.auctionmn.com/images/2017-04-25/T99-1.jpg" alt="99"></a>
+	</div>
+		<p><strong>Pickup Location</strong></p>
+			<p><a target="_blank" href="https://goo.gl/maps/L9u81MhP4dq">7140 Old Viking Blvd NW, Nowthen MN</a></p>
+		<p><strong>Auction Ending Time</strong></p>
+			<p>April 25th</p>
+		<p><strong>Pickup Time</strong></p>
+			<p>April 26th, from 11 a.m. to 7 p.m.</p>
+		<p><a href="http://auctionmn.com/general-terms-and-conditions.shtml">Terms and Conditions</a> for this auction.</p>
 </div>
-<div class="clearfix"></div>
-
-<!-- *******************************************************************************
-            *************      Start of Recent Auctions       ***************
-******************************************************************************** -->
 
 <div class="recent">
 	<h2><a href="http://www.auctionmn.com/cgi-bin/mnlist.cgi?auctionmn7/category/ALL">Online auction ended on April 11th, 2017</a></h2>

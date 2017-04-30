@@ -135,7 +135,7 @@
 			"file": "index.shtml",
 			"settings":
 			{
-				"buffer_size": 75210,
+				"buffer_size": 77165,
 				"encoding": "UTF-8",
 				"line_ending": "Windows"
 			}
@@ -161,19 +161,27 @@
 				"Snippet: location-old-viking-blvd"
 			],
 			[
+				"new",
+				"Snippet: new-auction"
+			],
+			[
+				"maus",
+				"Snippet: location-maus"
+			],
+			[
+				"package",
+				"PackageResourceViewer: Open Resource"
+			],
+			[
+				"up",
+				"Snippet: upcoming-auction"
+			],
+			[
 				"packager",
 				"PackageResourceViewer: Open Resource"
 			],
 			[
-				"package",
-				"Package Control: List Packages"
-			],
-			[
 				"snippet: new",
-				"Snippet: new-auction"
-			],
-			[
-				"new",
 				"Snippet: new-auction"
 			],
 			[
@@ -621,33 +629,43 @@
 	],
 	"file_history":
 	[
+		"/C/Users/Jason/Documents/AAA Auction/Auctions_and_Backups/2017-04-25/2017-04-25_Maxanet_Bidders.txt",
+		"/C/Users/Jason/Documents/AAA Auction/Auctions_and_Backups/2017-04-25/2017-04-25_Maxanet_Results.txt",
+		"/C/Users/Jason/Documents/AAA Auction/Templates/AAA_Template_Invoices_Wavebid_v19",
+		"/C/Users/Jason/Documents/AAA Auction/Templates/AAA_Template_Email_13.2",
+		"/C/Users/Jason/Documents/AAA Auction/Auctions_and_Backups/2017-04-25/2017-04-25_Inventory.txt",
+		"/C/Users/Jason/Documents/AAA Auction/Templates/AAA_Template_Email_10.9",
+		"/C/Users/Jason/Documents/AAA Auction/Templates/AAA_Template_Email_12.9",
+		"/C/Users/Jason/Documents/AAA Auction/Auctions_and_Backups/2017-05-02/2017-05-02_Inventory.txt",
+		"/C/Users/Jason/AppData/Roaming/Sublime Text 3/Packages/User/location-maus.sublime-snippet",
+		"/C/Users/Jason/AppData/Roaming/Sublime Text 3/Packages/User/upcoming-auction.sublime-snippet",
+		"/C/Users/Jason/Documents/GitHub/auctionMN/testimonials.shtml",
+		"/C/Users/Jason/Documents/GitHub/auctionMN/benefittest.shtml",
+		"/C/Users/Jason/Documents/GitHub/auctionMN/body_sitemap.inc",
+		"/C/Users/Jason/Documents/GitHub/auctionMN/auctionmn.scss",
+		"/C/Users/Jason/Documents/GitHub/auctionMN/index_preview.shtml",
+		"/C/Users/Jason/Documents/AAA Auction/Templates/AAA_Template_Email_13.1",
 		"/C/Users/Jason/Documents/AAA Auction/Auctions_and_Backups/2017-04-11/2017-04-11_Results.txt",
 		"/C/Users/Jason/Documents/AAA Auction/Auctions_and_Backups/2017-04-11/2017-04-11_Bidders.txt",
 		"/C/Users/Jason/Documents/AAA Auction/Templates/AAA_Template_Invoices_Wavebid_v18",
 		"/C/Users/Jason/Documents/AAA Auction/Auctions_and_Backups/2017-04-11/2017-04-11_Inventory.txt",
-		"/C/Users/Jason/Documents/AAA Auction/Templates/AAA_Template_Email_10.9",
-		"/C/Users/Jason/Documents/AAA Auction/Templates/AAA_Template_Email_13.1",
 		"/C/Users/Jason/Documents/AAA Auction/Templates/AAA_Template_Email_11.9",
 		"/C/Users/Jason/Documents/AAA Auction/Auctions_and_Backups/2017-03-25/2017-03-25_maxanet_results.txt",
 		"/C/Users/Jason/Documents/AAA Auction/Auctions_and_Backups/2017-03-25/2017-03-25_Winning_Bidders.txt",
 		"/C/Users/Jason/Documents/AAA Auction/Templates/AAA_Template_Invoices_Wavebid_v17",
-		"/C/Users/Jason/Documents/GitHub/auctionMN/index_preview.shtml",
 		"/C/Users/Jason/AppData/Roaming/Sublime Text 3/Packages/User/new-auction.sublime-snippet",
 		"/C/Users/Jason/Documents/AAA Auction/Auctions_and_Backups/2017-03-20/2017-03-20_Winning_Bidder_Emails.txt",
 		"/C/Users/Jason/Documents/AAA Auction/Auctions_and_Backups/2017-03-20/2017-03-20_Winning_Bidders_v2.txt",
 		"/C/Users/Jason/Documents/AAA Auction/Auctions_and_Backups/2017-03-20/2017-03-20_Maxanet_Results_v2.txt",
 		"/C/Users/Jason/Documents/AAA Auction/Auctions_and_Backups/2017-03-20/2017-03-20_Maxanet_Results.txt",
 		"/C/Users/Jason/Documents/AAA Auction/Auctions_and_Backups/2017-03-20/2017-03-20_Winning_Bidders.txt",
-		"/C/Users/Jason/Documents/AAA Auction/Templates/AAA_Template_Email_12.9",
 		"/C/Users/Jason/Documents/GitHub/auctionMN/jquery.js",
 		"/C/Users/Jason/Documents/AAA Auction/Auctions_and_Backups/2017-03-25/2017-03-25_Inventory_v2.txt",
 		"/C/Users/Jason/Documents/AAA Auction/Auctions_and_Backups/2017-03-20/2017-03-20_Inventory.txt",
-		"/C/Users/Jason/AppData/Roaming/Sublime Text 3/Packages/User/location-maus.sublime-snippet",
 		"/C/Users/Jason/AppData/Roaming/Sublime Text 3/Packages/User/location-old-viking-blvd.sublime-snippet",
 		"/C/Users/Jason/Documents/GitHub/auctionMN/selling-methods.shtml",
 		"/C/Users/Jason/Documents/GitHub/auctionMN/items-that-sell.shtml",
 		"/C/Users/Jason/Documents/GitHub/auctionMN/consignment_info.shtml",
-		"/C/Users/Jason/Documents/GitHub/auctionMN/body_sitemap.inc",
 		"/C/Users/Jason/Documents/GitHub/auctionMN/benefitqa.shtml",
 		"/C/Users/Jason/Documents/AAA Auction/Auctions_and_Backups/2017-03-01/2017-03-01_maxanet_results.txt",
 		"/C/Users/Jason/Documents/AAA Auction/Auctions_and_Backups/2017-03-01/2017-03-01_winning_bidders.txt",
@@ -657,7 +675,6 @@
 		"/C/Users/Jason/Documents/GitHub/auctionMN/mauscorner.shtml",
 		"/C/Users/Jason/Documents/AAA Auction/Auctions_and_Backups/2017-03-01/2017-03-01_Inventory_TEXT.txt",
 		"/C/Users/Jason/Documents/GitHub/auctionMN/footer.ssi",
-		"/C/Users/Jason/Documents/GitHub/auctionMN/auctionmn.scss",
 		"/C/Users/Jason/Documents/AAA Auction/Auctions_and_Backups/2016-12-19/2016-12-19_Inventory_TEXT.txt",
 		"/C/Users/Jason/Documents/GitHub/auctionMN/general-terms-and-conditions.shtml",
 		"/C/Users/Jason/Documents/AAA Auction/Auctions_and_Backups/2016-12-05/2016-12-05_winning_bidders.txt",
@@ -714,7 +731,6 @@
 		"/C/Users/Jason/AppData/Roaming/Sublime Text 3/Packages/User/index.html",
 		"/C/Users/Jason/AppData/Roaming/Sublime Text 3/Packages/User/test-snippet.sublime-snippet",
 		"/C/Users/Jason/AppData/Roaming/Sublime Text 3/Packages/User/location-nowthen.sublime-snippet",
-		"/C/Users/Jason/AppData/Roaming/Sublime Text 3/Packages/User/upcoming-auction.sublime-snippet",
 		"/C/Users/Jason/AppData/Roaming/Sublime Text 3/Packages/User/auction-highlights.sublime-snippet",
 		"/C/Users/Jason/AppData/Roaming/Sublime Text 3/Packages/User/comment-block-html.sublime-snippet",
 		"/C/Users/Jason/Documents/GitHub/auctionMN/images/2016-04-20/index.html",
@@ -737,18 +753,10 @@
 		"/C/Users/Jason/Documents/GitHub/auctionMN/whyaaa.shtml",
 		"/C/Users/Jason/Documents/GitHub/auctionMN/whyauction.shtml",
 		"/C/Users/Jason/Documents/GitHub/auctionMN/contact.shtml",
-		"/C/Users/Jason/Documents/GitHub/auctionMN/benefittest.shtml",
 		"/C/Users/Jason/Documents/GitHub/auctionMN/auctionqa.shtml",
 		"/C/Users/Jason/Documents/GitHub/auctionMN/reqa.shtml",
 		"/C/Users/Jason/Documents/GitHub/auctionMN/header.ssi",
-		"/C/Users/Jason/Documents/GitHub/auctionMN/components/header.ssi",
-		"/C/Users/Jason/Documents/GitHub/auctionMN/components/footer2.ssi",
-		"/C/Users/Jason/Documents/GitHub/auctionMN/estates.shtml",
-		"/C/Users/Jason/Documents/GitHub/auctionMN/i2.shtml",
-		"/C/Users/Jason/AppData/Roaming/Sublime Text 3/Packages/User/Preferences.sublime-settings",
-		"/C/Users/Jason/AppData/Roaming/Sublime Text 3/Packages/Default/Preferences.sublime-settings",
-		"/C/Users/Jason/Documents/AAA Auction/Other/footer_2.html",
-		"/C/Users/Jason/Documents/GitHub/auctionMN/footer2.ssi"
+		"/C/Users/Jason/Documents/GitHub/auctionMN/components/header.ssi"
 	],
 	"find":
 	{
@@ -767,6 +775,16 @@
 		"case_sensitive": false,
 		"find_history":
 		[
+			"Amp",
+			"2",
+			"(",
+			"6",
+			"39",
+			"33",
+			"13",
+			"jpg",
+			"div",
+			"span",
 			"(",
 			"  ",
 			"2",
@@ -884,17 +902,7 @@
 			"<br>",
 			"<br> ",
 			"td",
-			"align=\"center\"",
-			"td",
-			"</b>",
-			" align=\"center\"",
-			"h4",
-			"<td",
-			"<p>",
-			"h1",
-			"h2",
-			"JPG",
-			"jpg"
+			"align=\"center\""
 		],
 		"highlight": true,
 		"in_selection": false,
@@ -923,15 +931,15 @@
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 75210,
+						"buffer_size": 77165,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								7935,
-								7935
+								17512,
+								17512
 							]
 						],
 						"settings":
@@ -1000,12 +1008,27 @@
 							{
 								"close":
 								{
+									"1":
+									[
+										17510,
+										17511
+									]
 								},
 								"icon":
 								{
+									"1":
+									[
+										"Packages/BracketHighlighter/icons/tag.png",
+										"brackethighlighter.default"
+									]
 								},
 								"open":
 								{
+									"1":
+									[
+										17368,
+										17369
+									]
 								},
 								"unmatched":
 								{
@@ -1013,21 +1036,26 @@
 							},
 							"bracket_highlighter.regions":
 							[
-								"bh_tag",
-								"bh_tag_center",
-								"bh_tag_open",
-								"bh_tag_close",
-								"bh_tag_content",
-								"bh_default",
-								"bh_default_center",
-								"bh_default_open",
-								"bh_default_close",
-								"bh_default_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
 								"bh_angle",
 								"bh_angle_center",
 								"bh_angle_open",
 								"bh_angle_close",
 								"bh_angle_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
 								"bh_double_quote",
 								"bh_double_quote_center",
 								"bh_double_quote_open",
@@ -1038,21 +1066,6 @@
 								"bh_unmatched_open",
 								"bh_unmatched_close",
 								"bh_unmatched_content",
-								"bh_curly",
-								"bh_curly_center",
-								"bh_curly_open",
-								"bh_curly_close",
-								"bh_curly_content",
-								"bh_square",
-								"bh_square_center",
-								"bh_square_open",
-								"bh_square_close",
-								"bh_square_content",
-								"bh_regex",
-								"bh_regex_center",
-								"bh_regex_open",
-								"bh_regex_close",
-								"bh_regex_content",
 								"bh_single_quote",
 								"bh_single_quote_center",
 								"bh_single_quote_open",
@@ -1063,11 +1076,21 @@
 								"bh_round_open",
 								"bh_round_close",
 								"bh_round_content",
-								"bh_c_define",
-								"bh_c_define_center",
-								"bh_c_define_open",
-								"bh_c_define_close",
-								"bh_c_define_content"
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content"
 							],
 							"color_scheme": "Packages/User/Color Highlighter/themes/Material-Theme-Darker.tmTheme",
 							"incomplete_sync": null,
@@ -1077,7 +1100,7 @@
 							"translate_tabs_to_spaces": false
 						},
 						"translation.x": 0.0,
-						"translation.y": 2410.0,
+						"translation.y": 5317.0,
 						"zoom_level": 1.0
 					},
 					"stack_index": 0,
@@ -1204,7 +1227,7 @@
 	"show_open_files": false,
 	"show_tabs": true,
 	"side_bar_visible": true,
-	"side_bar_width": 354.0,
+	"side_bar_width": 281.0,
 	"status_bar_visible": true,
 	"template_settings":
 	{
