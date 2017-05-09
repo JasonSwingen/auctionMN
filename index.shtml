@@ -67,6 +67,47 @@
 
 
 
+<div class="current">
+	<h2><a href="http://www.auctionmn.com/cgi-bin/mnlist.cgi?auctionmn11/category/ALL">Online Auction Ending on May 16th, 2017</a></h2>
+	<div class="flexbox">
+		<a href="http://www.auctionmn.com/cgi-bin/mnlist.cgi?auctionmn11/1"><img src="http://www.auctionmn.com/images/2017-05-16/T1-1.jpg" alt="1"></a>
+		<a href="http://www.auctionmn.com/cgi-bin/mnlist.cgi?auctionmn11/7"><img src="http://www.auctionmn.com/images/2017-05-16/T7-1.jpg" alt="7"></a>
+		<a href="http://www.auctionmn.com/cgi-bin/mnlist.cgi?auctionmn11/9"><img src="http://www.auctionmn.com/images/2017-05-16/T9-1.jpg" alt="9"></a>
+		<a href="http://www.auctionmn.com/cgi-bin/mnlist.cgi?auctionmn11/13"><img src="http://www.auctionmn.com/images/2017-05-16/T13-1.jpg" alt="13"></a>
+		<a href="http://www.auctionmn.com/cgi-bin/mnlist.cgi?auctionmn11/43"><img src="http://www.auctionmn.com/images/2017-05-16/T43-1.jpg" alt="43"></a>
+		<a href="http://www.auctionmn.com/cgi-bin/mnlist.cgi?auctionmn11/44"><img src="http://www.auctionmn.com/images/2017-05-16/T44-1.jpg" alt="44"></a>
+		<a href="http://www.auctionmn.com/cgi-bin/mnlist.cgi?auctionmn11/48"><img src="http://www.auctionmn.com/images/2017-05-16/T48-1.jpg" alt="48"></a>
+		<a href="http://www.auctionmn.com/cgi-bin/mnlist.cgi?auctionmn11/59"><img src="http://www.auctionmn.com/images/2017-05-16/T59-1.jpg" alt="59"></a>
+		<a href="http://www.auctionmn.com/cgi-bin/mnlist.cgi?auctionmn11/60"><img src="http://www.auctionmn.com/images/2017-05-16/T60-1.jpg" alt="60"></a>
+		<a href="http://www.auctionmn.com/cgi-bin/mnlist.cgi?auctionmn11/65"><img src="http://www.auctionmn.com/images/2017-05-16/T65-1.jpg" alt="65"></a>
+		<a href="http://www.auctionmn.com/cgi-bin/mnlist.cgi?auctionmn11/71"><img src="http://www.auctionmn.com/images/2017-05-16/T71-1.jpg" alt="71"></a>
+		<a href="http://www.auctionmn.com/cgi-bin/mnlist.cgi?auctionmn11/79"><img src="http://www.auctionmn.com/images/2017-05-16/T79-1.jpg" alt="79"></a>
+		<a href="http://www.auctionmn.com/cgi-bin/mnlist.cgi?auctionmn11/86"><img src="http://www.auctionmn.com/images/2017-05-16/T86-1.jpg" alt="86"></a>
+		<a href="http://www.auctionmn.com/cgi-bin/mnlist.cgi?auctionmn11/100"><img src="http://www.auctionmn.com/images/2017-05-16/T100-1.jpg" alt="100"></a>
+		<a href="http://www.auctionmn.com/cgi-bin/mnlist.cgi?auctionmn11/117"><img src="http://www.auctionmn.com/images/2017-05-16/T117-1.jpg" alt="117"></a>
+		<a href="http://www.auctionmn.com/cgi-bin/mnlist.cgi?auctionmn11/122"><img src="http://www.auctionmn.com/images/2017-05-16/T122-1.jpg" alt="122"></a>
+		<a href="http://www.auctionmn.com/cgi-bin/mnlist.cgi?auctionmn11/152"><img src="http://www.auctionmn.com/images/2017-05-16/T152-1.jpg" alt="152"></a>
+		<!-- <a href="http://www.auctionmn.com/cgi-bin/mnlist.cgi?auctionmn11/181"><img src="http://www.auctionmn.com/images/2017-05-16/T181-1.jpg" alt="181"></a>
+		<a href="http://www.auctionmn.com/cgi-bin/mnlist.cgi?auctionmn11/196"><img src="http://www.auctionmn.com/images/2017-05-16/T196-1.jpg" alt="196"></a>
+		<a href="http://www.auctionmn.com/cgi-bin/mnlist.cgi?auctionmn11/217"><img src="http://www.auctionmn.com/images/2017-05-16/T217-1.jpg" alt="217"></a> -->
+	</div>
+	<!-- Enable if auction is an online auction -->
+	<a href="http://www.auctionmn.com/cgi-bin/mnlist.cgi?auctionmn11/category/ALL" class="bidnow rfloat"></a>
+	<!-- Enable if auction is an online auction hosted on proxibid -->
+	<!-- <a href="https://www.proxibid.com/asp/Catalog.asp?aid=*"><img class="rfloat" src="http://www.auctionmn.com/images/2014-02-14/proxibid.gif" alt=""></a> -->
+		<p><strong>Preview and Pickup Location</strong></p>
+			<p><a target="_blank" href="https://goo.gl/maps/L9u81MhP4dq">7140 Old Viking Blvd NW, Nowthen MN</a></p>
+		<p><strong>Preview Time</strong></p>
+			<p>May 15th, from 2 to 5 p.m.</p>
+		<p><strong>Auction Ending Time</strong></p>
+			<p>May 16th, Auction ends starting at 7:30 p.m.</p>
+		<p><strong>Pickup Time</strong></p>
+			<p>May 17th, from 11 a.m. to 7 p.m.</p>
+		<!-- <p><strong>Auctioneer's Notes</strong></p>
+			<p>NOTES</p> -->
+		<p><a href="http://auctionmn.com/general-terms-and-conditions.shtml">Terms and Conditions</a> for this auction.</p>
+</div>
+
 
 
 
@@ -98,6 +139,21 @@
 		<a href="http://www.auctionmn.com/images/mausgallery/maus16.html"><img src="http://www.auctionmn.com/images/mausgallery/maus16.jpg" alt=""></a>
 	</div>
 		<p><a href="http://www.auctionmn.com/images/mausgallery/index.html">View more photos from Mau's Auction</a></p>
+
+<!-- 		<div style="width:697px;">
+			<p>We have two ATVs that will be at the Mau's Corner Weekly Auction on Tuesday May 2nd, 2017</p>
+			<div style="width:50%;float:left;">
+				<h3>2007 Yamaha Grizzly ATV</h3>
+					<p>2007 Yamaha Grizzly ATV. Engine size 349. Excellent condition. 3367 miles. Model Grizzly 3.</p>
+					<a href="http://www.auctionmn.com/images/2017-05-02_Maus_ATVs/2007_Yamaha_Grizzly.jpg"><img style="width:95%;"src="http://www.auctionmn.com/images/2017-05-02_Maus_ATVs/2007_Yamaha_Grizzly.jpg" alt="2007 Yamaha Grizzly ATV"></a>
+			</div>
+			<div style="width:50%;float:right;">
+				<h3>2010 Yamaha Grizzly ATV</h3>
+					<p>2010 Yamaha Grizzly ATV. Engine size 349. Excellent condition. 2990 miles. Model YFM35FGIZ.</p>
+					<a href="http://www.auctionmn.com/images/2017-05-02_Maus_ATVs/2010_Yamaha_Grizzly.jpg"><img style="width:95%;"src="http://www.auctionmn.com/images/2017-05-02_Maus_ATVs/2010_Yamaha_Grizzly.jpg" alt="2010 Yamaha Grizzly ATV"></a>
+			</div>
+			
+		</div> -->
 	<p><strong>Date</strong></p>
 		<p>Every Tuesday until Fall</p>
 	<p><strong>Time</strong></p>
@@ -113,7 +169,7 @@
 </div>
 
 
-<div class="upcoming">
+<!-- <div class="upcoming">
 	<h2><a href="http://www.auctionmn.com/cgi-bin/mnlist.cgi?auctionmn8/category/ALL">Live Auction on May 2nd, 2017 at 11 a.m.</a></h2>
 	<div class="flexbox">
 		<a href="http://www.auctionmn.com/cgi-bin/mnlist.cgi?auctionmn8/1"><img src="http://www.auctionmn.com/images/2017-05-02/T1-1.jpg" alt="1"></a>
@@ -146,7 +202,7 @@
 		<p><strong>Auctioneer's Notes</strong></p>
 			<p>Estate Of Michael Metzer</p>
 			<p>In addition to our regular consignment auction where anyone can bring things to sell, we will be holding a separate estate auction for the Estate of Michael Metzer starting at 11 am on May 2. Live bidding only.</p>
-</div>
+</div> -->
 
 
 
@@ -782,7 +838,7 @@
 	<div class="clearfix"></div>
 </div>
 
-<div class="recent">
+<!-- <div class="recent">
 	<h2><a href="https://www.proxibid.com/asp/Catalog.asp?aid=93164">Live Gun, Cane, and Duck Auction With Online Pre-bidding</a></h2>
 	<div class="flexbox">
 		<a href="https://www.proxibid.com/asp/LotDetail.asp?ahid=4977&aid=93164&lid=24170163&title=Manufacturer-American-Arms-Co.-Model-Double-Barrel-Derringer-Year-1865-1866-Caliber-.22-and-.32"><img src="http://www.auctionmn.com/images/2015-04-04_guns/tn/9-1.jpg" alt=""></a>
@@ -852,7 +908,7 @@
 	<p><strong>Date</strong></p>
 		<p>CLOSED Friday, February 20th, 2015</p>
 	<div class="clearfix"></div>
-</div>
+</div> -->
 
 <!-- *******************************************************************************
             *************      End of Recent Auctions       ***************
