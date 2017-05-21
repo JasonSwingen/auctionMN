@@ -135,26 +135,7 @@
 			"file": "index.shtml",
 			"settings":
 			{
-				"buffer_size": 84496,
-				"encoding": "UTF-8",
-				"line_ending": "Windows"
-			}
-		},
-		{
-			"file": "/C/Users/Jason/Documents/AAA Auction/Auctions_and_Backups/2017-05-16/2017-05-16_Inventory_TEXT.txt",
-			"settings":
-			{
-				"buffer_size": 36760,
-				"encoding": "UTF-8",
-				"line_ending": "Windows",
-				"name": "1\tCollectibles\tLarge model of a ship\t\t1-1.jpg 1-2."
-			}
-		},
-		{
-			"file": "/C/Users/Jason/Documents/AAA Auction/Templates/AAA_Template_Email_13.4",
-			"settings":
-			{
-				"buffer_size": 1390,
+				"buffer_size": 84502,
 				"encoding": "UTF-8",
 				"line_ending": "Windows"
 			}
@@ -168,9 +149,13 @@
 	"command_palette":
 	{
 		"height": 392.0,
-		"last_filter": "title",
+		"last_filter": "package",
 		"selected_items":
 		[
+			[
+				"package",
+				"PackageResourceViewer: Open Resource"
+			],
 			[
 				"title",
 				"Convert Case: Title Case"
@@ -186,10 +171,6 @@
 			[
 				"maus",
 				"Snippet: location-maus"
-			],
-			[
-				"package",
-				"PackageResourceViewer: Open Resource"
 			],
 			[
 				"up",
@@ -643,16 +624,23 @@
 	"expanded_folders":
 	[
 		"/C/Users/Jason/Documents/AAA Auction",
+		"/C/Users/Jason/Documents/AAA Auction/Auctions_and_Backups/2017-05-16",
 		"/C/Users/Jason/Documents/AAA Auction/Templates"
 	],
 	"file_history":
 	[
+		"/C/Users/Jason/Documents/AAA Auction/Auctions_and_Backups/2017-05-16/2017-05-16_Winning_Bidders.txt",
+		"/C/Users/Jason/Documents/AAA Auction/Auctions_and_Backups/2017-05-16/2017-05-16_Maxanet_Results.txt",
+		"/C/Users/Jason/Documents/AAA Auction/Templates/AAA_Template_Invoices_Wavebid_v19",
+		"/C/Users/Jason/Documents/GitHub/auctionMN/selling-methods.shtml",
+		"/C/Users/Jason/AppData/Roaming/Sublime Text 3/Packages/User/new-auction.sublime-snippet",
+		"/C/Users/Jason/Documents/AAA Auction/Auctions_and_Backups/2017-05-16/2017-05-16_Inventory_TEXT.txt",
+		"/C/Users/Jason/Documents/AAA Auction/Templates/AAA_Template_Email_13.4",
 		"/C/Users/Jason/Documents/AAA Auction/Templates/AAA_Template_Email_13.3",
 		"/C/Users/Jason/Documents/AAA Auction/Auctions_and_Backups/2017-04-29_Canoe-and-Kayak/2017-04-29_Canoe-and-Kayak-Realized-Prices_TEXT.txt",
 		"/C/Users/Jason/Documents/AAA Auction/Auctions_and_Backups/2017-04-29_Canoe-and-Kayak/2017-04-29_Canoe-and-Kayak-Inventory_TEXT.txt",
 		"/C/Users/Jason/Documents/AAA Auction/Auctions_and_Backups/2017-04-25/2017-04-25_Maxanet_Bidders.txt",
 		"/C/Users/Jason/Documents/AAA Auction/Auctions_and_Backups/2017-04-25/2017-04-25_Maxanet_Results.txt",
-		"/C/Users/Jason/Documents/AAA Auction/Templates/AAA_Template_Invoices_Wavebid_v19",
 		"/C/Users/Jason/Documents/AAA Auction/Templates/AAA_Template_Email_13.2",
 		"/C/Users/Jason/Documents/AAA Auction/Auctions_and_Backups/2017-04-25/2017-04-25_Inventory.txt",
 		"/C/Users/Jason/Documents/AAA Auction/Templates/AAA_Template_Email_10.9",
@@ -674,7 +662,6 @@
 		"/C/Users/Jason/Documents/AAA Auction/Auctions_and_Backups/2017-03-25/2017-03-25_maxanet_results.txt",
 		"/C/Users/Jason/Documents/AAA Auction/Auctions_and_Backups/2017-03-25/2017-03-25_Winning_Bidders.txt",
 		"/C/Users/Jason/Documents/AAA Auction/Templates/AAA_Template_Invoices_Wavebid_v17",
-		"/C/Users/Jason/AppData/Roaming/Sublime Text 3/Packages/User/new-auction.sublime-snippet",
 		"/C/Users/Jason/Documents/AAA Auction/Auctions_and_Backups/2017-03-20/2017-03-20_Winning_Bidder_Emails.txt",
 		"/C/Users/Jason/Documents/AAA Auction/Auctions_and_Backups/2017-03-20/2017-03-20_Winning_Bidders_v2.txt",
 		"/C/Users/Jason/Documents/AAA Auction/Auctions_and_Backups/2017-03-20/2017-03-20_Maxanet_Results_v2.txt",
@@ -684,7 +671,6 @@
 		"/C/Users/Jason/Documents/AAA Auction/Auctions_and_Backups/2017-03-25/2017-03-25_Inventory_v2.txt",
 		"/C/Users/Jason/Documents/AAA Auction/Auctions_and_Backups/2017-03-20/2017-03-20_Inventory.txt",
 		"/C/Users/Jason/AppData/Roaming/Sublime Text 3/Packages/User/location-old-viking-blvd.sublime-snippet",
-		"/C/Users/Jason/Documents/GitHub/auctionMN/selling-methods.shtml",
 		"/C/Users/Jason/Documents/GitHub/auctionMN/items-that-sell.shtml",
 		"/C/Users/Jason/Documents/GitHub/auctionMN/consignment_info.shtml",
 		"/C/Users/Jason/Documents/GitHub/auctionMN/benefitqa.shtml",
@@ -770,11 +756,7 @@
 		"/C/Users/Jason/Documents/AAA Auction/Templates/AAA_Template_Email_7.9",
 		"/C/Users/Jason/Documents/GitHub/auctionMN/images/2016-03-24/index.html",
 		"/C/Users/Jason/Documents/GitHub/auctionMN/team.shtml",
-		"/C/Users/Jason/Documents/GitHub/auctionMN/tonysblog.shtml",
-		"/C/Users/Jason/Documents/GitHub/auctionMN/whyaaa.shtml",
-		"/C/Users/Jason/Documents/GitHub/auctionMN/whyauction.shtml",
-		"/C/Users/Jason/Documents/GitHub/auctionMN/contact.shtml",
-		"/C/Users/Jason/Documents/GitHub/auctionMN/auctionqa.shtml"
+		"/C/Users/Jason/Documents/GitHub/auctionMN/tonysblog.shtml"
 	],
 	"find":
 	{
@@ -793,6 +775,9 @@
 		"case_sensitive": false,
 		"find_history":
 		[
+			"jpg",
+			"2017-05-02_Maus_ATVs/2010_Yamaha_Grizzly",
+			"2017-05-02_Maus_ATVs/2007_Yamaha_Grizzly",
 			"AMP",
 			"5",
 			"(",
@@ -917,10 +902,7 @@
 			"h2",
 			"</blockquote>",
 			"h2",
-			"h1",
-			"<blockquote>",
-			"blockquote",
-			"<b>"
+			"h1"
 		],
 		"highlight": true,
 		"in_selection": false,
@@ -949,15 +931,15 @@
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 84496,
+						"buffer_size": 84502,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								2864,
-								2903
+								15090,
+								15090
 							]
 						],
 						"settings":
@@ -1028,8 +1010,8 @@
 								{
 									"1":
 									[
-										2905,
-										2906
+										15088,
+										15089
 									]
 								},
 								"icon":
@@ -1044,8 +1026,8 @@
 								{
 									"1":
 									[
-										2786,
-										2787
+										14987,
+										14988
 									]
 								},
 								"unmatched":
@@ -1054,61 +1036,61 @@
 							},
 							"bracket_highlighter.regions":
 							[
-								"bh_double_quote",
-								"bh_double_quote_center",
-								"bh_double_quote_open",
-								"bh_double_quote_close",
-								"bh_double_quote_content",
-								"bh_c_define",
-								"bh_c_define_center",
-								"bh_c_define_open",
-								"bh_c_define_close",
-								"bh_c_define_content",
 								"bh_single_quote",
 								"bh_single_quote_center",
 								"bh_single_quote_open",
 								"bh_single_quote_close",
 								"bh_single_quote_content",
-								"bh_default",
-								"bh_default_center",
-								"bh_default_open",
-								"bh_default_close",
-								"bh_default_content",
-								"bh_square",
-								"bh_square_center",
-								"bh_square_open",
-								"bh_square_close",
-								"bh_square_content",
-								"bh_round",
-								"bh_round_center",
-								"bh_round_open",
-								"bh_round_close",
-								"bh_round_content",
-								"bh_regex",
-								"bh_regex_center",
-								"bh_regex_open",
-								"bh_regex_close",
-								"bh_regex_content",
-								"bh_curly",
-								"bh_curly_center",
-								"bh_curly_open",
-								"bh_curly_close",
-								"bh_curly_content",
 								"bh_angle",
 								"bh_angle_center",
 								"bh_angle_open",
 								"bh_angle_close",
 								"bh_angle_content",
-								"bh_unmatched",
-								"bh_unmatched_center",
-								"bh_unmatched_open",
-								"bh_unmatched_close",
-								"bh_unmatched_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
 								"bh_tag",
 								"bh_tag_center",
 								"bh_tag_open",
 								"bh_tag_close",
-								"bh_tag_content"
+								"bh_tag_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content"
 							],
 							"color_scheme": "Packages/User/Color Highlighter/themes/Material-Theme-Darker.tmTheme",
 							"incomplete_sync": null,
@@ -1118,219 +1100,10 @@
 							"translate_tabs_to_spaces": false
 						},
 						"translation.x": 0.0,
-						"translation.y": 916.0,
+						"translation.y": 4009.0,
 						"zoom_level": 1.0
 					},
 					"stack_index": 0,
-					"type": "text"
-				},
-				{
-					"buffer": 1,
-					"file": "/C/Users/Jason/Documents/AAA Auction/Auctions_and_Backups/2017-05-16/2017-05-16_Inventory_TEXT.txt",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 36760,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								36760,
-								36760
-							]
-						],
-						"settings":
-						{
-							"auto_name": "1\tCollectibles\tLarge model of a ship\t\t1-1.jpg 1-2.",
-							"bracket_highlighter.busy": false,
-							"bracket_highlighter.locations":
-							{
-								"close":
-								{
-								},
-								"icon":
-								{
-								},
-								"open":
-								{
-								},
-								"unmatched":
-								{
-								}
-							},
-							"bracket_highlighter.regions":
-							[
-								"bh_double_quote",
-								"bh_double_quote_center",
-								"bh_double_quote_open",
-								"bh_double_quote_close",
-								"bh_double_quote_content",
-								"bh_c_define",
-								"bh_c_define_center",
-								"bh_c_define_open",
-								"bh_c_define_close",
-								"bh_c_define_content",
-								"bh_single_quote",
-								"bh_single_quote_center",
-								"bh_single_quote_open",
-								"bh_single_quote_close",
-								"bh_single_quote_content",
-								"bh_default",
-								"bh_default_center",
-								"bh_default_open",
-								"bh_default_close",
-								"bh_default_content",
-								"bh_square",
-								"bh_square_center",
-								"bh_square_open",
-								"bh_square_close",
-								"bh_square_content",
-								"bh_round",
-								"bh_round_center",
-								"bh_round_open",
-								"bh_round_close",
-								"bh_round_content",
-								"bh_regex",
-								"bh_regex_center",
-								"bh_regex_open",
-								"bh_regex_close",
-								"bh_regex_content",
-								"bh_curly",
-								"bh_curly_center",
-								"bh_curly_open",
-								"bh_curly_close",
-								"bh_curly_content",
-								"bh_angle",
-								"bh_angle_center",
-								"bh_angle_open",
-								"bh_angle_close",
-								"bh_angle_content",
-								"bh_unmatched",
-								"bh_unmatched_center",
-								"bh_unmatched_open",
-								"bh_unmatched_close",
-								"bh_unmatched_content",
-								"bh_tag",
-								"bh_tag_center",
-								"bh_tag_open",
-								"bh_tag_close",
-								"bh_tag_content"
-							],
-							"incomplete_sync": null,
-							"syntax": "Packages/Text/Plain text.tmLanguage"
-						},
-						"translation.x": 0.0,
-						"translation.y": 6712.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 2,
-					"type": "text"
-				},
-				{
-					"buffer": 2,
-					"file": "/C/Users/Jason/Documents/AAA Auction/Templates/AAA_Template_Email_13.4",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 1390,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								54,
-								1390
-							]
-						],
-						"settings":
-						{
-							"bracket_highlighter.busy": false,
-							"bracket_highlighter.locations":
-							{
-								"close":
-								{
-								},
-								"icon":
-								{
-								},
-								"open":
-								{
-								},
-								"unmatched":
-								{
-								}
-							},
-							"bracket_highlighter.regions":
-							[
-								"bh_double_quote",
-								"bh_double_quote_center",
-								"bh_double_quote_open",
-								"bh_double_quote_close",
-								"bh_double_quote_content",
-								"bh_c_define",
-								"bh_c_define_center",
-								"bh_c_define_open",
-								"bh_c_define_close",
-								"bh_c_define_content",
-								"bh_single_quote",
-								"bh_single_quote_center",
-								"bh_single_quote_open",
-								"bh_single_quote_close",
-								"bh_single_quote_content",
-								"bh_default",
-								"bh_default_center",
-								"bh_default_open",
-								"bh_default_close",
-								"bh_default_content",
-								"bh_square",
-								"bh_square_center",
-								"bh_square_open",
-								"bh_square_close",
-								"bh_square_content",
-								"bh_round",
-								"bh_round_center",
-								"bh_round_open",
-								"bh_round_close",
-								"bh_round_content",
-								"bh_regex",
-								"bh_regex_center",
-								"bh_regex_open",
-								"bh_regex_close",
-								"bh_regex_content",
-								"bh_curly",
-								"bh_curly_center",
-								"bh_curly_open",
-								"bh_curly_close",
-								"bh_curly_content",
-								"bh_angle",
-								"bh_angle_center",
-								"bh_angle_open",
-								"bh_angle_close",
-								"bh_angle_content",
-								"bh_unmatched",
-								"bh_unmatched_center",
-								"bh_unmatched_open",
-								"bh_unmatched_close",
-								"bh_unmatched_content",
-								"bh_tag",
-								"bh_tag_center",
-								"bh_tag_open",
-								"bh_tag_close",
-								"bh_tag_content"
-							],
-							"incomplete_sync": null,
-							"remote_loading": false,
-							"synced": false,
-							"syntax": "Packages/Text/Plain text.tmLanguage"
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 1,
 					"type": "text"
 				}
 			]
