@@ -7,131 +7,64 @@
 <body>
 <div id="Content">
 <div id="Header"><!--#include file="header.ssi"--></div>
-<article>
-<h1>The AAA Team</h1>
-</article>
-<p>
-<table border="0" cellpadding="2" cellspacing="2">
-<tbody>
-<tr valign="top">
-<td><img src="http://www.auctionmn.com/images/tony2006.jpg" alt="Tony" border="1" height="100" width="72"></td>
-<td><b>Tony Elfelt</b>
-<br>
-Along with his wife, Denise, Tony is co-owner of AAA Auction and
-Realty and auctionmn.com.&nbsp; Tony is the guy who will come to
-your
-home to answer all of your auction questions and advise you about the
-best way to sell your items. In addition to being an auctioneer, Tony
-is also a personal injury attorney, a real estate broker, and a
-licensed federal firearms and used vehicle dealer. He also was the
-first Minnesota auctioneer certified by the National Auctioneers
-Association as a Benefit Auction Specialist.&nbsp; </td>
-</tr>
-</tbody>
-</table>
-<table border="0" cellpadding="2" cellspacing="2">
-<tbody>
-<tr>
-<td align="undefined" valign="undefined"><img alt="Denise" src="http://www.auctionmn.com/images/denise_2008.jpg" border="1" height="100"></td>
-<td align="undefined" valign="undefined">
-<b>Denise Elfelt</b>
-<br>
-Denise is co-owner of AAA Auction. She runs our online auction business at our
-Auction Center in Ramsey and also clerks our sales during our live
-auctions.&nbsp; She is so friendly, we think some people buy from
-us
-just to come in and visit with her. She is a professional personal
-property appraiser, having completed both the National Auctioneers
-Association's training as a G.P.P.A., and also the Continental School
-of Auctioneering's certification program as a C.P.P.A. Denise is
-married to Tony, and when she's not working for AAA Auction, she is
-most likely visiting with her four grandchildren. </td>
-</tr>
-<tr valign="top">
-<td><img src="http://www.auctionmn.com/images/john2005.jpg" alt="John" height="100" width="72"></td>
-<td><b>John Stachowski</b>
-<br>
-John is a highly skilled auctioneer and one of the nicest guys in
-the business. Not only does he do a great job calling auctions, but he
-also is the guy who keeps our computers running. When John is not
-calling an auction, he drives a truck for Lakeville Motor Express,
-where he has been employed since 1987.&nbsp; </td>
-</tr>
-</tbody>
-</table>
-<table border="0" cellpadding="2" cellspacing="2">
-<tbody>
-<!--<tr>
-<td align="undefined" valign="undefined"><img src="http://www.auctionmn.com/images/dorothy.jpg" alt="John" border="1" height="100" width="72"></td>
-<td align="undefined" valign="undefined"><b>Dorothy
-Finn<br>
-</b>Dorothy
-joined us this past year and we are glad she did. She is our bookkeeper
-and our cashier. She also helps process items for our online auctions
-by taking photos and typing descriptions. Dorothy was born in the
-Netherlands and she grew up in South Africa. Dorothy is married to
-another hard working AAA member, Paul Finn.&nbsp; </td>
-</tr> -->
 
-<!-- <tr>
-<td align="undefined" valign="undefined"><img alt="Dan" src="http://www.auctionmn.com/images/dan.jpg" border="1" height="100" width="66"></td>
-<td align="undefined" valign="undefined"><b>Dan
-Masloski</b><br>
-Dan
-is an auctioneer and one of the best benefit auction ringmen around. At
-benefit galas and auctions, Dan&nbsp; makes sure that no one leaves
-the
-event without having every opportunity to spend or pledge money to the
-cause. Not only a great auctioneer, Dan is fun and entertaining. When
-Dan is not helping AAA Auction raise money for charities, he manages
-the Park Department for the City of Champlin, Minnesota.</td>
-</tr> -->
-<tr>
-<td align="undefined" valign="undefined"><img alt="Carl" src="http://www.auctionmn.com/images/carl_2009-08-24.jpg" border="1" height="100"></td>
-<td align="undefined" valign="undefined"><b>Carl
-Paige<br>
-</b>Carl
-has more auctions under his belt than all of us put together. As a
-former antique dealer, he has a vast knowledge of antiques and
-collectibles. Also, as a former mechanic, he is our go-to guy to
-identify and describe many of the unusual tools and pieces of equipment
-that come our way. Carl is a U.S. Navy veteran and a valuable member of
-our team.</td>
-</tr>
-<tr>
-<td align="undefined" valign="undefined"><img alt="Larry" src="http://www.auctionmn.com/images/teamLarry.jpg" border="1" height="100"></td>
-<td align="undefined" valign="undefined"><b>Larry
-Elfelt</b>
-<br>
-Larry keeps our live auctions moving fast. He's the guy who hollers
-"YES!" when you bid or hollers "Let's Go!" if he thinks the auctioneer
-too slow. We also rely on Larry to help set up auctions. Larry is
-married to Corinne, and when he is not working for AAA Auction or
-attending an auction elsewhere, you can find Larry delivering mail in
-Anoka or putting out fires in Andover.&nbsp;</td>
-</tr>
-<tr>
-<td align="undefined" valign="undefined"><img alt="Jason" src="http://www.auctionmn.com/images/teamJason.jpg" border="1" height="100"></td>
-<td align="undefined" valign="undefined"><b>Jason Swingen</b>
-<br>
-Jason is a super smart, good looking, and talented Web Developer and Online Marketer. Also, because he writes the content for www.auctionmn.com he is able to write his own description on the Team Page.</td>
-</tr>
-<!-- <tr>
-<td align="undefined" valign="undefined"></td>
-<td align="undefined" valign="undefined"><b>Paul
-Finn</b><br>
-Paul
-snaps into action when we need muscle to go out and pick up an estate
-to bring to the Auction Center. He also is a picker on pickup days when
-our buyers come in to get their purchases. Paul also does a lot of our
-shipping. When Paul is not working for AAA Auction, he will most likely
-be buying at someone else's auction.</td>
-</tr> -->
-</tbody>
-</table>
-<br>
-</p>
-</div>
+<article>
+
+<h1>The AAA Team</h1>
+
+	<div class="teampage">
+
+	<h2>Tony Elfelt</h2>
+	<img src="http://www.auctionmn.com/images/tony2006.jpg" alt="Tony Elfelt">
+	
+	<p>Along with his wife, Denise, Tony is co-owner of AAA Auction and Realty and auctionmn.com. Tony is the guy who will come to your home to answer all of your auction questions and advise you about the best way to sell your items.</p>
+	<p>In addition to being an auctioneer, Tony is also a personal injury attorney, a real estate broker, and a licensed federal firearms and used vehicle dealer. He also was the first Minnesota auctioneer certified by the National Auctioneers Association as a Benefit Auction Specialist.</p>
+
+	<h2>Denise Elfelt</h2>
+	<img src="http://www.auctionmn.com/images/denise_2008.jpg"  alt="Denise Elfelt">
+
+	<p>Denise is co-owner of AAA Auction. She runs our online auction business at our Auction Center in Ramsey and also clerks our sales during our live auctions. She is so friendly, we think some people buy from us just to come in and visit with her.</p>
+	<p>She is a professional personal property appraiser, having completed both the National Auctioneers Association's training as a G.P.P.A., and also the Continental School of Auctioneering's certification program as a C.P.P.A. Denise is married to Tony, and when she's not working for AAA Auction, she is most likely visiting with her four grandchildren.</p>
+
+	<h2>John Stachowski</h2>
+	<img src="http://www.auctionmn.com/images/john2005.jpg" alt="John Stachowski">
+
+	<p>John is a highly skilled auctioneer and one of the nicest guys in the business. Not only does he do a great job calling auctions, but he also is the guy who keeps our computers running. When John is not calling an auction, he drives a truck for Lakeville Motor Express, where he has been employed since 1987.</p>
+
+
+	<h2>Larry Elfelt</h2>
+	<img src="http://www.auctionmn.com/images/teamLarry.jpg"  alt="Larry Elfelt">
+
+	<p>Larry keeps our live auctions moving fast. He's the guy who hollers "YES!" when you bid or hollers "Let's Go!" if he thinks the auctioneer too slow. We also rely on Larry to help set up auctions. Larry is married to Corinne, and when he is not working for AAA Auction or attending an auction elsewhere, you can find Larry delivering mail in Anoka or putting out fires in Andover.</p>
+	<p>He is also a State Licensed Pesticide Applicator and Certified Tree Inspector. If you have an ash tree that you want to save from Emerald Ash Borer, then you should consider saving your ash at <a href="http://www.saveyourashmn.com/">www.saveyourashmn.com</a>.</p>
+
+	<h2>Jason Swingen</h2>
+	<img src="http://www.auctionmn.com/images/teamJason.jpg"  alt="Jason Swingen">
+
+	<p>Jason is a super smart, good looking, and talented Web Developer and Online Marketer. Also, because he writes the content for www.auctionmn.com he is able to write his own description on the Team Page.</p>
+	<p>Like hunting and fishing in MN? Then check out <a href="http://www.js-outdoors.com/">JS-Outdoors</a></p>
+
+	<h2>Kim Wood</h2>
+
+	<p>Kim’s role is vital to our live auctions. She is the clerk who types the information about every sale into the computer. She is really friendly, but I tell everyone she is crabby so they don’t interrupt her during the auction. She also is our bookkeeper and she types the lot descriptions for our online auctions.</p>
+
+	<h2>Lance Rubink</h2>
+
+	<p>Lance joined us during our first year at Mau’s Corner in 2013. He is the guy who turns the lights on in the morning and who gets folks set up in the right place He also takes over calling the auction when needed.</p>
+
+	<h2>Gary Duer</h2>
+
+	<p>Gary started out just pitching in when he saw we needed a hand and then quickly became part of our regular crew. He helps with most of our estate pick-ups an he helps set up the auction too. By the way, if you ever find you need a gizmo or widget, Gary has several of them.</p>
+
+	<h2>RaeAnn Spike</h2>
+
+	<p>is the newest member of our team. Since she was coming to our live and online auctions anyway, we gave her a camera and put her to work.</p>
+
+	</div> <!-- End of Team Page -->
+
+</article> <!-- End of Article -->
+
+</div> <!-- End of Content -->
 
 <div id="Menu">
 
