@@ -135,8 +135,24 @@
 			"file": "index.shtml",
 			"settings":
 			{
-				"buffer_size": 52251,
+				"buffer_size": 56492,
 				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "/C/Users/Jason/Documents/AAA Auction/Auctions_and_Backups/2017-07-18/2017-07-18_maxanet_results.txt",
+			"settings":
+			{
+				"buffer_size": 0,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "/C/Users/Jason/Documents/AAA Auction/Auctions_and_Backups/2017-07-18/2017-07-18_maxanet_bidders.txt",
+			"settings":
+			{
+				"buffer_size": 0,
 				"line_ending": "Windows"
 			}
 		}
@@ -157,6 +173,10 @@
 				"Convert Case: Title Case"
 			],
 			[
+				"location",
+				"Snippet: location-old-viking-blvd"
+			],
+			[
 				"ol",
 				"Snippet: location-old-viking-blvd"
 			],
@@ -171,10 +191,6 @@
 			[
 				"up",
 				"Snippet: upcoming-auction"
-			],
-			[
-				"location",
-				"Snippet: location-old-viking-blvd"
 			],
 			[
 				"package",
@@ -631,10 +647,15 @@
 	},
 	"expanded_folders":
 	[
-		"/C/Users/Jason/Documents/GitHub/auctionMN"
+		"/C/Users/Jason/Documents/AAA Auction",
+		"/C/Users/Jason/Documents/AAA Auction/Auctions_and_Backups",
+		"/C/Users/Jason/Documents/AAA Auction/Auctions_and_Backups/2017-07-18",
+		"/C/Users/Jason/Documents/AAA Auction/Templates"
 	],
 	"file_history":
 	[
+		"/C/Users/Jason/Documents/AAA Auction/Templates/AAA_Template_Email_13.8",
+		"/C/Users/Jason/Documents/AAA Auction/Auctions_and_Backups/2017-07-18/2017-07-18_Inventory_TEXT.txt",
 		"/C/Users/Jason/Documents/GitHub/auctionMN/footer.ssi",
 		"/C/Users/Jason/Documents/GitHub/auctionMN/contact.shtml",
 		"/C/Users/Jason/Documents/AAA Auction/Auctions_and_Backups/2017-06-26/2017-06-26_maxanet_bidders.txt",
@@ -760,9 +781,7 @@
 		"/C/Users/Jason/AppData/Roaming/Sublime Text 3/Packages/User/index.html",
 		"/C/Users/Jason/AppData/Roaming/Sublime Text 3/Packages/User/test-snippet.sublime-snippet",
 		"/C/Users/Jason/AppData/Roaming/Sublime Text 3/Packages/User/location-nowthen.sublime-snippet",
-		"/C/Users/Jason/AppData/Roaming/Sublime Text 3/Packages/User/auction-highlights.sublime-snippet",
-		"/C/Users/Jason/AppData/Roaming/Sublime Text 3/Packages/User/comment-block-html.sublime-snippet",
-		"/C/Users/Jason/Documents/GitHub/auctionMN/images/2016-04-20/index.html"
+		"/C/Users/Jason/AppData/Roaming/Sublime Text 3/Packages/User/auction-highlights.sublime-snippet"
 	],
 	"find":
 	{
@@ -781,6 +800,8 @@
 		"case_sensitive": false,
 		"find_history":
 		[
+			"1",
+			"(",
 			"2017",
 			"loader",
 			"li",
@@ -906,9 +927,7 @@
 			"</",
 			"(",
 			"leah.m.nagel@gmail.com",
-			"m1tlm14",
-			"m1tlm13",
-			"m1tlm12"
+			"m1tlm14"
 		],
 		"highlight": true,
 		"in_selection": false,
@@ -937,15 +956,15 @@
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 52251,
+						"buffer_size": 56492,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								35993,
-								35993
+								6505,
+								6470
 							]
 						],
 						"settings":
@@ -1016,8 +1035,8 @@
 								{
 									"1":
 									[
-										35989,
-										35992
+										6507,
+										6508
 									]
 								},
 								"icon":
@@ -1032,8 +1051,8 @@
 								{
 									"1":
 									[
-										35071,
-										35074
+										6413,
+										6414
 									]
 								},
 								"unmatched":
@@ -1042,46 +1061,6 @@
 							},
 							"bracket_highlighter.regions":
 							[
-								"bh_unmatched",
-								"bh_unmatched_center",
-								"bh_unmatched_open",
-								"bh_unmatched_close",
-								"bh_unmatched_content",
-								"bh_round",
-								"bh_round_center",
-								"bh_round_open",
-								"bh_round_close",
-								"bh_round_content",
-								"bh_regex",
-								"bh_regex_center",
-								"bh_regex_open",
-								"bh_regex_close",
-								"bh_regex_content",
-								"bh_default",
-								"bh_default_center",
-								"bh_default_open",
-								"bh_default_close",
-								"bh_default_content",
-								"bh_c_define",
-								"bh_c_define_center",
-								"bh_c_define_open",
-								"bh_c_define_close",
-								"bh_c_define_content",
-								"bh_curly",
-								"bh_curly_center",
-								"bh_curly_open",
-								"bh_curly_close",
-								"bh_curly_content",
-								"bh_square",
-								"bh_square_center",
-								"bh_square_open",
-								"bh_square_close",
-								"bh_square_content",
-								"bh_angle",
-								"bh_angle_center",
-								"bh_angle_open",
-								"bh_angle_close",
-								"bh_angle_content",
 								"bh_tag",
 								"bh_tag_center",
 								"bh_tag_open",
@@ -1092,6 +1071,46 @@
 								"bh_single_quote_open",
 								"bh_single_quote_close",
 								"bh_single_quote_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
 								"bh_double_quote",
 								"bh_double_quote_center",
 								"bh_double_quote_open",
@@ -1108,10 +1127,150 @@
 							"translate_tabs_to_spaces": false
 						},
 						"translation.x": 0.0,
-						"translation.y": 10024.0,
+						"translation.y": 1324.0,
 						"zoom_level": 1.0
 					},
 					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "/C/Users/Jason/Documents/AAA Auction/Auctions_and_Backups/2017-07-18/2017-07-18_maxanet_results.txt",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 0,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"bracket_highlighter.busy": false,
+							"bracket_highlighter.locations":
+							{
+								"close":
+								{
+								},
+								"icon":
+								{
+								},
+								"open":
+								{
+								},
+								"unmatched":
+								{
+								}
+							},
+							"bracket_highlighter.regions":
+							[
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content"
+							],
+							"git_savvy.file_path": "C:\\Users\\Jason\\Documents\\AAA Auction\\Auctions_and_Backups\\2017-07-18\\2017-07-18_maxanet_results.txt",
+							"incomplete_sync": null,
+							"open_with_edit": true,
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/Text/Plain text.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "/C/Users/Jason/Documents/AAA Auction/Auctions_and_Backups/2017-07-18/2017-07-18_maxanet_bidders.txt",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 0,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"bracket_highlighter.busy": false,
+							"incomplete_sync": null,
+							"open_with_edit": true,
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/Text/Plain text.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
 					"type": "text"
 				}
 			]
