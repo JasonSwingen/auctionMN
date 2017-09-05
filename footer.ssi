@@ -1,34 +1,33 @@
-<p align="center"><font size="1"><a
- href="http://www.auctionmn.com/">Home</a> - <a
- href="http://www.auctionmn.com/team.shtml">Our Team</a>
-- <a href="http://www.auctionmn.com/auctionqa.shtml">Auction
-Q &amp; A</a> - <a
- href="http://www.auctionmn.com/consignment_info.shtml">How
-to Consign Items</a>
-- <a href="http://www.auctionmn.com/video1.shtml">Benefit
-Auctions</a><br>
-<a href="http://www.auctionmn.com/tonysblog.shtml">Tony's
-Auction News</a> - <a
- href="http://www.auctionmn.com/cgi-bin/mncal.cgi?auctionmnr">Real
-Estate Listings</a> - <a
- href="http://www.auctionmn.com/whyaaa.shtml">Why Choose Us?</a>
-- <a href="http://www.auctionmn.com/benefittest.shtml">Testimonials</a>
-- <a href="http://www.auctionmn.com/cgi-bin/mdemail.cgi?auctionmn">Email
-Registration</a> - <a
- href="http://www.auctionmn.com/contact.shtml">Contact Us</a><br>
-
-<script type="text/javascript">
-var d = new Date()
-document.write("&copy; " + d.getFullYear())
-</script>
-AAA Auction and Real Estate, L.L.C. All rights reserved. <br>
-
-7140 Old Viking Blvd NW<br>
-Nowthen MN 55303<br>
-Business Office: (763) 421-3044<br>
-Cell: (763) 427-7101<br>
-Fax: (763) 241-7904<br>
-</font></p>
-
-
-
+<p align=center>
+	<center>
+		<font size=1>
+			<a href="http://www.auctionmn.com/">Home</a> - 
+			<a href="http://www.auctionmn.com/team.shtml">Our Team</a> - 
+			<a href="http://www.auctionmn.com/auctionqa.shtml">Auction Q & A</a> - 
+			<a href="http://www.auctionmn.com/consignment_info.shtml">How to Consign Items</a> - 
+			<a href="http://www.auctionmn.com/general-terms-and-conditions.shtml">Terms and Conditions</a>
+			<br>
+			<a href="http://www.auctionmn.com/tonysblog.shtml">Tony's Auction News</a> - 
+			<a href="http://www.auctionmn.com/whyaaa.shtml">Why Choose Us?</a> - 
+			<a href="http://www.auctionmn.com/benefittest.shtml">Testimonials</a> - 
+			<a href="http://www.auctionmn.com/cgi-bin/mdemail.cgi?auctionmn">Email Registration</a> - 
+			<a href="http://www.auctionmn.com/contact.shtml">Contact Us</a>
+		<br>
+			<script type="text/javascript">
+			var d = new Date()
+			document.write("&copy; " + d.getFullYear())
+			</script>
+			2017 AAA Auction and Real Estate, L.L.C.  All rights reserved.
+		<br>
+			7140 Old Viking Blvd NW
+		<br>
+			Nowthen, MN 55303
+		<br>
+			Business Office: (763) 421-3044
+		<br>
+			Cell: (763) 427-7101
+		<br>
+			Fax: (763) 241-7904<br>
+		</font>
+	</center>
+</p>  
