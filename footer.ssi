@@ -17,7 +17,7 @@
 			var d = new Date()
 			document.write("&copy; " + d.getFullYear())
 			</script>
-			2017 AAA Auction and Real Estate, L.L.C.  All rights reserved.
+			 AAA Auction and Real Estate, L.L.C.  All rights reserved.
 		<br>
 			7140 Old Viking Blvd NW
 		<br>

@@ -135,7 +135,7 @@
 			"file": "index.shtml",
 			"settings":
 			{
-				"buffer_size": 69571,
+				"buffer_size": 73666,
 				"encoding": "UTF-8",
 				"line_ending": "Windows"
 			}
@@ -148,10 +148,14 @@
 	"build_varint": "",
 	"command_palette":
 	{
-		"height": 200.0,
-		"last_filter": "",
+		"height": 392.0,
+		"last_filter": "loca",
 		"selected_items":
 		[
+			[
+				"loca",
+				"Snippet: location-old-viking-blvd"
+			],
 			[
 				"title",
 				"Convert Case: Title Case"
@@ -171,10 +175,6 @@
 			[
 				"high",
 				"Snippet: auction-highlights"
-			],
-			[
-				"loca",
-				"Snippet: location-old-viking-blvd"
 			],
 			[
 				"up",
@@ -631,11 +631,21 @@
 	},
 	"expanded_folders":
 	[
-		"/C/Users/Jason/Documents/AAA Auction",
-		"/C/Users/Jason/Documents/AAA Auction/Templates"
+		"/C/Users/Jason/Documents/GitHub/auctionMN",
+		"/C/Users/Jason/Documents/GitHub/auctionMN/images",
+		"/C/Users/Jason/Documents/GitHub/auctionMN/images/MausCorner"
 	],
 	"file_history":
 	[
+		"/C/Users/Jason/Documents/AAA Auction/Auctions_and_Backups/2017-09-26/2017-09-26_maxanet_bidders.txt",
+		"/C/Users/Jason/Documents/AAA Auction/Auctions_and_Backups/2017-09-26/2017-09-26_maxanet_results.txt",
+		"/C/Users/Jason/Documents/AAA Auction/Templates/AAA_Template_Invoices_Wavebid_v21",
+		"/C/Users/Jason/Documents/GitHub/auctionMN/footer.ssi",
+		"/C/Users/Jason/Documents/AAA Auction/Auctions_and_Backups/2017-09-26/2017-09-26_Inventory_v3.txt",
+		"/C/Users/Jason/Documents/AAA Auction/Auctions_and_Backups/2017-09-12/2017-09-12_maxanet_bidders.txt",
+		"/C/Users/Jason/Documents/AAA Auction/Auctions_and_Backups/2017-09-12/2017-09-12_maxanet_results.txt",
+		"/C/Users/Jason/Documents/AAA Auction/Auctions_and_Backups/2017-09-26/2017-09-26_Inventory_v2.txt",
+		"/C/Users/Jason/Documents/AAA Auction/Templates/AAA_Template_Email_14.2",
 		"/C/Users/Jason/Documents/AAA Auction/Templates/AAA_Template_Invoices_Wavebid_v20",
 		"/C/Users/Jason/Documents/AAA Auction/Auctions_and_Backups/2017-09-12/2017-09-12_Inventory_TEXT_v2.txt",
 		"/C/Users/Jason/Documents/AAA Auction/Templates/AAA_Bulk_Emails_2017-08-30.txt",
@@ -647,7 +657,6 @@
 		"/C/Users/Jason/Documents/AAA Auction/Templates/AAA_Bulk_Emails_2017-08-29.txt",
 		"/C/Users/Jason/Documents/AAA Auction/Auctions_and_Backups/2017-08-29/2017-08-29_Inventory_TEXT_v2.txt",
 		"/C/Users/Jason/Documents/GitHub/auctionMN/body_sitemap.inc",
-		"/C/Users/Jason/Documents/GitHub/auctionMN/footer.ssi",
 		"/C/Users/Jason/Documents/AAA Auction/Templates/AAA_Auction_Page_Footer.html",
 		"/C/Users/Jason/Documents/AAA Auction/Templates/AAA_Auction_Page_Settings",
 		"/C/Users/Jason/Documents/AAA Auction/Templates/Old_Footer",
@@ -755,19 +764,11 @@
 		"/C/Users/Jason/Documents/Development/stfrancischoir_Amazon_iframe.html",
 		"/C/Users/Jason/Documents/AAA Auction/Templates/Additional_Auction_Notes.html",
 		"/C/Users/Jason/Documents/AAA Auction/Auctions_and_Backups/2016-09-10/2016-09-10_Inventory_TXT.txt",
-		"/C/Users/Jason/Documents/AAA Auction/Templates/AAA_List_of_Emails_2016-05-20.txt",
-		"/C/Users/Jason/Documents/AAA Auction/Templates/AAA_Template_Email_8.4",
-		"/C/Users/Jason/Documents/AAA Auction/Auctions_and_Backups/2016-08-17/2016-08-17_Maxanet_Bidders.txt",
-		"/C/Users/Jason/Documents/AAA Auction/Auctions_and_Backups/2016-08-17/2016-08-17_Maxanet_Results.txt",
-		"/C/Users/Jason/Documents/AAA Auction/Templates/AAA_Template_Invoices_Wavebid_v12",
-		"/C/Users/Jason/Documents/AAA Auction/Templates/AAA_Picture_Highlights.html",
-		"/C/Users/Jason/Documents/GitHub/auctionMN/auctionmnpr.css",
-		"/C/Users/Jason/Documents/AAA Auction/Auctions_and_Backups/2016-08-17/2016-08-17_Inventory_v2.txt",
-		"/C/Users/Jason/Documents/AAA Auction/Templates/AAA_Template_Email_8.3"
+		"/C/Users/Jason/Documents/AAA Auction/Templates/AAA_List_of_Emails_2016-05-20.txt"
 	],
 	"find":
 	{
-		"height": 34.0
+		"height": 25.0
 	},
 	"find_in_files":
 	{
@@ -782,6 +783,7 @@
 		"case_sensitive": false,
 		"find_history":
 		[
+			"jpg",
 			"7",
 			"(",
 			"August",
@@ -908,8 +910,7 @@
 			"<p><strong>",
 			"<h2>",
 			"<p>",
-			"\"",
-			"17"
+			"\""
 		],
 		"highlight": true,
 		"in_selection": false,
@@ -938,15 +939,15 @@
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 69571,
+						"buffer_size": 73666,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								8174,
-								8004
+								4993,
+								4993
 							]
 						],
 						"settings":
@@ -1017,15 +1018,15 @@
 								{
 									"1":
 									[
-										8176,
-										8177
+										5029,
+										5030
 									]
 								},
 								"icon":
 								{
 									"1":
 									[
-										"Packages/BracketHighlighter/icons/tag.png",
+										"Packages/BracketHighlighter/icons/double_quote.png",
 										"brackethighlighter.default"
 									]
 								},
@@ -1033,8 +1034,8 @@
 								{
 									"1":
 									[
-										8002,
-										8003
+										4966,
+										4967
 									]
 								},
 								"unmatched":
@@ -1043,46 +1044,6 @@
 							},
 							"bracket_highlighter.regions":
 							[
-								"bh_regex",
-								"bh_regex_center",
-								"bh_regex_open",
-								"bh_regex_close",
-								"bh_regex_content",
-								"bh_angle",
-								"bh_angle_center",
-								"bh_angle_open",
-								"bh_angle_close",
-								"bh_angle_content",
-								"bh_square",
-								"bh_square_center",
-								"bh_square_open",
-								"bh_square_close",
-								"bh_square_content",
-								"bh_round",
-								"bh_round_center",
-								"bh_round_open",
-								"bh_round_close",
-								"bh_round_content",
-								"bh_default",
-								"bh_default_center",
-								"bh_default_open",
-								"bh_default_close",
-								"bh_default_content",
-								"bh_tag",
-								"bh_tag_center",
-								"bh_tag_open",
-								"bh_tag_close",
-								"bh_tag_content",
-								"bh_double_quote",
-								"bh_double_quote_center",
-								"bh_double_quote_open",
-								"bh_double_quote_close",
-								"bh_double_quote_content",
-								"bh_single_quote",
-								"bh_single_quote_center",
-								"bh_single_quote_open",
-								"bh_single_quote_close",
-								"bh_single_quote_content",
 								"bh_curly",
 								"bh_curly_center",
 								"bh_curly_open",
@@ -1093,6 +1054,46 @@
 								"bh_c_define_open",
 								"bh_c_define_close",
 								"bh_c_define_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
 								"bh_unmatched",
 								"bh_unmatched_center",
 								"bh_unmatched_open",
@@ -1109,7 +1110,7 @@
 							"translate_tabs_to_spaces": false
 						},
 						"translation.x": 0.0,
-						"translation.y": 2584.0,
+						"translation.y": 1511.0,
 						"zoom_level": 1.0
 					},
 					"stack_index": 0,
@@ -1120,7 +1121,7 @@
 	],
 	"incremental_find":
 	{
-		"height": 30.0
+		"height": 25.0
 	},
 	"input":
 	{
@@ -1173,7 +1174,7 @@
 	"project": "auctionmn.sublime-project",
 	"replace":
 	{
-		"height": 56.0
+		"height": 46.0
 	},
 	"save_all_on_build": true,
 	"select_file":
@@ -1236,7 +1237,7 @@
 	"show_open_files": false,
 	"show_tabs": true,
 	"side_bar_visible": true,
-	"side_bar_width": 283.0,
+	"side_bar_width": 300.0,
 	"status_bar_visible": true,
 	"template_settings":
 	{
