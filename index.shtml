@@ -101,7 +101,7 @@
 		<p><strong>Auction Ending Time</strong></p>
 			<p>Tuesday, November 7th, Auction ends starting at 7:30 p.m.</p>
 		<p><strong>Pickup Time</strong></p>
-			<p>Wednesday, November 8th from 11 a.m. to 7 p.m.</p>
+			<p>Wednesday, November 8th, from 11 a.m. to 7 p.m.</p>
 		<p><strong>Auctioneer's Notes</strong></p>
 			<p>The items in this auction are all from the estate of an avid radio-controlled plane enthusiast. We have done our best to describe the items accurately, but we are not experts in this area so we do not know if the kits are complete or if planes are  in working order. Everything is being sold AS-IS. Thus, we encourage all bidders to come to one of the scheduled preview times and inspect the items.</p>
 			<p>Also, since this is an estate auction, NO SALES TAX will be charged.</p>
@@ -109,6 +109,47 @@
 </div>
 
 
+
+<div class="current">
+	<h2><a href="http://www.auctionmn.com/cgi-bin/mnlist.cgi?auctionmn9/category/ALL">Online Auction Ending On Tuesday, November 14th</a></h2>
+	<div class="flexbox">
+		<a href="http://www.auctionmn.com/cgi-bin/mnlist.cgi?auctionmn9/17"><img src="http://www.auctionmn.com/images/2017-11-14/T17-1.jpg" alt="17"></a>
+		<a href="http://www.auctionmn.com/cgi-bin/mnlist.cgi?auctionmn9/68"><img src="http://www.auctionmn.com/images/2017-11-14/T68-1.jpg" alt="68"></a>
+		<a href="http://www.auctionmn.com/cgi-bin/mnlist.cgi?auctionmn9/69"><img src="http://www.auctionmn.com/images/2017-11-14/T69-1.jpg" alt="69"></a>
+		<a href="http://www.auctionmn.com/cgi-bin/mnlist.cgi?auctionmn9/72"><img src="http://www.auctionmn.com/images/2017-11-14/T72-1.jpg" alt="72"></a>
+		<a href="http://www.auctionmn.com/cgi-bin/mnlist.cgi?auctionmn9/77"><img src="http://www.auctionmn.com/images/2017-11-14/T77-1.jpg" alt="77"></a>
+		<a href="http://www.auctionmn.com/cgi-bin/mnlist.cgi?auctionmn9/87"><img src="http://www.auctionmn.com/images/2017-11-14/T87-1.jpg" alt="87"></a>
+		<a href="http://www.auctionmn.com/cgi-bin/mnlist.cgi?auctionmn9/105"><img src="http://www.auctionmn.com/images/2017-11-14/T105-1.jpg" alt="105"></a>
+		<a href="http://www.auctionmn.com/cgi-bin/mnlist.cgi?auctionmn9/119"><img src="http://www.auctionmn.com/images/2017-11-14/T119-1.jpg" alt="119"></a>
+		<a href="http://www.auctionmn.com/cgi-bin/mnlist.cgi?auctionmn9/130"><img src="http://www.auctionmn.com/images/2017-11-14/T130-1.jpg" alt="130"></a>
+		<a href="http://www.auctionmn.com/cgi-bin/mnlist.cgi?auctionmn9/144"><img src="http://www.auctionmn.com/images/2017-11-14/T144-1.jpg" alt="144"></a>
+		<a href="http://www.auctionmn.com/cgi-bin/mnlist.cgi?auctionmn9/158"><img src="http://www.auctionmn.com/images/2017-11-14/T158-1.jpg" alt="158"></a>
+		<a href="http://www.auctionmn.com/cgi-bin/mnlist.cgi?auctionmn9/181"><img src="http://www.auctionmn.com/images/2017-11-14/T181-1.jpg" alt="181"></a>
+		<a href="http://www.auctionmn.com/cgi-bin/mnlist.cgi?auctionmn9/192"><img src="http://www.auctionmn.com/images/2017-11-14/T192-1.jpg" alt="192"></a>
+		<a href="http://www.auctionmn.com/cgi-bin/mnlist.cgi?auctionmn9/222"><img src="http://www.auctionmn.com/images/2017-11-14/T222-1.jpg" alt="222"></a>
+		<a href="http://www.auctionmn.com/cgi-bin/mnlist.cgi?auctionmn9/228"><img src="http://www.auctionmn.com/images/2017-11-14/T228-1.jpg" alt="228"></a>
+		<a href="http://www.auctionmn.com/cgi-bin/mnlist.cgi?auctionmn9/252"><img src="http://www.auctionmn.com/images/2017-11-14/T252-1.jpg" alt="252"></a>
+		<a href="http://www.auctionmn.com/cgi-bin/mnlist.cgi?auctionmn9/256"><img src="http://www.auctionmn.com/images/2017-11-14/T256-1.jpg" alt="256"></a>
+		<a href="http://www.auctionmn.com/cgi-bin/mnlist.cgi?auctionmn9/274"><img src="http://www.auctionmn.com/images/2017-11-14/T274-1.jpg" alt="274"></a>
+		<a href="http://www.auctionmn.com/cgi-bin/mnlist.cgi?auctionmn9/305"><img src="http://www.auctionmn.com/images/2017-11-14/T305-1.jpg" alt="305"></a>
+		<!-- <a href="http://www.auctionmn.com/cgi-bin/mnlist.cgi?auctionmn9/307"><img src="http://www.auctionmn.com/images/2017-11-14/T307-1.jpg" alt="307"></a> -->
+	</div>
+	<!-- Enable if auction is an online auction -->
+	<a href="http://www.auctionmn.com/cgi-bin/mnlist.cgi?auctionmn9/category/ALL" class="bidnow rfloat"></a>
+	<!-- Enable if auction is an online auction hosted on proxibid -->
+	<!-- <a href="https://www.proxibid.com/asp/Catalog.asp?aid=*"><img class="rfloat" src="http://www.auctionmn.com/images/2014-02-14/proxibid.gif" alt=""></a> -->
+		<p><strong>Preview and Pickup Location</strong></p>
+			<p><a target="_blank" href="https://goo.gl/maps/L9u81MhP4dq">7140 Old Viking Blvd NW, Nowthen MN</a></p>
+		<p><strong>Preview Time</strong></p>
+			<p>Monday, November 13th, from 2 to 4 p.m.</p>
+		<p><strong>Auction Ending Time</strong></p>
+			<p>Tuesday, November 14th, Auction ends starting at 7:30 p.m.</p>
+		<p><strong>Pickup Time</strong></p>
+			<p>Wednesday, November 15th, from 11 a.m. to 7 p.m.</p>
+		<!-- <p><strong>Auctioneer's Notes</strong></p>
+			<p>NOTES</p> -->
+		<p><a href="http://auctionmn.com/general-terms-and-conditions.shtml">Terms and Conditions</a> for this auction.</p>
+</div>
 
 
 
@@ -149,6 +190,26 @@
 
 
 <!-- <div class="recent">
+	<h2><a href="http://www.auctionmn.com/cgi-bin/mnlist.cgi?auctionmn9/category/ALL">Online Auction Ended On Tuesday, November 14th</a></h2>
+	<div class="flexbox">
+		<a href="http://www.auctionmn.com/cgi-bin/mnlist.cgi?auctionmn9/17"><img src="http://www.auctionmn.com/images/2017-11-14/T17-1.jpg" alt="17"></a>
+		<a href="http://www.auctionmn.com/cgi-bin/mnlist.cgi?auctionmn9/68"><img src="http://www.auctionmn.com/images/2017-11-14/T68-1.jpg" alt="68"></a>
+		<a href="http://www.auctionmn.com/cgi-bin/mnlist.cgi?auctionmn9/69"><img src="http://www.auctionmn.com/images/2017-11-14/T69-1.jpg" alt="69"></a>
+		<a href="http://www.auctionmn.com/cgi-bin/mnlist.cgi?auctionmn9/72"><img src="http://www.auctionmn.com/images/2017-11-14/T72-1.jpg" alt="72"></a>
+		<a href="http://www.auctionmn.com/cgi-bin/mnlist.cgi?auctionmn9/77"><img src="http://www.auctionmn.com/images/2017-11-14/T77-1.jpg" alt="77"></a>
+		<a href="http://www.auctionmn.com/cgi-bin/mnlist.cgi?auctionmn9/87"><img src="http://www.auctionmn.com/images/2017-11-14/T87-1.jpg" alt="87"></a>
+		<a href="http://www.auctionmn.com/cgi-bin/mnlist.cgi?auctionmn9/105"><img src="http://www.auctionmn.com/images/2017-11-14/T105-1.jpg" alt="105"></a>
+	</div>
+		<p><strong>Pickup Location</strong></p>
+			<p><a target="_blank" href="https://goo.gl/maps/L9u81MhP4dq">7140 Old Viking Blvd NW, Nowthen MN</a></p>
+		<p><strong>Auction Ending Time</strong></p>
+			<p>Tuesday, November 14th, Auction ends starting at 7:30 p.m.</p>
+		<p><strong>Pickup Time</strong></p>
+			<p>Wednesday, November 15th, from 11 a.m. to 7 p.m.</p>
+		<p><a href="http://auctionmn.com/general-terms-and-conditions.shtml">Terms and Conditions</a> for this auction.</p>
+</div> -->
+
+<!-- <div class="recent">
 	<h2><a href="http://www.auctionmn.com/cgi-bin/mnlist.cgi?auctionmn8/category/ALL">Online Auction Ended On Tuesday, November 7th</a></h2>
 	<div class="flexbox">
 		<a href="http://www.auctionmn.com/cgi-bin/mnlist.cgi?auctionmn8/2"><img src="http://www.auctionmn.com/images/2017-11-07/T2-1.jpg" alt="2"></a>
@@ -159,7 +220,7 @@
 		<p><strong>Pickup Location</strong></p>
 			<p><a target="_blank" href="https://goo.gl/maps/L9u81MhP4dq">7140 Old Viking Blvd NW, Nowthen MN</a></p>
 		<p><strong>Pickup Time</strong></p>
-			<p>Wednesday, November 8th from 11 a.m. to 7 p.m.</p>
+			<p>Wednesday, November 8th, from 11 a.m. to 7 p.m.</p>
 		<p><strong>Auctioneer's Notes</strong></p>
 			<p>The items in this auction are all from the estate of an avid radio-controlled plane enthusiast. We have done our best to describe the items accurately, but we are not experts in this area so we do not know if the kits are complete or if planes are  in working order. Everything is being sold AS-IS. Thus, we encourage all bidders to come to one of the scheduled preview times and inspect the items.</p>
 			<p>Also, since this is an estate auction, NO SALES TAX will be charged.</p>
