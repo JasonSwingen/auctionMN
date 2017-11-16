@@ -67,6 +67,46 @@
 
 
 
+<div class="current">
+	<h2><a href="http://www.auctionmn.com/cgi-bin/mnlist.cgi?auctionmn10/category/ALL">Online Auction Ending On Tuesday, November 28th</a></h2>
+	<div class="flexbox">
+		<a href="http://www.auctionmn.com/cgi-bin/mnlist.cgi?auctionmn10/42"><img src="http://www.auctionmn.com/images/2017-11-28/T42-1.jpg" alt="42"></a>
+		<a href="http://www.auctionmn.com/cgi-bin/mnlist.cgi?auctionmn10/100"><img src="http://www.auctionmn.com/images/2017-11-28/T100-1.jpg" alt="100"></a>
+		<a href="http://www.auctionmn.com/cgi-bin/mnlist.cgi?auctionmn10/124"><img src="http://www.auctionmn.com/images/2017-11-28/T124-1.jpg" alt="124"></a>
+		<a href="http://www.auctionmn.com/cgi-bin/mnlist.cgi?auctionmn10/136"><img src="http://www.auctionmn.com/images/2017-11-28/T136-1.jpg" alt="136"></a>
+		<a href="http://www.auctionmn.com/cgi-bin/mnlist.cgi?auctionmn10/137"><img src="http://www.auctionmn.com/images/2017-11-28/T137-1.jpg" alt="137"></a>
+		<a href="http://www.auctionmn.com/cgi-bin/mnlist.cgi?auctionmn10/160"><img src="http://www.auctionmn.com/images/2017-11-28/T160-1.jpg" alt="160"></a>
+		<a href="http://www.auctionmn.com/cgi-bin/mnlist.cgi?auctionmn10/173"><img src="http://www.auctionmn.com/images/2017-11-28/T173-1.jpg" alt="173"></a>
+		<a href="http://www.auctionmn.com/cgi-bin/mnlist.cgi?auctionmn10/190"><img src="http://www.auctionmn.com/images/2017-11-28/T190-1.jpg" alt="190"></a>
+		<a href="http://www.auctionmn.com/cgi-bin/mnlist.cgi?auctionmn10/211"><img src="http://www.auctionmn.com/images/2017-11-28/T211-1.jpg" alt="211"></a>
+		<a href="http://www.auctionmn.com/cgi-bin/mnlist.cgi?auctionmn10/216"><img src="http://www.auctionmn.com/images/2017-11-28/T216-1.jpg" alt="216"></a>
+		<a href="http://www.auctionmn.com/cgi-bin/mnlist.cgi?auctionmn10/223"><img src="http://www.auctionmn.com/images/2017-11-28/T223-1.jpg" alt="223"></a>
+		<a href="http://www.auctionmn.com/cgi-bin/mnlist.cgi?auctionmn10/231"><img src="http://www.auctionmn.com/images/2017-11-28/T231-1.jpg" alt="231"></a>
+		<a href="http://www.auctionmn.com/cgi-bin/mnlist.cgi?auctionmn10/260"><img src="http://www.auctionmn.com/images/2017-11-28/T260-1.jpg" alt="260"></a>
+		<a href="http://www.auctionmn.com/cgi-bin/mnlist.cgi?auctionmn10/262"><img src="http://www.auctionmn.com/images/2017-11-28/T262-1.jpg" alt="262"></a>
+		<a href="http://www.auctionmn.com/cgi-bin/mnlist.cgi?auctionmn10/271"><img src="http://www.auctionmn.com/images/2017-11-28/T271-1.jpg" alt="271"></a>
+		<a href="http://www.auctionmn.com/cgi-bin/mnlist.cgi?auctionmn10/274"><img src="http://www.auctionmn.com/images/2017-11-28/T274-1.jpg" alt="274"></a>
+		<a href="http://www.auctionmn.com/cgi-bin/mnlist.cgi?auctionmn10/282"><img src="http://www.auctionmn.com/images/2017-11-28/T282-1.jpg" alt="282"></a>
+		<a href="http://www.auctionmn.com/cgi-bin/mnlist.cgi?auctionmn10/301"><img src="http://www.auctionmn.com/images/2017-11-28/T301-1.jpg" alt="301"></a>
+		<!-- <a href="http://www.auctionmn.com/cgi-bin/mnlist.cgi?auctionmn10/310"><img src="http://www.auctionmn.com/images/2017-11-28/T310-1.jpg" alt="310"></a> -->
+	</div>
+	<!-- Enable if auction is an online auction -->
+	<a href="http://www.auctionmn.com/cgi-bin/mnlist.cgi?auctionmn10/category/ALL" class="bidnow rfloat"></a>
+	<!-- Enable if auction is an online auction hosted on proxibid -->
+	<!-- <a href="https://www.proxibid.com/asp/Catalog.asp?aid=*"><img class="rfloat" src="http://www.auctionmn.com/images/2014-02-14/proxibid.gif" alt=""></a> -->
+		<p><strong>Preview and Pickup Location</strong></p>
+			<p><a target="_blank" href="https://goo.gl/maps/L9u81MhP4dq">7140 Old Viking Blvd NW, Nowthen MN</a></p>
+		<p><strong>Preview Time</strong></p>
+			<p>Monday, November 27th, from 2 to 4 p.m.</p>
+		<p><strong>Auction Ending Time</strong></p>
+			<p>Tuesday, November 28th, Auction ends starting at 7:30 p.m.</p>
+		<p><strong>Pickup Time</strong></p>
+			<p>Wednesday, November 29th, from 11 a.m. to 7 p.m.</p>
+		<!-- <p><strong>Auctioneer's Notes</strong></p>
+			<p>NOTES</p> -->
+		<p><a href="http://auctionmn.com/general-terms-and-conditions.shtml">Terms and Conditions</a> for this auction.</p>
+</div>
+
 
 
 
@@ -117,13 +157,6 @@
 		<a href="http://www.auctionmn.com/cgi-bin/mnlist.cgi?auctionmn9/87"><img src="http://www.auctionmn.com/images/2017-11-14/T87-1.jpg" alt="87"></a>
 		<a href="http://www.auctionmn.com/cgi-bin/mnlist.cgi?auctionmn9/105"><img src="http://www.auctionmn.com/images/2017-11-14/T105-1.jpg" alt="105"></a>
 	</div>
-		<p><strong>Pickup Location</strong></p>
-			<p><a target="_blank" href="https://goo.gl/maps/L9u81MhP4dq">7140 Old Viking Blvd NW, Nowthen MN</a></p>
-		<p><strong>Auction Ending Time</strong></p>
-			<p>Tuesday, November 14th, Auction ends starting at 7:30 p.m.</p>
-		<p><strong>Pickup Time</strong></p>
-			<p>Wednesday, November 15th, from 11 a.m. to 7 p.m.</p>
-		<p><a href="http://auctionmn.com/general-terms-and-conditions.shtml">Terms and Conditions</a> for this auction.</p>
 </div>
 
 <div class="recent">
@@ -134,14 +167,6 @@
 		<a href="http://www.auctionmn.com/cgi-bin/mnlist.cgi?auctionmn8/9"><img src="http://www.auctionmn.com/images/2017-11-07/T9-1.jpg" alt="9"></a>
 		<a href="http://www.auctionmn.com/cgi-bin/mnlist.cgi?auctionmn8/12"><img src="http://www.auctionmn.com/images/2017-11-07/T12-1.jpg" alt="12"></a>
 	</div>
-		<p><strong>Pickup Location</strong></p>
-			<p><a target="_blank" href="https://goo.gl/maps/L9u81MhP4dq">7140 Old Viking Blvd NW, Nowthen MN</a></p>
-		<p><strong>Pickup Time</strong></p>
-			<p>Wednesday, November 8th, from 11 a.m. to 7 p.m.</p>
-		<p><strong>Auctioneer's Notes</strong></p>
-			<p>The items in this auction are all from the estate of an avid radio-controlled plane enthusiast. We have done our best to describe the items accurately, but we are not experts in this area so we do not know if the kits are complete or if planes are  in working order. Everything is being sold AS-IS. Thus, we encourage all bidders to come to one of the scheduled preview times and inspect the items.</p>
-			<p>Also, since this is an estate auction, NO SALES TAX will be charged.</p>
-		<p><a href="http://auctionmn.com/general-terms-and-conditions.shtml">Terms and Conditions</a> for this auction.</p>
 </div>
 
 
