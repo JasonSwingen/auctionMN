@@ -78,6 +78,11 @@
             *************      End of Current Auctions       ***************
 ******************************************************************************** -->
 
+<!-- <div>
+    <iframe src="//www.facebook.com/plugins/likebox.php?href=https%3A%2F%2Fwww.facebook.com%2Fauctionmn&amp;width=690&amp;height=400&amp;colorscheme=light&amp;show_faces=false&amp;header=true&amp;stream=true&amp;show_border=true" scrolling="no" frameborder="0" style="border:none; overflow:hidden; width:690px; height:400px;" allowtransparency="true"></iframe>
+</div> -->
+
+
 <div id="upcoming" class="upcomingheading">
 	<h1>Upcoming Auctions</h1>
 		<!-- Go to www.addthis.com/dashboard to customize your tools -->
@@ -92,9 +97,31 @@
 
 
 
+
 <!-- *******************************************************************************
             *************      End of Upcoming Auctions       ***************
 ******************************************************************************** -->
+
+<div>
+
+	<h1><a href="https://www.facebook.com/pg/auctionmn/jobs/?ref=page_internal">Help Wanted</a></h1>
+
+	<h2>
+		<i><a href="https://www.facebook.com/pg/auctionmn/jobs/167997167135321/?source=post_homepage_stream">Online Auction Processor</a></i>
+	</h2>
+
+	<p>Do you enjoy auctions, estate sales, garage sales and collecting?</p>
+	<p>Are you good with customer service, writing and taking pictures?</p>
+	<p>Would you like to work with friendly people and have Fridays and weekends off?</p>
+	<p>Then we have a place for you.</p>
+	<p>Our company is AAA Auction and our website is auctionmn.com. We do live auctions from April to September and online auctions all year long out of our auction barn in Nowthen. The position we need to fill is for an online auction processor in Nowthen. As long as you have good camera and writing skills we will teach you the rest. The job involves taking pictures and writing descriptions of the items we sell. It also involves waiting on our customers whether they are sellers who drop off items to be sold or buyers who pick up items they purchased.  It also may involve some research about items and handling money on our pick-up days. It also may involve some research about items and handling money on our pick-up days. </p>    
+	<p>If you are interested, please send us a copy of your resume and/or a short letter describing why you would be a good fit for this position. Thank you.</p>
+	&nbsp;
+	<p>Tony or Denise Elfelt</p>
+	<p>(763) 421-3044.</p>
+	<p>tony@auctionmn.com</p>
+</div>
+
 
 <div id="recent" class="recentheading">
 	<h1>Recent Auctions</h1>
