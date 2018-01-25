@@ -83,6 +83,9 @@ Information | AAA Auction and Realty Company</title>
 <h2>Maximum Bids</h2>
 	<p>You may enter the largest amount you are willing to pay for an item in the Max Bid box. The amount entered must be at least equal to the next required bid. Our auction software will place the lowest bid necessary, and then will bid on your behalf in predetermined increments up to the amount of your Max Bid. You may increase your Max Bid, but no decreases are allowed. There is a link to the increments at the bottom of each bidding page. If two people each place a Max Bid, then the higher Max Bid cancels out the lower Max Bid, even if the difference is as small as one penny.</p>
 
+<h2>Review Items</h2>
+	<p>To review items on which you have bid, go to the bottom of any page of the active auction and enter your bidding number and password. Then click "Review Bids". You will see a red triangle on each item for which you have been outbid.</p>
+
 <h2>Auction Closing Times / Refresh Browser To See Current Bid</h2>
 	<p>Our online auctions close at the rate of ten items per minute, starting at the time given on the main page for the auction that is closing. For example, if the scheduled closing time is 7:30 p.m.; items 1-10 will close at 7:30 p.m.; items 11-20 will close at 7:31 p.m., and so on until all items have closed. <span class="alert">After the auction starts to close, no "You're been outbid" e-mails are sent</span>. To make sure you are aware of the current bid amount during closing, you should <span class="alert">refresh your browser frequently</span>. If you fail to do that, your own screen may not show the correct total. In other words, you may think you are the high bidder when you are not.</p>
 
