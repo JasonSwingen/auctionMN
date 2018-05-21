@@ -11,7 +11,8 @@
     <a href="/selling-methods.shtml" onclick="w3_close()" class="w3-bar-item w3-button w3-hover-white">Selling Methods &amp; Fees</a> 
     <a href="/consignment_info.shtml" onclick="w3_close()" class="w3-bar-item w3-button w3-hover-white">Selling Tips</a> 
     <a href="/items-that-sell.shtml" onclick="w3_close()" class="w3-bar-item w3-button w3-hover-white">Items that Sell</a> 
-    <a href="/whyaaa.shtml" onclick="w3_close()" class="w3-bar-item w3-button w3-hover-white">Why Choose Us?</a> 
+    <a href="/whyaaa.shtml" onclick="w3_close()" class="w3-bar-item w3-button w3-hover-white">Why Choose Us?</a>
+    <a href="/how-to-choose-estate-selling-company.shtml" onclick="w3_close()" class="w3-bar-item w3-button w3-hover-white">How To Choose A Company To Sell Your Estate</a>
     <a href="/testimonials.shtml" onclick="w3_close()" class="w3-bar-item w3-button w3-hover-white">Testimonials</a> 
     <a href="https://server2.maxanet.com/cgi-bin/mnregister.cgi?auctionmn" onclick="w3_close()" class="w3-bar-item w3-button w3-hover-white">Register to Bid</a> 
     <a href="/general-terms-and-conditions.shtml" onclick="w3_close()" class="w3-bar-item w3-button w3-hover-white">General Terms</a> 
