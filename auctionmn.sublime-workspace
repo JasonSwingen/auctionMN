@@ -135,25 +135,25 @@
 			"file": "index.shtml",
 			"settings":
 			{
-				"buffer_size": 94477,
+				"buffer_size": 101882,
 				"encoding": "UTF-8",
 				"line_ending": "Windows"
 			}
 		},
 		{
-			"file": "/C/Users/Jason/Documents/AAA Auction/Templates/AAA_Template_Email_18.8",
+			"file": "/C/Users/Jason/Documents/AAA Auction/Auctions/2018-07-31/2018-07-31_Inventory.txt",
 			"settings":
 			{
-				"buffer_size": 1302,
+				"buffer_size": 40851,
 				"encoding": "UTF-8",
 				"line_ending": "Windows"
 			}
 		},
 		{
-			"file": "/C/Users/Jason/Documents/AAA Auction/Auctions/2018-07-24/2018-07-24_Inventory_V2.txt",
+			"file": "/C/Users/Jason/Documents/AAA Auction/Templates/AAA_Template_Email_18.9",
 			"settings":
 			{
-				"buffer_size": 55599,
+				"buffer_size": 1340,
 				"encoding": "UTF-8",
 				"line_ending": "Windows"
 			}
@@ -173,6 +173,14 @@
 			[
 				"title",
 				"Convert Case: Title Case"
+			],
+			[
+				"high",
+				"Snippet: auction-highlights"
+			],
+			[
+				"upcom",
+				"Snippet: upcoming-auction"
 			],
 			[
 				"package",
@@ -221,10 +229,6 @@
 			[
 				"location",
 				"Snippet: location-old-viking-blvd"
-			],
-			[
-				"high",
-				"Snippet: auction-highlights"
 			],
 			[
 				"up",
@@ -289,10 +293,6 @@
 			[
 				"auction",
 				"Snippet: new-auction"
-			],
-			[
-				"upcom",
-				"Snippet: upcoming-auction"
 			],
 			[
 				"highli",
@@ -674,10 +674,14 @@
 	"expanded_folders":
 	[
 		"/C/Users/Jason/Documents/AAA Auction",
+		"/C/Users/Jason/Documents/AAA Auction/Auctions",
 		"/C/Users/Jason/Documents/AAA Auction/Templates"
 	],
 	"file_history":
 	[
+		"/C/Users/Jason/Documents/AAA Auction/Templates/AAA_Template_Email_18.8",
+		"/C/Users/Jason/Documents/AAA Auction/Templates/scratchpad.html",
+		"/C/Users/Jason/Documents/AAA Auction/Auctions/2018-07-24/2018-07-24_Inventory_V2.txt",
 		"/C/Users/Jason/AppData/Roaming/Sublime Text 3/Packages/User/new-auction.sublime-snippet",
 		"/C/Users/Jason/Documents/AAA Auction/Templates/AAA_Template_Email_18.2",
 		"/C/Users/Jason/Documents/AAA Auction/Templates/AAA_Template_Email_18.7",
@@ -688,7 +692,6 @@
 		"/C/Users/Jason/Documents/AAA Auction/Templates/AAA_Template_Invoices_Wavebid_v28",
 		"/C/Users/Jason/Documents/AAA Auction/Auctions/2018-06-12/2018-06-12_maxanet_results.txt",
 		"/C/Users/Jason/Documents/AAA Auction/Auctions/2018-06-26/2018-06-26_Inventory.txt",
-		"/C/Users/Jason/Documents/AAA Auction/Templates/scratchpad.html",
 		"/C/Users/Jason/Documents/AAA Auction/Auctions/2018-06-12/2018-06-12_maxanet_bidders.txt",
 		"/C/Users/Jason/Documents/AAA Auction/Templates/AAA_Template_Email_18.6",
 		"/C/Users/Jason/Documents/AAA Auction/Templates/AAA_Template_Email_18.5",
@@ -803,9 +806,7 @@
 		"/C/Users/Jason/Documents/AAA Auction/Templates/AAA_Template_Email_14.3",
 		"/C/Users/Jason/Documents/AAA Auction/Auctions_and_Backups/2017-09-26/2017-09-26_maxanet_bidders.txt",
 		"/C/Users/Jason/Documents/AAA Auction/Auctions_and_Backups/2017-09-26/2017-09-26_maxanet_results.txt",
-		"/C/Users/Jason/Documents/AAA Auction/Templates/AAA_Template_Invoices_Wavebid_v21",
-		"/C/Users/Jason/Documents/GitHub/auctionMN/footer.ssi",
-		"/C/Users/Jason/Documents/AAA Auction/Auctions_and_Backups/2017-09-26/2017-09-26_Inventory_v3.txt"
+		"/C/Users/Jason/Documents/AAA Auction/Templates/AAA_Template_Invoices_Wavebid_v21"
 	],
 	"find":
 	{
@@ -825,6 +826,12 @@
 		"case_sensitive": false,
 		"find_history":
 		[
+			"9",
+			"(",
+			"gun",
+			"http://www.auctionmn.com/cgi-bin/mnlist.cgi?auctionmnWORKSPACE/",
+			"www",
+			"jpg",
 			"4",
 			"(",
 			"1",
@@ -946,13 +953,7 @@
 			"jpg",
 			"IMGNUMBER",
 			"IMGFOLDER",
-			"img",
-			" height=\"100\"",
-			"<p>",
-			"4",
-			"(",
-			"jpg",
-			"2017-05-02_Maus_ATVs/2010_Yamaha_Grizzly"
+			"img"
 		],
 		"highlight": true,
 		"in_selection": false,
@@ -981,15 +982,15 @@
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 94477,
+						"buffer_size": 101882,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								4317,
-								4317
+								6677,
+								6677
 							]
 						],
 						"settings":
@@ -1133,6 +1134,71 @@
 							],
 							"SL.13.region_keys":
 							[
+								"SL.jslint.Gutter.|region.redish markup.error.sublime_linter|dot",
+								"SL.jslint.Highlights.|8943a6c6555c0bbd39c12d490c4796636086e86a6fe51fdd380c63cf5b9627a3|region.redish markup.error.sublime_linter|32",
+								"sublime_linter.protected_regions",
+								"SL.jslint.Highlights.|cb11d32329e7a9f3c6ba44ab4b22cef672493130faf52a2eaf9b6e82593ac45f|region.redish markup.error.sublime_linter|32",
+								"SL.jslint.Highlights.|92c617057b81c08d1fd9ce39cbc64f290bf42f6872cfee6fe045c6f6414efb9c|region.redish markup.error.sublime_linter|32",
+								"SL.jslint.Highlights.|70e58f3ec904c14eb7da81a5890dd61712835ac41b126ed2ce2fd072df4d2363|region.redish markup.error.sublime_linter|32",
+								"SL.jslint.Highlights.|076718cb7558c7cc8cdd029df74517ad5a43d31b5cc45b0cc1bbd1b882bb1e67|region.redish markup.error.sublime_linter|32",
+								"SL.jslint.Highlights.|b39bd90763094ebb921bccb8c8f974ddc14b763f8f2ef8f60456515d63a9e01d|region.redish markup.error.sublime_linter|32",
+								"SL.jslint.Highlights.|26a78128bfb1adde5815f7eab692852d6483dbf162828670ddce8989a4c38a99|region.redish markup.error.sublime_linter|32",
+								"SL.jslint.Highlights.|264062a112a41eca1e6b7fcace94ce3896eb4cbf8f24c648443dc1dc981ac367|region.redish markup.error.sublime_linter|32",
+								"SL.jslint.Highlights.|314645b84a7237fa490f8f75132e3ad8ade96e1e7fce6e03c804b9c1050d375c|region.redish markup.error.sublime_linter|32",
+								"SL.jslint.Highlights.|44e9009eb8d3631b0cf614b0777a9f54cafa2681cb5d5e11c34336dd990068ca|region.redish markup.error.sublime_linter|32",
+								"SL.jslint.Highlights.|c548a54cc527537e78eb975183658e7639f74a7cd49d148a7d85331587c20fe9|region.redish markup.error.sublime_linter|32",
+								"SL.jslint.Highlights.|6619ad5b20c1708a354705fba609e9e6c34edc2b3cc9dc7799449d788376ff28|region.redish markup.error.sublime_linter|32",
+								"SL.jslint.Highlights.|a355f17ddacfcac1539381cc7fc2de2f3ff222f32c5ef300fe0e1f0821776b28|region.redish markup.error.sublime_linter|32",
+								"SL.jslint.Highlights.|f305552759cccd3f5f7838f84f05ae271fb13a273989af5ea67c21046f3a6644|region.redish markup.error.sublime_linter|32",
+								"SL.jslint.Highlights.|ed37b5ce024051e3d3ab63c00114e8850747270234dcb080e828710047eed759|region.redish markup.error.sublime_linter|32",
+								"SL.jslint.Highlights.|8049eda3ace0a8a4f33931ce1b276575d36fdac058eec7be8d68a59cdaf0de8b|region.redish markup.error.sublime_linter|32",
+								"SL.jslint.Highlights.|88975483537a04601efd8d0fe3e25750f8f8d035ad15d505406158d5f6697ad7|region.redish markup.error.sublime_linter|32",
+								"SL.jslint.Highlights.|430872011b7457023487f58c528748c4d0f8abee6e40b11b3120bf54d5b8871c|region.redish markup.error.sublime_linter|32",
+								"SL.jslint.Highlights.|b03361fde0db5d18662e3616f42d1bd108cc91b5b08bf0348066858ebab64792|region.redish markup.error.sublime_linter|32",
+								"SL.jslint.Highlights.|c5ca5d814ab5199417f19c73520f703be21dded7324e41e072f49cbf7b8f2576|region.redish markup.error.sublime_linter|32",
+								"SL.jslint.Highlights.|29e257e756ad0d0e63649c16c4376631a4d4089acd4b51d3d2e70598fdc06835|region.redish markup.error.sublime_linter|32",
+								"SL.jslint.Highlights.|a9637c174ba6dba0439718abe738b6eceabc98a94630eede3a0016feae9f4dfd|region.redish markup.error.sublime_linter|32",
+								"SL.jslint.Highlights.|2933ca7538316e1b362ab4d510105d6b7a3945092a47fbdc55b95f2159029d21|region.redish markup.error.sublime_linter|32",
+								"SL.jslint.Highlights.|0064731c75597e202bdcad8728f311ec6149e16986df9f92b7ea7a6b9dfded86|region.redish markup.error.sublime_linter|32",
+								"SL.jslint.Highlights.|16d0000f14c9bedbf186bb255fc22c8e177581344a4fd028b45be0a4edd20284|region.redish markup.error.sublime_linter|32",
+								"SL.jslint.Highlights.|fa65ca313f5a375ca4423aafda2aaeebab78a0be73fe32a13a41a2595ec9898c|region.redish markup.error.sublime_linter|32",
+								"SL.jslint.Highlights.|0b0cf81000b056052c8281a4a99a4261c7716ee38a0ccf0b706199d316e12c58|region.redish markup.error.sublime_linter|32",
+								"SL.jslint.Highlights.|3946033a63b75cb67cee6f560f924dac514fb7ada0941e666658362b09d671da|region.redish markup.error.sublime_linter|32",
+								"SL.jslint.Highlights.|ee380b4f075387e9dc4eead65b30e02557ffa6fcf3f9617906b58dc48d65a996|region.redish markup.error.sublime_linter|32",
+								"SL.jslint.Highlights.|f8cb7c3f3da6c5015ae45fa5b0ce7f30cd6654bfbe3d46ab4daee0e039d531ad|region.redish markup.error.sublime_linter|32",
+								"SL.jslint.Highlights.|ee50056660232e325702530de868ef18b7303560b6161404496862fee43a7689|region.redish markup.error.sublime_linter|32",
+								"SL.jslint.Highlights.|fe69248cbe33cb2c1710d14457194e983da91b141ed0327b642e79b56e396894|region.redish markup.error.sublime_linter|32",
+								"SL.jslint.Highlights.|1f8bbbf287d88b3f5dde4686550ff2bea799c96ff1e5b1a7fb80f6b1fab8081b|region.redish markup.error.sublime_linter|32",
+								"SL.jslint.Highlights.|a747b6488a8fd7ab1e5c89f96cb348606c82292899bde865cc201128f145439d|region.redish markup.error.sublime_linter|32",
+								"SL.jslint.Highlights.|cb50a41b8d8213503ce36050b28ed38939c887e5da7005454ede872c9bb21072|region.redish markup.error.sublime_linter|32",
+								"SL.jslint.Highlights.|a83cc92597ed302f75d5d68afbc62cc7abb336b947b7500d47ca46c912e6cce1|region.redish markup.error.sublime_linter|32",
+								"SL.jslint.Highlights.|0b743bb5f01608afea81f4e77a5a4b93001e70a12112eacaadbb8484078566e8|region.redish markup.error.sublime_linter|32",
+								"SL.jslint.Highlights.|8ce16c86dfc298f6f97de7cf5439ff3104085ad15e20a5ec8cff21855677030c|region.redish markup.error.sublime_linter|32",
+								"SL.jslint.Highlights.|a7c5ad59307aee8de62b85562e300916b6b5ee4b8201af099ba12823a3eaddd4|region.redish markup.error.sublime_linter|32",
+								"SL.jslint.Highlights.|86286dcaa9523862b6d93579d24e9d35b34742bf83ce9547b526f2f846b35577|region.redish markup.error.sublime_linter|32",
+								"SL.jslint.Highlights.|fe68327b0df46bc7865a0555367253dfe7c7a411733d82d00c0708a6c8465a54|region.redish markup.error.sublime_linter|32",
+								"SL.jslint.Highlights.|8dff6c0c74776d38abb2d6061124384188c4742d5ba1b6b0f19d6f4f8d466d5a|region.redish markup.error.sublime_linter|32",
+								"SL.jslint.Highlights.|550f234127935f3e5327c6f72f9e769c622a57e4e45c40e61997c1a7dd61765b|region.redish markup.error.sublime_linter|32",
+								"SL.jslint.Highlights.|64460c1743d6fea45e7187f3bbfe4c219e241470ab1eda88e1a8b4187cd9ba0e|region.redish markup.error.sublime_linter|32",
+								"SL.jslint.Highlights.|20e26bdb6326196885134238e18e5a5f7ee2d4e91756087960aaa421b1842bad|region.redish markup.error.sublime_linter|32",
+								"SL.jslint.Highlights.|9e9319b0a93f2e52508548945d3d650539d5fd6b4a578f87d5a4aafe1c8a59fb|region.redish markup.error.sublime_linter|32",
+								"SL.jslint.Highlights.|203597a56435003663ef97378128ebfc4b6b8cb868cd0666eb249430e8c9f1b0|region.redish markup.error.sublime_linter|32",
+								"SL.jslint.Highlights.|f339480d620676a0a41e4ff2d8ff3c05f31fbc6b621fda823da54b124dcff88e|region.redish markup.error.sublime_linter|32",
+								"SL.jslint.Highlights.|5fe94c279df01509e132df9ea141a25e3c3bf8454be4648e4a738b22b5b43a1d|region.redish markup.error.sublime_linter|32",
+								"SL.jslint.Highlights.|895951979f9c551ecf1ee46515d6304ffb956b45c036700d41fb85a5a0a0cda8|region.redish markup.error.sublime_linter|32",
+								"SL.jslint.Highlights.|365b77e5f579f945b20cfac31e77232f24bfa35d485935d69565b2d7c3970acc|region.redish markup.error.sublime_linter|32",
+								"SL.jslint.Highlights.|6c82241765fb8cca9c617f5d786074f269281f92aad9b07a2a2142305b7b8f9b|region.redish markup.error.sublime_linter|32",
+								"SL.jslint.Highlights.|3c3d3355d31a61809111d9dbadd7e39c62c5082431dba52d8b94872ad74d24b9|region.redish markup.error.sublime_linter|32",
+								"SL.jslint.Highlights.|c8961ec4ee5dafdf6570ddc185b7db754bb9675e27337951bfe3b49f05666017|region.redish markup.error.sublime_linter|32",
+								"SL.jslint.Highlights.|5455de08e6c1e3414c9796f5821c155979470b6a3ac7ac2b0fddde4284f008ca|region.redish markup.error.sublime_linter|32",
+								"SL.jslint.Highlights.|88b251203f93627d8b9a2681778b9f15356cd5d8bf0ec1a263830ef25e67b0f3|region.redish markup.error.sublime_linter|32",
+								"SL.jslint.Highlights.|4fcaa41db4ca0f37775cd4d480307253d894e2c5a9e619aba87d7568cb6001e5|region.redish markup.error.sublime_linter|32",
+								"SL.jslint.Highlights.|d9dff91a30798c9cb718f2a6049eb6a035a1563baa04a110cf27187f3da70761|region.redish markup.error.sublime_linter|32",
+								"SL.jslint.Highlights.|10e37914962fc23cd43d5683263a0e827f1304959b8f80f3c9f4cb4d734e70c1|region.redish markup.error.sublime_linter|32",
+								"SL.jslint.Highlights.|1e804df2da4cb0dd681b3e94d40097016590a24d810bae5f24032965519fa2e3|region.redish markup.error.sublime_linter|32",
+								"SL.jslint.Highlights.|30142d1237be033a248c0b303cc61f7541958203abda694c7a6f2c528e0f3569|region.redish markup.error.sublime_linter|32",
+								"SL.jslint.Highlights.|f2de5720136eaa6e92e4f28bad5f696d3375de7113e8e8e09fa040649e88f6fe|region.redish markup.error.sublime_linter|32",
+								"SL.jslint.Highlights.|ba1ee88a8a9a6af9ec7172c307560740842d5c923382f2634579f0a0da987169|region.redish markup.error.sublime_linter|32"
 							],
 							"SL.14.region_keys":
 							[
@@ -1341,71 +1407,71 @@
 							],
 							"SL.29.region_keys":
 							[
-								"SL.jslint.Highlights.|a355f17ddacfcac1539381cc7fc2de2f3ff222f32c5ef300fe0e1f0821776b28|region.redish markup.error.sublime_linter|32",
 								"SL.jslint.Highlights.|16d0000f14c9bedbf186bb255fc22c8e177581344a4fd028b45be0a4edd20284|region.redish markup.error.sublime_linter|32",
-								"SL.jslint.Highlights.|8dff6c0c74776d38abb2d6061124384188c4742d5ba1b6b0f19d6f4f8d466d5a|region.redish markup.error.sublime_linter|32",
-								"SL.jslint.Highlights.|5fcc5483e1794943e435f0ffd7139daadaa2174b813132d8077849f60dd2e981|region.redish markup.error.sublime_linter|32",
-								"SL.jslint.Highlights.|51181ab2b5847131f77fa8843143cd34e5a1acbb25629d00f348cb2b1a8d076d|region.redish markup.error.sublime_linter|32",
-								"SL.jslint.Highlights.|fd3eb5c17ac7d1ac5f79ac600b5c6f524f87e63e5fc947577825b0534ede5b69|region.redish markup.error.sublime_linter|32",
-								"sublime_linter.protected_regions",
-								"SL.jslint.Highlights.|ee380b4f075387e9dc4eead65b30e02557ffa6fcf3f9617906b58dc48d65a996|region.redish markup.error.sublime_linter|32",
-								"SL.jslint.Highlights.|98db063411acbaba4e3a9dddf2b099427e789746545bb5decf3d1b713c04b290|region.redish markup.error.sublime_linter|32",
-								"SL.jslint.Highlights.|35620a56c3d5eaea2714b3861677d2f71343ceb24bbeef309b636d131d66653d|region.redish markup.error.sublime_linter|32",
-								"SL.jslint.Highlights.|cb50a41b8d8213503ce36050b28ed38939c887e5da7005454ede872c9bb21072|region.redish markup.error.sublime_linter|32",
-								"SL.jslint.Highlights.|f14314f4c4f59694f781ee43c313935a483e0433c75c02c5db1b6df2adc02f42|region.redish markup.error.sublime_linter|32",
-								"SL.jslint.Highlights.|6d425c5b7ab2766ee35ceb5692d17a013d77f99c527a8fe1287f978ad7659358|region.redish markup.error.sublime_linter|32",
-								"SL.jslint.Highlights.|365b77e5f579f945b20cfac31e77232f24bfa35d485935d69565b2d7c3970acc|region.redish markup.error.sublime_linter|32",
-								"SL.jslint.Highlights.|59091ea5d4007dd158fffa6a1b5ff4833b776ddf6032177968e4b7d5d6a4ab41|region.redish markup.error.sublime_linter|32",
-								"SL.jslint.Highlights.|dba617e6f80862eb26335d08d4093966f19c37be3a211c99d51787a866262ace|region.redish markup.error.sublime_linter|32",
-								"SL.jslint.Highlights.|24f1c263bda2f997e37dc28b679219bbd24cbd41f7034b835575222e7e67f321|region.redish markup.error.sublime_linter|32",
-								"SL.jslint.Highlights.|f2de5720136eaa6e92e4f28bad5f696d3375de7113e8e8e09fa040649e88f6fe|region.redish markup.error.sublime_linter|32",
-								"SL.jslint.Highlights.|612634305a1460cddef9b16b4467cb12d77eff52eca61f75b5151a2c850a5a58|region.redish markup.error.sublime_linter|32",
-								"SL.jslint.Highlights.|62df1e21572e270ee7810574d3ade3f85aa8e9c224e91d65792f0cfbe6c717d0|region.redish markup.error.sublime_linter|32",
-								"SL.jslint.Highlights.|c778a9b8e964842c721380e61c1c8ebf1a27bc328824f31bf64387d7f6b992f4|region.redish markup.error.sublime_linter|32",
-								"SL.jslint.Highlights.|89581dec978bbf9c0d24ae7acddac9748ce6fe8648a3fbf1a1320ab9a63ec4cd|region.redish markup.error.sublime_linter|32",
-								"SL.jslint.Gutter.|region.redish markup.error.sublime_linter|dot",
-								"SL.jslint.Highlights.|8049eda3ace0a8a4f33931ce1b276575d36fdac058eec7be8d68a59cdaf0de8b|region.redish markup.error.sublime_linter|32",
-								"SL.jslint.Highlights.|1545b0a0ec2a2da7cf1c8b3c3f43a480a4241fb6fa88d58927fa7d56483ae865|region.redish markup.error.sublime_linter|32",
-								"SL.jslint.Highlights.|9e9319b0a93f2e52508548945d3d650539d5fd6b4a578f87d5a4aafe1c8a59fb|region.redish markup.error.sublime_linter|32",
-								"SL.jslint.Highlights.|928328ec92e3efe44475276f8eaf8c1879fb3c5893ee479e7e8c0f5b2dce1502|region.redish markup.error.sublime_linter|32",
-								"SL.jslint.Highlights.|86286dcaa9523862b6d93579d24e9d35b34742bf83ce9547b526f2f846b35577|region.redish markup.error.sublime_linter|32",
-								"SL.jslint.Highlights.|92c617057b81c08d1fd9ce39cbc64f290bf42f6872cfee6fe045c6f6414efb9c|region.redish markup.error.sublime_linter|32",
-								"SL.jslint.Highlights.|fb47ff199d8bd3193c466c327c512f86adaa3153dda0a525bd081f3a1b8db479|region.redish markup.error.sublime_linter|32",
-								"SL.jslint.Highlights.|beed25e3a083354aebe8142ca950ecca7428c7e033b3894092a581069997bbb7|region.redish markup.error.sublime_linter|32",
-								"SL.jslint.Highlights.|ba1ee88a8a9a6af9ec7172c307560740842d5c923382f2634579f0a0da987169|region.redish markup.error.sublime_linter|32",
-								"SL.jslint.Highlights.|e5ca5c8e6fcfaaab0f64244ea4c00265b692a6eb4e087c1d77f6bb3cc585bdd6|region.redish markup.error.sublime_linter|32",
-								"SL.jslint.Highlights.|cb908a9eac64d3f5a24f923f40a297647cf23b2f822806228442723ed2dae0a6|region.redish markup.error.sublime_linter|32",
-								"SL.jslint.Highlights.|c1176a06c7f900db48baf7ae249954115edb74cf79fef7f982187f3b3311ea53|region.redish markup.error.sublime_linter|32",
-								"SL.jslint.Highlights.|b8606b2785324dc89445628c676fbee67e10b6c515311eb7b04c05f912cca281|region.redish markup.error.sublime_linter|32",
-								"SL.jslint.Highlights.|2663ba100e18c907e024e8392c1ef2956c44093ff6abd62938e5e2d650a042d1|region.redish markup.error.sublime_linter|32",
-								"SL.jslint.Highlights.|64460c1743d6fea45e7187f3bbfe4c219e241470ab1eda88e1a8b4187cd9ba0e|region.redish markup.error.sublime_linter|32",
-								"SL.jslint.Highlights.|f339480d620676a0a41e4ff2d8ff3c05f31fbc6b621fda823da54b124dcff88e|region.redish markup.error.sublime_linter|32",
-								"SL.jslint.Highlights.|cb11d32329e7a9f3c6ba44ab4b22cef672493130faf52a2eaf9b6e82593ac45f|region.redish markup.error.sublime_linter|32",
-								"SL.jslint.Highlights.|0b0cf81000b056052c8281a4a99a4261c7716ee38a0ccf0b706199d316e12c58|region.redish markup.error.sublime_linter|32",
-								"SL.jslint.Highlights.|377b8bdbddad60511b8a7ed210ebb0a4d671163d290c87419376b162ce8e762f|region.redish markup.error.sublime_linter|32",
-								"SL.jslint.Highlights.|e3fc32c4074eb2812283dae92b73395c9ddb8a76a239aeca00e43707d7888429|region.redish markup.error.sublime_linter|32",
-								"SL.jslint.Highlights.|f32a86744db25b126a0f03da07039ac1ffbf4530a55bef182fc56de3beb84bff|region.redish markup.error.sublime_linter|32",
-								"SL.jslint.Highlights.|076718cb7558c7cc8cdd029df74517ad5a43d31b5cc45b0cc1bbd1b882bb1e67|region.redish markup.error.sublime_linter|32",
-								"SL.jslint.Highlights.|5fe94c279df01509e132df9ea141a25e3c3bf8454be4648e4a738b22b5b43a1d|region.redish markup.error.sublime_linter|32",
-								"SL.jslint.Highlights.|e1aae67152722bb389c13446e3f4d06d8a5168a53353ed3960bbbe62a95db157|region.redish markup.error.sublime_linter|32",
-								"SL.jslint.Highlights.|2933ca7538316e1b362ab4d510105d6b7a3945092a47fbdc55b95f2159029d21|region.redish markup.error.sublime_linter|32",
-								"SL.jslint.Highlights.|c5ca5d814ab5199417f19c73520f703be21dded7324e41e072f49cbf7b8f2576|region.redish markup.error.sublime_linter|32",
-								"SL.jslint.Highlights.|9536198dc05bfb17d142f738e7fc21a72c3df1089a8569401948d7ad57a6cd7b|region.redish markup.error.sublime_linter|32",
-								"SL.jslint.Highlights.|1f8bbbf287d88b3f5dde4686550ff2bea799c96ff1e5b1a7fb80f6b1fab8081b|region.redish markup.error.sublime_linter|32",
+								"SL.jslint.Highlights.|3fcbfeed4738096461c66585a4901f662692d2e47ef547d3912069a2bb99b2dc|region.redish markup.error.sublime_linter|32",
+								"SL.jslint.Highlights.|c6d5d6a50ab6f374ab01089652cecbb236310084d7583deb52ba95ec0df429fd|region.redish markup.error.sublime_linter|32",
+								"SL.jslint.Highlights.|7f427a1aea60774c1064458f1fe5ab328e228110eb3bb3da7c2ef3c884bbcf13|region.redish markup.error.sublime_linter|32",
+								"SL.jslint.Highlights.|a355f17ddacfcac1539381cc7fc2de2f3ff222f32c5ef300fe0e1f0821776b28|region.redish markup.error.sublime_linter|32",
+								"SL.jslint.Highlights.|54b350b00eeff8f2ead02892c514ef098a35fd9a8bf641599f7b803201c3d3a2|region.redish markup.error.sublime_linter|32",
 								"SL.jslint.Highlights.|3946033a63b75cb67cee6f560f924dac514fb7ada0941e666658362b09d671da|region.redish markup.error.sublime_linter|32",
+								"SL.jslint.Highlights.|9e9319b0a93f2e52508548945d3d650539d5fd6b4a578f87d5a4aafe1c8a59fb|region.redish markup.error.sublime_linter|32",
+								"SL.jslint.Highlights.|8d9bd536a386e99a27a99464dae66ca2df0edf785b8ebd9bacb120c72110c2cd|region.redish markup.error.sublime_linter|32",
+								"SL.jslint.Highlights.|0b0cf81000b056052c8281a4a99a4261c7716ee38a0ccf0b706199d316e12c58|region.redish markup.error.sublime_linter|32",
+								"SL.jslint.Highlights.|91f57b727afa95c7cee5dd60aecad7eaf2ca49418a8a077eef8b19be1fa5274c|region.redish markup.error.sublime_linter|32",
+								"SL.jslint.Highlights.|47a5b57197ba883d6441fa6c9ff8c5d6df681f8e4795f738f97c4c7dcc567682|region.redish markup.error.sublime_linter|32",
+								"SL.jslint.Highlights.|86286dcaa9523862b6d93579d24e9d35b34742bf83ce9547b526f2f846b35577|region.redish markup.error.sublime_linter|32",
+								"SL.jslint.Highlights.|19a282b0cf2ab8ec4482eadb1608d6b5730d7ddbcbb0f034d469ea720453ac8f|region.redish markup.error.sublime_linter|32",
+								"SL.jslint.Highlights.|7ef3d0e6fc2077c8b48c56a3b5761e32ac2c3f3aa40deb78dccde6a5c2c6ab87|region.redish markup.error.sublime_linter|32",
 								"SL.jslint.Highlights.|f8cb7c3f3da6c5015ae45fa5b0ce7f30cd6654bfbe3d46ab4daee0e039d531ad|region.redish markup.error.sublime_linter|32",
+								"SL.jslint.Highlights.|9117f7dc84cd534215b7423cb10c6ab745a6bc895fefb3b12d4e8eb29aa3fbd4|region.redish markup.error.sublime_linter|32",
 								"SL.jslint.Highlights.|c548a54cc527537e78eb975183658e7639f74a7cd49d148a7d85331587c20fe9|region.redish markup.error.sublime_linter|32",
-								"SL.jslint.Highlights.|aa7c399fff53fa5f90e2715a2199538f470502aa04e62b4c4e6ead6aa8b82b5f|region.redish markup.error.sublime_linter|32",
-								"SL.jslint.Highlights.|5e4b5152718243d72536d7e4e2e14f2e7691b860d9c8f364deef3d35c3bd5c28|region.redish markup.error.sublime_linter|32",
-								"SL.jslint.Highlights.|1e804df2da4cb0dd681b3e94d40097016590a24d810bae5f24032965519fa2e3|region.redish markup.error.sublime_linter|32",
-								"SL.jslint.Highlights.|4ca46e8459ae06e6973d412b092198692b501346e293d8157485b3db2727c1be|region.redish markup.error.sublime_linter|32",
-								"SL.jslint.Highlights.|338baa5d8092576c10a1ecac07995a194a1eba9f16ba8b65aad7065ffc32fd34|region.redish markup.error.sublime_linter|32",
-								"SL.jslint.Highlights.|3eb273e26eb12806960973bd80ec323334ada7d6d0e147b510ca37190645a3c6|region.redish markup.error.sublime_linter|32",
-								"SL.jslint.Highlights.|e7fc89c9f9dd7d5f2e06a27a38a9ada7962cf5ae9a69d7882e69cbe04257f997|region.redish markup.error.sublime_linter|32",
-								"SL.jslint.Highlights.|9d065f4eda33776318fb27d866f20c7043bd3e85728b9f11f24fa6a47231350e|region.redish markup.error.sublime_linter|32",
-								"SL.jslint.Highlights.|203597a56435003663ef97378128ebfc4b6b8cb868cd0666eb249430e8c9f1b0|region.redish markup.error.sublime_linter|32",
+								"SL.jslint.Highlights.|279cdc1b38a51a4d9c8f94085ed152135bb30ccf4853f9c259406f0df454525b|region.redish markup.error.sublime_linter|32",
+								"SL.jslint.Highlights.|802451941740836b7cd829003ace7d1c5814b41f1c716ed2c8ac2d16dee77a84|region.redish markup.error.sublime_linter|32",
+								"SL.jslint.Highlights.|319e2f6ee60a5fdbd1ba8d01c1fcbceafc24439f15edd1a63dee9733687eb53d|region.redish markup.error.sublime_linter|32",
+								"SL.jslint.Highlights.|1bca3258753100de565b76d35a25ad98af1acdf3b6ed0ec6b8647c148545b43b|region.redish markup.error.sublime_linter|32",
+								"SL.jslint.Highlights.|cb50a41b8d8213503ce36050b28ed38939c887e5da7005454ede872c9bb21072|region.redish markup.error.sublime_linter|32",
+								"SL.jslint.Highlights.|65401cb1f9df6e025f9fd9bfd687d02c61f1393d1a986bd975999ca4436eb077|region.redish markup.error.sublime_linter|32",
+								"SL.jslint.Highlights.|9e386b2da1b5faba42ff4e2f11e0fb70076c72c9644c1ee4d47ef3e446eddaed|region.redish markup.error.sublime_linter|32",
+								"SL.jslint.Highlights.|ee380b4f075387e9dc4eead65b30e02557ffa6fcf3f9617906b58dc48d65a996|region.redish markup.error.sublime_linter|32",
+								"SL.jslint.Highlights.|d5bed5e510bfd1dffe0d909f2f0286955e363059fa3a20d3c305b3eb2aec31d3|region.redish markup.error.sublime_linter|32",
+								"SL.jslint.Highlights.|d745a5974375d9708c6002905097f2d2da2114588c80a7901fc97aedcacb5c03|region.redish markup.error.sublime_linter|32",
+								"SL.jslint.Highlights.|8049eda3ace0a8a4f33931ce1b276575d36fdac058eec7be8d68a59cdaf0de8b|region.redish markup.error.sublime_linter|32",
+								"SL.jslint.Highlights.|5fe94c279df01509e132df9ea141a25e3c3bf8454be4648e4a738b22b5b43a1d|region.redish markup.error.sublime_linter|32",
+								"SL.jslint.Highlights.|cb11d32329e7a9f3c6ba44ab4b22cef672493130faf52a2eaf9b6e82593ac45f|region.redish markup.error.sublime_linter|32",
+								"SL.jslint.Highlights.|9ecaa31cb66a7471bf59d931fb4377515974697935a86655e3870dc76fa974b5|region.redish markup.error.sublime_linter|32",
+								"SL.jslint.Highlights.|f503d00fa2a3d3856223c8418701aa9fe91de58c25ca9141a81d3f6a3bf4ee0b|region.redish markup.error.sublime_linter|32",
+								"SL.jslint.Highlights.|381e1e48f9766c0db5ab7141113b97d282314c8d068b7bae4c1f74162375c841|region.redish markup.error.sublime_linter|32",
+								"SL.jslint.Gutter.|region.redish markup.error.sublime_linter|dot",
+								"SL.jslint.Highlights.|049ebd226fe732216a393b9f0bb62b87509deeb13695fa8f038007ad1b3a6fed|region.redish markup.error.sublime_linter|32",
+								"SL.jslint.Highlights.|01430e711cdce47e664479a68d7fe9851aa8808e3472919a3aede4587ae463f9|region.redish markup.error.sublime_linter|32",
+								"SL.jslint.Highlights.|f2de5720136eaa6e92e4f28bad5f696d3375de7113e8e8e09fa040649e88f6fe|region.redish markup.error.sublime_linter|32",
+								"SL.jslint.Highlights.|f339480d620676a0a41e4ff2d8ff3c05f31fbc6b621fda823da54b124dcff88e|region.redish markup.error.sublime_linter|32",
+								"SL.jslint.Highlights.|ba1ee88a8a9a6af9ec7172c307560740842d5c923382f2634579f0a0da987169|region.redish markup.error.sublime_linter|32",
+								"SL.jslint.Highlights.|92c617057b81c08d1fd9ce39cbc64f290bf42f6872cfee6fe045c6f6414efb9c|region.redish markup.error.sublime_linter|32",
 								"SL.jslint.Highlights.|4fcaa41db4ca0f37775cd4d480307253d894e2c5a9e619aba87d7568cb6001e5|region.redish markup.error.sublime_linter|32",
-								"SL.jslint.Highlights.|8f256cffa2229d385ae900fbb09d28253ba8bea3356458eaca22e0006d2a3d3f|region.redish markup.error.sublime_linter|32"
+								"SL.jslint.Highlights.|6d9ce8b384a0d60c564f2b5da2015808842b2ff994d70ad0e296990dce0b08a2|region.redish markup.error.sublime_linter|32",
+								"SL.jslint.Highlights.|64460c1743d6fea45e7187f3bbfe4c219e241470ab1eda88e1a8b4187cd9ba0e|region.redish markup.error.sublime_linter|32",
+								"SL.jslint.Highlights.|ba9df51dce3abc8a21940d6f9ec8fb265be4315fca9166623ef4fcebf0972efe|region.redish markup.error.sublime_linter|32",
+								"SL.jslint.Highlights.|2f74b32d6c37fd56291071dda6480fd76b6f48f97f15633d32dd6b6813819adc|region.redish markup.error.sublime_linter|32",
+								"SL.jslint.Highlights.|076718cb7558c7cc8cdd029df74517ad5a43d31b5cc45b0cc1bbd1b882bb1e67|region.redish markup.error.sublime_linter|32",
+								"SL.jslint.Highlights.|c5ca5d814ab5199417f19c73520f703be21dded7324e41e072f49cbf7b8f2576|region.redish markup.error.sublime_linter|32",
+								"SL.jslint.Highlights.|8dff6c0c74776d38abb2d6061124384188c4742d5ba1b6b0f19d6f4f8d466d5a|region.redish markup.error.sublime_linter|32",
+								"SL.jslint.Highlights.|5a1c300fcfee0edbedac6003a3a23076a48e8b19c7f31a46aae652709ba694d0|region.redish markup.error.sublime_linter|32",
+								"SL.jslint.Highlights.|ef65f86215556b074daa946d0c56f6577eacb8481be308de47987ed477c0fbec|region.redish markup.error.sublime_linter|32",
+								"SL.jslint.Highlights.|365b77e5f579f945b20cfac31e77232f24bfa35d485935d69565b2d7c3970acc|region.redish markup.error.sublime_linter|32",
+								"SL.jslint.Highlights.|1e804df2da4cb0dd681b3e94d40097016590a24d810bae5f24032965519fa2e3|region.redish markup.error.sublime_linter|32",
+								"SL.jslint.Highlights.|ea6af4a2d6d7c0d74104b80289196ab36d7e4935fe12fb4b339f60bbd3fe07c6|region.redish markup.error.sublime_linter|32",
+								"SL.jslint.Highlights.|2933ca7538316e1b362ab4d510105d6b7a3945092a47fbdc55b95f2159029d21|region.redish markup.error.sublime_linter|32",
+								"SL.jslint.Highlights.|203597a56435003663ef97378128ebfc4b6b8cb868cd0666eb249430e8c9f1b0|region.redish markup.error.sublime_linter|32",
+								"SL.jslint.Highlights.|c593f64fff628fdd70f7c9fc144d9e737e1de1b48dbf5f95842488c25df60bf0|region.redish markup.error.sublime_linter|32",
+								"SL.jslint.Highlights.|f25725ad898f65807b38b70cd5d1998e950de20b959491065c1d0db46477f623|region.redish markup.error.sublime_linter|32",
+								"sublime_linter.protected_regions",
+								"SL.jslint.Highlights.|0f070b7c6c6e37ff8f2994f16f4b25bc873c2a324f0e9dae9fa962fd82716b99|region.redish markup.error.sublime_linter|32",
+								"SL.jslint.Highlights.|70789b0084f46fe99e4bf0f260f7650061b3a4afff22e523cbb982b0ee68d826|region.redish markup.error.sublime_linter|32",
+								"SL.jslint.Highlights.|362ba1a2df5dd549a3981ca53ae86063e99021ee89ac95a674955a6f7d45ed2f|region.redish markup.error.sublime_linter|32",
+								"SL.jslint.Highlights.|1f3a82bc55b9d97cbd7f380eab06f1b4f4b17c2179c18f6c55e8295c7ddadf65|region.redish markup.error.sublime_linter|32",
+								"SL.jslint.Highlights.|1f8bbbf287d88b3f5dde4686550ff2bea799c96ff1e5b1a7fb80f6b1fab8081b|region.redish markup.error.sublime_linter|32",
+								"SL.jslint.Highlights.|215940fd4e14e3deb938009b6f31bb89c8aa515c3cb99d8cffe3762e033e1967|region.redish markup.error.sublime_linter|32"
 							],
 							"SL.31.region_keys":
 							[
@@ -1842,27 +1908,12 @@
 							{
 								"close":
 								{
-									"1":
-									[
-										4366,
-										4367
-									]
 								},
 								"icon":
 								{
-									"1":
-									[
-										"Packages/BracketHighlighter/icons/double_quote.png",
-										"region.greenish"
-									]
 								},
 								"open":
 								{
-									"1":
-									[
-										4306,
-										4307
-									]
 								},
 								"unmatched":
 								{
@@ -1870,11 +1921,6 @@
 							},
 							"bracket_highlighter.clone_regions":
 							[
-								"bh_square",
-								"bh_square_center",
-								"bh_square_open",
-								"bh_square_close",
-								"bh_square_content",
 								"bh_angle",
 								"bh_angle_center",
 								"bh_angle_open",
@@ -1885,41 +1931,46 @@
 								"bh_c_define_open",
 								"bh_c_define_close",
 								"bh_c_define_content",
-								"bh_default",
-								"bh_default_center",
-								"bh_default_open",
-								"bh_default_close",
-								"bh_default_content",
-								"bh_single_quote",
-								"bh_single_quote_center",
-								"bh_single_quote_open",
-								"bh_single_quote_close",
-								"bh_single_quote_content",
 								"bh_unmatched",
 								"bh_unmatched_center",
 								"bh_unmatched_open",
 								"bh_unmatched_close",
 								"bh_unmatched_content",
-								"bh_double_quote",
-								"bh_double_quote_center",
-								"bh_double_quote_open",
-								"bh_double_quote_close",
-								"bh_double_quote_content",
-								"bh_tag",
-								"bh_tag_center",
-								"bh_tag_open",
-								"bh_tag_close",
-								"bh_tag_content",
-								"bh_round",
-								"bh_round_center",
-								"bh_round_open",
-								"bh_round_close",
-								"bh_round_content",
 								"bh_regex",
 								"bh_regex_center",
 								"bh_regex_open",
 								"bh_regex_close",
 								"bh_regex_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
 								"bh_curly",
 								"bh_curly_center",
 								"bh_curly_open",
@@ -1930,27 +1981,12 @@
 							{
 								"close":
 								{
-									"1":
-									[
-										4366,
-										4367
-									]
 								},
 								"icon":
 								{
-									"1":
-									[
-										"Packages/BracketHighlighter/icons/double_quote.png",
-										"region.greenish"
-									]
 								},
 								"open":
 								{
-									"1":
-									[
-										4306,
-										4307
-									]
 								},
 								"unmatched":
 								{
@@ -1958,11 +1994,6 @@
 							},
 							"bracket_highlighter.regions":
 							[
-								"bh_square",
-								"bh_square_center",
-								"bh_square_open",
-								"bh_square_close",
-								"bh_square_content",
 								"bh_angle",
 								"bh_angle_center",
 								"bh_angle_open",
@@ -1973,41 +2004,46 @@
 								"bh_c_define_open",
 								"bh_c_define_close",
 								"bh_c_define_content",
-								"bh_default",
-								"bh_default_center",
-								"bh_default_open",
-								"bh_default_close",
-								"bh_default_content",
-								"bh_single_quote",
-								"bh_single_quote_center",
-								"bh_single_quote_open",
-								"bh_single_quote_close",
-								"bh_single_quote_content",
 								"bh_unmatched",
 								"bh_unmatched_center",
 								"bh_unmatched_open",
 								"bh_unmatched_close",
 								"bh_unmatched_content",
-								"bh_double_quote",
-								"bh_double_quote_center",
-								"bh_double_quote_open",
-								"bh_double_quote_close",
-								"bh_double_quote_content",
-								"bh_tag",
-								"bh_tag_center",
-								"bh_tag_open",
-								"bh_tag_close",
-								"bh_tag_content",
-								"bh_round",
-								"bh_round_center",
-								"bh_round_open",
-								"bh_round_close",
-								"bh_round_content",
 								"bh_regex",
 								"bh_regex_center",
 								"bh_regex_open",
 								"bh_regex_close",
 								"bh_regex_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
 								"bh_curly",
 								"bh_curly_center",
 								"bh_curly_open",
@@ -2024,212 +2060,33 @@
 							"translate_tabs_to_spaces": false
 						},
 						"translation.x": 0.0,
-						"translation.y": 2098.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 1,
-					"type": "text"
-				},
-				{
-					"buffer": 1,
-					"file": "/C/Users/Jason/Documents/AAA Auction/Templates/AAA_Template_Email_18.8",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 1302,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								65,
-								1302
-							]
-						],
-						"settings":
-						{
-							"bracket_highlighter.busy": false,
-							"bracket_highlighter.clone": -1,
-							"bracket_highlighter.clone_locations":
-							{
-								"close":
-								{
-								},
-								"icon":
-								{
-								},
-								"open":
-								{
-								},
-								"unmatched":
-								{
-								}
-							},
-							"bracket_highlighter.clone_regions":
-							[
-								"bh_square",
-								"bh_square_center",
-								"bh_square_open",
-								"bh_square_close",
-								"bh_square_content",
-								"bh_angle",
-								"bh_angle_center",
-								"bh_angle_open",
-								"bh_angle_close",
-								"bh_angle_content",
-								"bh_c_define",
-								"bh_c_define_center",
-								"bh_c_define_open",
-								"bh_c_define_close",
-								"bh_c_define_content",
-								"bh_default",
-								"bh_default_center",
-								"bh_default_open",
-								"bh_default_close",
-								"bh_default_content",
-								"bh_single_quote",
-								"bh_single_quote_center",
-								"bh_single_quote_open",
-								"bh_single_quote_close",
-								"bh_single_quote_content",
-								"bh_unmatched",
-								"bh_unmatched_center",
-								"bh_unmatched_open",
-								"bh_unmatched_close",
-								"bh_unmatched_content",
-								"bh_double_quote",
-								"bh_double_quote_center",
-								"bh_double_quote_open",
-								"bh_double_quote_close",
-								"bh_double_quote_content",
-								"bh_tag",
-								"bh_tag_center",
-								"bh_tag_open",
-								"bh_tag_close",
-								"bh_tag_content",
-								"bh_round",
-								"bh_round_center",
-								"bh_round_open",
-								"bh_round_close",
-								"bh_round_content",
-								"bh_regex",
-								"bh_regex_center",
-								"bh_regex_open",
-								"bh_regex_close",
-								"bh_regex_content",
-								"bh_curly",
-								"bh_curly_center",
-								"bh_curly_open",
-								"bh_curly_close",
-								"bh_curly_content"
-							],
-							"bracket_highlighter.locations":
-							{
-								"close":
-								{
-								},
-								"icon":
-								{
-								},
-								"open":
-								{
-								},
-								"unmatched":
-								{
-								}
-							},
-							"bracket_highlighter.regions":
-							[
-								"bh_square",
-								"bh_square_center",
-								"bh_square_open",
-								"bh_square_close",
-								"bh_square_content",
-								"bh_angle",
-								"bh_angle_center",
-								"bh_angle_open",
-								"bh_angle_close",
-								"bh_angle_content",
-								"bh_c_define",
-								"bh_c_define_center",
-								"bh_c_define_open",
-								"bh_c_define_close",
-								"bh_c_define_content",
-								"bh_default",
-								"bh_default_center",
-								"bh_default_open",
-								"bh_default_close",
-								"bh_default_content",
-								"bh_single_quote",
-								"bh_single_quote_center",
-								"bh_single_quote_open",
-								"bh_single_quote_close",
-								"bh_single_quote_content",
-								"bh_unmatched",
-								"bh_unmatched_center",
-								"bh_unmatched_open",
-								"bh_unmatched_close",
-								"bh_unmatched_content",
-								"bh_double_quote",
-								"bh_double_quote_center",
-								"bh_double_quote_open",
-								"bh_double_quote_close",
-								"bh_double_quote_content",
-								"bh_tag",
-								"bh_tag_center",
-								"bh_tag_open",
-								"bh_tag_close",
-								"bh_tag_content",
-								"bh_round",
-								"bh_round_center",
-								"bh_round_open",
-								"bh_round_close",
-								"bh_round_content",
-								"bh_regex",
-								"bh_regex_center",
-								"bh_regex_open",
-								"bh_regex_close",
-								"bh_regex_content",
-								"bh_curly",
-								"bh_curly_center",
-								"bh_curly_open",
-								"bh_curly_close",
-								"bh_curly_content"
-							],
-							"incomplete_sync": null,
-							"remote_loading": false,
-							"synced": false,
-							"syntax": "Packages/Text/Plain text.tmLanguage"
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
+						"translation.y": 2378.0,
 						"zoom_level": 1.0
 					},
 					"stack_index": 2,
 					"type": "text"
 				},
 				{
-					"buffer": 2,
-					"file": "/C/Users/Jason/Documents/AAA Auction/Auctions/2018-07-24/2018-07-24_Inventory_V2.txt",
+					"buffer": 1,
+					"file": "/C/Users/Jason/Documents/AAA Auction/Auctions/2018-07-31/2018-07-31_Inventory.txt",
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 55599,
+						"buffer_size": 40851,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								988,
-								988
+								40851,
+								40851
 							]
 						],
 						"settings":
 						{
 							"bracket_highlighter.busy": false,
-							"bracket_highlighter.clone": -1,
+							"bracket_highlighter.clone": 33,
 							"bracket_highlighter.clone_locations":
 							{
 								"close":
@@ -2247,11 +2104,6 @@
 							},
 							"bracket_highlighter.clone_regions":
 							[
-								"bh_square",
-								"bh_square_center",
-								"bh_square_open",
-								"bh_square_close",
-								"bh_square_content",
 								"bh_angle",
 								"bh_angle_center",
 								"bh_angle_open",
@@ -2262,41 +2114,46 @@
 								"bh_c_define_open",
 								"bh_c_define_close",
 								"bh_c_define_content",
-								"bh_default",
-								"bh_default_center",
-								"bh_default_open",
-								"bh_default_close",
-								"bh_default_content",
-								"bh_single_quote",
-								"bh_single_quote_center",
-								"bh_single_quote_open",
-								"bh_single_quote_close",
-								"bh_single_quote_content",
 								"bh_unmatched",
 								"bh_unmatched_center",
 								"bh_unmatched_open",
 								"bh_unmatched_close",
 								"bh_unmatched_content",
-								"bh_double_quote",
-								"bh_double_quote_center",
-								"bh_double_quote_open",
-								"bh_double_quote_close",
-								"bh_double_quote_content",
-								"bh_tag",
-								"bh_tag_center",
-								"bh_tag_open",
-								"bh_tag_close",
-								"bh_tag_content",
-								"bh_round",
-								"bh_round_center",
-								"bh_round_open",
-								"bh_round_close",
-								"bh_round_content",
 								"bh_regex",
 								"bh_regex_center",
 								"bh_regex_open",
 								"bh_regex_close",
 								"bh_regex_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
 								"bh_curly",
 								"bh_curly_center",
 								"bh_curly_open",
@@ -2320,11 +2177,6 @@
 							},
 							"bracket_highlighter.regions":
 							[
-								"bh_square",
-								"bh_square_center",
-								"bh_square_open",
-								"bh_square_close",
-								"bh_square_content",
 								"bh_angle",
 								"bh_angle_center",
 								"bh_angle_open",
@@ -2335,41 +2187,46 @@
 								"bh_c_define_open",
 								"bh_c_define_close",
 								"bh_c_define_content",
-								"bh_default",
-								"bh_default_center",
-								"bh_default_open",
-								"bh_default_close",
-								"bh_default_content",
-								"bh_single_quote",
-								"bh_single_quote_center",
-								"bh_single_quote_open",
-								"bh_single_quote_close",
-								"bh_single_quote_content",
 								"bh_unmatched",
 								"bh_unmatched_center",
 								"bh_unmatched_open",
 								"bh_unmatched_close",
 								"bh_unmatched_content",
-								"bh_double_quote",
-								"bh_double_quote_center",
-								"bh_double_quote_open",
-								"bh_double_quote_close",
-								"bh_double_quote_content",
-								"bh_tag",
-								"bh_tag_center",
-								"bh_tag_open",
-								"bh_tag_close",
-								"bh_tag_content",
-								"bh_round",
-								"bh_round_center",
-								"bh_round_open",
-								"bh_round_close",
-								"bh_round_content",
 								"bh_regex",
 								"bh_regex_center",
 								"bh_regex_open",
 								"bh_regex_close",
 								"bh_regex_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
 								"bh_curly",
 								"bh_curly_center",
 								"bh_curly_open",
@@ -2378,6 +2235,185 @@
 							],
 							"incomplete_sync": null,
 							"open_with_edit": true,
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/Text/Plain text.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 9158.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "/C/Users/Jason/Documents/AAA Auction/Templates/AAA_Template_Email_18.9",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1340,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								64,
+								64
+							]
+						],
+						"settings":
+						{
+							"bracket_highlighter.busy": false,
+							"bracket_highlighter.clone": -1,
+							"bracket_highlighter.clone_locations":
+							{
+								"close":
+								{
+								},
+								"icon":
+								{
+								},
+								"open":
+								{
+								},
+								"unmatched":
+								{
+								}
+							},
+							"bracket_highlighter.clone_regions":
+							[
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content"
+							],
+							"bracket_highlighter.locations":
+							{
+								"close":
+								{
+								},
+								"icon":
+								{
+								},
+								"open":
+								{
+								},
+								"unmatched":
+								{
+								}
+							},
+							"bracket_highlighter.regions":
+							[
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content"
+							],
+							"incomplete_sync": null,
 							"remote_loading": false,
 							"synced": false,
 							"syntax": "Packages/Text/Plain text.tmLanguage"
