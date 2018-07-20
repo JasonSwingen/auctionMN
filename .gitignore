@@ -3,6 +3,7 @@ sftp-config.json
 deployment-config.json
 *.sublime-workspace
 *auctionmn.sublime-workspace
+auctionmn.sublime-workspace
 *.jpg
 *.png
 *.jpeg
