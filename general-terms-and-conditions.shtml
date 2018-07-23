@@ -41,7 +41,7 @@
 		<p>There is a 15% buyer's premium on all auction purchases plus a 3% service fee if paying with a credit card.</p>
 
 	<h2>Sales Tax</h2>
-	
+
 		<p>Unless we announce that there is no sales tax on a specific auction or the buyer provides us with a tax exempt form,  Minnesota sales tax will be charged on all purchases.</p>
 
 
@@ -90,7 +90,7 @@
 		<p>All terms and conditions are subject to change.</p>
 
 		<p class="alert">If you are reading this in a window that popped up when you clicked a "TERMS" link, go ahead and close this window now to get back to where you were.</p>
-		
+
 </article>
 
 <div id="Footer"><!--#include file="footer.ssi"--></div>
