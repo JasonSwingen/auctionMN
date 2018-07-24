@@ -54,7 +54,7 @@
 <script type="text/javascript" src="//s7.addthis.com/js/300/addthis_widget.js#pubid=ra-521b931f741dd6d6"></script>
 <!-- Start of Auctions -->
 
-<div id="current" class="currentheading"> 
+<div id="current" class="currentheading">
 	<h1>Current Auctions</h1>
 		<div class="addthis_sharing_toolbox"></div>
 </div>
@@ -639,7 +639,7 @@
 	</div>
 </div> -->
 
-<!-- 
+<!--
 <div class="recent">
 	<h2><a href="http://www.auctionmn.com/cgi-bin/mmlist.cgi?auctionmn13/category/ALL">Online Auction Ended On Tuesday, January 16th</a></h2>
 	<div class="flexbox">
@@ -1063,7 +1063,7 @@
 	<p><a class="upcomingbutton" href="#upcoming" title="View upcoming auctions">View Upcoming</a></p>
 	<p><a class="recentbutton" href="#recent" title="View auctions that have recently ended">View Recent</a></p>
 	<p><a class="currentbutton" href="https://www.auctionmn.com/cgi-bin/mdemail.cgi?auctionmn" title="Join our Email List">Subscribe</a></p>
-	
+
 <!-- 	<hr>
 
 	<h2>News</h2>
@@ -1075,7 +1075,7 @@
 		<a width="180" height="700" class="twitter-timeline"  href="https://twitter.com/auctionmn" data-widget-id="527518941493481473">Tweets by @auctionmn</a>
 	</div> -->
 
-	
+
 	<!-- <hr> -->
 
 	<div>
@@ -1094,8 +1094,8 @@
 		<!-- <p><i>"Thank you for all your help with the gala this year! You do a wonderful job and we definitely would not be as successful without you!"</i></p>
 		<p>-Tina Stofferahn</p> -->
 <!-- 		<p><i>"Thanks Tony – We certainly wouldn't be as successful as we are if we didn't have you in the picture."</i></p>
-		<p>-Jill Munsinger</p> -->	
-	
+		<p>-Jill Munsinger</p> -->
+
 	<hr>
 
 	<a target="_blank" href="https://youtu.be/L0MK7qz13bU?t=65"><img src="https://www.auctionmn.com/images/Grandmas_Hutch.png" alt="Should you let grandma's hutch go?"></a>
@@ -1110,7 +1110,7 @@
 	<p><a href="https://www.auctionmn.com/tonysblog.shtml#2012-09-20">We Buy Estates and Storage Lockers</a></p>
 	<p><a href="https://www.auctionmn.com/benefitqa.shtml">We do Benefit Auctions</a></p>
 	<p><a href="https://www.auctionmn.com/tonysblog.shtml#2012-09-19">Online Estate Auctions vs. Traditional Estate Sales</a></p>
-	
+
 	<hr>
 
 	<h2>Photos</h2>
@@ -1123,7 +1123,7 @@
 	<img src="https://www.auctionmn.com/images/mls_logo.gif" alt="">
 	<img src="https://www.auctionmn.com/images/naa_logo.gif" alt="">
 
-	
+
 </div><!-- End of SideBar -->
 
 </div><!-- End of Main Body -->
