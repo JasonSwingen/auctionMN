@@ -66,42 +66,6 @@
 
 
 
-<div class="current">
-  <h2><a href="https://www.auctionmn.com/cgi-bin/mmlist.cgi?auctionmn15/category/ALL">Online Auction Ending On Tuesday, August 21st</a></h2>
-  <div class="flexbox">
-    <a href="https://www.auctionmn.com/cgi-bin/mmlist.cgi?auctionmn15/51"><img src="https://www.auctionmn.com/images/2018-08-21/T51-1.jpg" alt="Lot 51"></a>
-    <a href="https://www.auctionmn.com/cgi-bin/mmlist.cgi?auctionmn15/52"><img src="https://www.auctionmn.com/images/2018-08-21/T52-1.jpg" alt="Lot 52"></a>
-    <a href="https://www.auctionmn.com/cgi-bin/mmlist.cgi?auctionmn15/53"><img src="https://www.auctionmn.com/images/2018-08-21/T53-1.jpg" alt="Lot 53"></a>
-    <a href="https://www.auctionmn.com/cgi-bin/mmlist.cgi?auctionmn15/55"><img src="https://www.auctionmn.com/images/2018-08-21/T55-1.jpg" alt="Lot 55"></a>
-    <a href="https://www.auctionmn.com/cgi-bin/mmlist.cgi?auctionmn15/102"><img src="https://www.auctionmn.com/images/2018-08-21/T102-1.jpg" alt="Lot 102"></a>
-    <a href="https://www.auctionmn.com/cgi-bin/mmlist.cgi?auctionmn15/105"><img src="https://www.auctionmn.com/images/2018-08-21/T105-1.jpg" alt="Lot 105"></a>
-    <a href="https://www.auctionmn.com/cgi-bin/mmlist.cgi?auctionmn15/109"><img src="https://www.auctionmn.com/images/2018-08-21/T109-1.jpg" alt="Lot 109"></a>
-    <a href="https://www.auctionmn.com/cgi-bin/mmlist.cgi?auctionmn15/113"><img src="https://www.auctionmn.com/images/2018-08-21/T113-1.jpg" alt="Lot 113"></a>
-    <a href="https://www.auctionmn.com/cgi-bin/mmlist.cgi?auctionmn15/115"><img src="https://www.auctionmn.com/images/2018-08-21/T115-1.jpg" alt="Lot 115"></a>
-    <a href="https://www.auctionmn.com/cgi-bin/mmlist.cgi?auctionmn15/126"><img src="https://www.auctionmn.com/images/2018-08-21/T126-1.jpg" alt="Lot 126"></a>
-    <a href="https://www.auctionmn.com/cgi-bin/mmlist.cgi?auctionmn15/141"><img src="https://www.auctionmn.com/images/2018-08-21/T141-1.jpg" alt="Lot 141"></a>
-    <a href="https://www.auctionmn.com/cgi-bin/mmlist.cgi?auctionmn15/142"><img src="https://www.auctionmn.com/images/2018-08-21/T142-1.jpg" alt="Lot 142"></a>
-    <a href="https://www.auctionmn.com/cgi-bin/mmlist.cgi?auctionmn15/144"><img src="https://www.auctionmn.com/images/2018-08-21/T144-1.jpg" alt="Lot 144"></a>
-    <a href="https://www.auctionmn.com/cgi-bin/mmlist.cgi?auctionmn15/145"><img src="https://www.auctionmn.com/images/2018-08-21/T145-1.jpg" alt="Lot 145"></a>
-    <a href="https://www.auctionmn.com/cgi-bin/mmlist.cgi?auctionmn15/149"><img src="https://www.auctionmn.com/images/2018-08-21/T149-1.jpg" alt="Lot 149"></a>
-    <a href="https://www.auctionmn.com/cgi-bin/mmlist.cgi?auctionmn15/164"><img src="https://www.auctionmn.com/images/2018-08-21/T164-1.jpg" alt="Lot 164"></a>
-    <a href="https://www.auctionmn.com/cgi-bin/mmlist.cgi?auctionmn15/175"><img src="https://www.auctionmn.com/images/2018-08-21/T175-1.jpg" alt="Lot 175"></a>
-    <!-- <a href="https://www.auctionmn.com/cgi-bin/mmlist.cgi?auctionmn15/177"><img src="https://www.auctionmn.com/images/2018-08-21/T177-1.jpg" alt="Lot 177"></a>
-    <a href="https://www.auctionmn.com/cgi-bin/mmlist.cgi?auctionmn15/224"><img src="https://www.auctionmn.com/images/2018-08-21/T224-1.jpg" alt="Lot 224"></a> -->
-  </div>
-  <a href="https://www.auctionmn.com/cgi-bin/mmlist.cgi?auctionmn15/category/ALL" class="bidnow rfloat"></a>
-    <p><strong>Preview and Pickup Location</strong></p>
-      <p><a target="_blank" href="https://goo.gl/maps/L9u81MhP4dq">7140 Old Viking Blvd NW, Nowthen MN</a></p>
-    <p><strong>Preview Time</strong></p>
-      <p>Monday, August 20th, from 11 a.m. to 1 p.m.</p>
-    <p><strong>Auction Ending Time</strong></p>
-      <p>Tuesday, August 21st, Auction ends starting at 7:30 p.m.</p>
-    <p><strong>Pickup Time</strong></p>
-      <p>Wednesday, August 22nd, from 9:30 a.m. to 7 p.m.</p>
-    <p><a href="https://auctionmn.com/general-terms-and-conditions.shtml">Terms and Conditions</a> for this auction.</p>
-</div>
-
-
 
 
 <!-- *******************************************************************************
@@ -241,6 +205,36 @@
 
 
 <div class="recent">
+  <h2><a href="https://www.auctionmn.com/cgi-bin/mmlist.cgi?auctionmn15/category/ALL">Online Auction Ended On Tuesday, August 21st</a></h2>
+  <div class="flexbox">
+    <a href="https://www.auctionmn.com/cgi-bin/mmlist.cgi?auctionmn15/51"><img src="https://www.auctionmn.com/images/2018-08-21/T51-1.jpg" alt="Lot 51"></a>
+    <a href="https://www.auctionmn.com/cgi-bin/mmlist.cgi?auctionmn15/52"><img src="https://www.auctionmn.com/images/2018-08-21/T52-1.jpg" alt="Lot 52"></a>
+    <a href="https://www.auctionmn.com/cgi-bin/mmlist.cgi?auctionmn15/53"><img src="https://www.auctionmn.com/images/2018-08-21/T53-1.jpg" alt="Lot 53"></a>
+    <a href="https://www.auctionmn.com/cgi-bin/mmlist.cgi?auctionmn15/55"><img src="https://www.auctionmn.com/images/2018-08-21/T55-1.jpg" alt="Lot 55"></a>
+    <a href="https://www.auctionmn.com/cgi-bin/mmlist.cgi?auctionmn15/102"><img src="https://www.auctionmn.com/images/2018-08-21/T102-1.jpg" alt="Lot 102"></a>
+    <!-- <a href="https://www.auctionmn.com/cgi-bin/mmlist.cgi?auctionmn15/105"><img src="https://www.auctionmn.com/images/2018-08-21/T105-1.jpg" alt="Lot 105"></a>
+    <a href="https://www.auctionmn.com/cgi-bin/mmlist.cgi?auctionmn15/109"><img src="https://www.auctionmn.com/images/2018-08-21/T109-1.jpg" alt="Lot 109"></a>
+    <a href="https://www.auctionmn.com/cgi-bin/mmlist.cgi?auctionmn15/113"><img src="https://www.auctionmn.com/images/2018-08-21/T113-1.jpg" alt="Lot 113"></a>
+    <a href="https://www.auctionmn.com/cgi-bin/mmlist.cgi?auctionmn15/115"><img src="https://www.auctionmn.com/images/2018-08-21/T115-1.jpg" alt="Lot 115"></a>
+    <a href="https://www.auctionmn.com/cgi-bin/mmlist.cgi?auctionmn15/126"><img src="https://www.auctionmn.com/images/2018-08-21/T126-1.jpg" alt="Lot 126"></a>
+    <a href="https://www.auctionmn.com/cgi-bin/mmlist.cgi?auctionmn15/141"><img src="https://www.auctionmn.com/images/2018-08-21/T141-1.jpg" alt="Lot 141"></a>
+    <a href="https://www.auctionmn.com/cgi-bin/mmlist.cgi?auctionmn15/142"><img src="https://www.auctionmn.com/images/2018-08-21/T142-1.jpg" alt="Lot 142"></a>
+    <a href="https://www.auctionmn.com/cgi-bin/mmlist.cgi?auctionmn15/144"><img src="https://www.auctionmn.com/images/2018-08-21/T144-1.jpg" alt="Lot 144"></a>
+    <a href="https://www.auctionmn.com/cgi-bin/mmlist.cgi?auctionmn15/145"><img src="https://www.auctionmn.com/images/2018-08-21/T145-1.jpg" alt="Lot 145"></a>
+    <a href="https://www.auctionmn.com/cgi-bin/mmlist.cgi?auctionmn15/149"><img src="https://www.auctionmn.com/images/2018-08-21/T149-1.jpg" alt="Lot 149"></a>
+    <a href="https://www.auctionmn.com/cgi-bin/mmlist.cgi?auctionmn15/164"><img src="https://www.auctionmn.com/images/2018-08-21/T164-1.jpg" alt="Lot 164"></a>
+    <a href="https://www.auctionmn.com/cgi-bin/mmlist.cgi?auctionmn15/175"><img src="https://www.auctionmn.com/images/2018-08-21/T175-1.jpg" alt="Lot 175"></a> -->
+    <!-- <a href="https://www.auctionmn.com/cgi-bin/mmlist.cgi?auctionmn15/177"><img src="https://www.auctionmn.com/images/2018-08-21/T177-1.jpg" alt="Lot 177"></a>
+    <a href="https://www.auctionmn.com/cgi-bin/mmlist.cgi?auctionmn15/224"><img src="https://www.auctionmn.com/images/2018-08-21/T224-1.jpg" alt="Lot 224"></a> -->
+  </div>
+    <p><strong>Pickup Location</strong></p>
+      <p><a target="_blank" href="https://goo.gl/maps/L9u81MhP4dq">7140 Old Viking Blvd NW, Nowthen MN</a></p>
+    <p><strong>Pickup Time</strong></p>
+      <p>Wednesday, August 22nd, from 9:30 a.m. to 7 p.m.</p>
+    <p><a href="https://auctionmn.com/general-terms-and-conditions.shtml">Terms and Conditions</a> for this auction.</p>
+</div>
+
+<div class="recent">
 	<h2><a href="https://www.auctionmn.com/cgi-bin/mmlist.cgi?auctionmn13/category/ALL">Online Auction Ended On Tuesday, July 31st</a></h2>
 	<div class="flexbox">
 		<a href="https://www.auctionmn.com/cgi-bin/mmlist.cgi?auctionmn13/21"><img src="https://www.auctionmn.com/images/2018-07-31/T21-1.jpg" alt="21"></a>
@@ -264,13 +258,6 @@
 		<a href="https://www.auctionmn.com/cgi-bin/mmlist.cgi?auctionmn13/180"><img src="https://www.auctionmn.com/images/2018-07-31/T180-1.jpg" alt="180"></a> -->
 		<!-- <a href="https://www.auctionmn.com/cgi-bin/mmlist.cgi?auctionmn13/213"><img src="https://www.auctionmn.com/images/2018-07-31/T213-1.jpg" alt="213"></a> -->
 	</div>
-		<p><strong>Pickup Location</strong></p>
-			<p><a target="_blank" href="https://goo.gl/maps/L9u81MhP4dq">7140 Old Viking Blvd NW, Nowthen MN</a></p>
-		<p><strong>Pickup Time</strong></p>
-			<p>Wednesday, August 1st, from 9:30 a.m. to 7 p.m.</p>
-		<p><strong>Auctioneer's Notes</strong></p>
-			<p>AAA Auction is honored to have been asked to sell this collection belonging to one person and his wife. That means that there will be no sales tax. You will find many good quality collectibles including sporting, toys and "mantiques".</p>
-		<p><a href="https://auctionmn.com/general-terms-and-conditions.shtml">Terms and Conditions</a> for this auction.</p>
 </div>
 
 
@@ -283,26 +270,7 @@
     <a href="https://www.auctionmn.com/cgi-bin/mmlist.cgi?auctionmn14/6"><img src="https://www.auctionmn.com/images/2018-07-28/T6-1.jpg" alt="6"></a>
     <a href="https://www.auctionmn.com/cgi-bin/mmlist.cgi?auctionmn14/21"><img src="https://www.auctionmn.com/images/2018-07-28/T21-1.jpg" alt="21"></a>
     <a href="https://www.auctionmn.com/cgi-bin/mmlist.cgi?auctionmn14/7"><img src="https://www.auctionmn.com/images/2018-07-28/T7-1.jpg" alt="7"></a>
-    <!-- <a href="https://www.auctionmn.com/cgi-bin/mmlist.cgi?auctionmn14/22"><img src="https://www.auctionmn.com/images/2018-07-28/T22-1.jpg" alt="22"></a>
-    <a href="https://www.auctionmn.com/cgi-bin/mmlist.cgi?auctionmn14/10"><img src="https://www.auctionmn.com/images/2018-07-28/T10-1.jpg" alt="10"></a>
-    <a href="https://www.auctionmn.com/cgi-bin/mmlist.cgi?auctionmn14/19"><img src="https://www.auctionmn.com/images/2018-07-28/T19-1.jpg" alt="19"></a>
-    <a href="https://www.auctionmn.com/cgi-bin/mmlist.cgi?auctionmn14/11"><img src="https://www.auctionmn.com/images/2018-07-28/T11-1.jpg" alt="11"></a>
-    <a href="https://www.auctionmn.com/cgi-bin/mmlist.cgi?auctionmn14/12"><img src="https://www.auctionmn.com/images/2018-07-28/T12-1.jpg" alt="12"></a>
-    <a href="https://www.auctionmn.com/cgi-bin/mmlist.cgi?auctionmn14/13"><img src="https://www.auctionmn.com/images/2018-07-28/T13-1.jpg" alt="13"></a>
-    <a href="https://www.auctionmn.com/cgi-bin/mmlist.cgi?auctionmn14/24"><img src="https://www.auctionmn.com/images/2018-07-28/T24-1.jpg" alt="24"></a>
-    <a href="https://www.auctionmn.com/cgi-bin/mmlist.cgi?auctionmn14/14"><img src="https://www.auctionmn.com/images/2018-07-28/T14-1.jpg" alt="14"></a>
-    <a href="https://www.auctionmn.com/cgi-bin/mmlist.cgi?auctionmn14/26"><img src="https://www.auctionmn.com/images/2018-07-28/T26-1.jpg" alt="26"></a>
-    <a href="https://www.auctionmn.com/cgi-bin/mmlist.cgi?auctionmn14/16"><img src="https://www.auctionmn.com/images/2018-07-28/T16-1.jpg" alt="16"></a> -->
-    <!-- <a href="https://www.auctionmn.com/images/2018-07-28/17-1.jpg"><img src="https://www.auctionmn.com/images/2018-07-28/T17-1.jpg" alt="17"></a> -->
-    <!-- <a href="https://www.auctionmn.com/images/2018-07-28/20-1.jpg"><img src="https://www.auctionmn.com/images/2018-07-28/T20-1.jpg" alt="20"></a> -->
   </div>
-  <!-- <p><strong>Location</strong></p>
-  <p><a target="_blank" href="https://www.google.com/maps/place/19800+Nowthen+Blvd+NW,+Anoka,+MN+55303/@45.3288574,-93.4702582,17z/data=!3m1!4b1!4m2!3m1!1s0x52b36cac2a3f4e03:0x556a431d9b7a8c21">Old Nowthen City Hall Building</a></p>
-  <p>19800 Nowthen Blvd NW</p>
-  <p>Nowthen MN 55303-9655</p>
-  <p><strong>Pickup Time</strong></p>
-  <p>Saturday, July 28th, following the live auction</p>
-  <p><a href="https://auctionmn.com/general-terms-and-conditions.shtml">Terms and Conditions</a> for this auction.</p> -->
 </div>
 
 
@@ -472,11 +440,6 @@
 		<a href="https://www.auctionmn.com/cgi-bin/mmlist.cgi?auctionmn6/40"><img src="https://www.auctionmn.com/images/2018-04-24/T40-1.jpg" alt="40"></a>
 		<a href="https://www.auctionmn.com/cgi-bin/mmlist.cgi?auctionmn6/58"><img src="https://www.auctionmn.com/images/2018-04-24/T58-1.jpg" alt="58"></a>
 	</div>
-		<p><strong>Pickup Location</strong></p>
-			<p><a target="_blank" href="https://goo.gl/maps/L9u81MhP4dq">7140 Old Viking Blvd NW, Nowthen MN</a></p>
-		<p><strong>Pickup Time</strong></p>
-			<p>Wednesday, April 25th, from 9:30 a.m. to 7 p.m.</p>
-		<p><a href="https://auctionmn.com/general-terms-and-conditions.shtml">Terms and Conditions</a> for this auction.</p>
 </div>
 
 
@@ -1151,7 +1114,7 @@
 <!--#include file="body_sitemap.inc"--><!--#include file="footer2.ssi"--></div>
 
 <!-- JavaScripts -->
-<script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.11.0/jquery.min.js"></script>
+<script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.0/jquery.min.js"></script>
 <link rel="stylesheet" href="//code.jquery.com/ui/1.11.1/themes/smoothness/jquery-ui.css">
   <script src="//code.jquery.com/jquery-1.10.2.js"></script>
   <script src="//code.jquery.com/ui/1.11.1/jquery-ui.js"></script>
