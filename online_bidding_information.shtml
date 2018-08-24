@@ -85,7 +85,12 @@ Information | AAA Auction and Realty Company</title>
 	<p>Our software will tell you what the next required bid is on any item. If someone outbids you, you will receive an email informing you of that fact; however, <span class="alert">no e-mail out bid notices will be sent after the auction starts to close</span>. Also, if you try to enter a bid that is less than the required amount, our system will advise you that your bid has not been accepted.</p>
 
 <h2>Maximum Bids</h2>
+
 	<p>You may enter the largest amount you are willing to pay for an item in the Max Bid box. The amount entered must be at least equal to the next required bid. Our auction software will place the lowest bid necessary, and then will bid on your behalf in predetermined increments up to the amount of your Max Bid. You may increase your Max Bid, but no decreases are allowed. There is a link to the increments at the bottom of each bidding page. If two people each place a Max Bid, then the higher Max Bid cancels out the lower Max Bid, even if the difference is as small as one penny.</p>
+
+	<p>Maximum bids are confidential. They are similar to asking a friend to go to a live auction and bid for you up to a maximum amount. Your friend would not be required to tell anyone how high he is willing to bid and likewise our system obviously does not publish the amounts of the maximum bids you ask our system to place for you.</p>
+
+	<p>Because no one can see anyone else’s maximum bids, the bid history page that is available to everyone may sometimes look as though the price has jumped up without out any bidding. This never happens. For example if bidder #1 bids $2 and places a maximum bid of $10, the computer will show that the next required bid is $3. If bidder #2 then bids $3 and places a maximum bid of $9, the computer will then put bidder #1 in for his maximum bid of $10. If that is the last bid of the auction bidder #1 will win the item for $10, and the bid history page will state that there was a maximum bid placed which resulted in the final winning amount bid.</p>
 
 <h2>Review Items</h2>
 	<p>To review items on which you have bid, go to the bottom of any page of the active auction and enter your bidding number and password. Then click "Review Bids". You will see a red triangle on each item for which you have been outbid.</p>
