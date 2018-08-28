@@ -115,7 +115,7 @@
 	<!-- <div class="announcement"> -->
 		<!-- <h3>View Updates on Upcoming Mau's Corner Auctions Here.</h3> -->
 		<!-- <div class="alert alert-info" role="alert">&#9729 View weather updates for the auction here.</div> -->
-		<!-- <div class="alert alert-success animated pulse" role="alert">&#9728 We will see you at the Auction!</div> -->
+		<div class="alert alert-success animated pulse" role="alert">&#9728 We will see you at the Auction!</div>
 		<!-- <div class="alert alert-info" role="alert">&#9729 The weather is looking good.</div> -->
 		<!-- <div class="alert alert-warning" role="alert">&#9730 </div> -->
 		<!-- <div class="alert alert-info" role="alert">No Auction on <b>May 29th</b>. Have a Great Memorial Day!</div> -->
@@ -137,7 +137,7 @@
 		<p><a href="https://www.auctionmn.com/maus-corner-selling-information.shtml">Selling at Mau's Corner</a></p>
 		<p><a href="https://www.auctionmn.com/maus-corner-bidding-information.shtml">Bidding at Mau's Corner</a></p>
 	<p><strong>Date</strong></p>
-		<p>Every Tuesday (weather permitting) <!-- starting April 24th, 2018. --></p>
+		<p>Every Tuesday (weather permitting) ending September 25th, 2018.</p>
 	<p><strong>Time</strong></p>
 		<p>Flea Market at 7 a.m.</p>
 		<p>Auction at 9 a.m.</p>
@@ -148,8 +148,8 @@
 		<!-- <img class="rfloatimg" src="https://www.auctionmn.com/images/DSCN9539.JPG" alt="Live Storage Auction">
 		<p><strong>Troy-Bilt Wood Chipper</strong></p>
 		<p>We will be selling a Troy-Bilt wood chipper for $500 or the highest offer on Tuesday, June 5th at 9 am at Mau's Corner. Model #47266 Serial # 472660300734 Briggs and Stratton engine. Runs great. Used very little. </p> -->
-		<p><strong>Help Wanted</strong> - Clerking Position</p>
-		<p>We are looking for a second person to clerk our live auctions. Responsibilities include typing the sales as the auctioneer sells the items.</p>
+		<!-- <p><strong>Help Wanted</strong> - Clerking Position</p>
+		<p>We are looking for a second person to clerk our live auctions. Responsibilities include typing the sales as the auctioneer sells the items.</p> -->
 		<!-- <p><strong>Auctioneer's Notes</strong></p> -->
 		<p><strong>New for 2018</strong></p>
 		<p>The per item commission rate in 2018 is 25% for items selling up to $29. From $30 to $599.99 the commission is only 10%. For items selling for $600 or more, the Seller pays no commission at all.  With limited exception, no bids will be accepted for less than $5.00. If no one bids $5.00, we will try to add to the items we are selling. If we are still unable to sell the group of items for at least $5.00, we will charge a $2 no-sale fee. We will again offer Sellers the opportunity to bring any items they want to the start of the auction at the “Seller’s Choice” tables. The difference there is that we will not add additional items to the lots we are selling, so if there is not at least a $5 bid on the single item or lot, the item or lot will not be sold and a no-sale fee will be applied.</p>
