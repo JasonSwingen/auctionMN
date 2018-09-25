@@ -66,40 +66,75 @@
 
 
 <div class="current">
-  <h2><a href="https://www.auctionmn.com/cgi-bin/mmlist.cgi?auctionmn/category/ALL">Online Auction Ending On Tuesday, September 11th</a></h2>
+  <h2><a href="https://www.auctionmn.com/cgi-bin/mmlist.cgi?auctionmn1/category/ALL">Online Auction Ending On Tuesday, September 25th</a></h2>
   <div class="flexbox">
-    <a href="https://www.auctionmn.com/cgi-bin/mmlist.cgi?auctionmn/11"><img src="https://www.auctionmn.com/images/2018-09-11/T11-1.jpg" alt="Lot 11"></a>
-    <a href="https://www.auctionmn.com/cgi-bin/mmlist.cgi?auctionmn/31"><img src="https://www.auctionmn.com/images/2018-09-11/T31-1.jpg" alt="Lot 31"></a>
-    <a href="https://www.auctionmn.com/cgi-bin/mmlist.cgi?auctionmn/46"><img src="https://www.auctionmn.com/images/2018-09-11/T46-1.jpg" alt="Lot 46"></a>
-    <a href="https://www.auctionmn.com/cgi-bin/mmlist.cgi?auctionmn/47"><img src="https://www.auctionmn.com/images/2018-09-11/T47-1.jpg" alt="Lot 47"></a>
-    <a href="https://www.auctionmn.com/cgi-bin/mmlist.cgi?auctionmn/59"><img src="https://www.auctionmn.com/images/2018-09-11/T59-1.jpg" alt="Lot 59"></a>
-    <a href="https://www.auctionmn.com/cgi-bin/mmlist.cgi?auctionmn/101"><img src="https://www.auctionmn.com/images/2018-09-11/T101-1.jpg" alt="Lot 101"></a>
-    <a href="https://www.auctionmn.com/cgi-bin/mmlist.cgi?auctionmn/114"><img src="https://www.auctionmn.com/images/2018-09-11/T114-1.jpg" alt="Lot 114"></a>
-    <a href="https://www.auctionmn.com/cgi-bin/mmlist.cgi?auctionmn/166"><img src="https://www.auctionmn.com/images/2018-09-11/T166-1.jpg" alt="Lot 166"></a>
-    <a href="https://www.auctionmn.com/cgi-bin/mmlist.cgi?auctionmn/175"><img src="https://www.auctionmn.com/images/2018-09-11/T175-1.jpg" alt="Lot 175"></a>
-    <a href="https://www.auctionmn.com/cgi-bin/mmlist.cgi?auctionmn/182"><img src="https://www.auctionmn.com/images/2018-09-11/T182-1.jpg" alt="Lot 182"></a>
-    <a href="https://www.auctionmn.com/cgi-bin/mmlist.cgi?auctionmn/187"><img src="https://www.auctionmn.com/images/2018-09-11/T187-1.jpg" alt="Lot 187"></a>
-    <a href="https://www.auctionmn.com/cgi-bin/mmlist.cgi?auctionmn/191"><img src="https://www.auctionmn.com/images/2018-09-11/T191-1.jpg" alt="Lot 191"></a>
-    <a href="https://www.auctionmn.com/cgi-bin/mmlist.cgi?auctionmn/217"><img src="https://www.auctionmn.com/images/2018-09-11/T217-1.jpg" alt="Lot 217"></a>
-    <a href="https://www.auctionmn.com/cgi-bin/mmlist.cgi?auctionmn/258"><img src="https://www.auctionmn.com/images/2018-09-11/T258-1.jpg" alt="Lot 258"></a>
-    <a href="https://www.auctionmn.com/cgi-bin/mmlist.cgi?auctionmn/265"><img src="https://www.auctionmn.com/images/2018-09-11/T265-1.jpg" alt="Lot 265"></a>
-    <a href="https://www.auctionmn.com/cgi-bin/mmlist.cgi?auctionmn/272"><img src="https://www.auctionmn.com/images/2018-09-11/T272-1.jpg" alt="Lot 272"></a>
-    <a href="https://www.auctionmn.com/cgi-bin/mmlist.cgi?auctionmn/292"><img src="https://www.auctionmn.com/images/2018-09-11/T292-1.jpg" alt="Lot 292"></a>
-    <a href="https://www.auctionmn.com/cgi-bin/mmlist.cgi?auctionmn/293"><img src="https://www.auctionmn.com/images/2018-09-11/T293-1.jpg" alt="Lot 293"></a>
-    <a href="https://www.auctionmn.com/cgi-bin/mmlist.cgi?auctionmn/351"><img src="https://www.auctionmn.com/images/2018-09-11/T351-1.jpg" alt="Lot 351"></a>
-    <a href="https://www.auctionmn.com/cgi-bin/mmlist.cgi?auctionmn/353"><img src="https://www.auctionmn.com/images/2018-09-11/T353-1.jpg" alt="Lot 353"></a>
+    <a href="https://www.auctionmn.com/cgi-bin/mmlist.cgi?auctionmn1/27"><img src="https://www.auctionmn.com/images/2018-09-25/T27-1.jpg" alt="Lot 27"></a>
+    <!-- <a href="https://www.auctionmn.com/cgi-bin/mmlist.cgi?auctionmn1/30"><img src="https://www.auctionmn.com/images/2018-09-25/T30-1.jpg" alt="Lot 30"></a> -->
+    <a href="https://www.auctionmn.com/cgi-bin/mmlist.cgi?auctionmn1/34"><img src="https://www.auctionmn.com/images/2018-09-25/T34-1.jpg" alt="Lot 34"></a>
+    <a href="https://www.auctionmn.com/cgi-bin/mmlist.cgi?auctionmn1/40"><img src="https://www.auctionmn.com/images/2018-09-25/T40-1.jpg" alt="Lot 40"></a>
+    <a href="https://www.auctionmn.com/cgi-bin/mmlist.cgi?auctionmn1/43"><img src="https://www.auctionmn.com/images/2018-09-25/T43-1.jpg" alt="Lot 43"></a>
+    <a href="https://www.auctionmn.com/cgi-bin/mmlist.cgi?auctionmn1/55"><img src="https://www.auctionmn.com/images/2018-09-25/T55-1.jpg" alt="Lot 55"></a>
+    <a href="https://www.auctionmn.com/cgi-bin/mmlist.cgi?auctionmn1/58"><img src="https://www.auctionmn.com/images/2018-09-25/T58-1.jpg" alt="Lot 58"></a>
+    <a href="https://www.auctionmn.com/cgi-bin/mmlist.cgi?auctionmn1/74"><img src="https://www.auctionmn.com/images/2018-09-25/T74-1.jpg" alt="Lot 74"></a>
+    <!-- <a href="https://www.auctionmn.com/cgi-bin/mmlist.cgi?auctionmn1/81"><img src="https://www.auctionmn.com/images/2018-09-25/T81-1.jpg" alt="Lot 81"></a> -->
+    <a href="https://www.auctionmn.com/cgi-bin/mmlist.cgi?auctionmn1/84"><img src="https://www.auctionmn.com/images/2018-09-25/T84-1.jpg" alt="Lot 84"></a>
+    <!-- <a href="https://www.auctionmn.com/cgi-bin/mmlist.cgi?auctionmn1/88"><img src="https://www.auctionmn.com/images/2018-09-25/T88-1.jpg" alt="Lot 88"></a> -->
+    <a href="https://www.auctionmn.com/cgi-bin/mmlist.cgi?auctionmn1/99"><img src="https://www.auctionmn.com/images/2018-09-25/T99-1.jpg" alt="Lot 99"></a>
+    <a href="https://www.auctionmn.com/cgi-bin/mmlist.cgi?auctionmn1/111"><img src="https://www.auctionmn.com/images/2018-09-25/T111-1.jpg" alt="Lot 111"></a>
+    <a href="https://www.auctionmn.com/cgi-bin/mmlist.cgi?auctionmn1/128"><img src="https://www.auctionmn.com/images/2018-09-25/T128-1.jpg" alt="Lot 128"></a>
+    <a href="https://www.auctionmn.com/cgi-bin/mmlist.cgi?auctionmn1/143"><img src="https://www.auctionmn.com/images/2018-09-25/T143-1.jpg" alt="Lot 143"></a>
+    <!-- <a href="https://www.auctionmn.com/cgi-bin/mmlist.cgi?auctionmn1/301"><img src="https://www.auctionmn.com/images/2018-09-25/T301-1.jpg" alt="Lot 301"></a> -->
+    <a href="https://www.auctionmn.com/cgi-bin/mmlist.cgi?auctionmn1/339"><img src="https://www.auctionmn.com/images/2018-09-25/T339-1.jpg" alt="Lot 339"></a>
+    <a href="https://www.auctionmn.com/cgi-bin/mmlist.cgi?auctionmn1/350"><img src="https://www.auctionmn.com/images/2018-09-25/T350-1.jpg" alt="Lot 350"></a>
+    <a href="https://www.auctionmn.com/cgi-bin/mmlist.cgi?auctionmn1/351"><img src="https://www.auctionmn.com/images/2018-09-25/T351-1.jpg" alt="Lot 351"></a>
+    <!-- <a href="https://www.auctionmn.com/cgi-bin/mmlist.cgi?auctionmn1/85"><img src="https://www.auctionmn.com/images/2018-09-25/T85-1.jpg" alt="Lot 85"></a> -->
   </div>
-  <a href="https://www.auctionmn.com/cgi-bin/mmlist.cgi?auctionmn/category/ALL" class="bidnow rfloat"></a>
+  <a href="https://www.auctionmn.com/cgi-bin/mmlist.cgi?auctionmn1/category/ALL" class="bidnow rfloat"></a>
     <p><strong>Preview and Pickup Location</strong></p>
       <p><a target="_blank" href="https://goo.gl/maps/L9u81MhP4dq">7140 Old Viking Blvd NW, Nowthen MN</a></p>
     <p><strong>Preview Time</strong></p>
-      <p>Monday, September 10th, from 11 a.m. to 1 p.m.</p>
+      <p>Monday, September 24th, from 11 a.m. to 1 p.m.</p>
     <p><strong>Auction Ending Time</strong></p>
-      <p>Tuesday, September 11th, Auction ends starting at 7:30 p.m.</p>
+      <p>Tuesday, September 25th, Auction ends starting at 7:30 p.m.</p>
     <p><strong>Pickup Time</strong></p>
-      <p>Wednesday, September 12th, from 9:30 a.m. to 7 p.m.</p>
-    <p><strong>Auctioneer's Notes</strong></p>
-      <p>AAA auction does not appraise records. However, as a convenience, we have occasionally listed prices we found in American Records 1950 to 1975 published in 1998. This reference source list price ranges from very good to near mint. Where we have listed prices, we have used the lowest and the highest prices from the guide. We are making no representation about the condition or value of any record. Plus since we are not record appraisers it’s possible that we have made a mistake. The records have not been sound tested. Inspection is recommended.</p>
+      <p>Wednesday, September 26th, from 9:30 a.m. to 7 p.m.</p>
+    <p><a href="https://auctionmn.com/general-terms-and-conditions.shtml">Terms and Conditions</a> for this auction.</p>
+</div>
+
+
+<div class="current">
+  <h2><a href="https://www.auctionmn.com/cgi-bin/mmlist.cgi?auctionmn2/category/ALL">Online Auction Ending On Tuesday, October 9th</a></h2>
+  <div class="flexbox">
+    <a href="https://www.auctionmn.com/cgi-bin/mmlist.cgi?auctionmn2/33"><img src="https://www.auctionmn.com/images/2018-10-09/T33-1.jpg" alt="Lot 33"></a>
+    <a href="https://www.auctionmn.com/cgi-bin/mmlist.cgi?auctionmn2/35"><img src="https://www.auctionmn.com/images/2018-10-09/T35-1.jpg" alt="Lot 35"></a>
+    <a href="https://www.auctionmn.com/cgi-bin/mmlist.cgi?auctionmn2/60"><img src="https://www.auctionmn.com/images/2018-10-09/T60-1.jpg" alt="Lot 60"></a>
+    <a href="https://www.auctionmn.com/cgi-bin/mmlist.cgi?auctionmn2/67"><img src="https://www.auctionmn.com/images/2018-10-09/T67-1.jpg" alt="Lot 67"></a>
+    <a href="https://www.auctionmn.com/cgi-bin/mmlist.cgi?auctionmn2/72"><img src="https://www.auctionmn.com/images/2018-10-09/T72-1.jpg" alt="Lot 72"></a>
+    <a href="https://www.auctionmn.com/cgi-bin/mmlist.cgi?auctionmn2/81"><img src="https://www.auctionmn.com/images/2018-10-09/T81-1.jpg" alt="Lot 81"></a>
+    <a href="https://www.auctionmn.com/cgi-bin/mmlist.cgi?auctionmn2/87"><img src="https://www.auctionmn.com/images/2018-10-09/T87-1.jpg" alt="Lot 87"></a>
+    <a href="https://www.auctionmn.com/cgi-bin/mmlist.cgi?auctionmn2/125"><img src="https://www.auctionmn.com/images/2018-10-09/T125-1.jpg" alt="Lot 125"></a>
+    <a href="https://www.auctionmn.com/cgi-bin/mmlist.cgi?auctionmn2/171"><img src="https://www.auctionmn.com/images/2018-10-09/T171-1.jpg" alt="Lot 171"></a>
+    <a href="https://www.auctionmn.com/cgi-bin/mmlist.cgi?auctionmn2/179"><img src="https://www.auctionmn.com/images/2018-10-09/T179-1.jpg" alt="Lot 179"></a>
+    <a href="https://www.auctionmn.com/cgi-bin/mmlist.cgi?auctionmn2/208"><img src="https://www.auctionmn.com/images/2018-10-09/T208-1.jpg" alt="Lot 208"></a>
+    <a href="https://www.auctionmn.com/cgi-bin/mmlist.cgi?auctionmn2/217"><img src="https://www.auctionmn.com/images/2018-10-09/T217-1.jpg" alt="Lot 217"></a>
+    <a href="https://www.auctionmn.com/cgi-bin/mmlist.cgi?auctionmn2/248"><img src="https://www.auctionmn.com/images/2018-10-09/T248-1.jpg" alt="Lot 248"></a>
+    <a href="https://www.auctionmn.com/cgi-bin/mmlist.cgi?auctionmn2/251"><img src="https://www.auctionmn.com/images/2018-10-09/T251-1.jpg" alt="Lot 251"></a>
+    <a href="https://www.auctionmn.com/cgi-bin/mmlist.cgi?auctionmn2/263"><img src="https://www.auctionmn.com/images/2018-10-09/T263-1.jpg" alt="Lot 263"></a>
+    <a href="https://www.auctionmn.com/cgi-bin/mmlist.cgi?auctionmn2/272"><img src="https://www.auctionmn.com/images/2018-10-09/T272-1.jpg" alt="Lot 272"></a>
+    <a href="https://www.auctionmn.com/cgi-bin/mmlist.cgi?auctionmn2/279"><img src="https://www.auctionmn.com/images/2018-10-09/T279-1.jpg" alt="Lot 279"></a>
+    <!-- <a href="https://www.auctionmn.com/cgi-bin/mmlist.cgi?auctionmn2/298"><img src="https://www.auctionmn.com/images/2018-10-09/T298-1.jpg" alt="Lot 298"></a>
+    <a href="https://www.auctionmn.com/cgi-bin/mmlist.cgi?auctionmn2/301"><img src="https://www.auctionmn.com/images/2018-10-09/T301-1.jpg" alt="Lot 301"></a>
+    <a href="https://www.auctionmn.com/cgi-bin/mmlist.cgi?auctionmn2/314"><img src="https://www.auctionmn.com/images/2018-10-09/T314-1.jpg" alt="Lot 314"></a> -->
+  </div>
+  <a href="https://www.auctionmn.com/cgi-bin/mmlist.cgi?auctionmn2/category/ALL" class="bidnow rfloat"></a>
+    <p><strong>Preview and Pickup Location</strong></p>
+      <p><a target="_blank" href="https://goo.gl/maps/L9u81MhP4dq">7140 Old Viking Blvd NW, Nowthen MN</a></p>
+    <p><strong>Preview Time</strong></p>
+      <p>Monday, October 8th, from 11 a.m. to 1 p.m.</p>
+    <p><strong>Auction Ending Time</strong></p>
+      <p>Tuesday, October 9th, Auction ends starting at 7:30 p.m.</p>
+    <p><strong>Pickup Time</strong></p>
+      <p>Wednesday, October 10th, from 9 a.m. to 7 p.m.</p>
     <p><a href="https://auctionmn.com/general-terms-and-conditions.shtml">Terms and Conditions</a> for this auction.</p>
 </div>
 
@@ -145,80 +180,7 @@
 
 
 
-<div class="upcoming maus">
-	<h2 id="maus">Mau's Corner Weekly Flea Market & Live Auction</h2>
-	<!-- <div class="alert alert-success animated pulse" role="alert">&#9728 Next Auction is on Tuesday, July 3rd!</div> -->
-	<!-- <div class="announcement"> -->
-		<!-- <h3>View Updates on Upcoming Mau's Corner Auctions Here.</h3> -->
-		<!-- <div class="alert alert-info" role="alert">&#9729 View weather updates for the auction here.</div> -->
-		<div class="alert alert-success animated pulse" role="alert">&#9728 We will see you at the Auction!</div>
-		<!-- <div class="alert alert-info" role="alert">&#9729 The weather is looking good.</div> -->
-		<!-- <div class="alert alert-warning" role="alert">&#9730 </div> -->
-		<!-- <div class="alert alert-info" role="alert">No Auction on <b>May 29th</b>. Have a Great Memorial Day!</div> -->
-		<!-- <div class="alert alert-danger animated headshake" role="alert">&#9928 No Auction This Tuesday (June 26th) Due To Weather!</div> -->
-		<!-- </div> -->
 
-	<!-- <div class="canceled">No Auction This Tuesday Due To Weather!</div> -->
-	<!-- <div class="success">We are not made of sugar. The auction will go on.</div> -->
-	<div class="flexbox">
-		<a href="https://www.auctionmn.com/images/mausgallery/maus01.html"><img src="https://www.auctionmn.com/images/mausgallery/maus01.jpg" alt=""></a>
-		<!-- <a href="https://www.auctionmn.com/images/mausgallery/maus02.html"><img src="https://www.auctionmn.com/images/mausgallery/maus02.jpg" alt=""></a> -->
-		<a href="https://www.auctionmn.com/images/mausgallery/images/maus25.jpg"><img src="https://www.auctionmn.com/images/mausgallery/images/maus25.jpg" alt=""></a>
-		<!-- <a href="https://www.auctionmn.com/images/mausgallery/maus08.html"><img src="https://www.auctionmn.com/images/mausgallery/maus08.jpg" alt=""></a>
-		<a href="https://www.auctionmn.com/images/mausgallery/maus16.html"><img src="https://www.auctionmn.com/images/mausgallery/maus16.jpg" alt=""></a> -->
-		<a href="https://www.auctionmn.com/images/MausCorner/IMG_0635.JPG"><img src="https://www.auctionmn.com/images/MausCorner/IMG_0635.JPG" alt=""></a>
-		<a href="https://www.auctionmn.com/images/MausCorner/IMG_0636.JPG"><img src="https://www.auctionmn.com/images/MausCorner/IMG_0636.JPG" alt=""></a>
-	</div>
-		<p><a href="https://www.auctionmn.com/images/mausgallery/index.html">View more photos from Mau's Auction</a></p>
-		<p><a href="https://www.auctionmn.com/maus-corner-selling-information.shtml">Selling at Mau's Corner</a></p>
-		<p><a href="https://www.auctionmn.com/maus-corner-bidding-information.shtml">Bidding at Mau's Corner</a></p>
-	<p><strong>Date</strong></p>
-		<p>Every Tuesday (weather permitting) ending September 25th, 2018.</p>
-	<p><strong>Time</strong></p>
-		<p>Flea Market at 7 a.m.</p>
-		<p>Auction at 9 a.m.</p>
-	<p><strong>Location</strong></p>
-		<p>26025 Highway 47 <a target="_blank" href="https://www.google.com/maps/place/26057+Blackfoot+St+NW,+Isanti,+MN+55040/@45.441632,-93.367459,18z/data=!4m5!3m4!1s0x52b30ef717768fa5:0x95b75726738015bc!8m2!3d45.4417315!4d-93.3675934?hl=en-US">(Map)</a></p>
-		<p>Stanford Township, Isanti County</p>
-		<p>This is three miles north of St. Francis, just south of the intersection of Blackfoot St NW (State Highway 47) and 261st Ave NW.</p>
-		<!-- <img class="rfloatimg" src="https://www.auctionmn.com/images/DSCN9539.JPG" alt="Live Storage Auction">
-		<p><strong>Troy-Bilt Wood Chipper</strong></p>
-		<p>We will be selling a Troy-Bilt wood chipper for $500 or the highest offer on Tuesday, June 5th at 9 am at Mau's Corner. Model #47266 Serial # 472660300734 Briggs and Stratton engine. Runs great. Used very little. </p> -->
-		<!-- <p><strong>Help Wanted</strong> - Clerking Position</p>
-		<p>We are looking for a second person to clerk our live auctions. Responsibilities include typing the sales as the auctioneer sells the items.</p> -->
-		<!-- <p><strong>Auctioneer's Notes</strong></p> -->
-		<p><strong>New for 2018</strong></p>
-		<p>The per item commission rate in 2018 is 25% for items selling up to $29. From $30 to $599.99 the commission is only 10%. For items selling for $600 or more, the Seller pays no commission at all.  With limited exception, no bids will be accepted for less than $5.00. If no one bids $5.00, we will try to add to the items we are selling. If we are still unable to sell the group of items for at least $5.00, we will charge a $2 no-sale fee. We will again offer Sellers the opportunity to bring any items they want to the start of the auction at the “Seller’s Choice” tables. The difference there is that we will not add additional items to the lots we are selling, so if there is not at least a $5 bid on the single item or lot, the item or lot will not be sold and a no-sale fee will be applied.</p>
-		<p><strong>AAA Auction Nows Sells Guns</strong></p>
-		<p>We are pleased to announce that AAA Auction will now accept firearms for sale both at Mau’s Corner and also at the online auction barn in Nowthen.</p>
-		<p><strong>New Lower Rates!</strong></p>
-		<p>AAA Auction has always offered Sellers at Mau’s Corner’s live Tuesday auctions very good commission rates, but they just got better. The new per item selling price commission rates at Mau’s Corner are as follows:</p>
-		<ul>
-			<li>$5 to $29.99 - 25%</li>
-			<li>$30 to $599.99 - 10%</li>
-			<li>$600 and up - Free</li>
-			<li>Firearms - 10%</li>
-			<li>U.S. Coins - 10%</li>
-		</ul>
-		<i>* These apply to Mau's and online</i>
-		<p>As always, bids are not accepted for less than $5 at Mau’s Corner and Buyers pay a 15% buyer’s premium on all purchases.</p>
-
-</p>
-		<!-- <p>Tuesday, May 30th</p> -->
-<!-- 		<div style="width:697px;">
-			<div style="width:50%;float:left;">
-					<a href=""><img style="width:95%;"" alt=""></a>
-			</div>
-			<div style="width:50%;float:right;">
-					<a href=""><img style="width:95%;"" alt=""></a>
-			</div>
-		</div> -->
-<!-- 		&nbsp;
-		&nbsp; -->
-		<hr>
-		<p>Anyone can sell. Bag it. Box it or Bring it to Mau’s Corner 3 miles north of St. Francis on Highway 47 any Tuesday beginning April 4th. You don’t need to call ahead. There are NO FLEA MARKET VENDOR FEES and the auction commissions are low.</p>
-		<!-- <p>Thank you all for another great season at Mau's Corner!</p> -->
-</div>
 
 
 
@@ -238,6 +200,139 @@
 <!-- *******************************************************************************
             *************      Start of Recent Auctions       ***************
 ******************************************************************************** -->
+
+
+<div class="recent maus">
+	<h2 id="maus">Mau's Corner Weekly Flea Market & Live Auction</h2>
+	<!-- <div class="alert alert-success animated pulse" role="alert">&#9728 Next Auction is on Tuesday, July 3rd!</div> -->
+	<!-- <div class="announcement"> -->
+		<!-- <h3>View Updates on Upcoming Mau's Corner Auctions Here.</h3> -->
+		<!-- <div class="alert alert-info" role="alert">&#9729 View weather updates for the auction here.</div> -->
+		<!-- <div class="alert alert-success animated pulse" role="alert">&#9728 We will see you at the Auction!</div> -->
+
+		<!-- <div class="alert alert-info" role="alert">&#9729 Unless the weatherman is wrong, tomorrow should be a good day for an auction. If we need to cancel, we will post it here in the morning. See you at the auction!</div> -->
+
+    <!-- <div class="alert alert-warning" role="alert">&#9730 </div> -->
+		<!-- <div class="alert alert-info" role="alert">No Auction on <b>September 25th, 2018</b>.</div> -->
+		<!-- <div class="alert alert-danger animated headshake" role="alert">&#9928 No Auction This Tuesday (June 26th) Due To Weather!</div> -->
+		<!-- </div> -->
+  	<!-- <div class="canceled">No Auction This Tuesday Due To Weather!</div> -->
+  	<!-- <div class="success">We are not made of sugar. The auction will go on.</div> -->
+	<div class="flexbox">
+		<a href="https://www.auctionmn.com/images/mausgallery/maus01.html"><img src="https://www.auctionmn.com/images/mausgallery/maus01.jpg" alt=""></a>
+		<!-- <a href="https://www.auctionmn.com/images/mausgallery/maus02.html"><img src="https://www.auctionmn.com/images/mausgallery/maus02.jpg" alt=""></a> -->
+		<a href="https://www.auctionmn.com/images/mausgallery/images/maus25.jpg"><img src="https://www.auctionmn.com/images/mausgallery/images/maus25.jpg" alt=""></a>
+		<!-- <a href="https://www.auctionmn.com/images/mausgallery/maus08.html"><img src="https://www.auctionmn.com/images/mausgallery/maus08.jpg" alt=""></a>
+		<a href="https://www.auctionmn.com/images/mausgallery/maus16.html"><img src="https://www.auctionmn.com/images/mausgallery/maus16.jpg" alt=""></a> -->
+		<a href="https://www.auctionmn.com/images/MausCorner/IMG_0635.JPG"><img src="https://www.auctionmn.com/images/MausCorner/IMG_0635.JPG" alt=""></a>
+		<a href="https://www.auctionmn.com/images/MausCorner/IMG_0636.JPG"><img src="https://www.auctionmn.com/images/MausCorner/IMG_0636.JPG" alt=""></a>
+	</div>
+		<p><a href="https://www.auctionmn.com/images/mausgallery/index.html">View more photos from Mau's Auction</a></p>
+		<p><a href="https://www.auctionmn.com/maus-corner-selling-information.shtml">Selling at Mau's Corner</a></p>
+		<p><a href="https://www.auctionmn.com/maus-corner-bidding-information.shtml">Bidding at Mau's Corner</a></p>
+	<p><strong>Date</strong></p>
+		<p>Every Tuesday (weather permitting) beginning again in spring of 2019.</p>
+	<p><strong>Time</strong></p>
+		<p>Flea Market at 7 a.m.</p>
+		<p>Auction at 9 a.m.</p>
+	<p><strong>Location</strong></p>
+		<p>26025 Highway 47 <a target="_blank" href="https://www.google.com/maps/place/26057+Blackfoot+St+NW,+Isanti,+MN+55040/@45.441632,-93.367459,18z/data=!4m5!3m4!1s0x52b30ef717768fa5:0x95b75726738015bc!8m2!3d45.4417315!4d-93.3675934?hl=en-US">(Map)</a></p>
+		<p>Stanford Township, Isanti County</p>
+		<p>This is three miles north of St. Francis, just south of the intersection of Blackfoot St NW (State Highway 47) and 261st Ave NW.</p>
+		<!-- <img class="rfloatimg" src="https://www.auctionmn.com/images/DSCN9539.JPG" alt="Live Storage Auction">
+		<p><strong>Troy-Bilt Wood Chipper</strong></p>
+		<p>We will be selling a Troy-Bilt wood chipper for $500 or the highest offer on Tuesday, June 5th at 9 am at Mau's Corner. Model #47266 Serial # 472660300734 Briggs and Stratton engine. Runs great. Used very little. </p> -->
+		<!-- <p><strong>Help Wanted</strong> - Clerking Position</p>
+		<p>We are looking for a second person to clerk our live auctions. Responsibilities include typing the sales as the auctioneer sells the items.</p> -->
+		<p><strong>Auctioneer's Notes</strong></p>
+      <p>Thank You!</p>
+      <p> To all of our consignors, bidders, flea marketers, staff and Joe and Wanda Mau. Thank you for a great 2018 auction season. Our weekly Tuesday auctions are now done for 2018. There is no auction on September 25th. We will be taking consignments all year at our auction barn in Nowthen. See you soon!</p>
+		<!-- <p><strong>New for 2018</strong></p>
+		<p>The per item commission rate in 2018 is 25% for items selling up to $29. From $30 to $599.99 the commission is only 10%. For items selling for $600 or more, the Seller pays no commission at all.  With limited exception, no bids will be accepted for less than $5.00. If no one bids $5.00, we will try to add to the items we are selling. If we are still unable to sell the group of items for at least $5.00, we will charge a $2 no-sale fee. We will again offer Sellers the opportunity to bring any items they want to the start of the auction at the “Seller’s Choice” tables. The difference there is that we will not add additional items to the lots we are selling, so if there is not at least a $5 bid on the single item or lot, the item or lot will not be sold and a no-sale fee will be applied.</p>
+		<p><strong>AAA Auction Nows Sells Guns</strong></p>
+		<p>We are pleased to announce that AAA Auction will now accept firearms for sale both at Mau’s Corner and also at the online auction barn in Nowthen.</p>
+		<p><strong>New Lower Rates!</strong></p>
+		<p>AAA Auction has always offered Sellers at Mau’s Corner’s live Tuesday auctions very good commission rates, but they just got better. The new per item selling price commission rates at Mau’s Corner are as follows:</p>
+		<ul>
+			<li>$5 to $29.99 - 25%</li>
+			<li>$30 to $599.99 - 10%</li>
+			<li>$600 and up - Free</li>
+			<li>Firearms - 10%</li>
+			<li>U.S. Coins - 10%</li>
+		</ul>
+		<i>* These apply to Mau's and online</i>
+		<p>As always, bids are not accepted for less than $5 at Mau’s Corner and Buyers pay a 15% buyer’s premium on all purchases.</p> -->
+
+</p>
+		<!-- <p>Tuesday, May 30th</p> -->
+<!-- 		<div style="width:697px;">
+			<div style="width:50%;float:left;">
+					<a href=""><img style="width:95%;"" alt=""></a>
+			</div>
+			<div style="width:50%;float:right;">
+					<a href=""><img style="width:95%;"" alt=""></a>
+			</div>
+		</div> -->
+<!-- 		&nbsp;
+		&nbsp; -->
+		<!-- <hr>
+		<p>Anyone can sell. Bag it. Box it or Bring it to Mau’s Corner 3 miles north of St. Francis on Highway 47 any Tuesday beginning April 4th. You don’t need to call ahead. There are NO FLEA MARKET VENDOR FEES and the auction commissions are low.</p> -->
+		<!-- <p>Thank you all for another great season at Mau's Corner!</p> -->
+</div>
+
+<div class="recent">
+  <h2><a href="https://www.auctionmn.com/cgi-bin/mmlist.cgi?auctionmn1/category/ALL">Online Auction Ended On Tuesday, September 25th</a></h2>
+  <div class="flexbox">
+    <a href="https://www.auctionmn.com/cgi-bin/mmlist.cgi?auctionmn1/27"><img src="https://www.auctionmn.com/images/2018-09-25/T27-1.jpg" alt="Lot 27"></a>
+    <a href="https://www.auctionmn.com/cgi-bin/mmlist.cgi?auctionmn1/34"><img src="https://www.auctionmn.com/images/2018-09-25/T34-1.jpg" alt="Lot 34"></a>
+    <a href="https://www.auctionmn.com/cgi-bin/mmlist.cgi?auctionmn1/40"><img src="https://www.auctionmn.com/images/2018-09-25/T40-1.jpg" alt="Lot 40"></a>
+    <a href="https://www.auctionmn.com/cgi-bin/mmlist.cgi?auctionmn1/43"><img src="https://www.auctionmn.com/images/2018-09-25/T43-1.jpg" alt="Lot 43"></a>
+    <a href="https://www.auctionmn.com/cgi-bin/mmlist.cgi?auctionmn1/55"><img src="https://www.auctionmn.com/images/2018-09-25/T55-1.jpg" alt="Lot 55"></a>
+  </div>
+    <p><strong>Pickup Location</strong></p>
+      <p><a target="_blank" href="https://goo.gl/maps/L9u81MhP4dq">7140 Old Viking Blvd NW, Nowthen MN</a></p>
+    <p><strong>Pickup Time</strong></p>
+      <p>Wednesday, September 26th, from 9:30 a.m. to 7 p.m.</p>
+    <p><a href="https://auctionmn.com/general-terms-and-conditions.shtml">Terms and Conditions</a> for this auction.</p>
+</div>
+
+
+<div class="recent">
+  <h2><a href="https://www.auctionmn.com/cgi-bin/mmlist.cgi?auctionmn/category/ALL">Online Auction Ended On Tuesday, September 11th</a></h2>
+  <div class="flexbox">
+    <a href="https://www.auctionmn.com/cgi-bin/mmlist.cgi?auctionmn/11"><img src="https://www.auctionmn.com/images/2018-09-11/T11-1.jpg" alt="Lot 11"></a>
+    <a href="https://www.auctionmn.com/cgi-bin/mmlist.cgi?auctionmn/31"><img src="https://www.auctionmn.com/images/2018-09-11/T31-1.jpg" alt="Lot 31"></a>
+    <a href="https://www.auctionmn.com/cgi-bin/mmlist.cgi?auctionmn/46"><img src="https://www.auctionmn.com/images/2018-09-11/T46-1.jpg" alt="Lot 46"></a>
+    <a href="https://www.auctionmn.com/cgi-bin/mmlist.cgi?auctionmn/47"><img src="https://www.auctionmn.com/images/2018-09-11/T47-1.jpg" alt="Lot 47"></a>
+    <a href="https://www.auctionmn.com/cgi-bin/mmlist.cgi?auctionmn/59"><img src="https://www.auctionmn.com/images/2018-09-11/T59-1.jpg" alt="Lot 59"></a>
+    <a href="https://www.auctionmn.com/cgi-bin/mmlist.cgi?auctionmn/101"><img src="https://www.auctionmn.com/images/2018-09-11/T101-1.jpg" alt="Lot 101"></a>
+    <a href="https://www.auctionmn.com/cgi-bin/mmlist.cgi?auctionmn/114"><img src="https://www.auctionmn.com/images/2018-09-11/T114-1.jpg" alt="Lot 114"></a>
+    <!-- <a href="https://www.auctionmn.com/cgi-bin/mmlist.cgi?auctionmn/166"><img src="https://www.auctionmn.com/images/2018-09-11/T166-1.jpg" alt="Lot 166"></a>
+    <a href="https://www.auctionmn.com/cgi-bin/mmlist.cgi?auctionmn/175"><img src="https://www.auctionmn.com/images/2018-09-11/T175-1.jpg" alt="Lot 175"></a>
+    <a href="https://www.auctionmn.com/cgi-bin/mmlist.cgi?auctionmn/182"><img src="https://www.auctionmn.com/images/2018-09-11/T182-1.jpg" alt="Lot 182"></a>
+    <a href="https://www.auctionmn.com/cgi-bin/mmlist.cgi?auctionmn/187"><img src="https://www.auctionmn.com/images/2018-09-11/T187-1.jpg" alt="Lot 187"></a>
+    <a href="https://www.auctionmn.com/cgi-bin/mmlist.cgi?auctionmn/191"><img src="https://www.auctionmn.com/images/2018-09-11/T191-1.jpg" alt="Lot 191"></a>
+    <a href="https://www.auctionmn.com/cgi-bin/mmlist.cgi?auctionmn/217"><img src="https://www.auctionmn.com/images/2018-09-11/T217-1.jpg" alt="Lot 217"></a>
+    <a href="https://www.auctionmn.com/cgi-bin/mmlist.cgi?auctionmn/258"><img src="https://www.auctionmn.com/images/2018-09-11/T258-1.jpg" alt="Lot 258"></a>
+    <a href="https://www.auctionmn.com/cgi-bin/mmlist.cgi?auctionmn/265"><img src="https://www.auctionmn.com/images/2018-09-11/T265-1.jpg" alt="Lot 265"></a>
+    <a href="https://www.auctionmn.com/cgi-bin/mmlist.cgi?auctionmn/272"><img src="https://www.auctionmn.com/images/2018-09-11/T272-1.jpg" alt="Lot 272"></a>
+    <a href="https://www.auctionmn.com/cgi-bin/mmlist.cgi?auctionmn/292"><img src="https://www.auctionmn.com/images/2018-09-11/T292-1.jpg" alt="Lot 292"></a>
+    <a href="https://www.auctionmn.com/cgi-bin/mmlist.cgi?auctionmn/293"><img src="https://www.auctionmn.com/images/2018-09-11/T293-1.jpg" alt="Lot 293"></a>
+    <a href="https://www.auctionmn.com/cgi-bin/mmlist.cgi?auctionmn/351"><img src="https://www.auctionmn.com/images/2018-09-11/T351-1.jpg" alt="Lot 351"></a>
+    <a href="https://www.auctionmn.com/cgi-bin/mmlist.cgi?auctionmn/353"><img src="https://www.auctionmn.com/images/2018-09-11/T353-1.jpg" alt="Lot 353"></a> -->
+  </div>
+  <!-- <a href="https://www.auctionmn.com/cgi-bin/mmlist.cgi?auctionmn/category/ALL" class="bidnow rfloat"></a> -->
+    <p><strong>Pickup Location</strong></p>
+      <p><a target="_blank" href="https://goo.gl/maps/L9u81MhP4dq">7140 Old Viking Blvd NW, Nowthen MN</a></p>
+    <p><strong>Auction Ending Time</strong></p>
+      <p>Tuesday, September 11th, Auction ends starting at 7:30 p.m.</p>
+    <p><strong>Pickup Time</strong></p>
+      <p>Wednesday, September 12th, from 9:30 a.m. to 7 p.m.</p>
+    <p><strong>Auctioneer's Notes</strong></p>
+      <!-- <p>AAA auction does not appraise records. However, as a convenience, we have occasionally listed prices we found in American Records 1950 to 1975 published in 1998. This reference source list price ranges from very good to near mint. Where we have listed prices, we have used the lowest and the highest prices from the guide. We are making no representation about the condition or value of any record. Plus since we are not record appraisers it’s possible that we have made a mistake. The records have not been sound tested. Inspection is recommended.</p> -->
+    <p><a href="https://auctionmn.com/general-terms-and-conditions.shtml">Terms and Conditions</a> for this auction.</p>
+</div>
+
 
 
 <div class="recent">
@@ -263,11 +358,11 @@
     <!-- <a href="https://www.auctionmn.com/cgi-bin/mmlist.cgi?auctionmn15/177"><img src="https://www.auctionmn.com/images/2018-08-21/T177-1.jpg" alt="Lot 177"></a>
     <a href="https://www.auctionmn.com/cgi-bin/mmlist.cgi?auctionmn15/224"><img src="https://www.auctionmn.com/images/2018-08-21/T224-1.jpg" alt="Lot 224"></a> -->
   </div>
-    <p><strong>Pickup Location</strong></p>
+    <!-- <p><strong>Pickup Location</strong></p>
       <p><a target="_blank" href="https://goo.gl/maps/L9u81MhP4dq">7140 Old Viking Blvd NW, Nowthen MN</a></p>
     <p><strong>Pickup Time</strong></p>
       <p>Wednesday, August 22nd, from 9:30 a.m. to 7 p.m.</p>
-    <p><a href="https://auctionmn.com/general-terms-and-conditions.shtml">Terms and Conditions</a> for this auction.</p>
+    <p><a href="https://auctionmn.com/general-terms-and-conditions.shtml">Terms and Conditions</a> for this auction.</p> -->
 </div>
 
 <div class="recent">
