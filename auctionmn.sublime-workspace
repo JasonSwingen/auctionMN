@@ -135,8 +135,24 @@
 			"file": "index.shtml",
 			"settings":
 			{
-				"buffer_size": 102531,
+				"buffer_size": 116606,
 				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "/C/Users/Jason/Documents/AAA Auction/Auctions/2018-07-28/2018-07-28_maxanet_results.txt",
+			"settings":
+			{
+				"buffer_size": 0,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "/C/Users/Jason/Documents/AAA Auction/Auctions/2018-07-28/2018-07-28_maxanet_bidders.txt",
+			"settings":
+			{
+				"buffer_size": 0,
 				"line_ending": "Windows"
 			}
 		}
@@ -153,6 +169,22 @@
 		"selected_items":
 		[
 			[
+				"wrap",
+				"Emmet: Wrap With Abbreviation"
+			],
+			[
+				"package list",
+				"Package Control: List Packages"
+			],
+			[
+				"package",
+				"PackageResourceViewer: Open Resource"
+			],
+			[
+				"package op",
+				"PackageResourceViewer: Open Resource"
+			],
+			[
 				"location",
 				"Snippet: location-nowthen"
 			],
@@ -167,10 +199,6 @@
 			[
 				"upcom",
 				"Snippet: upcoming-auction"
-			],
-			[
-				"package",
-				"PackageResourceViewer: Open Resource"
 			],
 			[
 				"comment",
@@ -655,14 +683,23 @@
 	},
 	"expanded_folders":
 	[
-		"/C/Users/Jason/Documents/GitHub/auctionMN",
-		"/C/Users/Jason/Documents/GitHub/auctionMN/images"
+		"/C/Users/Jason/Documents/AAA Auction",
+		"/C/Users/Jason/Documents/AAA Auction/Auctions",
+		"/C/Users/Jason/Documents/AAA Auction/Auctions/2018-07-24",
+		"/C/Users/Jason/Documents/AAA Auction/Auctions/2018-07-28",
+		"/C/Users/Jason/Documents/AAA Auction/Auctions/2018-07-31"
 	],
 	"file_history":
 	[
+		"/C/Users/Jason/Documents/Backyard Leisure/Website Backups/2018-07/wp-content/themes/index.php",
+		"/C/Users/Jason/Documents/Backyard Leisure/Website Backups/2018-07/wp-config.php",
+		"/C/Users/Jason/Documents/AAA Auction/Auctions/2018-07-28/2018-07-28_Inventory.txt",
+		"/C/Users/Jason/Documents/AAA Auction/Auctions/2018-07-28/2018-07-28_maxanet_results.txt",
+		"/C/Users/Jason/Documents/GitHub/auctionMN/index-jason.shtml",
+		"/C/Users/Jason/AppData/Roaming/Sublime Text 3/Packages/User/new-auction.sublime-snippet",
+		"/C/Users/Jason/Documents/GitHub/auctionMN/team.shtml",
 		"/C/Users/Jason/Documents/GitHub/auctionMN/body_sitemap.inc",
 		"/C/Users/Jason/Documents/GitHub/auctionMN/header.ssi",
-		"/C/Users/Jason/Documents/GitHub/auctionMN/team.shtml",
 		"/C/Users/Jason/Documents/GitHub/auctionMN/how-to-choose-estate-selling-company.shtml",
 		"/C/Users/Jason/Documents/GitHub/auctionMN/tonysblog.shtml",
 		"/C/Users/Jason/Documents/GitHub/auctionMN/footer2.ssi",
@@ -672,7 +709,6 @@
 		"/C/Users/Jason/Documents/AAA Auction/Templates/AAA_Template_Email_18.8",
 		"/C/Users/Jason/Documents/AAA Auction/Templates/scratchpad.html",
 		"/C/Users/Jason/Documents/AAA Auction/Auctions/2018-07-24/2018-07-24_Inventory_V2.txt",
-		"/C/Users/Jason/AppData/Roaming/Sublime Text 3/Packages/User/new-auction.sublime-snippet",
 		"/C/Users/Jason/Documents/AAA Auction/Templates/AAA_Template_Email_18.2",
 		"/C/Users/Jason/Documents/AAA Auction/Templates/AAA_Template_Email_18.7",
 		"/C/Users/Jason/Documents/AAA Auction/Auctions/2018-07-24/2018-07-24_maxanet_results.txt",
@@ -734,7 +770,6 @@
 		"/C/Users/Jason/Documents/AAA Auction/Templates/AAA_Template_Email_15.9",
 		"/C/Users/Jason/Documents/AAA Auction/header.html",
 		"/C/Users/Jason/Documents/AAA Auction/Templates/footer.html",
-		"/C/Users/Jason/Documents/GitHub/auctionMN/index-jason.shtml",
 		"/C/Users/Jason/Documents/AAA Auction/Auctions_and_Backups/2018-02-27/2018-02-27_maxanet_bidders.txt",
 		"/C/Users/Jason/Documents/AAA Auction/Auctions_and_Backups/2018-02-27/2018-02-27_maxanet_results.txt",
 		"/C/Users/Jason/Documents/AAA Auction/Other/Registration_Instructions_rmvd_2018-03-13.txt",
@@ -783,11 +818,7 @@
 		"/C/Users/Jason/Documents/AAA Auction/Auctions_and_Backups/2017-10-24/2017-10-24_Inventory_TEXT_v2.txt",
 		"/C/Users/Jason/Documents/GitHub/auctionMN/directions.shtml",
 		"/C/Users/Jason/Documents/AAA Auction/Auctions_and_Backups/2017-10-10/2017-10-10_maxanet_results.txt",
-		"/C/Users/Jason/Documents/AAA Auction/Auctions_and_Backups/2017-10-10/2017-10-10_maxanet_bidders.txt",
-		"/C/Users/Jason/Documents/AAA Auction/Auctions_and_Backups/2017-10-10/2017-10-10_Inventory_TEXT.txt",
-		"/C/Users/Jason/Documents/AAA Auction/Auctions_and_Backups/2017-10-17/2017-10-17_Inventory_TEXT.txt",
-		"/C/Users/Jason/Documents/AAA Auction/Templates/AAA_Template_Email_14.2",
-		"/C/Users/Jason/Documents/AAA Auction/Templates/AAA_Template_Email_14.3"
+		"/C/Users/Jason/Documents/AAA Auction/Auctions_and_Backups/2017-10-10/2017-10-10_maxanet_bidders.txt"
 	],
 	"find":
 	{
@@ -807,6 +838,11 @@
 		"case_sensitive": false,
 		"find_history":
 		[
+			"auctionmn14",
+			"auctionmn12",
+			"jpg",
+			"https",
+			"http",
 			"http://www.auctionmn.com/images",
 			"http",
 			"href",
@@ -929,12 +965,7 @@
 			"<p>",
 			"<div class=\"imglink92\">",
 			"<p>",
-			"corvette",
-			"2017-06-17_3",
-			"JPG",
-			"vet",
-			"08",
-			"alt"
+			"corvette"
 		],
 		"highlight": true,
 		"in_selection": false,
@@ -963,15 +994,15 @@
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 102531,
+						"buffer_size": 116606,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								282,
-								282
+								10086,
+								10086
 							]
 						],
 						"settings":
@@ -1115,71 +1146,6 @@
 							],
 							"SL.13.region_keys":
 							[
-								"SL.jslint.Highlights.|76d7fd850a844fe056cb275525f55d869111b800da7f8adb1e35ce866a36afd1|region.redish markup.error.sublime_linter|32",
-								"SL.jslint.Highlights.|4fcaa41db4ca0f37775cd4d480307253d894e2c5a9e619aba87d7568cb6001e5|region.redish markup.error.sublime_linter|32",
-								"SL.jslint.Highlights.|b5df567f05396de857d65f67f6970d413cb1c94e1786c1259688b0e0ef2d1c88|region.redish markup.error.sublime_linter|32",
-								"SL.jslint.Highlights.|2fda472bd233f092ac7c6e5bddaf2b66432ec6a88303e85a6ed05229873d5d4f|region.redish markup.error.sublime_linter|32",
-								"SL.jslint.Highlights.|d4bfe02e1dab40e071e2d85396a6a1e8e8ff00d7f8c9199480effa8ec5e3858c|region.redish markup.error.sublime_linter|32",
-								"SL.jslint.Highlights.|0b0cf81000b056052c8281a4a99a4261c7716ee38a0ccf0b706199d316e12c58|region.redish markup.error.sublime_linter|32",
-								"SL.jslint.Highlights.|5a7c2dd05ab33103cfd10130d13346092e05b04be3886df9d8b45fe31c3ba97f|region.redish markup.error.sublime_linter|32",
-								"SL.jslint.Highlights.|64460c1743d6fea45e7187f3bbfe4c219e241470ab1eda88e1a8b4187cd9ba0e|region.redish markup.error.sublime_linter|32",
-								"SL.jslint.Highlights.|3946033a63b75cb67cee6f560f924dac514fb7ada0941e666658362b09d671da|region.redish markup.error.sublime_linter|32",
-								"SL.jslint.Highlights.|3b4c0c60dabfb6b031b9ec517d6a46ca058a5cd51b9f47bc748cf6d7f82998c2|region.redish markup.error.sublime_linter|32",
-								"SL.jslint.Highlights.|3eae98ed96daec7add95aae977d31d844352824ee49319779b6a5ca813451e63|region.redish markup.error.sublime_linter|32",
-								"SL.jslint.Highlights.|5fe94c279df01509e132df9ea141a25e3c3bf8454be4648e4a738b22b5b43a1d|region.redish markup.error.sublime_linter|32",
-								"SL.jslint.Highlights.|8562014133e6098aa85c9cde0b0ff33ac7e3406533c0bb770f545cd90aaea816|region.redish markup.error.sublime_linter|32",
-								"SL.jslint.Highlights.|365b77e5f579f945b20cfac31e77232f24bfa35d485935d69565b2d7c3970acc|region.redish markup.error.sublime_linter|32",
-								"SL.jslint.Highlights.|8dff6c0c74776d38abb2d6061124384188c4742d5ba1b6b0f19d6f4f8d466d5a|region.redish markup.error.sublime_linter|32",
-								"SL.jslint.Highlights.|c548a54cc527537e78eb975183658e7639f74a7cd49d148a7d85331587c20fe9|region.redish markup.error.sublime_linter|32",
-								"SL.jslint.Highlights.|16d0000f14c9bedbf186bb255fc22c8e177581344a4fd028b45be0a4edd20284|region.redish markup.error.sublime_linter|32",
-								"SL.jslint.Highlights.|7f89d4b531f2cb8cafd038385c0bdf079a0261413c1db48dc17a90e5e4f8eb25|region.redish markup.error.sublime_linter|32",
-								"SL.jslint.Highlights.|ba1ee88a8a9a6af9ec7172c307560740842d5c923382f2634579f0a0da987169|region.redish markup.error.sublime_linter|32",
-								"SL.jslint.Highlights.|3b9c249995ec597d80440cfd0230003d3dbf1a7691590265d155e32406da4a3f|region.redish markup.error.sublime_linter|32",
-								"SL.jslint.Highlights.|011bd38bad61c406ac329ec09d3edded39190b658d340cc1953af43c7dbd6e33|region.redish markup.error.sublime_linter|32",
-								"SL.jslint.Highlights.|f2de5720136eaa6e92e4f28bad5f696d3375de7113e8e8e09fa040649e88f6fe|region.redish markup.error.sublime_linter|32",
-								"SL.jslint.Highlights.|0c8c5aa0e1b1ed126b9551693d1085dd63d4a8f48f075f2e67f057a0244e0c0a|region.redish markup.error.sublime_linter|32",
-								"SL.jslint.Highlights.|c5ca5d814ab5199417f19c73520f703be21dded7324e41e072f49cbf7b8f2576|region.redish markup.error.sublime_linter|32",
-								"SL.jslint.Highlights.|84eb4f3bbca0dc774b98716806d6e7ee56f9e6848f94d4b8ebec0d0086e57c31|region.redish markup.error.sublime_linter|32",
-								"sublime_linter.protected_regions",
-								"SL.jslint.Highlights.|bf0bd597a04ae6f573a746dfc3e26841fafa3aedbfb25c1a033b1faf5b878a74|region.redish markup.error.sublime_linter|32",
-								"SL.jslint.Highlights.|f8cb7c3f3da6c5015ae45fa5b0ce7f30cd6654bfbe3d46ab4daee0e039d531ad|region.redish markup.error.sublime_linter|32",
-								"SL.jslint.Highlights.|0eac80d1cfe68fd6cf0a8eba75b5151660869cb83e6ef1d505f11d6eec9d0eb2|region.redish markup.error.sublime_linter|32",
-								"SL.jslint.Highlights.|1f8bbbf287d88b3f5dde4686550ff2bea799c96ff1e5b1a7fb80f6b1fab8081b|region.redish markup.error.sublime_linter|32",
-								"SL.jslint.Highlights.|eb0aeca3ad0318f864b2007f62a80e82ac796492519bd10070e7eecf31c4a446|region.redish markup.error.sublime_linter|32",
-								"SL.jslint.Highlights.|15da4df2eefb79af57b2c1c0a494005457948aa6b82442a6e7b2634643350631|region.redish markup.error.sublime_linter|32",
-								"SL.jslint.Highlights.|2491d1fa95c8e89fd071dc6a5d004a7392f9091943b0ba1d30253bfef7b6bd75|region.redish markup.error.sublime_linter|32",
-								"SL.jslint.Highlights.|a355f17ddacfcac1539381cc7fc2de2f3ff222f32c5ef300fe0e1f0821776b28|region.redish markup.error.sublime_linter|32",
-								"SL.jslint.Highlights.|2933ca7538316e1b362ab4d510105d6b7a3945092a47fbdc55b95f2159029d21|region.redish markup.error.sublime_linter|32",
-								"SL.jslint.Highlights.|840c2d48459db1795d10c64b1646651d625193a4779feb821a913640058522ef|region.redish markup.error.sublime_linter|32",
-								"SL.jslint.Highlights.|6ea01cebe598269d43c985e8b3adb6a15f44ccccaf3f2d736f6042a83f8ed999|region.redish markup.error.sublime_linter|32",
-								"SL.jslint.Highlights.|9664c4df93447537918a98dbad7f0a7f36cfe18182ed38670b1e7c7f9ab61668|region.redish markup.error.sublime_linter|32",
-								"SL.jslint.Highlights.|8049eda3ace0a8a4f33931ce1b276575d36fdac058eec7be8d68a59cdaf0de8b|region.redish markup.error.sublime_linter|32",
-								"SL.jslint.Highlights.|076718cb7558c7cc8cdd029df74517ad5a43d31b5cc45b0cc1bbd1b882bb1e67|region.redish markup.error.sublime_linter|32",
-								"SL.jslint.Highlights.|203597a56435003663ef97378128ebfc4b6b8cb868cd0666eb249430e8c9f1b0|region.redish markup.error.sublime_linter|32",
-								"SL.jslint.Highlights.|56e3a5e897fa11857e4b369f5e294ab35f68f6f88c917d5b0b2e94564c1d19e5|region.redish markup.error.sublime_linter|32",
-								"SL.jslint.Gutter.|region.redish markup.error.sublime_linter|dot",
-								"SL.jslint.Highlights.|92c617057b81c08d1fd9ce39cbc64f290bf42f6872cfee6fe045c6f6414efb9c|region.redish markup.error.sublime_linter|32",
-								"SL.jslint.Highlights.|15be4c0874e1c9fa55ef1b29fa3aa33e35024334175ffef075818f889986084e|region.redish markup.error.sublime_linter|32",
-								"SL.jslint.Highlights.|ee380b4f075387e9dc4eead65b30e02557ffa6fcf3f9617906b58dc48d65a996|region.redish markup.error.sublime_linter|32",
-								"SL.jslint.Highlights.|f339480d620676a0a41e4ff2d8ff3c05f31fbc6b621fda823da54b124dcff88e|region.redish markup.error.sublime_linter|32",
-								"SL.jslint.Highlights.|1c17ea1ff921761b3a6a90c3b02fe2e07deea37dbb2834a6f43f2ab50ff6b948|region.redish markup.error.sublime_linter|32",
-								"SL.jslint.Highlights.|db431b4be9af06973cc0fa1a4f7598622dafe430a82ed2d59fa5072abcf7be19|region.redish markup.error.sublime_linter|32",
-								"SL.jslint.Highlights.|d83d60760a592c96b6b0a6ef04e1dd057f2212bb02d206d3d1f195199cbe3413|region.redish markup.error.sublime_linter|32",
-								"SL.jslint.Highlights.|86488822728f55d0a9533189b0fe25fa0f4f3b1d38ab43dfff989a80ee5a5323|region.redish markup.error.sublime_linter|32",
-								"SL.jslint.Highlights.|cb11d32329e7a9f3c6ba44ab4b22cef672493130faf52a2eaf9b6e82593ac45f|region.redish markup.error.sublime_linter|32",
-								"SL.jslint.Highlights.|1e804df2da4cb0dd681b3e94d40097016590a24d810bae5f24032965519fa2e3|region.redish markup.error.sublime_linter|32",
-								"SL.jslint.Highlights.|ff7d21a3f37c82acbe11efb28e8da7a3adff58255eeb0a58c881097af6fe0498|region.redish markup.error.sublime_linter|32",
-								"SL.jslint.Highlights.|6bbc1703e379b52285fabce3be23dd89d12efbe9f21e9d6460192b6bc9cc4995|region.redish markup.error.sublime_linter|32",
-								"SL.jslint.Highlights.|cb50a41b8d8213503ce36050b28ed38939c887e5da7005454ede872c9bb21072|region.redish markup.error.sublime_linter|32",
-								"SL.jslint.Highlights.|84f861e7733b805bd1715eaa0a3f40dcaaa8fca831e77988fb883b6061148f5d|region.redish markup.error.sublime_linter|32",
-								"SL.jslint.Highlights.|113e7e229ee5a13c83ffb8e059f4074cb3559d68b50247e2c753a697572c5e63|region.redish markup.error.sublime_linter|32",
-								"SL.jslint.Highlights.|40245e22157ea7f131d515669493d79ad4b85641d8264e74c2101e47569a927d|region.redish markup.error.sublime_linter|32",
-								"SL.jslint.Highlights.|533eb23a7a6cedc79183a071816b07eb4c17f709f6ee15e2a9d6559430bc3c4f|region.redish markup.error.sublime_linter|32",
-								"SL.jslint.Highlights.|86286dcaa9523862b6d93579d24e9d35b34742bf83ce9547b526f2f846b35577|region.redish markup.error.sublime_linter|32",
-								"SL.jslint.Highlights.|f52d8a51ddfa4e3d6ec036c93f7895ef3aa04c04f71090a981d1400d3e7f7bc2|region.redish markup.error.sublime_linter|32",
-								"SL.jslint.Highlights.|9e9319b0a93f2e52508548945d3d650539d5fd6b4a578f87d5a4aafe1c8a59fb|region.redish markup.error.sublime_linter|32",
-								"SL.jslint.Highlights.|afcd0cb8c8e9085f152fc1686b26f91f7c076b708992aa748de0651098c03fb4|region.redish markup.error.sublime_linter|32",
-								"SL.jslint.Highlights.|4845b1a32b73fb04c9a7615b33314a6a7464499d7d45ad17a7f0ed71cfaa84a3|region.redish markup.error.sublime_linter|32"
 							],
 							"SL.14.region_keys":
 							[
@@ -1891,24 +1857,24 @@
 								{
 									"1":
 									[
-										100289,
-										100290
+										10084,
+										10085
 									]
 								},
 								"icon":
 								{
 									"1":
 									[
-										"Packages/BracketHighlighter/icons/double_quote.png",
-										"region.greenish"
+										"Packages/BracketHighlighter/icons/tag.png",
+										"region.orangish"
 									]
 								},
 								"open":
 								{
 									"1":
 									[
-										100224,
-										100225
+										10041,
+										10042
 									]
 								},
 								"unmatched":
@@ -1917,36 +1883,11 @@
 							},
 							"bracket_highlighter.clone_regions":
 							[
-								"bh_square",
-								"bh_square_center",
-								"bh_square_open",
-								"bh_square_close",
-								"bh_square_content",
-								"bh_angle",
-								"bh_angle_center",
-								"bh_angle_open",
-								"bh_angle_close",
-								"bh_angle_content",
-								"bh_c_define",
-								"bh_c_define_center",
-								"bh_c_define_open",
-								"bh_c_define_close",
-								"bh_c_define_content",
-								"bh_single_quote",
-								"bh_single_quote_center",
-								"bh_single_quote_open",
-								"bh_single_quote_close",
-								"bh_single_quote_content",
-								"bh_regex",
-								"bh_regex_center",
-								"bh_regex_open",
-								"bh_regex_close",
-								"bh_regex_content",
-								"bh_double_quote",
-								"bh_double_quote_center",
-								"bh_double_quote_open",
-								"bh_double_quote_close",
-								"bh_double_quote_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
 								"bh_tag",
 								"bh_tag_center",
 								"bh_tag_open",
@@ -1957,11 +1898,104 @@
 								"bh_default_open",
 								"bh_default_close",
 								"bh_default_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
 								"bh_round",
 								"bh_round_center",
 								"bh_round_open",
 								"bh_round_close",
 								"bh_round_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content"
+							],
+							"bracket_highlighter.locations":
+							{
+								"close":
+								{
+									"1":
+									[
+										10021,
+										10024
+									]
+								},
+								"icon":
+								{
+									"1":
+									[
+										"Packages/BracketHighlighter/icons/tag.png",
+										"region.orangish"
+									]
+								},
+								"open":
+								{
+									"1":
+									[
+										10021,
+										10024
+									]
+								},
+								"unmatched":
+								{
+								}
+							},
+							"bracket_highlighter.regions":
+							[
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
 								"bh_unmatched",
 								"bh_unmatched_center",
 								"bh_unmatched_open",
@@ -1971,45 +2005,95 @@
 								"bh_curly_center",
 								"bh_curly_open",
 								"bh_curly_close",
-								"bh_curly_content"
+								"bh_curly_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content"
 							],
-							"bracket_highlighter.locations":
+							"color_scheme": "Packages/User/Color Highlighter/themes/Material-Theme-Darker.tmTheme",
+							"git_savvy.file_path": "C:\\Users\\Jason\\Documents\\GitHub\\auctionMN\\index.shtml",
+							"git_savvy.repo_path": "C:\\Users\\Jason\\Documents\\GitHub\\auctionMN",
+							"incomplete_sync": null,
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/HTML/HTML.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 2552.8,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "/C/Users/Jason/Documents/AAA Auction/Auctions/2018-07-28/2018-07-28_maxanet_results.txt",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 0,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"SL.14.region_keys":
+							[
+							],
+							"bracket_highlighter.busy": false,
+							"bracket_highlighter.clone": -1,
+							"bracket_highlighter.clone_locations":
 							{
 								"close":
 								{
-									"1":
-									[
-										322,
-										323
-									]
 								},
 								"icon":
 								{
-									"1":
-									[
-										"Packages/BracketHighlighter/icons/double_quote.png",
-										"region.greenish"
-									]
 								},
 								"open":
 								{
-									"1":
-									[
-										276,
-										277
-									]
 								},
 								"unmatched":
 								{
 								}
 							},
-							"bracket_highlighter.regions":
+							"bracket_highlighter.clone_regions":
 							[
-								"bh_default",
-								"bh_default_center",
-								"bh_default_open",
-								"bh_default_close",
-								"bh_default_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
 								"bh_square",
 								"bh_square_center",
 								"bh_square_open",
@@ -2025,26 +2109,16 @@
 								"bh_double_quote_open",
 								"bh_double_quote_close",
 								"bh_double_quote_content",
-								"bh_c_define",
-								"bh_c_define_center",
-								"bh_c_define_open",
-								"bh_c_define_close",
-								"bh_c_define_content",
-								"bh_tag",
-								"bh_tag_center",
-								"bh_tag_open",
-								"bh_tag_close",
-								"bh_tag_content",
 								"bh_angle",
 								"bh_angle_center",
 								"bh_angle_open",
 								"bh_angle_close",
 								"bh_angle_content",
-								"bh_round",
-								"bh_round_center",
-								"bh_round_open",
-								"bh_round_close",
-								"bh_round_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
 								"bh_unmatched",
 								"bh_unmatched_center",
 								"bh_unmatched_open",
@@ -2055,26 +2129,225 @@
 								"bh_regex_open",
 								"bh_regex_close",
 								"bh_regex_content",
-								"bh_single_quote",
-								"bh_single_quote_center",
-								"bh_single_quote_open",
-								"bh_single_quote_close",
-								"bh_single_quote_content"
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content"
 							],
-							"color_scheme": "Packages/User/Color Highlighter/themes/Material-Theme-Darker.tmTheme",
-							"git_savvy.file_path": "C:\\Users\\Jason\\Documents\\GitHub\\auctionMN\\index.shtml",
-							"git_savvy.repo_path": "C:\\Users\\Jason\\Documents\\GitHub\\auctionMN",
+							"bracket_highlighter.locations":
+							{
+								"close":
+								{
+								},
+								"icon":
+								{
+								},
+								"open":
+								{
+								},
+								"unmatched":
+								{
+								}
+							},
 							"incomplete_sync": null,
 							"remote_loading": false,
 							"synced": false,
-							"syntax": "Packages/HTML/HTML.tmLanguage",
-							"translate_tabs_to_spaces": false
+							"syntax": "Packages/Text/Plain text.tmLanguage"
 						},
 						"translation.x": 0.0,
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 0,
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "/C/Users/Jason/Documents/AAA Auction/Auctions/2018-07-28/2018-07-28_maxanet_bidders.txt",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 0,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"SL.15.region_keys":
+							[
+							],
+							"bracket_highlighter.busy": false,
+							"bracket_highlighter.clone": 17,
+							"bracket_highlighter.clone_locations":
+							{
+								"close":
+								{
+								},
+								"icon":
+								{
+								},
+								"open":
+								{
+								},
+								"unmatched":
+								{
+								}
+							},
+							"bracket_highlighter.clone_regions":
+							[
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content"
+							],
+							"bracket_highlighter.locations":
+							{
+								"close":
+								{
+								},
+								"icon":
+								{
+								},
+								"open":
+								{
+								},
+								"unmatched":
+								{
+								}
+							},
+							"bracket_highlighter.regions":
+							[
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content"
+							],
+							"incomplete_sync": null,
+							"open_with_edit": true,
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/Text/Plain text.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
 					"type": "text"
 				}
 			]
