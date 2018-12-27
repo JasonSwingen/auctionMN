@@ -66,46 +66,50 @@
 
 
 
-
-
-
-
-<!-- <div class="current">
-  <h2><a href="https://www.auctionmn.com/cgi-bin/mmlist.cgi?auctionmn9/category/ALL">Online Auction Ending On Tuesday, December 18th</a></h2>
+<div class="current">
+  <h2><a href="https://www.auctionmn.com/cgi-bin/mmlist.cgi?auctionmn10/category/ALL">Online Auction Ending On Tuesday, January 8th</a></h2>
   <div class="flexbox">
-    <a href="https://www.auctionmn.com/cgi-bin/mmlist.cgi?auctionmn9/20"><img src="https://www.auctionmn.com/images/2018-12-18/T20-1.jpg" alt="Lot 20"></a>
-    <a href="https://www.auctionmn.com/cgi-bin/mmlist.cgi?auctionmn9/26"><img src="https://www.auctionmn.com/images/2018-12-18/T26-1.jpg" alt="Lot 26"></a>
-    <a href="https://www.auctionmn.com/cgi-bin/mmlist.cgi?auctionmn9/35"><img src="https://www.auctionmn.com/images/2018-12-18/T35-1.jpg" alt="Lot 35"></a>
-    <a href="https://www.auctionmn.com/cgi-bin/mmlist.cgi?auctionmn9/39"><img src="https://www.auctionmn.com/images/2018-12-18/T39-1.jpg" alt="Lot 39"></a>
-    <a href="https://www.auctionmn.com/cgi-bin/mmlist.cgi?auctionmn9/47"><img src="https://www.auctionmn.com/images/2018-12-18/T47-1.jpg" alt="Lot 47"></a>
-    <a href="https://www.auctionmn.com/cgi-bin/mmlist.cgi?auctionmn9/51"><img src="https://www.auctionmn.com/images/2018-12-18/T51-1.jpg" alt="Lot 51"></a>
-    <a href="https://www.auctionmn.com/cgi-bin/mmlist.cgi?auctionmn9/54"><img src="https://www.auctionmn.com/images/2018-12-18/T54-1.jpg" alt="Lot 54"></a>
-    <a href="https://www.auctionmn.com/cgi-bin/mmlist.cgi?auctionmn9/113"><img src="https://www.auctionmn.com/images/2018-12-18/T113-1.jpg" alt="Lot 113"></a>
-    <a href="https://www.auctionmn.com/cgi-bin/mmlist.cgi?auctionmn9/115"><img src="https://www.auctionmn.com/images/2018-12-18/T115-1.jpg" alt="Lot 115"></a>
-    <a href="https://www.auctionmn.com/cgi-bin/mmlist.cgi?auctionmn9/144"><img src="https://www.auctionmn.com/images/2018-12-18/T144-1.jpg" alt="Lot 144"></a>
-    <a href="https://www.auctionmn.com/cgi-bin/mmlist.cgi?auctionmn9/159"><img src="https://www.auctionmn.com/images/2018-12-18/T159-1.jpg" alt="Lot 159"></a>
-    <a href="https://www.auctionmn.com/cgi-bin/mmlist.cgi?auctionmn9/264"><img src="https://www.auctionmn.com/images/2018-12-18/T264-1.jpg" alt="Lot 264"></a>
-    <a href="https://www.auctionmn.com/cgi-bin/mmlist.cgi?auctionmn9/276"><img src="https://www.auctionmn.com/images/2018-12-18/T276-1.jpg" alt="Lot 276"></a>
-    <a href="https://www.auctionmn.com/cgi-bin/mmlist.cgi?auctionmn9/291"><img src="https://www.auctionmn.com/images/2018-12-18/T291-1.jpg" alt="Lot 291"></a>
-    <a href="https://www.auctionmn.com/cgi-bin/mmlist.cgi?auctionmn9/294"><img src="https://www.auctionmn.com/images/2018-12-18/T294-1.jpg" alt="Lot 294"></a>
-    <a href="https://www.auctionmn.com/cgi-bin/mmlist.cgi?auctionmn9/299"><img src="https://www.auctionmn.com/images/2018-12-18/T299-1.jpg" alt="Lot 299"></a>
-    <a href="https://www.auctionmn.com/cgi-bin/mmlist.cgi?auctionmn9/381"><img src="https://www.auctionmn.com/images/2018-12-18/T381-1.jpg" alt="Lot 381"></a>
-    <a href="https://www.auctionmn.com/cgi-bin/mmlist.cgi?auctionmn9/385"><img src="https://www.auctionmn.com/images/2018-12-18/T385-1.jpg" alt="Lot 385"></a>
+    <a href="https://www.auctionmn.com/cgi-bin/mmlist.cgi?auctionmn10/6"><img src="https://www.auctionmn.com/images/2019-01-08/T6-1.jpg" alt="6"></a>
+    <a href="https://www.auctionmn.com/cgi-bin/mmlist.cgi?auctionmn10/8"><img src="https://www.auctionmn.com/images/2019-01-08/T8-1.jpg" alt="8"></a>
+    <a href="https://www.auctionmn.com/cgi-bin/mmlist.cgi?auctionmn10/12"><img src="https://www.auctionmn.com/images/2019-01-08/T12-1.jpg" alt="12"></a>
+    <a href="https://www.auctionmn.com/cgi-bin/mmlist.cgi?auctionmn10/19"><img src="https://www.auctionmn.com/images/2019-01-08/T19-1.jpg" alt="19"></a>
+    <a href="https://www.auctionmn.com/cgi-bin/mmlist.cgi?auctionmn10/31"><img src="https://www.auctionmn.com/images/2019-01-08/T31-1.jpg" alt="31"></a>
+    <a href="https://www.auctionmn.com/cgi-bin/mmlist.cgi?auctionmn10/35"><img src="https://www.auctionmn.com/images/2019-01-08/T35-1.jpg" alt="35"></a>
+    <a href="https://www.auctionmn.com/cgi-bin/mmlist.cgi?auctionmn10/56"><img src="https://www.auctionmn.com/images/2019-01-08/T56-1.jpg" alt="56"></a>
+    <a href="https://www.auctionmn.com/cgi-bin/mmlist.cgi?auctionmn10/72"><img src="https://www.auctionmn.com/images/2019-01-08/T72-1.jpg" alt="72"></a>
+    <a href="https://www.auctionmn.com/cgi-bin/mmlist.cgi?auctionmn10/86"><img src="https://www.auctionmn.com/images/2019-01-08/T86-1.jpg" alt="86"></a>
+    <a href="https://www.auctionmn.com/cgi-bin/mmlist.cgi?auctionmn10/113"><img src="https://www.auctionmn.com/images/2019-01-08/T113-1.jpg" alt="113"></a>
+    <a href="https://www.auctionmn.com/cgi-bin/mmlist.cgi?auctionmn10/124"><img src="https://www.auctionmn.com/images/2019-01-08/T124-1.jpg" alt="124"></a>
+    <a href="https://www.auctionmn.com/cgi-bin/mmlist.cgi?auctionmn10/128"><img src="https://www.auctionmn.com/images/2019-01-08/T128-1.jpg" alt="128"></a>
+    <a href="https://www.auctionmn.com/cgi-bin/mmlist.cgi?auctionmn10/134"><img src="https://www.auctionmn.com/images/2019-01-08/T134-1.jpg" alt="134"></a>
+    <a href="https://www.auctionmn.com/cgi-bin/mmlist.cgi?auctionmn10/146"><img src="https://www.auctionmn.com/images/2019-01-08/T146-1.jpg" alt="146"></a>
+    <a href="https://www.auctionmn.com/cgi-bin/mmlist.cgi?auctionmn10/165"><img src="https://www.auctionmn.com/images/2019-01-08/T165-1.jpg" alt="165"></a>
+    <a href="https://www.auctionmn.com/cgi-bin/mmlist.cgi?auctionmn10/158"><img src="https://www.auctionmn.com/images/2019-01-08/T158-1.jpg" alt="158"></a>
+    <a href="https://www.auctionmn.com/cgi-bin/mmlist.cgi?auctionmn10/154"><img src="https://www.auctionmn.com/images/2019-01-08/T154-1.jpg" alt="154"></a>
+<!--     <a href="https://www.auctionmn.com/cgi-bin/mmlist.cgi?auctionmn10/184"><img src="https://www.auctionmn.com/images/2019-01-08/T184-1.jpg" alt="184"></a>
+    <a href="https://www.auctionmn.com/cgi-bin/mmlist.cgi?auctionmn10/188"><img src="https://www.auctionmn.com/images/2019-01-08/T188-1.jpg" alt="188"></a>
+    <a href="https://www.auctionmn.com/cgi-bin/mmlist.cgi?auctionmn10/257"><img src="https://www.auctionmn.com/images/2019-01-08/T257-1.jpg" alt="257"></a> -->
   </div>
-  <a href="https://www.auctionmn.com/cgi-bin/mmlist.cgi?auctionmn9/category/ALL" class="bidnow rfloat"></a>
+  <a href="https://www.auctionmn.com/cgi-bin/mmlist.cgi?auctionmn10/category/ALL" class="bidnow rfloat"></a>
+  <!-- Enable if auction is an online auction hosted on proxibid -->
+  <!-- <a href="https://www.proxibid.com/asp/Catalog.asp?aid=*"><img class="rfloat" src="http://www.auctionmn.com/images/2014-02-14/proxibid.gif" alt=""></a> -->
     <p><strong>Preview and Pickup Location</strong></p>
       <p><a target="_blank" href="https://goo.gl/maps/L9u81MhP4dq">7140 Old Viking Blvd NW, Nowthen MN</a></p>
     <p><strong>Preview Time</strong></p>
-      <p>Monday, December 17th, from 11 a.m. to 1 p.m.</p>
+      <p>Monday, January 7th, from 11 a.m. to 1 p.m.</p>
     <p><strong>Auction Ending Time</strong></p>
-      <p>Tuesday, December 18th, Auction ends starting at 7:30 p.m.</p>
+      <p>Tuesday, January 8th, Auction ends starting at 7:30 p.m.</p>
     <p><strong>Pickup Time</strong></p>
-      <p>Wednesday, December 19th, from 9 a.m. to 7 p.m.</p>
+      <p>Wednesday, January 9th, from 9:30 a.m. to 7 p.m.</p>
+      <!-- <p>Thursday, PICKUP, from PICKUP a.m. to PICKUP</p> -->
     <p><strong>Auctioneer's Notes</strong></p>
-      <p>This is our last auction for 2018! Shop with us for your Christmas gifts and the next online auction will close in 2019! Thank you for your continued support!</p>
-      <p>Invoices for this auction will be sent out by 11 p.m. on December 18th.</p>
+      <p>This auction has more than the usual amount of good quality collectibles. We also have coins, guns and some heavy cabinets. Just as a reminder, cash is necessary when purchasing coins and muscle is necessary when purchasing heavy items because we do not offer loading assistance. Thank you.</p>
     <p><a href="https://auctionmn.com/general-terms-and-conditions.shtml">Terms and Conditions</a> for this auction.</p>
-</div> -->
+</div>
+
+
+
+
 
 
 
@@ -160,13 +164,13 @@
     <a href="https://www.auctionmn.com/cgi-bin/mmlist.cgi?auctionmn9/47"><img src="https://www.auctionmn.com/images/2018-12-18/T47-1.jpg" alt="Lot 47"></a>
     <a href="https://www.auctionmn.com/cgi-bin/mmlist.cgi?auctionmn9/51"><img src="https://www.auctionmn.com/images/2018-12-18/T51-1.jpg" alt="Lot 51"></a>
   </div>
-    <p><strong>Pickup Location</strong></p>
+<!--     <p><strong>Pickup Location</strong></p>
       <p><a target="_blank" href="https://goo.gl/maps/L9u81MhP4dq">7140 Old Viking Blvd NW, Nowthen MN</a></p>
     <p><strong>Pickup Time</strong></p>
       <p>Wednesday, December 19th, from 9 a.m. to 7 p.m.</p>
     <p><strong>Auctioneer's Notes</strong></p>
       <p>This is our last auction for 2018! Shop with us for your Christmas gifts and the next online auction will close in 2019! Thank you for your continued support!</p>
-    <p><a href="https://auctionmn.com/general-terms-and-conditions.shtml">Terms and Conditions</a> for this auction.</p>
+    <p><a href="https://auctionmn.com/general-terms-and-conditions.shtml">Terms and Conditions</a> for this auction.</p> -->
 </div>
 
 
