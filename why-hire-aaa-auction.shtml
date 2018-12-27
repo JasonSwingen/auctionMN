@@ -1,16 +1,14 @@
 <!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
 <html><head>
-<meta http-equiv="content-type" content="text/html; charset=iso-8859-1"><title>Why Choose AAA | AAA Auction and Realty Company</title>
+<meta http-equiv="content-type" content="text/html; charset=ISO-8859-1"><title>Why Hire AAA Auction</title>
 
 <link rel="stylesheet" href="/auctionmn.css" type="text/css">
-<link rel="stylesheet" href="/auctionmnpr.css" type="text/css" media="print">
-<!--#include file="head_sitemap.inc"-->
-</head>
+<link rel="stylesheet" href="/auctionmnpr.css" type="text/css" media="print"><!--#include file="head_sitemap.inc"--></head>
 <body>
 <div id="Content">
-<div id="Header"><!--#include file="header.ssi"--> </div>
-<article>
+<div id="Header"><!--#include file="header.ssi"--></div>
 
+<article>
 	<h1>Why Hire AAA Auction</h1>
 
 	<h2>Experience</h2>
@@ -28,11 +26,11 @@
 	<h2>Convenient</h2>
 		<p>Our online consignment auctions are held at our auction barn in Nowthen and our live consignment auctions take place at Mau’s Corner just three miles north of St. Francis on Highway 47. We also do full onsite live auctions and we are happy to ship your items to you as well.</p>
 
-<p><img alt="Why Choose AAA Auction" src="images/2016_Canoe/Canoe_9.jpg" border="2" width="785"></p>
-
 </article>
-<div id="Footer"><!--#include file="footer.ssi"--> </div>
+
+
+<div id="Footer"><!--#include file="footer.ssi"--></div>
 </div>
 <div id="Menu">
-<!--#include file="body_sitemap.inc"--><!--#include file="footer2.ssi"--> </div>
+<!--#include file="body_sitemap.inc"--><!--#include file="footer2.ssi"--></div>
 </body></html>
