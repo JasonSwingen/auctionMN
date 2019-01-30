@@ -17,6 +17,8 @@
 
 <!--#include file="head_sitemap.inc"-->
 <meta type="description" content="AAA Auction and Realty is your local online, live, and benefit auction specialist. View our current online auctions.">
+<meta property="og:image" content="https://www.auctionmn.com/images/AAA_Auction_Logo.jpg" />
+<meta property="og:description" content="AAA Auction is Minnesota's leading online, live, and benefit auction specialist." />
 <script>
   (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
   (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
@@ -66,46 +68,7 @@
 
 
 
-<div class="current">
-  <h2><a href="https://www.auctionmn.com/cgi-bin/mmlist.cgi?auctionmn10/category/ALL">Online Auction Ending On Tuesday, January 8th</a></h2>
-  <div class="flexbox">
-    <a href="https://www.auctionmn.com/cgi-bin/mmlist.cgi?auctionmn10/6"><img src="https://www.auctionmn.com/images/2019-01-08/T6-1.jpg" alt="6"></a>
-    <a href="https://www.auctionmn.com/cgi-bin/mmlist.cgi?auctionmn10/8"><img src="https://www.auctionmn.com/images/2019-01-08/T8-1.jpg" alt="8"></a>
-    <a href="https://www.auctionmn.com/cgi-bin/mmlist.cgi?auctionmn10/12"><img src="https://www.auctionmn.com/images/2019-01-08/T12-1.jpg" alt="12"></a>
-    <a href="https://www.auctionmn.com/cgi-bin/mmlist.cgi?auctionmn10/19"><img src="https://www.auctionmn.com/images/2019-01-08/T19-1.jpg" alt="19"></a>
-    <a href="https://www.auctionmn.com/cgi-bin/mmlist.cgi?auctionmn10/31"><img src="https://www.auctionmn.com/images/2019-01-08/T31-1.jpg" alt="31"></a>
-    <a href="https://www.auctionmn.com/cgi-bin/mmlist.cgi?auctionmn10/35"><img src="https://www.auctionmn.com/images/2019-01-08/T35-1.jpg" alt="35"></a>
-    <a href="https://www.auctionmn.com/cgi-bin/mmlist.cgi?auctionmn10/56"><img src="https://www.auctionmn.com/images/2019-01-08/T56-1.jpg" alt="56"></a>
-    <a href="https://www.auctionmn.com/cgi-bin/mmlist.cgi?auctionmn10/72"><img src="https://www.auctionmn.com/images/2019-01-08/T72-1.jpg" alt="72"></a>
-    <a href="https://www.auctionmn.com/cgi-bin/mmlist.cgi?auctionmn10/86"><img src="https://www.auctionmn.com/images/2019-01-08/T86-1.jpg" alt="86"></a>
-    <a href="https://www.auctionmn.com/cgi-bin/mmlist.cgi?auctionmn10/113"><img src="https://www.auctionmn.com/images/2019-01-08/T113-1.jpg" alt="113"></a>
-    <a href="https://www.auctionmn.com/cgi-bin/mmlist.cgi?auctionmn10/124"><img src="https://www.auctionmn.com/images/2019-01-08/T124-1.jpg" alt="124"></a>
-    <a href="https://www.auctionmn.com/cgi-bin/mmlist.cgi?auctionmn10/128"><img src="https://www.auctionmn.com/images/2019-01-08/T128-1.jpg" alt="128"></a>
-    <a href="https://www.auctionmn.com/cgi-bin/mmlist.cgi?auctionmn10/134"><img src="https://www.auctionmn.com/images/2019-01-08/T134-1.jpg" alt="134"></a>
-    <a href="https://www.auctionmn.com/cgi-bin/mmlist.cgi?auctionmn10/146"><img src="https://www.auctionmn.com/images/2019-01-08/T146-1.jpg" alt="146"></a>
-    <a href="https://www.auctionmn.com/cgi-bin/mmlist.cgi?auctionmn10/165"><img src="https://www.auctionmn.com/images/2019-01-08/T165-1.jpg" alt="165"></a>
-    <a href="https://www.auctionmn.com/cgi-bin/mmlist.cgi?auctionmn10/158"><img src="https://www.auctionmn.com/images/2019-01-08/T158-1.jpg" alt="158"></a>
-    <a href="https://www.auctionmn.com/cgi-bin/mmlist.cgi?auctionmn10/154"><img src="https://www.auctionmn.com/images/2019-01-08/T154-1.jpg" alt="154"></a>
-<!--     <a href="https://www.auctionmn.com/cgi-bin/mmlist.cgi?auctionmn10/184"><img src="https://www.auctionmn.com/images/2019-01-08/T184-1.jpg" alt="184"></a>
-    <a href="https://www.auctionmn.com/cgi-bin/mmlist.cgi?auctionmn10/188"><img src="https://www.auctionmn.com/images/2019-01-08/T188-1.jpg" alt="188"></a>
-    <a href="https://www.auctionmn.com/cgi-bin/mmlist.cgi?auctionmn10/257"><img src="https://www.auctionmn.com/images/2019-01-08/T257-1.jpg" alt="257"></a> -->
-  </div>
-  <a href="https://www.auctionmn.com/cgi-bin/mmlist.cgi?auctionmn10/category/ALL" class="bidnow rfloat"></a>
-  <!-- Enable if auction is an online auction hosted on proxibid -->
-  <!-- <a href="https://www.proxibid.com/asp/Catalog.asp?aid=*"><img class="rfloat" src="http://www.auctionmn.com/images/2014-02-14/proxibid.gif" alt=""></a> -->
-    <p><strong>Preview and Pickup Location</strong></p>
-      <p><a target="_blank" href="https://goo.gl/maps/L9u81MhP4dq">7140 Old Viking Blvd NW, Nowthen MN</a></p>
-    <p><strong>Preview Time</strong></p>
-      <p>Monday, January 7th, from 11 a.m. to 1 p.m.</p>
-    <p><strong>Auction Ending Time</strong></p>
-      <p>Tuesday, January 8th, Auction ends starting at 7:30 p.m.</p>
-    <p><strong>Pickup Time</strong></p>
-      <p>Wednesday, January 9th, from 9:30 a.m. to 7 p.m.</p>
-      <!-- <p>Thursday, PICKUP, from PICKUP a.m. to PICKUP</p> -->
-    <p><strong>Auctioneer's Notes</strong></p>
-      <p>This auction has more than the usual amount of good quality collectibles. We also have coins, guns and some heavy cabinets. Just as a reminder, cash is necessary when purchasing coins and muscle is necessary when purchasing heavy items because we do not offer loading assistance. Thank you.</p>
-    <p><a href="https://auctionmn.com/general-terms-and-conditions.shtml">Terms and Conditions</a> for this auction.</p>
-</div>
+
 
 
 
@@ -153,6 +116,85 @@
 <!-- *******************************************************************************
             *************      Start of Recent Auctions       ***************
 ******************************************************************************** -->
+
+
+<div class="recent">
+  <h2><a href="https://www.auctionmn.com/cgi-bin/mmlist.cgi?auctionmn11/category/ALL">Online Auction Ended On Tuesday, January 29th</a></h2>
+  <div class="flexbox">
+    <a href="https://www.auctionmn.com/cgi-bin/mmlist.cgi?auctionmn11/22"><img src="https://www.auctionmn.com/images/2019-01-29/T22-1.jpg" alt="Lot 22"></a>
+    <a href="https://www.auctionmn.com/cgi-bin/mmlist.cgi?auctionmn11/27"><img src="https://www.auctionmn.com/images/2019-01-29/T27-1.jpg" alt="Lot 27"></a>
+    <a href="https://www.auctionmn.com/cgi-bin/mmlist.cgi?auctionmn11/51"><img src="https://www.auctionmn.com/images/2019-01-29/T51-1.jpg" alt="Lot 51"></a>
+    <a href="https://www.auctionmn.com/cgi-bin/mmlist.cgi?auctionmn11/60"><img src="https://www.auctionmn.com/images/2019-01-29/T60-1.jpg" alt="Lot 60"></a>
+    <a href="https://www.auctionmn.com/cgi-bin/mmlist.cgi?auctionmn11/78"><img src="https://www.auctionmn.com/images/2019-01-29/T78-1.jpg" alt="Lot 78"></a>
+    <a href="https://www.auctionmn.com/cgi-bin/mmlist.cgi?auctionmn11/88"><img src="https://www.auctionmn.com/images/2019-01-29/T88-1.jpg" alt="Lot 88"></a>
+  </div>
+    <p><strong>Pickup Location</strong></p>
+      <p><a target="_blank" href="https://goo.gl/maps/L9u81MhP4dq">7140 Old Viking Blvd NW, Nowthen MN</a></p>
+    <p><strong>Pickup Time</strong></p>
+      <p>Wednesday, January 30th, from 9:30 a.m. to 7 p.m. <i>and</i></p>
+      <p>Wednesday, February 6th, from 9 a.m. to 12 p.m.</p>
+    <p><a href="https://auctionmn.com/general-terms-and-conditions.shtml">Terms and Conditions</a> for this auction.</p>
+</div>
+
+
+<div class="recent">
+  <img src="https://auctionmn.com/images/Sold.png" style="position:absolute;width:670;" alt="">
+  <h2>Real Estate Auction on January 26th, 2019 at 1 p.m.</a></h2>
+  <div class="flexbox">
+    <a href="https://www.auctionmn.com/images/2019-01-26/Real_Estate_Auction4.jpg"><img src="https://www.auctionmn.com/images/2019-01-26/TReal_Estate_Auction4.jpg" alt="Real Estate Auction"></a>
+    <a href="https://www.auctionmn.com/images/2019-01-26/Real_Estate_Auction1.jpg"><img src="https://www.auctionmn.com/images/2019-01-26/TReal_Estate_Auction1.jpg" alt="Real Estate Auction"></a>
+    <a href="https://www.auctionmn.com/images/2019-01-26/Real_Estate_Auction3.jpg"><img src="https://www.auctionmn.com/images/2019-01-26/TReal_Estate_Auction3.jpg" alt="Real Estate Auction"></a>
+    <a href="https://www.auctionmn.com/images/2019-01-26/Real_Estate_Auction2.jpg"><img src="https://www.auctionmn.com/images/2019-01-26/TReal_Estate_Auction2.jpg" alt="Real Estate Auction"></a>
+  </div>
+    <p><b>Minimum bid $190,000</b></p>
+    <p><strong>Auction Location</strong></p>
+      <p><a target="_blank" href="https://goo.gl/maps/i9iH74PUv9z">8001 Bluff Rd. Rockford, MN 55373</a></p>
+    <p><strong>Auction Time</strong></p>
+      <p>Saturday, January 26th, Auction starts at 1 p.m.</p>
+    <p><strong>Auctioneer's Notes</strong></p>
+      <p>
+        <ul>
+          <li>Built 1998</li>
+          <li>Two story</li>
+          <li>3 Bedrooms</li>
+          <li>3 Baths</li>
+          <li>3-Car Garage</li>
+          <li>MLS #5133163</li>
+        </ul>
+      </p>
+      <p>All bids are subject to the Seller’s acceptance.</p>
+      <p>A Buyer’s Premium of 8% shall be added to the highest accepted bid to form the contract price.</p>
+      <p>A Purchase Agreement shall be completed at the auction.</p>
+      <p>The Buyer shall pay $6,000 earnest money at the time the Purchase Agreement is signed. The payment should be by cashier's check made out to the buyer. Buyer must also have a letter of loan approval or evidence of ability to close.</p>
+      <p>The Auction is <b>non-contingent</b> and the property is being sold <b>AS-IS</b>.</p>
+      <p>Broker shall pay a Selling Agent commission of 2% provided the selling agent registers with the Broker or Auctioneer 48 hours before the auction. Register by calling the listing agent or the auctioneer. There is no online registration.</p>
+      <p>The property is listed by Rick Ruprecht of <b>RE-Max Results</b> 763) 323-8080.</p>
+      <p>Auction services provided by Tony Elfelt of AAA Auction and Realty, LLC.</p>
+      <p>Showings are available.</p>
+
+    <!-- <p><a href="https://auctionmn.com/general-terms-and-conditions.shtml">Terms and Conditions</a> for this auction.</p> -->
+</div>
+
+
+<div class="recent">
+  <h2><a href="https://www.auctionmn.com/cgi-bin/mmlist.cgi?auctionmn10/category/ALL">Online Auction Ended On Tuesday, January 8th</a></h2>
+  <div class="flexbox">
+    <a href="https://www.auctionmn.com/cgi-bin/mmlist.cgi?auctionmn10/6"><img src="https://www.auctionmn.com/images/2019-01-08/T6-1.jpg" alt="6"></a>
+    <a href="https://www.auctionmn.com/cgi-bin/mmlist.cgi?auctionmn10/8"><img src="https://www.auctionmn.com/images/2019-01-08/T8-1.jpg" alt="8"></a>
+    <a href="https://www.auctionmn.com/cgi-bin/mmlist.cgi?auctionmn10/12"><img src="https://www.auctionmn.com/images/2019-01-08/T12-1.jpg" alt="12"></a>
+    <a href="https://www.auctionmn.com/cgi-bin/mmlist.cgi?auctionmn10/19"><img src="https://www.auctionmn.com/images/2019-01-08/T19-1.jpg" alt="19"></a>
+    <a href="https://www.auctionmn.com/cgi-bin/mmlist.cgi?auctionmn10/31"><img src="https://www.auctionmn.com/images/2019-01-08/T31-1.jpg" alt="31"></a>
+    <a href="https://www.auctionmn.com/cgi-bin/mmlist.cgi?auctionmn10/35"><img src="https://www.auctionmn.com/images/2019-01-08/T35-1.jpg" alt="35"></a>
+  </div>
+    <!-- <p><strong>Pickup Location</strong></p>
+      <p><a target="_blank" href="https://goo.gl/maps/L9u81MhP4dq">7140 Old Viking Blvd NW, Nowthen MN</a></p>
+    <p><strong>Pickup Time</strong></p>
+      <p>Wednesday, January 9th, from 9:30 a.m. to 7 p.m.</p>
+    <p><strong>Auctioneer's Notes</strong></p>
+      <p>This auction has more than the usual amount of good quality collectibles. We also have coins, guns and some heavy cabinets. Just as a reminder, cash is necessary when purchasing coins and muscle is necessary when purchasing heavy items because we do not offer loading assistance. Thank you.</p>
+    <p><a href="https://auctionmn.com/general-terms-and-conditions.shtml">Terms and Conditions</a> for this auction.</p> -->
+</div>
+
 
 <div class="recent">
   <h2><a href="https://www.auctionmn.com/cgi-bin/mmlist.cgi?auctionmn9/category/ALL">Online Auction Ended On Tuesday, December 18th</a></h2>
