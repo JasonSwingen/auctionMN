@@ -68,41 +68,7 @@
 
 
 
-<div class="current">
-  <h2><a href="https://www.auctionmn.com/cgi-bin/mmlist.cgi?auctionmn12/category/ALL">Online Auction Ending On Tuesday, February 19th</a></h2>
-  <div class="flexbox">
-    <a href="https://www.auctionmn.com/cgi-bin/mmlist.cgi?auctionmn12/3"><img src="https://www.auctionmn.com/images/2019-02-19/T3-1.jpg" alt="Lot 3"></a>
-    <a href="https://www.auctionmn.com/cgi-bin/mmlist.cgi?auctionmn12/11"><img src="https://www.auctionmn.com/images/2019-02-19/T11-1.jpg" alt="Lot 11"></a>
-    <a href="https://www.auctionmn.com/cgi-bin/mmlist.cgi?auctionmn12/25"><img src="https://www.auctionmn.com/images/2019-02-19/T25-1.jpg" alt="Lot 25"></a>
-    <a href="https://www.auctionmn.com/cgi-bin/mmlist.cgi?auctionmn12/26"><img src="https://www.auctionmn.com/images/2019-02-19/T26-1.jpg" alt="Lot 26"></a>
-    <a href="https://www.auctionmn.com/cgi-bin/mmlist.cgi?auctionmn12/48"><img src="https://www.auctionmn.com/images/2019-02-19/T48-1.jpg" alt="Lot 48"></a>
-    <a href="https://www.auctionmn.com/cgi-bin/mmlist.cgi?auctionmn12/71"><img src="https://www.auctionmn.com/images/2019-02-19/T71-1.jpg" alt="Lot 71"></a>
-    <a href="https://www.auctionmn.com/cgi-bin/mmlist.cgi?auctionmn12/140"><img src="https://www.auctionmn.com/images/2019-02-19/T140-1.jpg" alt="Lot 140"></a>
-    <a href="https://www.auctionmn.com/cgi-bin/mmlist.cgi?auctionmn12/245"><img src="https://www.auctionmn.com/images/2019-02-19/T245-1.jpg" alt="Lot 245"></a>
-    <a href="https://www.auctionmn.com/cgi-bin/mmlist.cgi?auctionmn12/247"><img src="https://www.auctionmn.com/images/2019-02-19/T247-1.jpg" alt="Lot 247"></a>
-    <a href="https://www.auctionmn.com/cgi-bin/mmlist.cgi?auctionmn12/250"><img src="https://www.auctionmn.com/images/2019-02-19/T250-1.jpg" alt="Lot 250"></a>
-    <a href="https://www.auctionmn.com/cgi-bin/mmlist.cgi?auctionmn12/272"><img src="https://www.auctionmn.com/images/2019-02-19/T272-1.jpg" alt="Lot 272"></a>
-    <a href="https://www.auctionmn.com/cgi-bin/mmlist.cgi?auctionmn12/277"><img src="https://www.auctionmn.com/images/2019-02-19/T277-1.jpg" alt="Lot 277"></a>
-    <a href="https://www.auctionmn.com/cgi-bin/mmlist.cgi?auctionmn12/291"><img src="https://www.auctionmn.com/images/2019-02-19/T291-1.jpg" alt="Lot 291"></a>
-    <a href="https://www.auctionmn.com/cgi-bin/mmlist.cgi?auctionmn12/301"><img src="https://www.auctionmn.com/images/2019-02-19/T301-1.jpg" alt="Lot 301"></a>
-    <a href="https://www.auctionmn.com/cgi-bin/mmlist.cgi?auctionmn12/303"><img src="https://www.auctionmn.com/images/2019-02-19/T303-1.jpg" alt="Lot 303"></a>
-    <a href="https://www.auctionmn.com/cgi-bin/mmlist.cgi?auctionmn12/304"><img src="https://www.auctionmn.com/images/2019-02-19/T304-1.jpg" alt="Lot 304"></a>
-    <a href="https://www.auctionmn.com/cgi-bin/mmlist.cgi?auctionmn12/307"><img src="https://www.auctionmn.com/images/2019-02-19/T307-1.jpg" alt="Lot 307"></a>
-    <a href="https://www.auctionmn.com/cgi-bin/mmlist.cgi?auctionmn12/310"><img src="https://www.auctionmn.com/images/2019-02-19/T310-1.jpg" alt="Lot 310"></a>
-    <a href="https://www.auctionmn.com/cgi-bin/mmlist.cgi?auctionmn12/311"><img src="https://www.auctionmn.com/images/2019-02-19/T311-1.jpg" alt="Lot 311"></a>
-    <!-- <a href="https://www.auctionmn.com/cgi-bin/mmlist.cgi?auctionmn12/313"><img src="https://www.auctionmn.com/images/2019-02-19/T313-1.jpg" alt="Lot 313"></a> -->
-  </div>
-  <a href="https://www.auctionmn.com/cgi-bin/mmlist.cgi?auctionmn12/category/ALL" class="bidnow rfloat"></a>
-    <p><strong>Preview and Pickup Location</strong></p>
-      <p><a target="_blank" href="https://goo.gl/maps/L9u81MhP4dq">7140 Old Viking Blvd NW, Nowthen MN</a></p>
-    <p><strong>Preview Time</strong></p>
-      <p>Monday, February 18th, from 11 a.m. to 1 p.m.</p>
-    <p><strong>Auction Ending Time</strong></p>
-      <p>Tuesday, February 19th, Auction ends starting at 7:30 p.m.</p>
-    <p><strong>Pickup Time</strong></p>
-      <p>Wednesday, February 20th, from 9 a.m. to 7 p.m.</p>
-    <p><a href="https://auctionmn.com/general-terms-and-conditions.shtml">Terms and Conditions</a> for this auction.</p>
-</div>
+
 
 
 
@@ -131,8 +97,181 @@
 ******************************************************************************** -->
 
 
+<div class="upcoming">
+	<h2><a href="https://www.facebook.com/events/2124064417687787/" target="_blank">Annual Canoe, Kayak, and Paddle Board Auction <br>April 27th, 2019 at Midwest Mountaineering</a></h2>
+		<div class="flexbox">
+			<a href="https://www.auctionmn.com/images/2017-04-29-Canoe_Kayak/img_3.jpg"><img src="https://www.auctionmn.com/images/2017-04-29-Canoe_Kayak/img_3.jpg" alt=""></a>
+			<a href="https://www.auctionmn.com/images/2017-04-29-Canoe_Kayak/img_5.jpg"><img src="https://www.auctionmn.com/images/2017-04-29-Canoe_Kayak/img_5.jpg" alt=""></a>
+			<a href="https://www.auctionmn.com/images/2017-04-29-Canoe_Kayak/img_6.jpg"><img src="https://www.auctionmn.com/images/2017-04-29-Canoe_Kayak/img_6.jpg" alt=""></a>
+			<a href="https://www.auctionmn.com/images/2017-04-29-Canoe_Kayak/img_7.jpg"><img src="https://www.auctionmn.com/images/2017-04-29-Canoe_Kayak/img_7.jpg" alt=""></a>
+			<a href="https://www.auctionmn.com/images/2017-04-29-Canoe_Kayak/img_8.jpg"><img src="https://www.auctionmn.com/images/2017-04-29-Canoe_Kayak/img_8.jpg" alt=""></a>
+			<a href="https://www.auctionmn.com/images/2017-04-29-Canoe_Kayak/img_9.jpg"><img src="https://www.auctionmn.com/images/2017-04-29-Canoe_Kayak/img_9.jpg" alt=""></a>
+			<a href="https://www.auctionmn.com/images/2017-04-29-Canoe_Kayak/img_10.jpg"><img src="https://www.auctionmn.com/images/2017-04-29-Canoe_Kayak/img_10.jpg" alt=""></a>
+			<a href="https://www.auctionmn.com/images/2017-04-29-Canoe_Kayak/img_11.jpg"><img src="https://www.auctionmn.com/images/2017-04-29-Canoe_Kayak/img_11.jpg" alt=""></a>
+			<a href="https://www.auctionmn.com/images/2017-04-29-Canoe_Kayak/img_12.jpg"><img src="https://www.auctionmn.com/images/2017-04-29-Canoe_Kayak/img_12.jpg" alt=""></a>
+			<a href="https://www.auctionmn.com/images/2016_Canoe/Canoe_5.jpg"><img src="https://www.auctionmn.com/images/2016_Canoe/Canoe_5.jpg" alt="Annual Canoe and Kayak Auction"></a>
+		</div>
+	<p>
+	</p>
+		<p><strong>Location</strong></p>
+			<p><a target="_blank" href="https://www.midwestmtn.com/">Midwest Mountaineering</a> - <a target="_blank" href="https://www.google.com/maps/dir/''/midwest+mountaineering/@44.9707033,-93.3170319,12z/data=!3m1!4b1!4m8!4m7!1m0!1m5!1m1!1s0x52b32d424effb00f:0x1c93ae128fd58e0!2m2!1d-93.2469921!2d44.9707247">Directions</a></p>
+			<p>309 Cedar Ave. So.</p>
+			<p>Minneapolis, MN 55454</p>
+		<p><strong>Auction</strong></p>
+			<p>Saturday, April 27th, 2019 at 11 a.m.</p>
+
+		<p><strong>Auctioneer's Notes</strong></p>
+			<p>Do you have a canoe, kayak or paddle board that you would like to sell? There is no better time or place to sell your canoe, kayak or paddle board than at the annual Midwest Mountaineering Spring Expo! Hundreds of bidders attend every year and well over 100 watercraft are sold. Naturally, the Spring Expo is also a wonderful opportunity for a new or experienced paddle enthusiast to enter the sport or to upgrade your craft. Check back later for more details.</p>
+    <p><strong>Seller Information</strong></p>
+      <p>Save some time when checking in your boat by printing off the forms, filling them in, and bringing them to the auction! View and dowload the <a target="_blank" href="https://www.auctionmn.com/Canoe_Auction_2019/Seller-Information_Canoe-Auction.pdf">sellers information</a>, <a target="_blank" href="https://www.auctionmn.com/Canoe_Auction_2019/Seller-Contract_Canoe-Auction.pdf">contract</a>, <a target="_blank" href="https://www.auctionmn.com/Canoe_Auction_2019/Boat-Information_Canoe-Auction.pdf">boat information</a>, and <a target="_blank" href="https://www.auctionmn.com/Canoe_Auction_2019/Bill-of-Sale_Canoe-Auction.pdf">bill of sale</a>.</p>
+    <p><strong>Buyer Information</strong> </p>
+      <p>View the <a target="_blank" href="https://www.auctionmn.com/Canoe_Auction_2019/Bidder-Information_Canoe-Auction.pdf">bidders information</a>.</p>
+</div>
+
+<!-- <p><strong>Selling a Canoe, Kayak, or Paddle Board?</strong></p>
+  <p>Please read the <a target="_blank" href="https://auctionmn.com/AAA_Auction_Selling_Information.pdf">Selling Information</a>. After you have read the selling information you can <a target="_blank" href="https://auctionmn.com/AAA_Auction_Contract_and_Bill_of_Sale.pdf">download and print a contract and bill of sale</a> to save time before the auction begins!</p> -->
 
 
+
+
+<!-- <div class="recent">
+	<h2>Annual Canoe, Kayak, and Paddle Board Auction <br>April 29th, 2017 at Midwest Mountaineering</h2>
+		<div class="flexbox">
+			<a href="http://www.auctionmn.com/images/2017-04-29-Canoe_Kayak/img_1.jpg"><img src="http://www.auctionmn.com/images/2017-04-29-Canoe_Kayak/img_1.jpg" alt=""></a>
+			<a href="http://www.auctionmn.com/images/2017-04-29-Canoe_Kayak/img_2.jpg"><img src="http://www.auctionmn.com/images/2017-04-29-Canoe_Kayak/img_2.jpg" alt=""></a>
+			<a href="http://www.auctionmn.com/images/2017-04-29-Canoe_Kayak/img_3.jpg"><img src="http://www.auctionmn.com/images/2017-04-29-Canoe_Kayak/img_3.jpg" alt=""></a>
+			<a href="http://www.auctionmn.com/images/2017-04-29-Canoe_Kayak/img_4.jpg"><img src="http://www.auctionmn.com/images/2017-04-29-Canoe_Kayak/img_4.jpg" alt=""></a>
+			<a href="http://www.auctionmn.com/images/2017-04-29-Canoe_Kayak/img_5.jpg"><img src="http://www.auctionmn.com/images/2017-04-29-Canoe_Kayak/img_5.jpg" alt=""></a>
+			<a href="http://www.auctionmn.com/images/2017-04-29-Canoe_Kayak/img_6.jpg"><img src="http://www.auctionmn.com/images/2017-04-29-Canoe_Kayak/img_6.jpg" alt=""></a>
+			<a href="http://www.auctionmn.com/images/2017-04-29-Canoe_Kayak/img_7.jpg"><img src="http://www.auctionmn.com/images/2017-04-29-Canoe_Kayak/img_7.jpg" alt=""></a>
+			<a href="http://www.auctionmn.com/images/2017-04-29-Canoe_Kayak/img_8.jpg"><img src="http://www.auctionmn.com/images/2017-04-29-Canoe_Kayak/img_8.jpg" alt=""></a>
+			<a href="http://www.auctionmn.com/images/2017-04-29-Canoe_Kayak/img_9.jpg"><img src="http://www.auctionmn.com/images/2017-04-29-Canoe_Kayak/img_9.jpg" alt=""></a>
+			<a href="http://www.auctionmn.com/images/2017-04-29-Canoe_Kayak/img_10.jpg"><img src="http://www.auctionmn.com/images/2017-04-29-Canoe_Kayak/img_10.jpg" alt=""></a>
+			<a href="http://www.auctionmn.com/images/2017-04-29-Canoe_Kayak/img_11.jpg"><img src="http://www.auctionmn.com/images/2017-04-29-Canoe_Kayak/img_11.jpg" alt=""></a>
+			<a href="http://www.auctionmn.com/images/2017-04-29-Canoe_Kayak/img_12.jpg"><img src="http://www.auctionmn.com/images/2017-04-29-Canoe_Kayak/img_12.jpg" alt=""></a>
+			<a href="http://www.auctionmn.com/images/2016_Canoe/Canoe_5.jpg"><img src="http://www.auctionmn.com/images/2016_Canoe/Canoe_5.jpg" alt="Annual Canoe and Kayak Auction"></a> -->
+
+			<!-- <a href="http://www.auctionmn.com/images/2016_Canoe/Canoe_1.jpg"><img src="http://www.auctionmn.com/images/2016_Canoe/Canoe_1.jpg" alt="Annual Canoe and Kayak Auction"></a>
+			<a href="http://www.auctionmn.com/images/2016_Canoe/Canoe_2.jpg"><img src="http://www.auctionmn.com/images/2016_Canoe/Canoe_2.jpg" alt="Annual Canoe and Kayak Auction"></a>
+			<a href="http://www.auctionmn.com/images/2016_Canoe/Canoe_4.jpg"><img src="http://www.auctionmn.com/images/2016_Canoe/Canoe_4.jpg" alt="Annual Canoe and Kayak Auction"></a>
+			<a href="http://www.auctionmn.com/images/2016_Canoe/Canoe_18.JPG"><img src="http://www.auctionmn.com/images/2016_Canoe/Canoe_18.JPG" alt="Annual Canoe and Kayak Auction"></a>
+			<a href="http://www.auctionmn.com/images/2016_Canoe/Canoe_8.jpg"><img src="http://www.auctionmn.com/images/2016_Canoe/Canoe_8.jpg" alt="Annual Canoe and Kayak Auction"></a>
+			<a href="http://www.auctionmn.com/images/2016_Canoe/Canoe_9.jpg"><img src="http://www.auctionmn.com/images/2016_Canoe/Canoe_9.jpg" alt="Annual Canoe and Kayak Auction"></a>
+			<a href="http://www.auctionmn.com/images/2016_Canoe/Canoe_10.jpg"><img src="http://www.auctionmn.com/images/2016_Canoe/Canoe_10.jpg" alt="Annual Canoe and Kayak Auction"></a>
+			<a href="http://www.auctionmn.com/images/2016_Canoe/Canoe_11.jpg"><img src="http://www.auctionmn.com/images/2016_Canoe/Canoe_11.jpg" alt="Annual Canoe and Kayak Auction"></a> -->
+
+			<!-- <a href="http://www.auctionmn.com/images/2016_Canoe/Canoe_6.jpg"><img src="http://www.auctionmn.com/images/2016_Canoe/Canoe_6.jpg" alt="Annual Canoe and Kayak Auction"></a>
+			<a href="http://www.auctionmn.com/images/2016_Canoe/Canoe_14.JPG"><img src="http://www.auctionmn.com/images/2016_Canoe/Canoe_14.JPG" alt="Annual Canoe and Kayak Auction"></a>
+			<a href="http://www.auctionmn.com/images/2016_Canoe/Canoe_15.JPG"><img src="http://www.auctionmn.com/images/2016_Canoe/Canoe_15.JPG" alt="Annual Canoe and Kayak Auction"></a>
+			<a href="http://www.auctionmn.com/images/2016_Canoe/Canoe_19.JPG"><img src="http://www.auctionmn.com/images/2016_Canoe/Canoe_19.JPG" alt="Annual Canoe and Kayak Auction"></a>
+			<a href="http://www.auctionmn.com/images/2016_Canoe/Canoe_21.jpg"><img src="http://www.auctionmn.com/images/2016_Canoe/Canoe_21.jpg" alt="Annual Canoe and Kayak Auction"></a>
+			<a href="http://www.auctionmn.com/images/2015_Canoe_Kayak/Canoe_6.JPG"><img src="http://www.auctionmn.com/images/2015_Canoe_Kayak/TCanoe_6.JPG" alt=""></a>
+			<a href="http://www.auctionmn.com/images/2015_Canoe_Kayak/DSCN2762.JPG"><img src="http://www.auctionmn.com/images/2015_Canoe_Kayak/TDSCN2762.JPG" alt=""></a>
+			<a href="http://www.auctionmn.com/images/2015_Canoe_Kayak/DSCN2765.JPG"><img src="http://www.auctionmn.com/images/2015_Canoe_Kayak/TDSCN2765.JPG" alt=""></a>
+			<a href="http://www.auctionmn.com/images/2015_Canoe_Kayak/DSCN2768.JPG"><img src="http://www.auctionmn.com/images/2015_Canoe_Kayak/TDSCN2768.JPG" alt=""></a>
+			<a href="http://www.auctionmn.com/images/2015_Canoe_Kayak/DSCN2770.JPG"><img src="http://www.auctionmn.com/images/2015_Canoe_Kayak/TDSCN2770.JPG" alt=""></a>
+			<a href="http://www.auctionmn.com/images/2015_Canoe_Kayak/DSCN2771.JPG"><img src="http://www.auctionmn.com/images/2015_Canoe_Kayak/TDSCN2771.JPG" alt=""></a>
+			<a href="http://www.auctionmn.com/images/2015_Canoe_Kayak/DSCN2772.JPG"><img src="http://www.auctionmn.com/images/2015_Canoe_Kayak/TDSCN2772.JPG" alt=""></a>
+			<a href="http://www.auctionmn.com/images/2015_Canoe_Kayak/DSCN2773.JPG"><img src="http://www.auctionmn.com/images/2015_Canoe_Kayak/TDSCN2773.JPG" alt=""></a>
+			<a href="http://www.auctionmn.com/images/2015_Canoe_Kayak/DSCN2776.JPG"><img src="http://www.auctionmn.com/images/2015_Canoe_Kayak/TDSCN2776.JPG" alt=""></a>
+			<a href="http://www.auctionmn.com/images/2015-04-25/Canoe_5.jpg"><img src="http://www.auctionmn.com/images/2015-04-25/small/Canoe_5.jpg" alt=""></a> -->
+		<!-- </div> -->
+	<!-- <h3><a href="http://www.auctionmn.com/cgi-bin/mnlist.cgi?auctionmn10/category/ALL">View The Auction Results</a></h3> -->
+		<!-- <p><strong>Location</strong></p>
+			<p>Midwest Mountaineering - <a target="_blank" href="https://www.google.com/maps/dir/''/midwest+mountaineering/@44.9707033,-93.3170319,12z/data=!3m1!4b1!4m8!4m7!1m0!1m5!1m1!1s0x52b32d424effb00f:0x1c93ae128fd58e0!2m2!1d-93.2469921!2d44.9707247">Directions</a></p>
+			<p>309 Cedar Ave. So.</p>
+			<p>Minneapolis, MN 55454</p>
+		<p><strong>Date</strong></p>
+			<p>Saturday, April 29th, 2017 at 11 a.m.</p>
+		<p><strong>Auctioneer's Notes</strong></p>
+			<p>Do you have a canoe, kayak or paddle board to sell? Do you need to upgrade to a newer model? There is no better time and no better place to sell or buy a new canoe, kayak or paddle board than the Midwest Mountaineering Spring Expo on April 29, at 11 am. Every year AAA Auction is honored to sell over 100 fine water crafts as part of the MWM Spring Expo. This is an old-fashioned, outdoor, live auction that draws large crowds and offers a wide selection of like new to used watercraft.</p>
+			<p>Its easy. If you have a canoe or kayak to sell, just bring it to Midwest Mountaineering starting at 7 a.m. We'll help you unload it. We'll start the auction at 11 a.m. and pay you the same day. You can also take in the <a target="_blank" href="http://www.outdooradventureexpo.com/">Spring Expo</a> at <a target="_blank" href="http://www.midwestmtn.com/">Midwest Mountaineering</a> at the same time.</p>
+		<p><strong>Selling a Canoe, Kayak, or Paddle Board?</strong></p>
+			<p>View <a target="_blank" href="http://auctionmn.com/Sellers_Information_Canoe_Kayak_Auction.pdf">Selling Information</a>.</p>
+			<p>Download and print the <a target="_blank" href="http://auctionmn.com/Sellers_Contract_Canoe_Kayak_Auction.pdf">Consignment Contract</a>.</p>
+			<p>To save time, we suggest that you fill the consignment contract out at home and bring it with you to the auction. We will have plenty contract forms available if you forget to bring yours with you.</p>
+		<p><strong>Buying a Canoe, Kayak, or Paddle Board?</strong></p>
+			<p>View <a target="_blank" href="http://auctionmn.com/Bidding_Information_Canoe_Kayak_Auction.pdf">Buying Information</a>.</p> -->
+<!-- </div> -->
+
+
+<div class="upcoming maus">
+	<h2 id="maus">Mau's Corner Weekly Flea Market & Live Auction</h2>
+	<!-- <div class="alert alert-success animated pulse" role="alert">&#9728 Next Auction is on Tuesday, July 3rd!</div> -->
+	<!-- <div class="announcement"> -->
+		<!-- <h3>View Updates on Upcoming Mau's Corner Auctions Here.</h3> -->
+		<!-- <div class="alert alert-info" role="alert">&#9729 View weather updates for the auction here.</div> -->
+		<!-- <div class="alert alert-success animated pulse" role="alert">&#9728 We will see you at the Auction!</div> -->
+
+		<!-- <div class="alert alert-info" role="alert">&#9729 Unless the weatherman is wrong, tomorrow should be a good day for an auction. If we need to cancel, we will post it here in the morning. See you at the auction!</div> -->
+
+    <!-- <div class="alert alert-warning" role="alert">&#9730 </div> -->
+		<!-- <div class="alert alert-info" role="alert">No Auction on <b>September 25th, 2018</b>.</div> -->
+		<!-- <div class="alert alert-danger animated headshake" role="alert">&#9928 No Auction This Tuesday (June 26th) Due To Weather!</div> -->
+		<!-- </div> -->
+  	<!-- <div class="canceled">No Auction This Tuesday Due To Weather!</div> -->
+  	<!-- <div class="success">We are not made of sugar. The auction will go on.</div> -->
+	<div class="flexbox">
+		<a href="https://www.auctionmn.com/images/mausgallery/maus01.html"><img src="https://www.auctionmn.com/images/mausgallery/maus01.jpg" alt=""></a>
+		<!-- <a href="https://www.auctionmn.com/images/mausgallery/maus02.html"><img src="https://www.auctionmn.com/images/mausgallery/maus02.jpg" alt=""></a> -->
+		<a href="https://www.auctionmn.com/images/mausgallery/images/maus25.jpg"><img src="https://www.auctionmn.com/images/mausgallery/images/maus25.jpg" alt=""></a>
+		<!-- <a href="https://www.auctionmn.com/images/mausgallery/maus08.html"><img src="https://www.auctionmn.com/images/mausgallery/maus08.jpg" alt=""></a>
+		<a href="https://www.auctionmn.com/images/mausgallery/maus16.html"><img src="https://www.auctionmn.com/images/mausgallery/maus16.jpg" alt=""></a> -->
+		<a href="https://www.auctionmn.com/images/MausCorner/IMG_0635.JPG"><img src="https://www.auctionmn.com/images/MausCorner/IMG_0635.JPG" alt=""></a>
+		<a href="https://www.auctionmn.com/images/MausCorner/IMG_0636.JPG"><img src="https://www.auctionmn.com/images/MausCorner/IMG_0636.JPG" alt=""></a>
+	</div>
+		<p><a href="https://www.auctionmn.com/images/mausgallery/index.html">View more photos from Mau's Auction</a></p>
+		<p><a href="https://www.auctionmn.com/maus-corner-selling-information.shtml">Selling at Mau's Corner</a></p>
+		<p><a href="https://www.auctionmn.com/maus-corner-bidding-information.shtml">Bidding at Mau's Corner</a></p>
+	<p><strong>Date</strong></p>
+		<p>Most Tuesdays (weather permitting) beginning again in spring of 2019 if the snow ever melts. Check back for the opening date to be determined.</p>
+	<p><strong>Time</strong></p>
+		<p>Flea Market at 7 a.m.</p>
+		<p>Auction at 9 a.m.</p>
+	<p><strong>Location</strong></p>
+		<p>26025 Highway 47 <a target="_blank" href="https://www.google.com/maps/place/26057+Blackfoot+St+NW,+Isanti,+MN+55040/@45.441632,-93.367459,18z/data=!4m5!3m4!1s0x52b30ef717768fa5:0x95b75726738015bc!8m2!3d45.4417315!4d-93.3675934?hl=en-US">(Map)</a></p>
+		<p>Stanford Township, Isanti County</p>
+		<p>This is three miles north of St. Francis, just south of the intersection of Blackfoot St NW (State Highway 47) and 261st Ave NW.</p>
+		<!-- <img class="rfloatimg" src="https://www.auctionmn.com/images/DSCN9539.JPG" alt="Live Storage Auction">
+		<p><strong>Troy-Bilt Wood Chipper</strong></p>
+		<p>We will be selling a Troy-Bilt wood chipper for $500 or the highest offer on Tuesday, June 5th at 9 am at Mau's Corner. Model #47266 Serial # 472660300734 Briggs and Stratton engine. Runs great. Used very little. </p> -->
+		<!-- <p><strong>Help Wanted</strong> - Clerking Position</p>
+		<p>We are looking for a second person to clerk our live auctions. Responsibilities include typing the sales as the auctioneer sells the items.</p> -->
+		<p><strong>Auctioneer's Notes</strong></p>
+      <p>Thank You!</p>
+      <p>For 2019, we request that consignors try to let us know when they will be selling and about how much they plan to sell. Think in terms of how many items you have, how many tables you will need or how long it will take to sell your items. We will then try to schedule an auction only when it looks like we will have enough items for a good auction. We will post the date of the next auction on our website and also on our sign at Mau's Corner. You can also phone us at (763) 421-3044 as early as 4:30 am on Tuesdays.  Of course, seller's are welcome even if they do not call first. See you at the auction!</p>
+		<!-- <p><strong>New for 2018</strong></p>
+		<p>The per item commission rate in 2018 is 25% for items selling up to $29. From $30 to $599.99 the commission is only 10%. For items selling for $600 or more, the Seller pays no commission at all.  With limited exception, no bids will be accepted for less than $5.00. If no one bids $5.00, we will try to add to the items we are selling. If we are still unable to sell the group of items for at least $5.00, we will charge a $2 no-sale fee. We will again offer Sellers the opportunity to bring any items they want to the start of the auction at the “Seller’s Choice” tables. The difference there is that we will not add additional items to the lots we are selling, so if there is not at least a $5 bid on the single item or lot, the item or lot will not be sold and a no-sale fee will be applied.</p>
+		<p><strong>AAA Auction Nows Sells Guns</strong></p>
+		<p>We are pleased to announce that AAA Auction will now accept firearms for sale both at Mau’s Corner and also at the online auction barn in Nowthen.</p>
+		<p><strong>New Lower Rates!</strong></p>
+		<p>AAA Auction has always offered Sellers at Mau’s Corner’s live Tuesday auctions very good commission rates, but they just got better. The new per item selling price commission rates at Mau’s Corner are as follows:</p>
+		<ul>
+			<li>$5 to $29.99 - 25%</li>
+			<li>$30 to $599.99 - 10%</li>
+			<li>$600 and up - Free</li>
+			<li>Firearms - 10%</li>
+			<li>U.S. Coins - 10%</li>
+		</ul>
+		<i>* These apply to Mau's and online</i>
+		<p>As always, bids are not accepted for less than $5 at Mau’s Corner and Buyers pay a 15% buyer’s premium on all purchases.</p> -->
+
+<!-- </p> -->
+		<!-- <p>Tuesday, May 30th</p> -->
+<!-- 		<div style="width:697px;">
+			<div style="width:50%;float:left;">
+					<a href=""><img style="width:95%;"" alt=""></a>
+			</div>
+			<div style="width:50%;float:right;">
+					<a href=""><img style="width:95%;"" alt=""></a>
+			</div>
+		</div> -->
+<!-- 		&nbsp;
+		&nbsp; -->
+		<!-- <hr>
+		<p>Anyone can sell. Bag it. Box it or Bring it to Mau’s Corner 3 miles north of St. Francis on Highway 47 any Tuesday beginning April 4th. You don’t need to call ahead. There are NO FLEA MARKET VENDOR FEES and the auction commissions are low.</p> -->
+		<!-- <p>Thank you all for another great season at Mau's Corner!</p> -->
+</div>
 
 <!-- *******************************************************************************
             *************      End of Upcoming Auctions       ***************
@@ -151,6 +290,54 @@
 ******************************************************************************** -->
 
 
+
+<div class="recent">
+  <h2><a href="https://www.auctionmn.com/cgi-bin/mmlist.cgi?auctionmn/category/ALL">Online Auction Ended On Tuesday, March 12th</a></h2>
+  <div class="flexbox">
+    <a href="https://www.auctionmn.com/cgi-bin/mmlist.cgi?auctionmn/2"><img src="https://www.auctionmn.com/images/2019-03-12/T2-1.jpg" alt="Lot 2"></a>
+    <a href="https://www.auctionmn.com/cgi-bin/mmlist.cgi?auctionmn/4"><img src="https://www.auctionmn.com/images/2019-03-12/T4-1.jpg" alt="Lot 4"></a>
+    <a href="https://www.auctionmn.com/cgi-bin/mmlist.cgi?auctionmn/23"><img src="https://www.auctionmn.com/images/2019-03-12/T23-1.jpg" alt="Lot 23"></a>
+    <a href="https://www.auctionmn.com/cgi-bin/mmlist.cgi?auctionmn/28"><img src="https://www.auctionmn.com/images/2019-03-12/T28-1.jpg" alt="Lot 28"></a>
+    <a href="https://www.auctionmn.com/cgi-bin/mmlist.cgi?auctionmn/65"><img src="https://www.auctionmn.com/images/2019-03-12/T65-1.jpg" alt="Lot 65"></a>
+    <a href="https://www.auctionmn.com/cgi-bin/mmlist.cgi?auctionmn/106"><img src="https://www.auctionmn.com/images/2019-03-12/T106-1.jpg" alt="Lot 106"></a>
+  </div>
+    <p><strong>Pickup Location</strong></p>
+      <p><a target="_blank" href="https://goo.gl/maps/L9u81MhP4dq">7140 Old Viking Blvd NW, Nowthen MN</a></p>
+    <p><strong>Pickup Time</strong></p>
+      <p>Wednesday, March 13th, from 9 a.m. to 7 p.m.</p>
+    <p><strong>Auctioneer's Notes</strong></p>
+      <p>Please drive SLOW on the driveway since visibility is limited. Thank you!</p>
+    <p><a href="https://auctionmn.com/general-terms-and-conditions.shtml">Terms and Conditions</a> for this auction.</p>
+</div>
+
+<div class="recent">
+  <h2><a href="https://www.auctionmn.com/cgi-bin/mmlist.cgi?auctionmn12/category/ALL">Online Auction Ended On Tuesday, February 19th</a></h2>
+  <!-- <div class="alert alert-info" role="alert"><big>&#9432; </big> Pick-up has been rescheduled to <u>February 27th</u> due to weather.</div> -->
+  <div class="flexbox">
+    <a href="https://www.auctionmn.com/cgi-bin/mmlist.cgi?auctionmn12/3"><img src="https://www.auctionmn.com/images/2019-02-19/T3-1.jpg" alt="Lot 3"></a>
+    <a href="https://www.auctionmn.com/cgi-bin/mmlist.cgi?auctionmn12/11"><img src="https://www.auctionmn.com/images/2019-02-19/T11-1.jpg" alt="Lot 11"></a>
+    <a href="https://www.auctionmn.com/cgi-bin/mmlist.cgi?auctionmn12/25"><img src="https://www.auctionmn.com/images/2019-02-19/T25-1.jpg" alt="Lot 25"></a>
+    <a href="https://www.auctionmn.com/cgi-bin/mmlist.cgi?auctionmn12/26"><img src="https://www.auctionmn.com/images/2019-02-19/T26-1.jpg" alt="Lot 26"></a>
+    <a href="https://www.auctionmn.com/cgi-bin/mmlist.cgi?auctionmn12/48"><img src="https://www.auctionmn.com/images/2019-02-19/T48-1.jpg" alt="Lot 48"></a>
+    <!-- <a href="https://www.auctionmn.com/cgi-bin/mmlist.cgi?auctionmn12/71"><img src="https://www.auctionmn.com/images/2019-02-19/T71-1.jpg" alt="Lot 71"></a>
+    <a href="https://www.auctionmn.com/cgi-bin/mmlist.cgi?auctionmn12/140"><img src="https://www.auctionmn.com/images/2019-02-19/T140-1.jpg" alt="Lot 140"></a>
+    <a href="https://www.auctionmn.com/cgi-bin/mmlist.cgi?auctionmn12/245"><img src="https://www.auctionmn.com/images/2019-02-19/T245-1.jpg" alt="Lot 245"></a>
+    <a href="https://www.auctionmn.com/cgi-bin/mmlist.cgi?auctionmn12/247"><img src="https://www.auctionmn.com/images/2019-02-19/T247-1.jpg" alt="Lot 247"></a>
+    <a href="https://www.auctionmn.com/cgi-bin/mmlist.cgi?auctionmn12/250"><img src="https://www.auctionmn.com/images/2019-02-19/T250-1.jpg" alt="Lot 250"></a>
+    <a href="https://www.auctionmn.com/cgi-bin/mmlist.cgi?auctionmn12/272"><img src="https://www.auctionmn.com/images/2019-02-19/T272-1.jpg" alt="Lot 272"></a>
+    <a href="https://www.auctionmn.com/cgi-bin/mmlist.cgi?auctionmn12/277"><img src="https://www.auctionmn.com/images/2019-02-19/T277-1.jpg" alt="Lot 277"></a>
+    <a href="https://www.auctionmn.com/cgi-bin/mmlist.cgi?auctionmn12/291"><img src="https://www.auctionmn.com/images/2019-02-19/T291-1.jpg" alt="Lot 291"></a>
+    <a href="https://www.auctionmn.com/cgi-bin/mmlist.cgi?auctionmn12/301"><img src="https://www.auctionmn.com/images/2019-02-19/T301-1.jpg" alt="Lot 301"></a>
+    <a href="https://www.auctionmn.com/cgi-bin/mmlist.cgi?auctionmn12/303"><img src="https://www.auctionmn.com/images/2019-02-19/T303-1.jpg" alt="Lot 303"></a>
+    <a href="https://www.auctionmn.com/cgi-bin/mmlist.cgi?auctionmn12/304"><img src="https://www.auctionmn.com/images/2019-02-19/T304-1.jpg" alt="Lot 304"></a>
+    <a href="https://www.auctionmn.com/cgi-bin/mmlist.cgi?auctionmn12/307"><img src="https://www.auctionmn.com/images/2019-02-19/T307-1.jpg" alt="Lot 307"></a>
+    <a href="https://www.auctionmn.com/cgi-bin/mmlist.cgi?auctionmn12/310"><img src="https://www.auctionmn.com/images/2019-02-19/T310-1.jpg" alt="Lot 310"></a>
+    <a href="https://www.auctionmn.com/cgi-bin/mmlist.cgi?auctionmn12/311"><img src="https://www.auctionmn.com/images/2019-02-19/T311-1.jpg" alt="Lot 311"></a> -->
+    <!-- <a href="https://www.auctionmn.com/cgi-bin/mmlist.cgi?auctionmn12/313"><img src="https://www.auctionmn.com/images/2019-02-19/T313-1.jpg" alt="Lot 313"></a> -->
+  </div>
+</div>
+
+
 <div class="recent">
   <h2><a href="https://www.auctionmn.com/cgi-bin/mmlist.cgi?auctionmn11/category/ALL">Online Auction Ended On Tuesday, January 29th</a></h2>
   <div class="flexbox">
@@ -161,12 +348,6 @@
     <a href="https://www.auctionmn.com/cgi-bin/mmlist.cgi?auctionmn11/78"><img src="https://www.auctionmn.com/images/2019-01-29/T78-1.jpg" alt="Lot 78"></a>
     <a href="https://www.auctionmn.com/cgi-bin/mmlist.cgi?auctionmn11/88"><img src="https://www.auctionmn.com/images/2019-01-29/T88-1.jpg" alt="Lot 88"></a>
   </div>
-    <p><strong>Pickup Location</strong></p>
-      <p><a target="_blank" href="https://goo.gl/maps/L9u81MhP4dq">7140 Old Viking Blvd NW, Nowthen MN</a></p>
-    <p><strong>Pickup Time</strong></p>
-      <p>Wednesday, January 30th, from 9:30 a.m. to 7 p.m. <i>and</i></p>
-      <p>Wednesday, February 6th, from 9 a.m. to 12 p.m.</p>
-    <p><a href="https://auctionmn.com/general-terms-and-conditions.shtml">Terms and Conditions</a> for this auction.</p>
 </div>
 
 
@@ -339,84 +520,6 @@
   </div>
 </div>
 
-
-<div class="recent maus">
-	<h2 id="maus">Mau's Corner Weekly Flea Market & Live Auction</h2>
-	<!-- <div class="alert alert-success animated pulse" role="alert">&#9728 Next Auction is on Tuesday, July 3rd!</div> -->
-	<!-- <div class="announcement"> -->
-		<!-- <h3>View Updates on Upcoming Mau's Corner Auctions Here.</h3> -->
-		<!-- <div class="alert alert-info" role="alert">&#9729 View weather updates for the auction here.</div> -->
-		<!-- <div class="alert alert-success animated pulse" role="alert">&#9728 We will see you at the Auction!</div> -->
-
-		<!-- <div class="alert alert-info" role="alert">&#9729 Unless the weatherman is wrong, tomorrow should be a good day for an auction. If we need to cancel, we will post it here in the morning. See you at the auction!</div> -->
-
-    <!-- <div class="alert alert-warning" role="alert">&#9730 </div> -->
-		<!-- <div class="alert alert-info" role="alert">No Auction on <b>September 25th, 2018</b>.</div> -->
-		<!-- <div class="alert alert-danger animated headshake" role="alert">&#9928 No Auction This Tuesday (June 26th) Due To Weather!</div> -->
-		<!-- </div> -->
-  	<!-- <div class="canceled">No Auction This Tuesday Due To Weather!</div> -->
-  	<!-- <div class="success">We are not made of sugar. The auction will go on.</div> -->
-	<div class="flexbox">
-		<a href="https://www.auctionmn.com/images/mausgallery/maus01.html"><img src="https://www.auctionmn.com/images/mausgallery/maus01.jpg" alt=""></a>
-		<!-- <a href="https://www.auctionmn.com/images/mausgallery/maus02.html"><img src="https://www.auctionmn.com/images/mausgallery/maus02.jpg" alt=""></a> -->
-		<a href="https://www.auctionmn.com/images/mausgallery/images/maus25.jpg"><img src="https://www.auctionmn.com/images/mausgallery/images/maus25.jpg" alt=""></a>
-		<!-- <a href="https://www.auctionmn.com/images/mausgallery/maus08.html"><img src="https://www.auctionmn.com/images/mausgallery/maus08.jpg" alt=""></a>
-		<a href="https://www.auctionmn.com/images/mausgallery/maus16.html"><img src="https://www.auctionmn.com/images/mausgallery/maus16.jpg" alt=""></a> -->
-		<a href="https://www.auctionmn.com/images/MausCorner/IMG_0635.JPG"><img src="https://www.auctionmn.com/images/MausCorner/IMG_0635.JPG" alt=""></a>
-		<a href="https://www.auctionmn.com/images/MausCorner/IMG_0636.JPG"><img src="https://www.auctionmn.com/images/MausCorner/IMG_0636.JPG" alt=""></a>
-	</div>
-		<p><a href="https://www.auctionmn.com/images/mausgallery/index.html">View more photos from Mau's Auction</a></p>
-		<p><a href="https://www.auctionmn.com/maus-corner-selling-information.shtml">Selling at Mau's Corner</a></p>
-		<p><a href="https://www.auctionmn.com/maus-corner-bidding-information.shtml">Bidding at Mau's Corner</a></p>
-	<p><strong>Date</strong></p>
-		<p>Every Tuesday (weather permitting) beginning again in spring of 2019.</p>
-	<p><strong>Time</strong></p>
-		<p>Flea Market at 7 a.m.</p>
-		<p>Auction at 9 a.m.</p>
-	<p><strong>Location</strong></p>
-		<p>26025 Highway 47 <a target="_blank" href="https://www.google.com/maps/place/26057+Blackfoot+St+NW,+Isanti,+MN+55040/@45.441632,-93.367459,18z/data=!4m5!3m4!1s0x52b30ef717768fa5:0x95b75726738015bc!8m2!3d45.4417315!4d-93.3675934?hl=en-US">(Map)</a></p>
-		<p>Stanford Township, Isanti County</p>
-		<p>This is three miles north of St. Francis, just south of the intersection of Blackfoot St NW (State Highway 47) and 261st Ave NW.</p>
-		<!-- <img class="rfloatimg" src="https://www.auctionmn.com/images/DSCN9539.JPG" alt="Live Storage Auction">
-		<p><strong>Troy-Bilt Wood Chipper</strong></p>
-		<p>We will be selling a Troy-Bilt wood chipper for $500 or the highest offer on Tuesday, June 5th at 9 am at Mau's Corner. Model #47266 Serial # 472660300734 Briggs and Stratton engine. Runs great. Used very little. </p> -->
-		<!-- <p><strong>Help Wanted</strong> - Clerking Position</p>
-		<p>We are looking for a second person to clerk our live auctions. Responsibilities include typing the sales as the auctioneer sells the items.</p> -->
-		<p><strong>Auctioneer's Notes</strong></p>
-      <p>Thank You!</p>
-      <p> To all of our consignors, bidders, flea marketers, staff and Joe and Wanda Mau. Thank you for a great 2018 auction season. Our weekly Tuesday auctions are now done for 2018. There is no auction on September 25th. We will be taking consignments all year at our auction barn in Nowthen. See you soon!</p>
-		<!-- <p><strong>New for 2018</strong></p>
-		<p>The per item commission rate in 2018 is 25% for items selling up to $29. From $30 to $599.99 the commission is only 10%. For items selling for $600 or more, the Seller pays no commission at all.  With limited exception, no bids will be accepted for less than $5.00. If no one bids $5.00, we will try to add to the items we are selling. If we are still unable to sell the group of items for at least $5.00, we will charge a $2 no-sale fee. We will again offer Sellers the opportunity to bring any items they want to the start of the auction at the “Seller’s Choice” tables. The difference there is that we will not add additional items to the lots we are selling, so if there is not at least a $5 bid on the single item or lot, the item or lot will not be sold and a no-sale fee will be applied.</p>
-		<p><strong>AAA Auction Nows Sells Guns</strong></p>
-		<p>We are pleased to announce that AAA Auction will now accept firearms for sale both at Mau’s Corner and also at the online auction barn in Nowthen.</p>
-		<p><strong>New Lower Rates!</strong></p>
-		<p>AAA Auction has always offered Sellers at Mau’s Corner’s live Tuesday auctions very good commission rates, but they just got better. The new per item selling price commission rates at Mau’s Corner are as follows:</p>
-		<ul>
-			<li>$5 to $29.99 - 25%</li>
-			<li>$30 to $599.99 - 10%</li>
-			<li>$600 and up - Free</li>
-			<li>Firearms - 10%</li>
-			<li>U.S. Coins - 10%</li>
-		</ul>
-		<i>* These apply to Mau's and online</i>
-		<p>As always, bids are not accepted for less than $5 at Mau’s Corner and Buyers pay a 15% buyer’s premium on all purchases.</p> -->
-
-</p>
-		<!-- <p>Tuesday, May 30th</p> -->
-<!-- 		<div style="width:697px;">
-			<div style="width:50%;float:left;">
-					<a href=""><img style="width:95%;"" alt=""></a>
-			</div>
-			<div style="width:50%;float:right;">
-					<a href=""><img style="width:95%;"" alt=""></a>
-			</div>
-		</div> -->
-<!-- 		&nbsp;
-		&nbsp; -->
-		<!-- <hr>
-		<p>Anyone can sell. Bag it. Box it or Bring it to Mau’s Corner 3 miles north of St. Francis on Highway 47 any Tuesday beginning April 4th. You don’t need to call ahead. There are NO FLEA MARKET VENDOR FEES and the auction commissions are low.</p> -->
-		<!-- <p>Thank you all for another great season at Mau's Corner!</p> -->
-</div>
 
 <div class="recent">
   <h2><a href="https://www.auctionmn.com/cgi-bin/mmlist.cgi?auctionmn1/category/ALL">Online Auction Ended On Tuesday, September 25th</a></h2>
@@ -680,10 +783,6 @@
 		<p>-Tina Stofferahn</p> -->
 <!-- 		<p><i>"Thanks Tony – We certainly wouldn't be as successful as we are if we didn't have you in the picture."</i></p>
 		<p>-Jill Munsinger</p> -->
-
-	<hr>
-
-	<a target="_blank" href="https://youtu.be/L0MK7qz13bU?t=65"><img src="https://www.auctionmn.com/images/Grandmas_Hutch.png" alt="Should you let grandma's hutch go?"></a>
 
 	<hr>
 
