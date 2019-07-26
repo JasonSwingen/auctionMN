@@ -1,26 +1,27 @@
 <!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
 <html>
+
 <head>
-<meta http-equiv="content-type" content="text/html; charset=utf-8">
-<title>AAA Auction and Realty, LLC - Your Online, Live, and
-      Benefit Auction Specialist</title>
+  <meta http-equiv="content-type" content="text/html; charset=utf-8">
+  <title>AAA Auction and Realty, LLC - Your Online, Live, and
+    Benefit Auction Specialist</title>
 
-<link rel="stylesheet" href="https://www.auctionmn.com/auctionmn.css?v=1.3" type="text/css">
-<!-- <link rel="stylesheet" href="auctionmn.css" type="text/css"> -->
+  <link rel="stylesheet" href="https://www.auctionmn.com/auctionmn.css?v=1.3" type="text/css">
+  <!-- <link rel="stylesheet" href="auctionmn.css" type="text/css"> -->
 
-<!--[if IE]>
+  <!--[if IE]>
 	<link rel="stylesheet" type="text/css" href="auctionmn-ie.css" />
 <![endif]-->
 
 
-<link rel="stylesheet" href="/auctionmnpr.css" type="text/css" media="print">
+  <link rel="stylesheet" href="/auctionmnpr.css" type="text/css" media="print">
 
-<!--#include file="head_sitemap.inc"-->
-<meta type="description" content="AAA Auction and Realty is your local online, live, and benefit auction specialist. View our current online auctions.">
-<meta property="og:image" content="https://www.auctionmn.com/images/AAA_Auction_Logo.jpg" />
-<meta property="og:description" content="AAA Auction is Minnesota's leading online, live, and benefit auction specialist." />
-<script>
-  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  <!--#include file="head_sitemap.inc"-->
+  <meta type="description" content="AAA Auction and Realty is your local online, live, and benefit auction specialist. View our current online auctions.">
+  <meta property="og:image" content="https://www.auctionmn.com/images/AAA_Auction_Logo.jpg" />
+  <meta property="og:description" content="AAA Auction is Minnesota's leading online, live, and benefit auction specialist." />
+  <script>
+    (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
   (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
   m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
   })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
@@ -30,53 +31,196 @@
 
 </script>
 </head>
-<body> <!-- Start of Body -->
 
-<div id="Content">
-<div id="Header"><!--#include file="header.ssi"--></div>
-<div id="SearchArea" align="center"> <!-- Start of Search Area -->
-	<form method="post" action="/cgi-bin/mncal.cgi">
-		<table class="search" border="0" cellpadding="0" cellspacing="0">
-			<tbody>
-				<tr>
-					<td align="center"><input name="auction" value="auctionmn" type="hidden">
-					Search all online auctions for keyword(s): <input name="keyword" size="15" value="" type="text">
-					<select name="stype"><option value="ANY">Any of the words</option><option value="ALL">All of the words</option><option value="PHRASE">Exact phrase</option><option value="CONTAIN">Containing...</option></select>
-					<input name="search" value="Go!" type="submit">
-					</td>
-				</tr>
-			</tbody>
-		</table>
-	</form>
-</div> <!-- End of Search Area -->
-<div class="mainbody"> <!-- Start of Main Body -->
-<div class="maincontent"> <!-- Start of Main Content -->
+<body>
+  <!-- Start of Body -->
 
-<!-- Go to www.addthis.com/dashboard to customize your tools -->
-<script type="text/javascript" src="//s7.addthis.com/js/300/addthis_widget.js#pubid=ra-521b931f741dd6d6"></script>
-<!-- Start of Auctions -->
+  <div id="Content">
+    <div id="Header">
+      <!--#include file="header.ssi"-->
+    </div>
+    <div id="SearchArea" align="center">
+      <!-- Start of Search Area -->
+      <form method="post" action="/cgi-bin/mncal.cgi">
+        <table class="search" border="0" cellpadding="0" cellspacing="0">
+          <tbody>
+            <tr>
+              <td align="center"><input name="auction" value="auctionmn" type="hidden">
+                Search all online auctions for keyword(s): <input name="keyword" size="15" value="" type="text">
+                <select name="stype">
+                  <option value="ANY">Any of the words</option>
+                  <option value="ALL">All of the words</option>
+                  <option value="PHRASE">Exact phrase</option>
+                  <option value="CONTAIN">Containing...</option>
+                </select>
+                <input name="search" value="Go!" type="submit">
+              </td>
+            </tr>
+          </tbody>
+        </table>
+      </form>
+    </div> <!-- End of Search Area -->
+    <div class="mainbody">
+      <!-- Start of Main Body -->
+      <div class="maincontent">
+        <!-- Start of Main Content -->
 
-<div id="current" class="currentheading">
-	<h1>Current Auctions</h1>
-		<div class="addthis_sharing_toolbox"></div>
-</div>
-<div class="clearfix"></div>
+        <!-- Go to www.addthis.com/dashboard to customize your tools -->
+        <script type="text/javascript" src="//s7.addthis.com/js/300/addthis_widget.js#pubid=ra-521b931f741dd6d6"></script>
+        <!-- Start of Auctions -->
 
-<!-- *******************************************************************************
+        <div id="current" class="currentheading">
+          <h1>Current Auctions</h1>
+          <div class="addthis_sharing_toolbox"></div>
+        </div>
+        <div class="clearfix"></div>
+
+        <!-- *******************************************************************************
            *************      Start of Current Auctions       ************
 ******************************************************************************** -->
 
 
 
-<div class="current">
-  <h2><a href="https://www.auctionmn.com/cgi-bin/mmlist.cgi?auctionmn6/category/ALL">Online Auction Ending On Tuesday, July 23rd</a></h2>
-  <div class="flexbox">
-    <a href="https://www.auctionmn.com/cgi-bin/mmlist.cgi?auctionmn6/11"><img src="https://www.auctionmn.com/images/2019-07-23/T11-1.jpg" alt="Lot 11"></a>
-    <a href="https://www.auctionmn.com/cgi-bin/mmlist.cgi?auctionmn6/26"><img src="https://www.auctionmn.com/images/2019-07-23/T26-1.jpg" alt="Lot 26"></a>
-    <a href="https://www.auctionmn.com/cgi-bin/mmlist.cgi?auctionmn6/40"><img src="https://www.auctionmn.com/images/2019-07-23/T40-1.jpg" alt="Lot 40"></a>
-    <a href="https://www.auctionmn.com/cgi-bin/mmlist.cgi?auctionmn6/50"><img src="https://www.auctionmn.com/images/2019-07-23/T50-1.jpg" alt="Lot 50"></a>
-    <a href="https://www.auctionmn.com/cgi-bin/mmlist.cgi?auctionmn6/52"><img src="https://www.auctionmn.com/images/2019-07-23/T52-1.jpg" alt="Lot 52"></a>
-    <a href="https://www.auctionmn.com/cgi-bin/mmlist.cgi?auctionmn6/57"><img src="https://www.auctionmn.com/images/2019-07-23/T57-1.jpg" alt="Lot 57"></a>
+        <div class="current">
+          <h2><a href="https://www.auctionmn.com/cgi-bin/mmlist.cgi?auctionmn7/category/ALL">Online Auction Ending On Tuesday, August 13th</a></h2>
+          <div class="flexbox">
+            <a href="https://www.auctionmn.com/cgi-bin/mmlist.cgi?auctionmn7/15"><img src="https://www.auctionmn.com/images/2019-08-13/T15-1.jpg" alt="Lot 15"></a>
+            <a href="https://www.auctionmn.com/cgi-bin/mmlist.cgi?auctionmn7/17"><img src="https://www.auctionmn.com/images/2019-08-13/T17-1.jpg" alt="Lot 17"></a>
+            <a href="https://www.auctionmn.com/cgi-bin/mmlist.cgi?auctionmn7/20"><img src="https://www.auctionmn.com/images/2019-08-13/T20-1.jpg" alt="Lot 20"></a>
+            <a href="https://www.auctionmn.com/cgi-bin/mmlist.cgi?auctionmn7/22"><img src="https://www.auctionmn.com/images/2019-08-13/T22-1.jpg" alt="Lot 22"></a>
+            <a href="https://www.auctionmn.com/cgi-bin/mmlist.cgi?auctionmn7/25"><img src="https://www.auctionmn.com/images/2019-08-13/T25-1.jpg" alt="Lot 25"></a>
+            <a href="https://www.auctionmn.com/cgi-bin/mmlist.cgi?auctionmn7/32"><img src="https://www.auctionmn.com/images/2019-08-13/T32-1.jpg" alt="Lot 32"></a>
+            <a href="https://www.auctionmn.com/cgi-bin/mmlist.cgi?auctionmn7/36"><img src="https://www.auctionmn.com/images/2019-08-13/T36-1.jpg" alt="Lot 36"></a>
+            <a href="https://www.auctionmn.com/cgi-bin/mmlist.cgi?auctionmn7/50"><img src="https://www.auctionmn.com/images/2019-08-13/T50-1.jpg" alt="Lot 50"></a>
+            <a href="https://www.auctionmn.com/cgi-bin/mmlist.cgi?auctionmn7/56"><img src="https://www.auctionmn.com/images/2019-08-13/T56-1.jpg" alt="Lot 56"></a>
+            <a href="https://www.auctionmn.com/cgi-bin/mmlist.cgi?auctionmn7/65"><img src="https://www.auctionmn.com/images/2019-08-13/T65-1.jpg" alt="Lot 65"></a>
+            <a href="https://www.auctionmn.com/cgi-bin/mmlist.cgi?auctionmn7/105"><img src="https://www.auctionmn.com/images/2019-08-13/T105-1.jpg" alt="Lot 105"></a>
+            <a href="https://www.auctionmn.com/cgi-bin/mmlist.cgi?auctionmn7/113"><img src="https://www.auctionmn.com/images/2019-08-13/T113-1.jpg" alt="Lot 113"></a>
+            <a href="https://www.auctionmn.com/cgi-bin/mmlist.cgi?auctionmn7/123"><img src="https://www.auctionmn.com/images/2019-08-13/T123-1.jpg" alt="Lot 123"></a>
+            <a href="https://www.auctionmn.com/cgi-bin/mmlist.cgi?auctionmn7/125"><img src="https://www.auctionmn.com/images/2019-08-13/T125-1.jpg" alt="Lot 125"></a>
+            <a href="https://www.auctionmn.com/cgi-bin/mmlist.cgi?auctionmn7/164"><img src="https://www.auctionmn.com/images/2019-08-13/T164-1.jpg" alt="Lot 164"></a>
+            <a href="https://www.auctionmn.com/cgi-bin/mmlist.cgi?auctionmn7/195"><img src="https://www.auctionmn.com/images/2019-08-13/T195-1.jpg" alt="Lot 195"></a>
+            <a href="https://www.auctionmn.com/cgi-bin/mmlist.cgi?auctionmn7/196"><img src="https://www.auctionmn.com/images/2019-08-13/T196-1.jpg" alt="Lot 196"></a>
+            <a href="https://www.auctionmn.com/cgi-bin/mmlist.cgi?auctionmn7/200"><img src="https://www.auctionmn.com/images/2019-08-13/T200-1.jpg" alt="Lot 200"></a>
+            <a href="https://www.auctionmn.com/cgi-bin/mmlist.cgi?auctionmn7/221"><img src="https://www.auctionmn.com/images/2019-08-13/T221-1.jpg" alt="Lot 221"></a>
+            <a href="https://www.auctionmn.com/cgi-bin/mmlist.cgi?auctionmn7/233"><img src="https://www.auctionmn.com/images/2019-08-13/T233-1.jpg" alt="Lot 233"></a>
+          </div>
+          <a href="https://www.auctionmn.com/cgi-bin/mmlist.cgi?auctionmn7/category/ALL" class="bidnow rfloat"></a>
+          <p><strong>Preview and Pickup Location</strong></p>
+          <p><a target="_blank" href="https://goo.gl/maps/L9u81MhP4dq">7140 Old Viking Blvd NW, Nowthen MN</a></p>
+          <p><strong>Preview Time</strong></p>
+          <p>Monday, August 12th, from 11 a.m. to 1 p.m.</p>
+          <p><strong>Auction Ending Time</strong></p>
+          <p>Tuesday, August 13th, Auction ends starting at 7:30 p.m.</p>
+          <p><strong>Pickup Time</strong></p>
+          <p>Wednesday, August 14th, from 9:30 a.m. to 7 p.m.</p>
+          <!-- <p><strong>Auctioneer's Notes</strong></p>
+      <p></p> -->
+          <p><a href="https://auctionmn.com/general-terms-and-conditions.shtml">Terms and Conditions</a> for this auction.</p>
+        </div>
+
+
+
+
+
+
+        <!-- *******************************************************************************
+            *************      End of Current Auctions       ***************
+******************************************************************************** -->
+
+        <!-- <div>
+    <iframe src="//www.facebook.com/plugins/likebox.php?href=https%3A%2F%2Fwww.facebook.com%2Fauctionmn&amp;width=690&amp;height=400&amp;colorscheme=light&amp;show_faces=false&amp;header=true&amp;stream=true&amp;show_border=true" scrolling="no" frameborder="0" style="border:none; overflow:hidden; width:690px; height:400px;" allowtransparency="true"></iframe>
+</div> -->
+
+
+        <div id="upcoming" class="upcomingheading">
+          <h1>Upcoming Auctions</h1>
+          <!-- Go to www.addthis.com/dashboard to customize your tools -->
+          <!-- <div class="addthis_sharing_toolbox"></div> -->
+        </div>
+        <div class="clearfix"></div>
+
+        <!-- *******************************************************************************
+            *************      Start of Upcoming Auctions       ***************
+******************************************************************************** -->
+
+
+
+
+        <div class="upcoming maus">
+          <h2 id="maus">Mau's Corner Flea Market & Live Auction</h2>
+          <div class="">
+            <p>Our Next Auction Is On: Tuesday, <b>July 30th</b>, 2019</p>
+          </div>
+          <!-- <div class="alert alert-info animated pulse" role="alert">&#9728 Auctions Begin on Tuesday, <u>April 23rd</u></div> -->
+          <!-- <div class="announcement">
+      <p>Good News: You have an extra week to get ready for Maus Corner Auction.</p>
+      <p>Due to stubborn winter weather, the auction will be canceled on April 16th.</p>
+      <p>We are hopeful Spring will return to allow us to have our first 2019 Maus Corner auction on <b>April 23rd</b>.</p>
+      <p>Tell your friends.</p>
+    </div> -->
+          <div class="flexbox">
+            <a href="https://www.auctionmn.com/images/mausgallery/maus01.html"><img src="https://www.auctionmn.com/images/mausgallery/maus01.jpg" alt=""></a>
+            <a href="https://www.auctionmn.com/images/mausgallery/images/maus25.jpg"><img src="https://www.auctionmn.com/images/mausgallery/images/maus25.jpg" alt=""></a>
+            <a href="https://www.auctionmn.com/images/MausCorner/IMG_0635.JPG"><img src="https://www.auctionmn.com/images/MausCorner/IMG_0635.JPG" alt=""></a>
+            <a href="https://www.auctionmn.com/images/MausCorner/IMG_0636.JPG"><img src="https://www.auctionmn.com/images/MausCorner/IMG_0636.JPG" alt=""></a>
+          </div>
+          <p><a href="https://www.auctionmn.com/images/mausgallery/index.html">View more photos from Mau's Auction</a></p>
+          <p><a href="https://www.auctionmn.com/maus-corner-selling-information.shtml">Selling at Mau's Corner</a></p>
+          <p><a href="https://www.auctionmn.com/maus-corner-bidding-information.shtml">Bidding at Mau's Corner</a></p>
+          <p><strong>Date</strong></p>
+          <p>Tuesday, July 30th</p>
+          <p><strong>Time</strong></p>
+          <p>Flea Market at 7 a.m.</p>
+          <p>Auction at 9 a.m.</p>
+          <p><strong>Location</strong></p>
+          <p>26025 Highway 47 <a target="_blank" href="https://www.google.com/maps/place/26057+Blackfoot+St+NW,+Isanti,+MN+55040/@45.441632,-93.367459,18z/data=!4m5!3m4!1s0x52b30ef717768fa5:0x95b75726738015bc!8m2!3d45.4417315!4d-93.3675934?hl=en-US">(Map)</a></p>
+          <p>Stanford Township, Isanti County</p>
+          <p>This is three miles north of St. Francis, just south of the intersection of Blackfoot St NW (State Highway 47) and 261st Ave NW.</p>
+          <p><strong>Auctioneer's Notes</strong></p>
+          <p>For 2019, although not required, we request that consignors call us before the auction to reserve a space to sell. The earlier you call, the closer to the front of the auction you will be. You have to arrive by 6 am though to claim your
+            reserved space. You are still welcome to sell even if you can't call us before the auction. We will schedule an auction only when it looks like we will have enough items for a good auction. We will post the date of the next auction on
+            our website, on Facebook and also on our sign at Mau's Corner. You can also phone us at (763) 421-3044 as early as 4:30 am on Tuesdays. See you there!</p>
+        </div>
+
+
+
+
+        <div class="upcoming">
+          <h2>Live County Estate Auction</h2>
+          <p><strong>Date</strong></p>
+          <p>Sunday, August 18th</p>
+          <p><strong>Location</strong></p>
+          <p>Near Swan Lake in East Bethel</p>
+        </div>
+
+
+        <!-- *******************************************************************************
+            *************      End of Upcoming Auctions       ***************
+******************************************************************************** -->
+
+
+        <div id="recent" class="recentheading">
+          <h1>Recent Auctions</h1>
+          <!-- Go to www.addthis.com/dashboard to customize your tools -->
+          <!-- <div class="addthis_sharing_toolbox"></div> -->
+        </div>
+        <div class="clearfix"></div>
+
+        <!-- *******************************************************************************
+            *************      Start of Recent Auctions       ***************
+******************************************************************************** -->
+
+
+        <div class="recent">
+          <h2><a href="https://www.auctionmn.com/cgi-bin/mmlist.cgi?auctionmn6/category/ALL">Online Auction Ended On Tuesday, July 23rd</a></h2>
+          <div class="flexbox">
+            <a href="https://www.auctionmn.com/cgi-bin/mmlist.cgi?auctionmn6/11"><img src="https://www.auctionmn.com/images/2019-07-23/T11-1.jpg" alt="Lot 11"></a>
+            <a href="https://www.auctionmn.com/cgi-bin/mmlist.cgi?auctionmn6/26"><img src="https://www.auctionmn.com/images/2019-07-23/T26-1.jpg" alt="Lot 26"></a>
+            <a href="https://www.auctionmn.com/cgi-bin/mmlist.cgi?auctionmn6/40"><img src="https://www.auctionmn.com/images/2019-07-23/T40-1.jpg" alt="Lot 40"></a>
+            <a href="https://www.auctionmn.com/cgi-bin/mmlist.cgi?auctionmn6/50"><img src="https://www.auctionmn.com/images/2019-07-23/T50-1.jpg" alt="Lot 50"></a>
+            <a href="https://www.auctionmn.com/cgi-bin/mmlist.cgi?auctionmn6/52"><img src="https://www.auctionmn.com/images/2019-07-23/T52-1.jpg" alt="Lot 52"></a>
+            <!-- <a href="https://www.auctionmn.com/cgi-bin/mmlist.cgi?auctionmn6/57"><img src="https://www.auctionmn.com/images/2019-07-23/T57-1.jpg" alt="Lot 57"></a>
     <a href="https://www.auctionmn.com/cgi-bin/mmlist.cgi?auctionmn6/63"><img src="https://www.auctionmn.com/images/2019-07-23/T63-1.jpg" alt="Lot 63"></a>
     <a href="https://www.auctionmn.com/cgi-bin/mmlist.cgi?auctionmn6/70"><img src="https://www.auctionmn.com/images/2019-07-23/T70-1.jpg" alt="Lot 70"></a>
     <a href="https://www.auctionmn.com/cgi-bin/mmlist.cgi?auctionmn6/72"><img src="https://www.auctionmn.com/images/2019-07-23/T72-1.jpg" alt="Lot 72"></a>
@@ -86,124 +230,30 @@
     <a href="https://www.auctionmn.com/cgi-bin/mmlist.cgi?auctionmn6/115"><img src="https://www.auctionmn.com/images/2019-07-23/T115-1.jpg" alt="Lot 115"></a>
     <a href="https://www.auctionmn.com/cgi-bin/mmlist.cgi?auctionmn6/165"><img src="https://www.auctionmn.com/images/2019-07-23/T165-1.jpg" alt="Lot 165"></a>
     <a href="https://www.auctionmn.com/cgi-bin/mmlist.cgi?auctionmn6/257"><img src="https://www.auctionmn.com/images/2019-07-23/T257-1.jpg" alt="Lot 257"></a>
-    <a href="https://www.auctionmn.com/cgi-bin/mmlist.cgi?auctionmn6/282"><img src="https://www.auctionmn.com/images/2019-07-23/T282-1.jpg" alt="Lot 282"></a>
-    <!-- <a href="https://www.auctionmn.com/cgi-bin/mmlist.cgi?auctionmn6/290"><img src="https://www.auctionmn.com/images/2019-07-23/T290-1.jpg" alt="Lot 290"></a>
+    <a href="https://www.auctionmn.com/cgi-bin/mmlist.cgi?auctionmn6/282"><img src="https://www.auctionmn.com/images/2019-07-23/T282-1.jpg" alt="Lot 282"></a> -->
+            <!-- <a href="https://www.auctionmn.com/cgi-bin/mmlist.cgi?auctionmn6/290"><img src="https://www.auctionmn.com/images/2019-07-23/T290-1.jpg" alt="Lot 290"></a>
     <a href="https://www.auctionmn.com/cgi-bin/mmlist.cgi?auctionmn6/312"><img src="https://www.auctionmn.com/images/2019-07-23/T312-1.jpg" alt="Lot 312"></a>
     <a href="https://www.auctionmn.com/cgi-bin/mmlist.cgi?auctionmn6/317"><img src="https://www.auctionmn.com/images/2019-07-23/T317-1.jpg" alt="Lot 317"></a> -->
-  </div>
-  <a href="https://www.auctionmn.com/cgi-bin/mmlist.cgi?auctionmn6/category/ALL" class="bidnow rfloat"></a>
-    <p><strong>Preview and Pickup Location</strong></p>
-      <p><a target="_blank" href="https://goo.gl/maps/L9u81MhP4dq">7140 Old Viking Blvd NW, Nowthen MN</a></p>
-    <p><strong>Preview Time</strong></p>
-      <p>Monday, July 22nd, from 9 to 12 p.m.</p>
-    <p><strong>Auction Ending Time</strong></p>
-      <p>Tuesday, July 23rd, Auction ends starting at 7:30 p.m.</p>
-    <p><strong>Pickup Time</strong></p>
-      <p>Wednesday, July 24th, from 9:30 a.m. to 7 p.m.</p>
-    <p><a href="https://auctionmn.com/general-terms-and-conditions.shtml">Terms and Conditions</a> for this auction.</p>
-</div>
+          </div>
+          <!-- <a href="https://www.auctionmn.com/cgi-bin/mmlist.cgi?auctionmn6/category/ALL" class="bidnow rfloat"></a> -->
+          <!-- <p><strong>Pickup Location</strong></p>
+          <p><a target="_blank" href="https://goo.gl/maps/L9u81MhP4dq">7140 Old Viking Blvd NW, Nowthen MN</a></p>
+          <p><strong>Pickup Time</strong></p>
+          <p>Wednesday, July 24th, from 9:30 a.m. to 7 p.m.</p>
+          <p><a href="https://auctionmn.com/general-terms-and-conditions.shtml">Terms and Conditions</a> for this auction.</p> -->
+        </div>
 
 
-
-
-
-
-<!-- *******************************************************************************
-            *************      End of Current Auctions       ***************
-******************************************************************************** -->
-
-<!-- <div>
-    <iframe src="//www.facebook.com/plugins/likebox.php?href=https%3A%2F%2Fwww.facebook.com%2Fauctionmn&amp;width=690&amp;height=400&amp;colorscheme=light&amp;show_faces=false&amp;header=true&amp;stream=true&amp;show_border=true" scrolling="no" frameborder="0" style="border:none; overflow:hidden; width:690px; height:400px;" allowtransparency="true"></iframe>
-</div> -->
-
-
-<div id="upcoming" class="upcomingheading">
-	<h1>Upcoming Auctions</h1>
-		<!-- Go to www.addthis.com/dashboard to customize your tools -->
-		<!-- <div class="addthis_sharing_toolbox"></div> -->
-</div>
-<div class="clearfix"></div>
-
-<!-- *******************************************************************************
-            *************      Start of Upcoming Auctions       ***************
-******************************************************************************** -->
-
-
-
-
-<div class="upcoming maus">
-	<h2 id="maus">Mau's Corner Weekly Flea Market & Live Auction</h2>
-    <div class="">
-      <p>Our Next Auction Is On: Tuesday, <b>July 30th</b>, 2019</p>
-    </div>
-    <!-- <div class="alert alert-info animated pulse" role="alert">&#9728 Auctions Begin on Tuesday, <u>April 23rd</u></div> -->
-    <!-- <div class="announcement">
-      <p>Good News: You have an extra week to get ready for Maus Corner Auction.</p>
-      <p>Due to stubborn winter weather, the auction will be canceled on April 16th.</p>
-      <p>We are hopeful Spring will return to allow us to have our first 2019 Maus Corner auction on <b>April 23rd</b>.</p>
-      <p>Tell your friends.</p>
-    </div> -->
-  <div class="flexbox">
-		<a href="https://www.auctionmn.com/images/mausgallery/maus01.html"><img src="https://www.auctionmn.com/images/mausgallery/maus01.jpg" alt=""></a>
-		<a href="https://www.auctionmn.com/images/mausgallery/images/maus25.jpg"><img src="https://www.auctionmn.com/images/mausgallery/images/maus25.jpg" alt=""></a>
-		<a href="https://www.auctionmn.com/images/MausCorner/IMG_0635.JPG"><img src="https://www.auctionmn.com/images/MausCorner/IMG_0635.JPG" alt=""></a>
-		<a href="https://www.auctionmn.com/images/MausCorner/IMG_0636.JPG"><img src="https://www.auctionmn.com/images/MausCorner/IMG_0636.JPG" alt=""></a>
-	</div>
-		<p><a href="https://www.auctionmn.com/images/mausgallery/index.html">View more photos from Mau's Auction</a></p>
-		<p><a href="https://www.auctionmn.com/maus-corner-selling-information.shtml">Selling at Mau's Corner</a></p>
-		<p><a href="https://www.auctionmn.com/maus-corner-bidding-information.shtml">Bidding at Mau's Corner</a></p>
-	<p><strong>Date</strong></p>
-		<p>Tuesday, July 30th</p>
-	<p><strong>Time</strong></p>
-		<p>Flea Market at 7 a.m.</p>
-		<p>Auction at 9 a.m.</p>
-	<p><strong>Location</strong></p>
-		<p>26025 Highway 47 <a target="_blank" href="https://www.google.com/maps/place/26057+Blackfoot+St+NW,+Isanti,+MN+55040/@45.441632,-93.367459,18z/data=!4m5!3m4!1s0x52b30ef717768fa5:0x95b75726738015bc!8m2!3d45.4417315!4d-93.3675934?hl=en-US">(Map)</a></p>
-		<p>Stanford Township, Isanti County</p>
-		<p>This is three miles north of St. Francis, just south of the intersection of Blackfoot St NW (State Highway 47) and 261st Ave NW.</p>
-	<p><strong>Auctioneer's Notes</strong></p>
-    <p>For 2019, although not required, we request that consignors call us before the auction to reserve a space to sell. The earlier you call, the closer to the front of the auction you will be. You have to arrive by 6 am though to claim your reserved space. You are still welcome to sell even if you can't call us before the auction. We will schedule an auction only when it looks like we will have enough items for a good auction. We will post the date of the next auction on our website, on Facebook and also on our sign at Mau's Corner. You can also phone us at (763) 421-3044 as early as 4:30 am on Tuesdays. See you there!</p>
-</div>
-
-
-
-
-<div class="upcoming">
-  <h2>Live County Estate Auction</h2>
-  <p><strong>Date</strong></p>
-    <p>Sunday, August 18th</p>
-  <p><strong>Location</strong></p>
-    <p>Near Swan Lake in East Bethel</p>
-</div>
-
-
-<!-- *******************************************************************************
-            *************      End of Upcoming Auctions       ***************
-******************************************************************************** -->
-
-
-<div id="recent" class="recentheading">
-	<h1>Recent Auctions</h1>
-		<!-- Go to www.addthis.com/dashboard to customize your tools -->
-		<!-- <div class="addthis_sharing_toolbox"></div> -->
-</div>
-<div class="clearfix"></div>
-
-<!-- *******************************************************************************
-            *************      Start of Recent Auctions       ***************
-******************************************************************************** -->
-
-
-<div class="recent">
-  <h2><a href="https://www.auctionmn.com/cgi-bin/mmlist.cgi?auctionmn4/category/ALL">Online Auction Ended On Sunday, June 23rd</a></h2>
-  <div class="flexbox">
-    <a href="https://www.auctionmn.com/cgi-bin/mmlist.cgi?auctionmn4/2"><img src="https://www.auctionmn.com/images/2019-06-23/T2-1.jpg" alt="Lot 2"></a>
-    <a href="https://www.auctionmn.com/cgi-bin/mmlist.cgi?auctionmn4/20"><img src="https://www.auctionmn.com/images/2019-06-23/T20-1.jpg" alt="Lot 20"></a>
-    <a href="https://www.auctionmn.com/cgi-bin/mmlist.cgi?auctionmn4/22"><img src="https://www.auctionmn.com/images/2019-06-23/T22-1.jpg" alt="Lot 22"></a>
-    <a href="https://www.auctionmn.com/cgi-bin/mmlist.cgi?auctionmn4/32"><img src="https://www.auctionmn.com/images/2019-06-23/T32-1.jpg" alt="Lot 32"></a>
-    <a href="https://www.auctionmn.com/cgi-bin/mmlist.cgi?auctionmn4/47"><img src="https://www.auctionmn.com/images/2019-06-23/T47-1.jpg" alt="Lot 47"></a>
-    <a href="https://www.auctionmn.com/cgi-bin/mmlist.cgi?auctionmn4/48"><img src="https://www.auctionmn.com/images/2019-06-23/T48-1.jpg" alt="Lot 48"></a>
-    <!-- <a href="https://www.auctionmn.com/cgi-bin/mmlist.cgi?auctionmn4/51"><img src="https://www.auctionmn.com/images/2019-06-23/T51-1.jpg" alt="Lot 51"></a>
+        <div class="recent">
+          <h2><a href="https://www.auctionmn.com/cgi-bin/mmlist.cgi?auctionmn4/category/ALL">Online Auction Ended On Sunday, June 23rd</a></h2>
+          <div class="flexbox">
+            <a href="https://www.auctionmn.com/cgi-bin/mmlist.cgi?auctionmn4/2"><img src="https://www.auctionmn.com/images/2019-06-23/T2-1.jpg" alt="Lot 2"></a>
+            <a href="https://www.auctionmn.com/cgi-bin/mmlist.cgi?auctionmn4/20"><img src="https://www.auctionmn.com/images/2019-06-23/T20-1.jpg" alt="Lot 20"></a>
+            <a href="https://www.auctionmn.com/cgi-bin/mmlist.cgi?auctionmn4/22"><img src="https://www.auctionmn.com/images/2019-06-23/T22-1.jpg" alt="Lot 22"></a>
+            <a href="https://www.auctionmn.com/cgi-bin/mmlist.cgi?auctionmn4/32"><img src="https://www.auctionmn.com/images/2019-06-23/T32-1.jpg" alt="Lot 32"></a>
+            <a href="https://www.auctionmn.com/cgi-bin/mmlist.cgi?auctionmn4/47"><img src="https://www.auctionmn.com/images/2019-06-23/T47-1.jpg" alt="Lot 47"></a>
+            <a href="https://www.auctionmn.com/cgi-bin/mmlist.cgi?auctionmn4/48"><img src="https://www.auctionmn.com/images/2019-06-23/T48-1.jpg" alt="Lot 48"></a>
+            <!-- <a href="https://www.auctionmn.com/cgi-bin/mmlist.cgi?auctionmn4/51"><img src="https://www.auctionmn.com/images/2019-06-23/T51-1.jpg" alt="Lot 51"></a>
     <a href="https://www.auctionmn.com/cgi-bin/mmlist.cgi?auctionmn4/75"><img src="https://www.auctionmn.com/images/2019-06-23/T75-1.jpg" alt="Lot 75"></a>
     <a href="https://www.auctionmn.com/cgi-bin/mmlist.cgi?auctionmn4/90"><img src="https://www.auctionmn.com/images/2019-06-23/T90-1.jpg" alt="Lot 90"></a>
     <a href="https://www.auctionmn.com/cgi-bin/mmlist.cgi?auctionmn4/138"><img src="https://www.auctionmn.com/images/2019-06-23/T138-1.jpg" alt="Lot 138"></a>
@@ -218,19 +268,19 @@
     <a href="https://www.auctionmn.com/cgi-bin/mmlist.cgi?auctionmn4/301"><img src="https://www.auctionmn.com/images/2019-06-23/T301-1.jpg" alt="Lot 301"></a>
     <a href="https://www.auctionmn.com/cgi-bin/mmlist.cgi?auctionmn4/349"><img src="https://www.auctionmn.com/images/2019-06-23/T349-1.jpg" alt="Lot 349"></a>
     <a href="https://www.auctionmn.com/cgi-bin/mmlist.cgi?auctionmn4/357"><img src="https://www.auctionmn.com/images/2019-06-23/T357-1.jpg" alt="Lot 357"></a> -->
-  </div>
-</div>
+          </div>
+        </div>
 
 
-<div class="recent">
-  <h2><a href="https://www.auctionmn.com/cgi-bin/mmlist.cgi?auctionmn3/category/ALL">Online Auction Ended On Tuesday, June 4th</a></h2>
-  <div class="flexbox">
-    <a href="https://www.auctionmn.com/cgi-bin/mmlist.cgi?auctionmn3/3"><img src="https://www.auctionmn.com/images/2019-06-04/T3-1.jpg" alt="Lot 3"></a>
-    <a href="https://www.auctionmn.com/cgi-bin/mmlist.cgi?auctionmn3/7"><img src="https://www.auctionmn.com/images/2019-06-04/T7-1.jpg" alt="Lot 7"></a>
-    <a href="https://www.auctionmn.com/cgi-bin/mmlist.cgi?auctionmn3/18"><img src="https://www.auctionmn.com/images/2019-06-04/T18-1.jpg" alt="Lot 18"></a>
-    <a href="https://www.auctionmn.com/cgi-bin/mmlist.cgi?auctionmn3/31"><img src="https://www.auctionmn.com/images/2019-06-04/T31-1.jpg" alt="Lot 31"></a>
-    <a href="https://www.auctionmn.com/cgi-bin/mmlist.cgi?auctionmn3/36"><img src="https://www.auctionmn.com/images/2019-06-04/T36-1.jpg" alt="Lot 36"></a>
-    <!-- <a href="https://www.auctionmn.com/cgi-bin/mmlist.cgi?auctionmn3/47"><img src="https://www.auctionmn.com/images/2019-06-04/T47-1.jpg" alt="Lot 47"></a>
+        <div class="recent">
+          <h2><a href="https://www.auctionmn.com/cgi-bin/mmlist.cgi?auctionmn3/category/ALL">Online Auction Ended On Tuesday, June 4th</a></h2>
+          <div class="flexbox">
+            <a href="https://www.auctionmn.com/cgi-bin/mmlist.cgi?auctionmn3/3"><img src="https://www.auctionmn.com/images/2019-06-04/T3-1.jpg" alt="Lot 3"></a>
+            <a href="https://www.auctionmn.com/cgi-bin/mmlist.cgi?auctionmn3/7"><img src="https://www.auctionmn.com/images/2019-06-04/T7-1.jpg" alt="Lot 7"></a>
+            <a href="https://www.auctionmn.com/cgi-bin/mmlist.cgi?auctionmn3/18"><img src="https://www.auctionmn.com/images/2019-06-04/T18-1.jpg" alt="Lot 18"></a>
+            <a href="https://www.auctionmn.com/cgi-bin/mmlist.cgi?auctionmn3/31"><img src="https://www.auctionmn.com/images/2019-06-04/T31-1.jpg" alt="Lot 31"></a>
+            <a href="https://www.auctionmn.com/cgi-bin/mmlist.cgi?auctionmn3/36"><img src="https://www.auctionmn.com/images/2019-06-04/T36-1.jpg" alt="Lot 36"></a>
+            <!-- <a href="https://www.auctionmn.com/cgi-bin/mmlist.cgi?auctionmn3/47"><img src="https://www.auctionmn.com/images/2019-06-04/T47-1.jpg" alt="Lot 47"></a>
     <a href="https://www.auctionmn.com/cgi-bin/mmlist.cgi?auctionmn3/121"><img src="https://www.auctionmn.com/images/2019-06-04/T121-1.jpg" alt="Lot 121"></a>
     <a href="https://www.auctionmn.com/cgi-bin/mmlist.cgi?auctionmn3/125"><img src="https://www.auctionmn.com/images/2019-06-04/T125-1.jpg" alt="Lot 125"></a>
     <a href="https://www.auctionmn.com/cgi-bin/mmlist.cgi?auctionmn3/126"><img src="https://www.auctionmn.com/images/2019-06-04/T126-1.jpg" alt="Lot 126"></a>
@@ -242,82 +292,83 @@
     <a href="https://www.auctionmn.com/cgi-bin/mmlist.cgi?auctionmn3/207"><img src="https://www.auctionmn.com/images/2019-06-04/T207-1.jpg" alt="Lot 207"></a>
     <a href="https://www.auctionmn.com/cgi-bin/mmlist.cgi?auctionmn3/219"><img src="https://www.auctionmn.com/images/2019-06-04/T219-1.jpg" alt="Lot 219"></a>
     <a href="https://www.auctionmn.com/cgi-bin/mmlist.cgi?auctionmn3/245"><img src="https://www.auctionmn.com/images/2019-06-04/T245-1.jpg" alt="Lot 245"></a> -->
-    <!-- <a href="https://www.auctionmn.com/cgi-bin/mmlist.cgi?auctionmn3/276"><img src="https://www.auctionmn.com/images/2019-06-04/T276-1.jpg" alt="Lot 276"></a>
+            <!-- <a href="https://www.auctionmn.com/cgi-bin/mmlist.cgi?auctionmn3/276"><img src="https://www.auctionmn.com/images/2019-06-04/T276-1.jpg" alt="Lot 276"></a>
     <a href="https://www.auctionmn.com/cgi-bin/mmlist.cgi?auctionmn3/297"><img src="https://www.auctionmn.com/images/2019-06-04/T297-1.jpg" alt="Lot 297"></a>
     <a href="https://www.auctionmn.com/cgi-bin/mmlist.cgi?auctionmn3/326"><img src="https://www.auctionmn.com/images/2019-06-04/T326-1.jpg" alt="Lot 326"></a> -->
-  </div>
-  <!-- <a href="https://www.auctionmn.com/cgi-bin/mmlist.cgi?auctionmn3/category/ALL" class="bidnow rfloat"></a> -->
-    <!-- <p><strong>Pickup Location</strong></p>
+          </div>
+          <!-- <a href="https://www.auctionmn.com/cgi-bin/mmlist.cgi?auctionmn3/category/ALL" class="bidnow rfloat"></a> -->
+          <!-- <p><strong>Pickup Location</strong></p>
       <p><a target="_blank" href="https://goo.gl/maps/L9u81MhP4dq">7140 Old Viking Blvd NW, Nowthen MN</a></p>
     <p><strong>Pickup Time</strong></p>
       <p>Wednesday, June 5th, from 9:30 a.m. to 7 p.m.</p>
     <p><a href="https://auctionmn.com/general-terms-and-conditions.shtml">Terms and Conditions</a> for this auction.</p> -->
-</div>
+        </div>
 
 
 
 
-<div class="recent">
-  <h2><a href="https://www.auctionmn.com/cgi-bin/mmlist.cgi?auctionmn2/category/ALL">Online Auction Ended On Tuesday, May 14th</a></h2>
-  <div class="flexbox">
-    <!-- <a href="https://www.auctionmn.com/cgi-bin/mmlist.cgi?auctionmn2/377"><img src="https://www.auctionmn.com/images/2019-05-14/T377-1.jpg" alt="Lot 377"></a>
+        <div class="recent">
+          <h2><a href="https://www.auctionmn.com/cgi-bin/mmlist.cgi?auctionmn2/category/ALL">Online Auction Ended On Tuesday, May 14th</a></h2>
+          <div class="flexbox">
+            <!-- <a href="https://www.auctionmn.com/cgi-bin/mmlist.cgi?auctionmn2/377"><img src="https://www.auctionmn.com/images/2019-05-14/T377-1.jpg" alt="Lot 377"></a>
     <a href="https://www.auctionmn.com/cgi-bin/mmlist.cgi?auctionmn2/13"><img src="https://www.auctionmn.com/images/2019-05-14/T13-1.jpg" alt="Lot 13"></a>
     <a href="https://www.auctionmn.com/cgi-bin/mmlist.cgi?auctionmn2/34"><img src="https://www.auctionmn.com/images/2019-05-14/T34-1.jpg" alt="Lot 34"></a>
     <a href="https://www.auctionmn.com/cgi-bin/mmlist.cgi?auctionmn2/49"><img src="https://www.auctionmn.com/images/2019-05-14/T49-1.jpg" alt="Lot 49"></a>
     <a href="https://www.auctionmn.com/cgi-bin/mmlist.cgi?auctionmn2/62"><img src="https://www.auctionmn.com/images/2019-05-14/T62-1.jpg" alt="Lot 62"></a> -->
-    <a href="https://www.auctionmn.com/cgi-bin/mmlist.cgi?auctionmn2/82"><img src="https://www.auctionmn.com/images/2019-05-14/T82-1.jpg" alt="Lot 82"></a>
-    <a href="https://www.auctionmn.com/cgi-bin/mmlist.cgi?auctionmn2/87"><img src="https://www.auctionmn.com/images/2019-05-14/T87-1.jpg" alt="Lot 87"></a>
-    <a href="https://www.auctionmn.com/cgi-bin/mmlist.cgi?auctionmn2/93"><img src="https://www.auctionmn.com/images/2019-05-14/T93-1.jpg" alt="Lot 93"></a>
-    <a href="https://www.auctionmn.com/cgi-bin/mmlist.cgi?auctionmn2/167"><img src="https://www.auctionmn.com/images/2019-05-14/T167-1.jpg" alt="Lot 167"></a>
-    <a href="https://www.auctionmn.com/cgi-bin/mmlist.cgi?auctionmn2/179"><img src="https://www.auctionmn.com/images/2019-05-14/T179-1.jpg" alt="Lot 179"></a>
-    <a href="https://www.auctionmn.com/cgi-bin/mmlist.cgi?auctionmn2/241"><img src="https://www.auctionmn.com/images/2019-05-14/T241-1.jpg" alt="Lot 241"></a>
-    <!-- <a href="https://www.auctionmn.com/cgi-bin/mmlist.cgi?auctionmn2/245"><img src="https://www.auctionmn.com/images/2019-05-14/T245-1.jpg" alt="Lot 245"></a>
+            <a href="https://www.auctionmn.com/cgi-bin/mmlist.cgi?auctionmn2/82"><img src="https://www.auctionmn.com/images/2019-05-14/T82-1.jpg" alt="Lot 82"></a>
+            <a href="https://www.auctionmn.com/cgi-bin/mmlist.cgi?auctionmn2/87"><img src="https://www.auctionmn.com/images/2019-05-14/T87-1.jpg" alt="Lot 87"></a>
+            <a href="https://www.auctionmn.com/cgi-bin/mmlist.cgi?auctionmn2/93"><img src="https://www.auctionmn.com/images/2019-05-14/T93-1.jpg" alt="Lot 93"></a>
+            <a href="https://www.auctionmn.com/cgi-bin/mmlist.cgi?auctionmn2/167"><img src="https://www.auctionmn.com/images/2019-05-14/T167-1.jpg" alt="Lot 167"></a>
+            <a href="https://www.auctionmn.com/cgi-bin/mmlist.cgi?auctionmn2/179"><img src="https://www.auctionmn.com/images/2019-05-14/T179-1.jpg" alt="Lot 179"></a>
+            <a href="https://www.auctionmn.com/cgi-bin/mmlist.cgi?auctionmn2/241"><img src="https://www.auctionmn.com/images/2019-05-14/T241-1.jpg" alt="Lot 241"></a>
+            <!-- <a href="https://www.auctionmn.com/cgi-bin/mmlist.cgi?auctionmn2/245"><img src="https://www.auctionmn.com/images/2019-05-14/T245-1.jpg" alt="Lot 245"></a>
     <a href="https://www.auctionmn.com/cgi-bin/mmlist.cgi?auctionmn2/282"><img src="https://www.auctionmn.com/images/2019-05-14/T282-1.jpg" alt="Lot 282"></a>
     <a href="https://www.auctionmn.com/cgi-bin/mmlist.cgi?auctionmn2/313"><img src="https://www.auctionmn.com/images/2019-05-14/T313-1.jpg" alt="Lot 313"></a>
     <a href="https://www.auctionmn.com/cgi-bin/mmlist.cgi?auctionmn2/322"><img src="https://www.auctionmn.com/images/2019-05-14/T322-1.jpg" alt="Lot 322"></a>
     <a href="https://www.auctionmn.com/cgi-bin/mmlist.cgi?auctionmn2/344"><img src="https://www.auctionmn.com/images/2019-05-14/T344-1.jpg" alt="Lot 344"></a>
     <a href="https://www.auctionmn.com/cgi-bin/mmlist.cgi?auctionmn2/356"><img src="https://www.auctionmn.com/images/2019-05-14/T356-1.jpg" alt="Lot 356"></a> -->
-    <!-- <a href="https://www.auctionmn.com/cgi-bin/mmlist.cgi?auctionmn2/360"><img src="https://www.auctionmn.com/images/2019-05-14/T360-1.jpg" alt="Lot 360"></a>
+            <!-- <a href="https://www.auctionmn.com/cgi-bin/mmlist.cgi?auctionmn2/360"><img src="https://www.auctionmn.com/images/2019-05-14/T360-1.jpg" alt="Lot 360"></a>
     <a href="https://www.auctionmn.com/cgi-bin/mmlist.cgi?auctionmn2/367"><img src="https://www.auctionmn.com/images/2019-05-14/T367-1.jpg" alt="Lot 367"></a> -->
-    <!-- <a href="https://www.auctionmn.com/cgi-bin/mmlist.cgi?auctionmn2/"><img src="https://www.auctionmn.com/images/2019-05-14/T-1.jpg" alt="Lot "></a> -->
-  </div>
-    <!-- <p><strong>Pickup Location</strong></p>
+            <!-- <a href="https://www.auctionmn.com/cgi-bin/mmlist.cgi?auctionmn2/"><img src="https://www.auctionmn.com/images/2019-05-14/T-1.jpg" alt="Lot "></a> -->
+          </div>
+          <!-- <p><strong>Pickup Location</strong></p>
       <p><a target="_blank" href="https://goo.gl/maps/L9u81MhP4dq">7140 Old Viking Blvd NW, Nowthen MN</a></p>
     <p><strong>Pickup Time</strong></p>
       <p>Wednesday, May 15th, from 9:30 a.m. to 7 p.m.</p>
     <p><a href="https://auctionmn.com/general-terms-and-conditions.shtml">Terms and Conditions</a> for this auction.</p> -->
-</div>
+        </div>
 
-<div class="recent">
-  <img style="float:right;width:175px;padding:8px;" src="https://www.auctionmn.com/images/Family_Enhancement_Center.jpg" alt="">
-  <div class="">
-  <h2>Family Enhancement Center Benefit Auction</h2>
-    <p>Denise and I had a great time last night helping raise funds for the Family Enhancement Center, a group dedicated to helping children heal form the trauma of child abuse in the Twin Cities. Pictured here with Denise and myself are Chairman of the Board, John Comer and volunteer auction organizer, Mary Serie. The generosity of the crowd surpassed all expectations.
-    </p>
-    <p>- Tony</p>
-    &nbsp;
-  </div>
-</div>
+        <div class="recent">
+          <img style="float:right;width:175px;padding:8px;" src="https://www.auctionmn.com/images/Family_Enhancement_Center.jpg" alt="">
+          <div class="">
+            <h2>Family Enhancement Center Benefit Auction</h2>
+            <p>Denise and I had a great time last night helping raise funds for the Family Enhancement Center, a group dedicated to helping children heal form the trauma of child abuse in the Twin Cities. Pictured here with Denise and myself are
+              Chairman of the Board, John Comer and volunteer auction organizer, Mary Serie. The generosity of the crowd surpassed all expectations.
+            </p>
+            <p>- Tony</p>
+            &nbsp;
+          </div>
+        </div>
 
 
-<div class="recent">
-	<h2><a href="https://www.auctionmn.com/cgi-bin/mmlist.cgi?auctionmn13/category/ALL">Annual Canoe, Kayak, and Paddle Board Auction <br>April 27th, 2019 at Midwest Mountaineering</a></h2>
-		<div class="flexbox">
-			<a href="https://www.auctionmn.com/images/2017-04-29-Canoe_Kayak/img_3.jpg"><img src="https://www.auctionmn.com/images/2017-04-29-Canoe_Kayak/img_3.jpg" alt=""></a>
-			<a href="https://www.auctionmn.com/images/2017-04-29-Canoe_Kayak/img_5.jpg"><img src="https://www.auctionmn.com/images/2017-04-29-Canoe_Kayak/img_5.jpg" alt=""></a>
-			<a href="https://www.auctionmn.com/images/2017-04-29-Canoe_Kayak/img_6.jpg"><img src="https://www.auctionmn.com/images/2017-04-29-Canoe_Kayak/img_6.jpg" alt=""></a>
-			<a href="https://www.auctionmn.com/images/2017-04-29-Canoe_Kayak/img_7.jpg"><img src="https://www.auctionmn.com/images/2017-04-29-Canoe_Kayak/img_7.jpg" alt=""></a>
-			<a href="https://www.auctionmn.com/images/2017-04-29-Canoe_Kayak/img_8.jpg"><img src="https://www.auctionmn.com/images/2017-04-29-Canoe_Kayak/img_8.jpg" alt=""></a>
-			<a href="https://www.auctionmn.com/images/2017-04-29-Canoe_Kayak/img_9.jpg"><img src="https://www.auctionmn.com/images/2017-04-29-Canoe_Kayak/img_9.jpg" alt=""></a>
-			<a href="https://www.auctionmn.com/images/2017-04-29-Canoe_Kayak/img_10.jpg"><img src="https://www.auctionmn.com/images/2017-04-29-Canoe_Kayak/img_10.jpg" alt=""></a>
-			<a href="https://www.auctionmn.com/images/2017-04-29-Canoe_Kayak/img_11.jpg"><img src="https://www.auctionmn.com/images/2017-04-29-Canoe_Kayak/img_11.jpg" alt=""></a>
-			<a href="https://www.auctionmn.com/images/2017-04-29-Canoe_Kayak/img_12.jpg"><img src="https://www.auctionmn.com/images/2017-04-29-Canoe_Kayak/img_12.jpg" alt=""></a>
-			<a href="https://www.auctionmn.com/images/2016_Canoe/Canoe_5.jpg"><img src="https://www.auctionmn.com/images/2016_Canoe/Canoe_5.jpg" alt="Annual Canoe and Kayak Auction"></a>
-		</div>
-	<p>
-		You can <a href="https://www.auctionmn.com/cgi-bin/mmlist.cgi?auctionmn13/category/ALL">view the results of this auction here</a>.
-	</p>
-<!-- 		<p><strong>Location</strong></p>
+        <div class="recent">
+          <h2><a href="https://www.auctionmn.com/cgi-bin/mmlist.cgi?auctionmn13/category/ALL">Annual Canoe, Kayak, and Paddle Board Auction <br>April 27th, 2019 at Midwest Mountaineering</a></h2>
+          <div class="flexbox">
+            <a href="https://www.auctionmn.com/images/2017-04-29-Canoe_Kayak/img_3.jpg"><img src="https://www.auctionmn.com/images/2017-04-29-Canoe_Kayak/img_3.jpg" alt=""></a>
+            <a href="https://www.auctionmn.com/images/2017-04-29-Canoe_Kayak/img_5.jpg"><img src="https://www.auctionmn.com/images/2017-04-29-Canoe_Kayak/img_5.jpg" alt=""></a>
+            <a href="https://www.auctionmn.com/images/2017-04-29-Canoe_Kayak/img_6.jpg"><img src="https://www.auctionmn.com/images/2017-04-29-Canoe_Kayak/img_6.jpg" alt=""></a>
+            <a href="https://www.auctionmn.com/images/2017-04-29-Canoe_Kayak/img_7.jpg"><img src="https://www.auctionmn.com/images/2017-04-29-Canoe_Kayak/img_7.jpg" alt=""></a>
+            <a href="https://www.auctionmn.com/images/2017-04-29-Canoe_Kayak/img_8.jpg"><img src="https://www.auctionmn.com/images/2017-04-29-Canoe_Kayak/img_8.jpg" alt=""></a>
+            <a href="https://www.auctionmn.com/images/2017-04-29-Canoe_Kayak/img_9.jpg"><img src="https://www.auctionmn.com/images/2017-04-29-Canoe_Kayak/img_9.jpg" alt=""></a>
+            <a href="https://www.auctionmn.com/images/2017-04-29-Canoe_Kayak/img_10.jpg"><img src="https://www.auctionmn.com/images/2017-04-29-Canoe_Kayak/img_10.jpg" alt=""></a>
+            <a href="https://www.auctionmn.com/images/2017-04-29-Canoe_Kayak/img_11.jpg"><img src="https://www.auctionmn.com/images/2017-04-29-Canoe_Kayak/img_11.jpg" alt=""></a>
+            <a href="https://www.auctionmn.com/images/2017-04-29-Canoe_Kayak/img_12.jpg"><img src="https://www.auctionmn.com/images/2017-04-29-Canoe_Kayak/img_12.jpg" alt=""></a>
+            <a href="https://www.auctionmn.com/images/2016_Canoe/Canoe_5.jpg"><img src="https://www.auctionmn.com/images/2016_Canoe/Canoe_5.jpg" alt="Annual Canoe and Kayak Auction"></a>
+          </div>
+          <p>
+            You can <a href="https://www.auctionmn.com/cgi-bin/mmlist.cgi?auctionmn13/category/ALL">view the results of this auction here</a>.
+          </p>
+          <!-- 		<p><strong>Location</strong></p>
 			<p><a target="_blank" href="https://www.midwestmtn.com/">Midwest Mountaineering</a> - <a target="_blank" href="https://www.google.com/maps/dir/''/midwest+mountaineering/@44.9707033,-93.3170319,12z/data=!3m1!4b1!4m8!4m7!1m0!1m5!1m1!1s0x52b32d424effb00f:0x1c93ae128fd58e0!2m2!1d-93.2469921!2d44.9707247">Directions</a></p>
 			<p>309 Cedar Ave. So.</p>
 			<p>Minneapolis, MN 55454</p>
@@ -330,15 +381,15 @@
       <p>Save some time when checking in your boat by printing off the forms, filling them in, and bringing them to the auction! View and dowload the <a target="_blank" href="https://www.auctionmn.com/Canoe_Auction_2019/Seller-Information_Canoe-Auction.pdf">sellers information</a>, <a target="_blank" href="https://www.auctionmn.com/Canoe_Auction_2019/Seller-Contract_Canoe-Auction.pdf">contract</a>, <a target="_blank" href="https://www.auctionmn.com/Canoe_Auction_2019/Boat-Information_Canoe-Auction.pdf">boat information</a>, and <a target="_blank" href="https://www.auctionmn.com/Canoe_Auction_2019/Bill-of-Sale_Canoe-Auction.pdf">bill of sale</a>.</p>
     <p><strong>Buyer Information</strong> </p>
       <p>View the <a target="_blank" href="https://www.auctionmn.com/Canoe_Auction_2019/Bidder-Information_Canoe-Auction.pdf">bidders information</a>.</p> -->
-</div>
+        </div>
 
-<!-- <p><strong>Selling a Canoe, Kayak, or Paddle Board?</strong></p>
+        <!-- <p><strong>Selling a Canoe, Kayak, or Paddle Board?</strong></p>
   <p>Please read the <a target="_blank" href="https://auctionmn.com/AAA_Auction_Selling_Information.pdf">Selling Information</a>. After you have read the selling information you can <a target="_blank" href="https://auctionmn.com/AAA_Auction_Contract_and_Bill_of_Sale.pdf">download and print a contract and bill of sale</a> to save time before the auction begins!</p> -->
 
 
 
 
-<!-- <div class="recent">
+        <!-- <div class="recent">
 	<h2>Annual Canoe, Kayak, and Paddle Board Auction <br>April 29th, 2017 at Midwest Mountaineering</h2>
 		<div class="flexbox">
 			<a href="http://www.auctionmn.com/images/2017-04-29-Canoe_Kayak/img_1.jpg"><img src="http://www.auctionmn.com/images/2017-04-29-Canoe_Kayak/img_1.jpg" alt=""></a>
@@ -355,7 +406,7 @@
 			<a href="http://www.auctionmn.com/images/2017-04-29-Canoe_Kayak/img_12.jpg"><img src="http://www.auctionmn.com/images/2017-04-29-Canoe_Kayak/img_12.jpg" alt=""></a>
 			<a href="http://www.auctionmn.com/images/2016_Canoe/Canoe_5.jpg"><img src="http://www.auctionmn.com/images/2016_Canoe/Canoe_5.jpg" alt="Annual Canoe and Kayak Auction"></a> -->
 
-			<!-- <a href="http://www.auctionmn.com/images/2016_Canoe/Canoe_1.jpg"><img src="http://www.auctionmn.com/images/2016_Canoe/Canoe_1.jpg" alt="Annual Canoe and Kayak Auction"></a>
+        <!-- <a href="http://www.auctionmn.com/images/2016_Canoe/Canoe_1.jpg"><img src="http://www.auctionmn.com/images/2016_Canoe/Canoe_1.jpg" alt="Annual Canoe and Kayak Auction"></a>
 			<a href="http://www.auctionmn.com/images/2016_Canoe/Canoe_2.jpg"><img src="http://www.auctionmn.com/images/2016_Canoe/Canoe_2.jpg" alt="Annual Canoe and Kayak Auction"></a>
 			<a href="http://www.auctionmn.com/images/2016_Canoe/Canoe_4.jpg"><img src="http://www.auctionmn.com/images/2016_Canoe/Canoe_4.jpg" alt="Annual Canoe and Kayak Auction"></a>
 			<a href="http://www.auctionmn.com/images/2016_Canoe/Canoe_18.JPG"><img src="http://www.auctionmn.com/images/2016_Canoe/Canoe_18.JPG" alt="Annual Canoe and Kayak Auction"></a>
@@ -364,7 +415,7 @@
 			<a href="http://www.auctionmn.com/images/2016_Canoe/Canoe_10.jpg"><img src="http://www.auctionmn.com/images/2016_Canoe/Canoe_10.jpg" alt="Annual Canoe and Kayak Auction"></a>
 			<a href="http://www.auctionmn.com/images/2016_Canoe/Canoe_11.jpg"><img src="http://www.auctionmn.com/images/2016_Canoe/Canoe_11.jpg" alt="Annual Canoe and Kayak Auction"></a> -->
 
-			<!-- <a href="http://www.auctionmn.com/images/2016_Canoe/Canoe_6.jpg"><img src="http://www.auctionmn.com/images/2016_Canoe/Canoe_6.jpg" alt="Annual Canoe and Kayak Auction"></a>
+        <!-- <a href="http://www.auctionmn.com/images/2016_Canoe/Canoe_6.jpg"><img src="http://www.auctionmn.com/images/2016_Canoe/Canoe_6.jpg" alt="Annual Canoe and Kayak Auction"></a>
 			<a href="http://www.auctionmn.com/images/2016_Canoe/Canoe_14.JPG"><img src="http://www.auctionmn.com/images/2016_Canoe/Canoe_14.JPG" alt="Annual Canoe and Kayak Auction"></a>
 			<a href="http://www.auctionmn.com/images/2016_Canoe/Canoe_15.JPG"><img src="http://www.auctionmn.com/images/2016_Canoe/Canoe_15.JPG" alt="Annual Canoe and Kayak Auction"></a>
 			<a href="http://www.auctionmn.com/images/2016_Canoe/Canoe_19.JPG"><img src="http://www.auctionmn.com/images/2016_Canoe/Canoe_19.JPG" alt="Annual Canoe and Kayak Auction"></a>
@@ -379,9 +430,9 @@
 			<a href="http://www.auctionmn.com/images/2015_Canoe_Kayak/DSCN2773.JPG"><img src="http://www.auctionmn.com/images/2015_Canoe_Kayak/TDSCN2773.JPG" alt=""></a>
 			<a href="http://www.auctionmn.com/images/2015_Canoe_Kayak/DSCN2776.JPG"><img src="http://www.auctionmn.com/images/2015_Canoe_Kayak/TDSCN2776.JPG" alt=""></a>
 			<a href="http://www.auctionmn.com/images/2015-04-25/Canoe_5.jpg"><img src="http://www.auctionmn.com/images/2015-04-25/small/Canoe_5.jpg" alt=""></a> -->
-		<!-- </div> -->
-	<!-- <h3><a href="http://www.auctionmn.com/cgi-bin/mnlist.cgi?auctionmn10/category/ALL">View The Auction Results</a></h3> -->
-		<!-- <p><strong>Location</strong></p>
+        <!-- </div> -->
+        <!-- <h3><a href="http://www.auctionmn.com/cgi-bin/mnlist.cgi?auctionmn10/category/ALL">View The Auction Results</a></h3> -->
+        <!-- <p><strong>Location</strong></p>
 			<p>Midwest Mountaineering - <a target="_blank" href="https://www.google.com/maps/dir/''/midwest+mountaineering/@44.9707033,-93.3170319,12z/data=!3m1!4b1!4m8!4m7!1m0!1m5!1m1!1s0x52b32d424effb00f:0x1c93ae128fd58e0!2m2!1d-93.2469921!2d44.9707247">Directions</a></p>
 			<p>309 Cedar Ave. So.</p>
 			<p>Minneapolis, MN 55454</p>
@@ -396,24 +447,24 @@
 			<p>To save time, we suggest that you fill the consignment contract out at home and bring it with you to the auction. We will have plenty contract forms available if you forget to bring yours with you.</p>
 		<p><strong>Buying a Canoe, Kayak, or Paddle Board?</strong></p>
 			<p>View <a target="_blank" href="http://auctionmn.com/Bidding_Information_Canoe_Kayak_Auction.pdf">Buying Information</a>.</p> -->
-<!-- </div> -->
+        <!-- </div> -->
 
 
-<div class="recent">
-  <h2><a href="https://www.auctionmn.com/cgi-bin/mmlist.cgi?auctionmn1/category/ALL">Online Auction Ended On Tuesday, April 16th</a></h2>
-  <div class="flexbox">
-    <a href="https://www.auctionmn.com/cgi-bin/mmlist.cgi?auctionmn1/10"><img src="https://www.auctionmn.com/images/2019-04-16/T10-1.jpg" alt="Lot 10"></a>
-    <a href="https://www.auctionmn.com/cgi-bin/mmlist.cgi?auctionmn1/16"><img src="https://www.auctionmn.com/images/2019-04-16/T16-1.jpg" alt="Lot 16"></a>
-    <a href="https://www.auctionmn.com/cgi-bin/mmlist.cgi?auctionmn1/27"><img src="https://www.auctionmn.com/images/2019-04-16/T27-1.jpg" alt="Lot 27"></a>
-    <a href="https://www.auctionmn.com/cgi-bin/mmlist.cgi?auctionmn1/36"><img src="https://www.auctionmn.com/images/2019-04-16/T36-1.jpg" alt="Lot 36"></a>
-    <a href="https://www.auctionmn.com/cgi-bin/mmlist.cgi?auctionmn1/51"><img src="https://www.auctionmn.com/images/2019-04-16/T51-1.jpg" alt="Lot 51"></a>
-    <a href="https://www.auctionmn.com/cgi-bin/mmlist.cgi?auctionmn1/66"><img src="https://www.auctionmn.com/images/2019-04-16/T66-1.jpg" alt="Lot 66"></a>
-    <a href="https://www.auctionmn.com/cgi-bin/mmlist.cgi?auctionmn1/78"><img src="https://www.auctionmn.com/images/2019-04-16/T78-1.jpg" alt="Lot 78"></a>
-  </div>
-</div>
+        <div class="recent">
+          <h2><a href="https://www.auctionmn.com/cgi-bin/mmlist.cgi?auctionmn1/category/ALL">Online Auction Ended On Tuesday, April 16th</a></h2>
+          <div class="flexbox">
+            <a href="https://www.auctionmn.com/cgi-bin/mmlist.cgi?auctionmn1/10"><img src="https://www.auctionmn.com/images/2019-04-16/T10-1.jpg" alt="Lot 10"></a>
+            <a href="https://www.auctionmn.com/cgi-bin/mmlist.cgi?auctionmn1/16"><img src="https://www.auctionmn.com/images/2019-04-16/T16-1.jpg" alt="Lot 16"></a>
+            <a href="https://www.auctionmn.com/cgi-bin/mmlist.cgi?auctionmn1/27"><img src="https://www.auctionmn.com/images/2019-04-16/T27-1.jpg" alt="Lot 27"></a>
+            <a href="https://www.auctionmn.com/cgi-bin/mmlist.cgi?auctionmn1/36"><img src="https://www.auctionmn.com/images/2019-04-16/T36-1.jpg" alt="Lot 36"></a>
+            <a href="https://www.auctionmn.com/cgi-bin/mmlist.cgi?auctionmn1/51"><img src="https://www.auctionmn.com/images/2019-04-16/T51-1.jpg" alt="Lot 51"></a>
+            <a href="https://www.auctionmn.com/cgi-bin/mmlist.cgi?auctionmn1/66"><img src="https://www.auctionmn.com/images/2019-04-16/T66-1.jpg" alt="Lot 66"></a>
+            <a href="https://www.auctionmn.com/cgi-bin/mmlist.cgi?auctionmn1/78"><img src="https://www.auctionmn.com/images/2019-04-16/T78-1.jpg" alt="Lot 78"></a>
+          </div>
+        </div>
 
 
-<!-- <div class="recent">
+        <!-- <div class="recent">
   <h2 id="maus"><a target="_blank" href="https://one.bidpal.net/gethookedgala2019/welcome">Fishing for Life - Fishing for Life's Get Hooked Gala 2019</a></h2>
   <p>Hello Auction Friends:</p>
   <img src="http://96bda424cfcc34d9dd1a-0a7f10f87519dba22d2dbc6233a731e5.r41.cf2.rackcdn.com/fishingforlife/logo/logo_226x208.png" class="rfloat" alt="Fishing For Life">
@@ -430,28 +481,28 @@
 </div> -->
 
 
-<div class="recent">
-  <h2><a href="https://www.auctionmn.com/cgi-bin/mmlist.cgi?auctionmn/category/ALL">Online Auction Ended On Tuesday, March 12th</a></h2>
-  <div class="flexbox">
-    <a href="https://www.auctionmn.com/cgi-bin/mmlist.cgi?auctionmn/2"><img src="https://www.auctionmn.com/images/2019-03-12/T2-1.jpg" alt="Lot 2"></a>
-    <a href="https://www.auctionmn.com/cgi-bin/mmlist.cgi?auctionmn/4"><img src="https://www.auctionmn.com/images/2019-03-12/T4-1.jpg" alt="Lot 4"></a>
-    <a href="https://www.auctionmn.com/cgi-bin/mmlist.cgi?auctionmn/23"><img src="https://www.auctionmn.com/images/2019-03-12/T23-1.jpg" alt="Lot 23"></a>
-    <a href="https://www.auctionmn.com/cgi-bin/mmlist.cgi?auctionmn/28"><img src="https://www.auctionmn.com/images/2019-03-12/T28-1.jpg" alt="Lot 28"></a>
-    <a href="https://www.auctionmn.com/cgi-bin/mmlist.cgi?auctionmn/65"><img src="https://www.auctionmn.com/images/2019-03-12/T65-1.jpg" alt="Lot 65"></a>
-    <a href="https://www.auctionmn.com/cgi-bin/mmlist.cgi?auctionmn/106"><img src="https://www.auctionmn.com/images/2019-03-12/T106-1.jpg" alt="Lot 106"></a>
-  </div>
-</div>
+        <div class="recent">
+          <h2><a href="https://www.auctionmn.com/cgi-bin/mmlist.cgi?auctionmn/category/ALL">Online Auction Ended On Tuesday, March 12th</a></h2>
+          <div class="flexbox">
+            <a href="https://www.auctionmn.com/cgi-bin/mmlist.cgi?auctionmn/2"><img src="https://www.auctionmn.com/images/2019-03-12/T2-1.jpg" alt="Lot 2"></a>
+            <a href="https://www.auctionmn.com/cgi-bin/mmlist.cgi?auctionmn/4"><img src="https://www.auctionmn.com/images/2019-03-12/T4-1.jpg" alt="Lot 4"></a>
+            <a href="https://www.auctionmn.com/cgi-bin/mmlist.cgi?auctionmn/23"><img src="https://www.auctionmn.com/images/2019-03-12/T23-1.jpg" alt="Lot 23"></a>
+            <a href="https://www.auctionmn.com/cgi-bin/mmlist.cgi?auctionmn/28"><img src="https://www.auctionmn.com/images/2019-03-12/T28-1.jpg" alt="Lot 28"></a>
+            <a href="https://www.auctionmn.com/cgi-bin/mmlist.cgi?auctionmn/65"><img src="https://www.auctionmn.com/images/2019-03-12/T65-1.jpg" alt="Lot 65"></a>
+            <a href="https://www.auctionmn.com/cgi-bin/mmlist.cgi?auctionmn/106"><img src="https://www.auctionmn.com/images/2019-03-12/T106-1.jpg" alt="Lot 106"></a>
+          </div>
+        </div>
 
-<div class="recent">
-  <h2><a href="https://www.auctionmn.com/cgi-bin/mmlist.cgi?auctionmn12/category/ALL">Online Auction Ended On Tuesday, February 19th</a></h2>
-  <!-- <div class="alert alert-info" role="alert"><big>&#9432; </big> Pick-up has been rescheduled to <u>February 27th</u> due to weather.</div> -->
-  <div class="flexbox">
-    <a href="https://www.auctionmn.com/cgi-bin/mmlist.cgi?auctionmn12/3"><img src="https://www.auctionmn.com/images/2019-02-19/T3-1.jpg" alt="Lot 3"></a>
-    <a href="https://www.auctionmn.com/cgi-bin/mmlist.cgi?auctionmn12/11"><img src="https://www.auctionmn.com/images/2019-02-19/T11-1.jpg" alt="Lot 11"></a>
-    <a href="https://www.auctionmn.com/cgi-bin/mmlist.cgi?auctionmn12/25"><img src="https://www.auctionmn.com/images/2019-02-19/T25-1.jpg" alt="Lot 25"></a>
-    <a href="https://www.auctionmn.com/cgi-bin/mmlist.cgi?auctionmn12/26"><img src="https://www.auctionmn.com/images/2019-02-19/T26-1.jpg" alt="Lot 26"></a>
-    <a href="https://www.auctionmn.com/cgi-bin/mmlist.cgi?auctionmn12/48"><img src="https://www.auctionmn.com/images/2019-02-19/T48-1.jpg" alt="Lot 48"></a>
-    <!-- <a href="https://www.auctionmn.com/cgi-bin/mmlist.cgi?auctionmn12/71"><img src="https://www.auctionmn.com/images/2019-02-19/T71-1.jpg" alt="Lot 71"></a>
+        <div class="recent">
+          <h2><a href="https://www.auctionmn.com/cgi-bin/mmlist.cgi?auctionmn12/category/ALL">Online Auction Ended On Tuesday, February 19th</a></h2>
+          <!-- <div class="alert alert-info" role="alert"><big>&#9432; </big> Pick-up has been rescheduled to <u>February 27th</u> due to weather.</div> -->
+          <div class="flexbox">
+            <a href="https://www.auctionmn.com/cgi-bin/mmlist.cgi?auctionmn12/3"><img src="https://www.auctionmn.com/images/2019-02-19/T3-1.jpg" alt="Lot 3"></a>
+            <a href="https://www.auctionmn.com/cgi-bin/mmlist.cgi?auctionmn12/11"><img src="https://www.auctionmn.com/images/2019-02-19/T11-1.jpg" alt="Lot 11"></a>
+            <a href="https://www.auctionmn.com/cgi-bin/mmlist.cgi?auctionmn12/25"><img src="https://www.auctionmn.com/images/2019-02-19/T25-1.jpg" alt="Lot 25"></a>
+            <a href="https://www.auctionmn.com/cgi-bin/mmlist.cgi?auctionmn12/26"><img src="https://www.auctionmn.com/images/2019-02-19/T26-1.jpg" alt="Lot 26"></a>
+            <a href="https://www.auctionmn.com/cgi-bin/mmlist.cgi?auctionmn12/48"><img src="https://www.auctionmn.com/images/2019-02-19/T48-1.jpg" alt="Lot 48"></a>
+            <!-- <a href="https://www.auctionmn.com/cgi-bin/mmlist.cgi?auctionmn12/71"><img src="https://www.auctionmn.com/images/2019-02-19/T71-1.jpg" alt="Lot 71"></a>
     <a href="https://www.auctionmn.com/cgi-bin/mmlist.cgi?auctionmn12/140"><img src="https://www.auctionmn.com/images/2019-02-19/T140-1.jpg" alt="Lot 140"></a>
     <a href="https://www.auctionmn.com/cgi-bin/mmlist.cgi?auctionmn12/245"><img src="https://www.auctionmn.com/images/2019-02-19/T245-1.jpg" alt="Lot 245"></a>
     <a href="https://www.auctionmn.com/cgi-bin/mmlist.cgi?auctionmn12/247"><img src="https://www.auctionmn.com/images/2019-02-19/T247-1.jpg" alt="Lot 247"></a>
@@ -465,34 +516,34 @@
     <a href="https://www.auctionmn.com/cgi-bin/mmlist.cgi?auctionmn12/307"><img src="https://www.auctionmn.com/images/2019-02-19/T307-1.jpg" alt="Lot 307"></a>
     <a href="https://www.auctionmn.com/cgi-bin/mmlist.cgi?auctionmn12/310"><img src="https://www.auctionmn.com/images/2019-02-19/T310-1.jpg" alt="Lot 310"></a>
     <a href="https://www.auctionmn.com/cgi-bin/mmlist.cgi?auctionmn12/311"><img src="https://www.auctionmn.com/images/2019-02-19/T311-1.jpg" alt="Lot 311"></a> -->
-    <!-- <a href="https://www.auctionmn.com/cgi-bin/mmlist.cgi?auctionmn12/313"><img src="https://www.auctionmn.com/images/2019-02-19/T313-1.jpg" alt="Lot 313"></a> -->
-  </div>
-</div>
+            <!-- <a href="https://www.auctionmn.com/cgi-bin/mmlist.cgi?auctionmn12/313"><img src="https://www.auctionmn.com/images/2019-02-19/T313-1.jpg" alt="Lot 313"></a> -->
+          </div>
+        </div>
 
 
-<div class="recent">
-  <h2><a href="https://www.auctionmn.com/cgi-bin/mmlist.cgi?auctionmn11/category/ALL">Online Auction Ended On Tuesday, January 29th</a></h2>
-  <div class="flexbox">
-    <a href="https://www.auctionmn.com/cgi-bin/mmlist.cgi?auctionmn11/22"><img src="https://www.auctionmn.com/images/2019-01-29/T22-1.jpg" alt="Lot 22"></a>
-    <a href="https://www.auctionmn.com/cgi-bin/mmlist.cgi?auctionmn11/27"><img src="https://www.auctionmn.com/images/2019-01-29/T27-1.jpg" alt="Lot 27"></a>
-    <a href="https://www.auctionmn.com/cgi-bin/mmlist.cgi?auctionmn11/51"><img src="https://www.auctionmn.com/images/2019-01-29/T51-1.jpg" alt="Lot 51"></a>
-    <a href="https://www.auctionmn.com/cgi-bin/mmlist.cgi?auctionmn11/60"><img src="https://www.auctionmn.com/images/2019-01-29/T60-1.jpg" alt="Lot 60"></a>
-    <a href="https://www.auctionmn.com/cgi-bin/mmlist.cgi?auctionmn11/78"><img src="https://www.auctionmn.com/images/2019-01-29/T78-1.jpg" alt="Lot 78"></a>
-    <a href="https://www.auctionmn.com/cgi-bin/mmlist.cgi?auctionmn11/88"><img src="https://www.auctionmn.com/images/2019-01-29/T88-1.jpg" alt="Lot 88"></a>
-  </div>
-</div>
+        <div class="recent">
+          <h2><a href="https://www.auctionmn.com/cgi-bin/mmlist.cgi?auctionmn11/category/ALL">Online Auction Ended On Tuesday, January 29th</a></h2>
+          <div class="flexbox">
+            <a href="https://www.auctionmn.com/cgi-bin/mmlist.cgi?auctionmn11/22"><img src="https://www.auctionmn.com/images/2019-01-29/T22-1.jpg" alt="Lot 22"></a>
+            <a href="https://www.auctionmn.com/cgi-bin/mmlist.cgi?auctionmn11/27"><img src="https://www.auctionmn.com/images/2019-01-29/T27-1.jpg" alt="Lot 27"></a>
+            <a href="https://www.auctionmn.com/cgi-bin/mmlist.cgi?auctionmn11/51"><img src="https://www.auctionmn.com/images/2019-01-29/T51-1.jpg" alt="Lot 51"></a>
+            <a href="https://www.auctionmn.com/cgi-bin/mmlist.cgi?auctionmn11/60"><img src="https://www.auctionmn.com/images/2019-01-29/T60-1.jpg" alt="Lot 60"></a>
+            <a href="https://www.auctionmn.com/cgi-bin/mmlist.cgi?auctionmn11/78"><img src="https://www.auctionmn.com/images/2019-01-29/T78-1.jpg" alt="Lot 78"></a>
+            <a href="https://www.auctionmn.com/cgi-bin/mmlist.cgi?auctionmn11/88"><img src="https://www.auctionmn.com/images/2019-01-29/T88-1.jpg" alt="Lot 88"></a>
+          </div>
+        </div>
 
 
-<div class="recent">
-  <!-- <img src="https://auctionmn.com/images/Sold.png" style="position:absolute;width:670;" alt=""> -->
-  <h2>Real Estate Auction on January 26th, 2019 at 1 p.m.</a></h2>
-  <div class="flexbox">
-    <a href="https://www.auctionmn.com/images/2019-01-26/Real_Estate_Auction4.jpg"><img src="https://www.auctionmn.com/images/2019-01-26/TReal_Estate_Auction4.jpg" alt="Real Estate Auction"></a>
-    <a href="https://www.auctionmn.com/images/2019-01-26/Real_Estate_Auction1.jpg"><img src="https://www.auctionmn.com/images/2019-01-26/TReal_Estate_Auction1.jpg" alt="Real Estate Auction"></a>
-    <a href="https://www.auctionmn.com/images/2019-01-26/Real_Estate_Auction3.jpg"><img src="https://www.auctionmn.com/images/2019-01-26/TReal_Estate_Auction3.jpg" alt="Real Estate Auction"></a>
-    <a href="https://www.auctionmn.com/images/2019-01-26/Real_Estate_Auction2.jpg"><img src="https://www.auctionmn.com/images/2019-01-26/TReal_Estate_Auction2.jpg" alt="Real Estate Auction"></a>
-  </div>
-    <!-- <p><b>Minimum bid $190,000</b></p>
+        <div class="recent">
+          <!-- <img src="https://auctionmn.com/images/Sold.png" style="position:absolute;width:670;" alt=""> -->
+          <h2>Real Estate Auction on January 26th, 2019 at 1 p.m.</a></h2>
+          <div class="flexbox">
+            <a href="https://www.auctionmn.com/images/2019-01-26/Real_Estate_Auction4.jpg"><img src="https://www.auctionmn.com/images/2019-01-26/TReal_Estate_Auction4.jpg" alt="Real Estate Auction"></a>
+            <a href="https://www.auctionmn.com/images/2019-01-26/Real_Estate_Auction1.jpg"><img src="https://www.auctionmn.com/images/2019-01-26/TReal_Estate_Auction1.jpg" alt="Real Estate Auction"></a>
+            <a href="https://www.auctionmn.com/images/2019-01-26/Real_Estate_Auction3.jpg"><img src="https://www.auctionmn.com/images/2019-01-26/TReal_Estate_Auction3.jpg" alt="Real Estate Auction"></a>
+            <a href="https://www.auctionmn.com/images/2019-01-26/Real_Estate_Auction2.jpg"><img src="https://www.auctionmn.com/images/2019-01-26/TReal_Estate_Auction2.jpg" alt="Real Estate Auction"></a>
+          </div>
+          <!-- <p><b>Minimum bid $190,000</b></p>
     <p><strong>Auction Location</strong></p>
       <p><a target="_blank" href="https://goo.gl/maps/i9iH74PUv9z">8001 Bluff Rd. Rockford, MN 55373</a></p>
     <p><strong>Auction Time</strong></p>
@@ -518,449 +569,150 @@
       <p>Auction services provided by Tony Elfelt of AAA Auction and Realty, LLC.</p>
       <p>Showings are available.</p> -->
 
-    <!-- <p><a href="https://auctionmn.com/general-terms-and-conditions.shtml">Terms and Conditions</a> for this auction.</p> -->
-</div>
+          <!-- <p><a href="https://auctionmn.com/general-terms-and-conditions.shtml">Terms and Conditions</a> for this auction.</p> -->
+        </div>
 
 
-<div class="recent">
-  <h2><a href="https://www.auctionmn.com/cgi-bin/mmlist.cgi?auctionmn10/category/ALL">Online Auction Ended On Tuesday, January 8th</a></h2>
-  <div class="flexbox">
-    <a href="https://www.auctionmn.com/cgi-bin/mmlist.cgi?auctionmn10/6"><img src="https://www.auctionmn.com/images/2019-01-08/T6-1.jpg" alt="6"></a>
-    <a href="https://www.auctionmn.com/cgi-bin/mmlist.cgi?auctionmn10/8"><img src="https://www.auctionmn.com/images/2019-01-08/T8-1.jpg" alt="8"></a>
-    <a href="https://www.auctionmn.com/cgi-bin/mmlist.cgi?auctionmn10/12"><img src="https://www.auctionmn.com/images/2019-01-08/T12-1.jpg" alt="12"></a>
-    <a href="https://www.auctionmn.com/cgi-bin/mmlist.cgi?auctionmn10/19"><img src="https://www.auctionmn.com/images/2019-01-08/T19-1.jpg" alt="19"></a>
-    <a href="https://www.auctionmn.com/cgi-bin/mmlist.cgi?auctionmn10/31"><img src="https://www.auctionmn.com/images/2019-01-08/T31-1.jpg" alt="31"></a>
-    <a href="https://www.auctionmn.com/cgi-bin/mmlist.cgi?auctionmn10/35"><img src="https://www.auctionmn.com/images/2019-01-08/T35-1.jpg" alt="35"></a>
-  </div>
-    <!-- <p><strong>Pickup Location</strong></p>
+        <div class="recent">
+          <h2><a href="https://www.auctionmn.com/cgi-bin/mmlist.cgi?auctionmn10/category/ALL">Online Auction Ended On Tuesday, January 8th</a></h2>
+          <div class="flexbox">
+            <a href="https://www.auctionmn.com/cgi-bin/mmlist.cgi?auctionmn10/6"><img src="https://www.auctionmn.com/images/2019-01-08/T6-1.jpg" alt="6"></a>
+            <a href="https://www.auctionmn.com/cgi-bin/mmlist.cgi?auctionmn10/8"><img src="https://www.auctionmn.com/images/2019-01-08/T8-1.jpg" alt="8"></a>
+            <a href="https://www.auctionmn.com/cgi-bin/mmlist.cgi?auctionmn10/12"><img src="https://www.auctionmn.com/images/2019-01-08/T12-1.jpg" alt="12"></a>
+            <a href="https://www.auctionmn.com/cgi-bin/mmlist.cgi?auctionmn10/19"><img src="https://www.auctionmn.com/images/2019-01-08/T19-1.jpg" alt="19"></a>
+            <a href="https://www.auctionmn.com/cgi-bin/mmlist.cgi?auctionmn10/31"><img src="https://www.auctionmn.com/images/2019-01-08/T31-1.jpg" alt="31"></a>
+            <a href="https://www.auctionmn.com/cgi-bin/mmlist.cgi?auctionmn10/35"><img src="https://www.auctionmn.com/images/2019-01-08/T35-1.jpg" alt="35"></a>
+          </div>
+          <!-- <p><strong>Pickup Location</strong></p>
       <p><a target="_blank" href="https://goo.gl/maps/L9u81MhP4dq">7140 Old Viking Blvd NW, Nowthen MN</a></p>
     <p><strong>Pickup Time</strong></p>
       <p>Wednesday, January 9th, from 9:30 a.m. to 7 p.m.</p>
     <p><strong>Auctioneer's Notes</strong></p>
       <p>This auction has more than the usual amount of good quality collectibles. We also have coins, guns and some heavy cabinets. Just as a reminder, cash is necessary when purchasing coins and muscle is necessary when purchasing heavy items because we do not offer loading assistance. Thank you.</p>
     <p><a href="https://auctionmn.com/general-terms-and-conditions.shtml">Terms and Conditions</a> for this auction.</p> -->
-</div>
-
-
-<div class="recent">
-  <h2><a href="https://www.auctionmn.com/cgi-bin/mmlist.cgi?auctionmn9/category/ALL">Online Auction Ended On Tuesday, December 18th</a></h2>
-  <div class="flexbox">
-    <a href="https://www.auctionmn.com/cgi-bin/mmlist.cgi?auctionmn9/20"><img src="https://www.auctionmn.com/images/2018-12-18/T20-1.jpg" alt="Lot 20"></a>
-    <a href="https://www.auctionmn.com/cgi-bin/mmlist.cgi?auctionmn9/26"><img src="https://www.auctionmn.com/images/2018-12-18/T26-1.jpg" alt="Lot 26"></a>
-    <a href="https://www.auctionmn.com/cgi-bin/mmlist.cgi?auctionmn9/35"><img src="https://www.auctionmn.com/images/2018-12-18/T35-1.jpg" alt="Lot 35"></a>
-    <a href="https://www.auctionmn.com/cgi-bin/mmlist.cgi?auctionmn9/39"><img src="https://www.auctionmn.com/images/2018-12-18/T39-1.jpg" alt="Lot 39"></a>
-    <a href="https://www.auctionmn.com/cgi-bin/mmlist.cgi?auctionmn9/47"><img src="https://www.auctionmn.com/images/2018-12-18/T47-1.jpg" alt="Lot 47"></a>
-    <a href="https://www.auctionmn.com/cgi-bin/mmlist.cgi?auctionmn9/51"><img src="https://www.auctionmn.com/images/2018-12-18/T51-1.jpg" alt="Lot 51"></a>
-  </div>
-<!--     <p><strong>Pickup Location</strong></p>
-      <p><a target="_blank" href="https://goo.gl/maps/L9u81MhP4dq">7140 Old Viking Blvd NW, Nowthen MN</a></p>
-    <p><strong>Pickup Time</strong></p>
-      <p>Wednesday, December 19th, from 9 a.m. to 7 p.m.</p>
-    <p><strong>Auctioneer's Notes</strong></p>
-      <p>This is our last auction for 2018! Shop with us for your Christmas gifts and the next online auction will close in 2019! Thank you for your continued support!</p>
-    <p><a href="https://auctionmn.com/general-terms-and-conditions.shtml">Terms and Conditions</a> for this auction.</p> -->
-</div>
+        </div>
 
 
 
 
-<div class="recent">
-  <h2><a href="https://www.auctionmn.com/cgi-bin/mmlist.cgi?auctionmn8/category/ALL">Online Auction Ended On Tuesday, December 11th</a></h2>
-  <div class="flexbox">
-    <a href="https://www.auctionmn.com/cgi-bin/mmlist.cgi?auctionmn8/11"><img src="https://www.auctionmn.com/images/2018-12-11/T11-1.jpg" alt="Lot 11"></a>
-    <a href="https://www.auctionmn.com/cgi-bin/mmlist.cgi?auctionmn8/21"><img src="https://www.auctionmn.com/images/2018-12-11/T21-1.jpg" alt="Lot 21"></a>
-    <a href="https://www.auctionmn.com/cgi-bin/mmlist.cgi?auctionmn8/24"><img src="https://www.auctionmn.com/images/2018-12-11/T24-1.jpg" alt="Lot 24"></a>
-    <a href="https://www.auctionmn.com/cgi-bin/mmlist.cgi?auctionmn8/30"><img src="https://www.auctionmn.com/images/2018-12-11/T30-1.jpg" alt="Lot 30"></a>
-    <a href="https://www.auctionmn.com/cgi-bin/mmlist.cgi?auctionmn8/55"><img src="https://www.auctionmn.com/images/2018-12-11/T55-1.jpg" alt="Lot 55"></a>
-    <a href="https://www.auctionmn.com/cgi-bin/mmlist.cgi?auctionmn8/107"><img src="https://www.auctionmn.com/images/2018-12-11/T107-1.jpg" alt="Lot 107"></a>
-    <a href="https://www.auctionmn.com/cgi-bin/mmlist.cgi?auctionmn8/120"><img src="https://www.auctionmn.com/images/2018-12-11/T120-1.jpg" alt="Lot 120"></a>
-    <!-- <a href="https://www.auctionmn.com/cgi-bin/mmlist.cgi?auctionmn8/122"><img src="https://www.auctionmn.com/images/2018-12-11/T122-1.jpg" alt="Lot 122"></a>
-    <a href="https://www.auctionmn.com/cgi-bin/mmlist.cgi?auctionmn8/150"><img src="https://www.auctionmn.com/images/2018-12-11/T150-1.jpg" alt="Lot 150"></a>
-    <a href="https://www.auctionmn.com/cgi-bin/mmlist.cgi?auctionmn8/153"><img src="https://www.auctionmn.com/images/2018-12-11/T153-1.jpg" alt="Lot 153"></a>
-    <a href="https://www.auctionmn.com/cgi-bin/mmlist.cgi?auctionmn8/191"><img src="https://www.auctionmn.com/images/2018-12-11/T191-1.jpg" alt="Lot 191"></a>
-    <a href="https://www.auctionmn.com/cgi-bin/mmlist.cgi?auctionmn8/193"><img src="https://www.auctionmn.com/images/2018-12-11/T193-1.jpg" alt="Lot 193"></a>
-    <a href="https://www.auctionmn.com/cgi-bin/mmlist.cgi?auctionmn8/198"><img src="https://www.auctionmn.com/images/2018-12-11/T198-1.jpg" alt="Lot 198"></a>
-    <a href="https://www.auctionmn.com/cgi-bin/mmlist.cgi?auctionmn8/254"><img src="https://www.auctionmn.com/images/2018-12-11/T254-1.jpg" alt="Lot 254"></a>
-    <a href="https://www.auctionmn.com/cgi-bin/mmlist.cgi?auctionmn8/257"><img src="https://www.auctionmn.com/images/2018-12-11/T257-1.jpg" alt="Lot 257"></a>
-    <a href="https://www.auctionmn.com/cgi-bin/mmlist.cgi?auctionmn8/259"><img src="https://www.auctionmn.com/images/2018-12-11/T259-1.jpg" alt="Lot 259"></a>
-    <a href="https://www.auctionmn.com/cgi-bin/mmlist.cgi?auctionmn8/276"><img src="https://www.auctionmn.com/images/2018-12-11/T276-1.jpg" alt="Lot 276"></a>
-    <a href="https://www.auctionmn.com/cgi-bin/mmlist.cgi?auctionmn8/286"><img src="https://www.auctionmn.com/images/2018-12-11/T286-1.jpg" alt="Lot 286"></a>
-    <a href="https://www.auctionmn.com/cgi-bin/mmlist.cgi?auctionmn8/296"><img src="https://www.auctionmn.com/images/2018-12-11/T296-1.jpg" alt="Lot 296"></a> -->
-  </div>
-</div>
 
 
-<div class="recent">
-  <h2><a href="https://www.auctionmn.com/cgi-bin/mmlist.cgi?auctionmn7/category/ALL">Online Auction Ended On Tuesday, November 27th</a></h2>
-  <div class="flexbox">
-    <a href="https://www.auctionmn.com/cgi-bin/mmlist.cgi?auctionmn7/43"><img src="https://www.auctionmn.com/images/2018-11-27/T43-1.jpg" alt="Lot 43"></a>
-    <a href="https://www.auctionmn.com/cgi-bin/mmlist.cgi?auctionmn7/49"><img src="https://www.auctionmn.com/images/2018-11-27/T49-1.jpg" alt="Lot 49"></a>
-    <a href="https://www.auctionmn.com/cgi-bin/mmlist.cgi?auctionmn7/52"><img src="https://www.auctionmn.com/images/2018-11-27/T52-1.jpg" alt="Lot 52"></a>
-    <a href="https://www.auctionmn.com/cgi-bin/mmlist.cgi?auctionmn7/64"><img src="https://www.auctionmn.com/images/2018-11-27/T64-1.jpg" alt="Lot 64"></a>
-    <a href="https://www.auctionmn.com/cgi-bin/mmlist.cgi?auctionmn7/66"><img src="https://www.auctionmn.com/images/2018-11-27/T66-1.jpg" alt="Lot 66"></a>
-    <a href="https://www.auctionmn.com/cgi-bin/mmlist.cgi?auctionmn7/72"><img src="https://www.auctionmn.com/images/2018-11-27/T72-1.jpg" alt="Lot 72"></a>
-  </div>
-</div>
-
-
-<div class="recent">
-  <h2><a href="https://www.auctionmn.com/cgi-bin/mmlist.cgi?auctionmn6/category/ALL">Online Auction Ended On Tuesday, November 13th</a></h2>
-  <div class="flexbox">
-    <a href="https://www.auctionmn.com/cgi-bin/mmlist.cgi?auctionmn6/44"><img src="https://www.auctionmn.com/images/2018-11-13/T44-1.jpg" alt="Lot 44"></a>
-    <a href="https://www.auctionmn.com/cgi-bin/mmlist.cgi?auctionmn6/47"><img src="https://www.auctionmn.com/images/2018-11-13/T47-1.jpg" alt="Lot 47"></a>
-    <a href="https://www.auctionmn.com/cgi-bin/mmlist.cgi?auctionmn6/49"><img src="https://www.auctionmn.com/images/2018-11-13/T49-1.jpg" alt="Lot 49"></a>
-    <a href="https://www.auctionmn.com/cgi-bin/mmlist.cgi?auctionmn6/50"><img src="https://www.auctionmn.com/images/2018-11-13/T50-1.jpg" alt="Lot 50"></a>
-    <a href="https://www.auctionmn.com/cgi-bin/mmlist.cgi?auctionmn6/192"><img src="https://www.auctionmn.com/images/2018-11-13/T192-1.jpg" alt="Lot 192"></a>
-  </div>
-</div>
-
-
-<div class="recent">
-  <h2><a href="https://www.auctionmn.com/cgi-bin/mmlist.cgi?auctionmn4/category/ALL">Online Auction Ended On Tuesday, October 30th</a></h2>
-  <div class="flexbox">
-    <a href="https://www.auctionmn.com/cgi-bin/mmlist.cgi?auctionmn4/4"><img src="https://www.auctionmn.com/images/2018-10-30/T4-1.jpg" alt="Lot 4"></a>
-    <a href="https://www.auctionmn.com/cgi-bin/mmlist.cgi?auctionmn4/19"><img src="https://www.auctionmn.com/images/2018-10-30/T19-1.jpg" alt="Lot 19"></a>
-    <a href="https://www.auctionmn.com/cgi-bin/mmlist.cgi?auctionmn4/51"><img src="https://www.auctionmn.com/images/2018-10-30/T51-1.jpg" alt="Lot 51"></a>
-    <a href="https://www.auctionmn.com/cgi-bin/mmlist.cgi?auctionmn4/105"><img src="https://www.auctionmn.com/images/2018-10-30/T105-1.jpg" alt="Lot 105"></a>
-    <a href="https://www.auctionmn.com/cgi-bin/mmlist.cgi?auctionmn4/113"><img src="https://www.auctionmn.com/images/2018-10-30/T113-1.jpg" alt="Lot 113"></a>
-    <a href="https://www.auctionmn.com/cgi-bin/mmlist.cgi?auctionmn4/122"><img src="https://www.auctionmn.com/images/2018-10-30/T122-1.jpg" alt="Lot 122"></a>
-  </div>
-</div>
-
-
-<div class="recent">
-  <h2><a href="https://www.auctionmn.com/cgi-bin/mmlist.cgi?auctionmn3/category/ALL">Online Auction Ended On Tuesday, October 23rd</a></h2>
-  <div class="flexbox">
-    <a href="https://www.auctionmn.com/cgi-bin/mmlist.cgi?auctionmn3/5"><img src="https://www.auctionmn.com/images/2018-10-23/T5-1.jpg" alt="Lot 5"></a>
-    <a href="https://www.auctionmn.com/cgi-bin/mmlist.cgi?auctionmn3/11"><img src="https://www.auctionmn.com/images/2018-10-23/T11-1.jpg" alt="Lot 11"></a>
-    <a href="https://www.auctionmn.com/cgi-bin/mmlist.cgi?auctionmn3/17"><img src="https://www.auctionmn.com/images/2018-10-23/T17-1.jpg" alt="Lot 17"></a>
-    <a href="https://www.auctionmn.com/cgi-bin/mmlist.cgi?auctionmn3/30"><img src="https://www.auctionmn.com/images/2018-10-23/T30-1.jpg" alt="Lot 30"></a>
-    <a href="https://www.auctionmn.com/cgi-bin/mmlist.cgi?auctionmn3/38"><img src="https://www.auctionmn.com/images/2018-10-23/T38-1.jpg" alt="Lot 38"></a>
-    <a href="https://www.auctionmn.com/cgi-bin/mmlist.cgi?auctionmn3/41"><img src="https://www.auctionmn.com/images/2018-10-23/T41-1.jpg" alt="Lot 41"></a>
-  </div>
-</div>
-
-
-<div class="recent">
-  <h2><a href="https://www.auctionmn.com/cgi-bin/mmlist.cgi?auctionmn2/category/ALL">Online Auction Ended On Tuesday, October 9th</a></h2>
-  <div class="flexbox">
-    <a href="https://www.auctionmn.com/cgi-bin/mmlist.cgi?auctionmn2/33"><img src="https://www.auctionmn.com/images/2018-10-09/T33-1.jpg" alt="Lot 33"></a>
-    <a href="https://www.auctionmn.com/cgi-bin/mmlist.cgi?auctionmn2/35"><img src="https://www.auctionmn.com/images/2018-10-09/T35-1.jpg" alt="Lot 35"></a>
-    <a href="https://www.auctionmn.com/cgi-bin/mmlist.cgi?auctionmn2/60"><img src="https://www.auctionmn.com/images/2018-10-09/T60-1.jpg" alt="Lot 60"></a>
-    <a href="https://www.auctionmn.com/cgi-bin/mmlist.cgi?auctionmn2/67"><img src="https://www.auctionmn.com/images/2018-10-09/T67-1.jpg" alt="Lot 67"></a>
-    <a href="https://www.auctionmn.com/cgi-bin/mmlist.cgi?auctionmn2/72"><img src="https://www.auctionmn.com/images/2018-10-09/T72-1.jpg" alt="Lot 72"></a>
-  </div>
-</div>
-
-
-<div class="recent">
-  <h2><a href="https://www.auctionmn.com/cgi-bin/mmlist.cgi?auctionmn1/category/ALL">Online Auction Ended On Tuesday, September 25th</a></h2>
-  <div class="flexbox">
-    <a href="https://www.auctionmn.com/cgi-bin/mmlist.cgi?auctionmn1/27"><img src="https://www.auctionmn.com/images/2018-09-25/T27-1.jpg" alt="Lot 27"></a>
-    <a href="https://www.auctionmn.com/cgi-bin/mmlist.cgi?auctionmn1/34"><img src="https://www.auctionmn.com/images/2018-09-25/T34-1.jpg" alt="Lot 34"></a>
-    <a href="https://www.auctionmn.com/cgi-bin/mmlist.cgi?auctionmn1/40"><img src="https://www.auctionmn.com/images/2018-09-25/T40-1.jpg" alt="Lot 40"></a>
-    <a href="https://www.auctionmn.com/cgi-bin/mmlist.cgi?auctionmn1/43"><img src="https://www.auctionmn.com/images/2018-09-25/T43-1.jpg" alt="Lot 43"></a>
-    <a href="https://www.auctionmn.com/cgi-bin/mmlist.cgi?auctionmn1/55"><img src="https://www.auctionmn.com/images/2018-09-25/T55-1.jpg" alt="Lot 55"></a>
-  </div>
-</div>
-
-
-<div class="recent">
-  <h2><a href="https://www.auctionmn.com/cgi-bin/mmlist.cgi?auctionmn/category/ALL">Online Auction Ended On Tuesday, September 11th</a></h2>
-  <div class="flexbox">
-    <a href="https://www.auctionmn.com/cgi-bin/mmlist.cgi?auctionmn/11"><img src="https://www.auctionmn.com/images/2018-09-11/T11-1.jpg" alt="Lot 11"></a>
-    <a href="https://www.auctionmn.com/cgi-bin/mmlist.cgi?auctionmn/31"><img src="https://www.auctionmn.com/images/2018-09-11/T31-1.jpg" alt="Lot 31"></a>
-    <a href="https://www.auctionmn.com/cgi-bin/mmlist.cgi?auctionmn/46"><img src="https://www.auctionmn.com/images/2018-09-11/T46-1.jpg" alt="Lot 46"></a>
-    <a href="https://www.auctionmn.com/cgi-bin/mmlist.cgi?auctionmn/47"><img src="https://www.auctionmn.com/images/2018-09-11/T47-1.jpg" alt="Lot 47"></a>
-    <a href="https://www.auctionmn.com/cgi-bin/mmlist.cgi?auctionmn/59"><img src="https://www.auctionmn.com/images/2018-09-11/T59-1.jpg" alt="Lot 59"></a>
-    <a href="https://www.auctionmn.com/cgi-bin/mmlist.cgi?auctionmn/101"><img src="https://www.auctionmn.com/images/2018-09-11/T101-1.jpg" alt="Lot 101"></a>
-    <a href="https://www.auctionmn.com/cgi-bin/mmlist.cgi?auctionmn/114"><img src="https://www.auctionmn.com/images/2018-09-11/T114-1.jpg" alt="Lot 114"></a>
-  </div>
-</div>
-
-
-
-<div class="recent">
-  <h2><a href="https://www.auctionmn.com/cgi-bin/mmlist.cgi?auctionmn15/category/ALL">Online Auction Ended On Tuesday, August 21st</a></h2>
-  <div class="flexbox">
-    <a href="https://www.auctionmn.com/cgi-bin/mmlist.cgi?auctionmn15/51"><img src="https://www.auctionmn.com/images/2018-08-21/T51-1.jpg" alt="Lot 51"></a>
-    <a href="https://www.auctionmn.com/cgi-bin/mmlist.cgi?auctionmn15/52"><img src="https://www.auctionmn.com/images/2018-08-21/T52-1.jpg" alt="Lot 52"></a>
-    <a href="https://www.auctionmn.com/cgi-bin/mmlist.cgi?auctionmn15/53"><img src="https://www.auctionmn.com/images/2018-08-21/T53-1.jpg" alt="Lot 53"></a>
-    <a href="https://www.auctionmn.com/cgi-bin/mmlist.cgi?auctionmn15/55"><img src="https://www.auctionmn.com/images/2018-08-21/T55-1.jpg" alt="Lot 55"></a>
-    <a href="https://www.auctionmn.com/cgi-bin/mmlist.cgi?auctionmn15/102"><img src="https://www.auctionmn.com/images/2018-08-21/T102-1.jpg" alt="Lot 102"></a>
-  </div>
-</div>
-
-<div class="recent">
-	<h2><a href="https://www.auctionmn.com/cgi-bin/mmlist.cgi?auctionmn13/category/ALL">Online Auction Ended On Tuesday, July 31st</a></h2>
-	<div class="flexbox">
-		<a href="https://www.auctionmn.com/cgi-bin/mmlist.cgi?auctionmn13/21"><img src="https://www.auctionmn.com/images/2018-07-31/T21-1.jpg" alt="21"></a>
-		<a href="https://www.auctionmn.com/cgi-bin/mmlist.cgi?auctionmn13/23"><img src="https://www.auctionmn.com/images/2018-07-31/T23-1.jpg" alt="23"></a>
-		<a href="https://www.auctionmn.com/cgi-bin/mmlist.cgi?auctionmn13/60"><img src="https://www.auctionmn.com/images/2018-07-31/T60-1.jpg" alt="60"></a>
-		<a href="https://www.auctionmn.com/cgi-bin/mmlist.cgi?auctionmn13/69"><img src="https://www.auctionmn.com/images/2018-07-31/T69-1.jpg" alt="69"></a>
-		<a href="https://www.auctionmn.com/cgi-bin/mmlist.cgi?auctionmn13/87"><img src="https://www.auctionmn.com/images/2018-07-31/T87-1.jpg" alt="87"></a>
-		<a href="https://www.auctionmn.com/cgi-bin/mmlist.cgi?auctionmn13/91"><img src="https://www.auctionmn.com/images/2018-07-31/T91-1.jpg" alt="91"></a>
-		<a href="https://www.auctionmn.com/cgi-bin/mmlist.cgi?auctionmn13/126"><img src="https://www.auctionmn.com/images/2018-07-31/T126-1.jpg" alt="126"></a>
-	</div>
-</div>
-
-
-
-<div class="recent">
-  <h2><a href="https://www.auctionmn.com/cgi-bin/mmlist.cgi?auctionmn14/category/ALL">Guns, Knives, Ammo, Fishing, Remington Bronzes and Collectibles Live Auction on July 28th at 10 a.m.</a></h2>
-  <div class="flexbox">
-    <a href="https://www.auctionmn.com/cgi-bin/mmlist.cgi?auctionmn14/3"><img src="https://www.auctionmn.com/images/2018-07-28/T3-1.jpg" alt="3"></a>
-    <a href="https://www.auctionmn.com/cgi-bin/mmlist.cgi?auctionmn14/4"><img src="https://www.auctionmn.com/images/2018-07-28/T4-1.jpg" alt="4"></a>
-    <a href="https://www.auctionmn.com/cgi-bin/mmlist.cgi?auctionmn14/6"><img src="https://www.auctionmn.com/images/2018-07-28/T6-1.jpg" alt="6"></a>
-    <a href="https://www.auctionmn.com/cgi-bin/mmlist.cgi?auctionmn14/21"><img src="https://www.auctionmn.com/images/2018-07-28/T21-1.jpg" alt="21"></a>
-    <a href="https://www.auctionmn.com/cgi-bin/mmlist.cgi?auctionmn14/7"><img src="https://www.auctionmn.com/images/2018-07-28/T7-1.jpg" alt="7"></a>
-  </div>
-</div>
-
-
-
-<div class="recent">
-	<h2><a href="https://www.auctionmn.com/cgi-bin/mmlist.cgi?auctionmn12/category/ALL">Online Auction Ended On Tuesday, July 24th</a></h2>
-	<div class="flexbox">
-		<a href="https://www.auctionmn.com/cgi-bin/mmlist.cgi?auctionmn12/3"><img src="https://www.auctionmn.com/images/2018-07-24/T3-1.jpg" alt="3"></a>
-		<a href="https://www.auctionmn.com/cgi-bin/mmlist.cgi?auctionmn12/43"><img src="https://www.auctionmn.com/images/2018-07-24/T43-1.jpg" alt="43"></a>
-		<a href="https://www.auctionmn.com/cgi-bin/mmlist.cgi?auctionmn12/61"><img src="https://www.auctionmn.com/images/2018-07-24/T61-1.jpg" alt="61"></a>
-		<a href="https://www.auctionmn.com/cgi-bin/mmlist.cgi?auctionmn12/76"><img src="https://www.auctionmn.com/images/2018-07-24/T76-1.jpg" alt="76"></a>
-		<a href="https://www.auctionmn.com/cgi-bin/mmlist.cgi?auctionmn12/77"><img src="https://www.auctionmn.com/images/2018-07-24/T77-1.jpg" alt="77"></a>
-		<a href="https://www.auctionmn.com/cgi-bin/mmlist.cgi?auctionmn12/110"><img src="https://www.auctionmn.com/images/2018-07-24/T110-1.jpg" alt="110"></a>
-
-	</div>
-</div>
-
-
-<div class="recent">
-	<h2><a href="https://www.auctionmn.com/cgi-bin/mmlist.cgi?auctionmn11/category/ALL">Online Auction Ended On Tuesday, June 26th</a></h2>
-	<div class="flexbox">
-		<a href="https://www.auctionmn.com/cgi-bin/mmlist.cgi?auctionmn11/39"><img src="https://www.auctionmn.com/images/2018-06-26/T39-1.jpg" alt="39"></a>
-		<a href="https://www.auctionmn.com/cgi-bin/mmlist.cgi?auctionmn11/56"><img src="https://www.auctionmn.com/images/2018-06-26/T56-1.jpg" alt="56"></a>
-		<a href="https://www.auctionmn.com/cgi-bin/mmlist.cgi?auctionmn11/66"><img src="https://www.auctionmn.com/images/2018-06-26/T66-1.jpg" alt="66"></a>
-		<a href="https://www.auctionmn.com/cgi-bin/mmlist.cgi?auctionmn11/71"><img src="https://www.auctionmn.com/images/2018-06-26/T71-1.jpg" alt="71"></a>
-		<a href="https://www.auctionmn.com/cgi-bin/mmlist.cgi?auctionmn11/81"><img src="https://www.auctionmn.com/images/2018-06-26/T81-1.jpg" alt="81"></a>
-	</div>
-</div>
-
-<!-- <div class="recent">
-	<h2><a href="https://www.auctionmn.com/cgi-bin/mmlist.cgi?auctionmn10/category/ALL">Online Auction Ended On Tuesday, June 12th</a></h2>
-	<div class="flexbox">
-		<a href="https://www.auctionmn.com/cgi-bin/mmlist.cgi?auctionmn10/15"><img src="https://www.auctionmn.com/images/2018-06-12/T15-1.jpg" alt="15"></a>
-		<a href="https://www.auctionmn.com/cgi-bin/mmlist.cgi?auctionmn10/32"><img src="https://www.auctionmn.com/images/2018-06-12/T32-1.jpg" alt="32"></a>
-		<a href="https://www.auctionmn.com/cgi-bin/mmlist.cgi?auctionmn10/41"><img src="https://www.auctionmn.com/images/2018-06-12/T41-1.jpg" alt="41"></a>
-		<a href="https://www.auctionmn.com/cgi-bin/mmlist.cgi?auctionmn10/61"><img src="https://www.auctionmn.com/images/2018-06-12/T61-1.jpg" alt="61"></a>
-		<a href="https://www.auctionmn.com/cgi-bin/mmlist.cgi?auctionmn10/67"><img src="https://www.auctionmn.com/images/2018-06-12/T67-1.jpg" alt="67"></a>
-		<a href="https://www.auctionmn.com/cgi-bin/mmlist.cgi?auctionmn10/80"><img src="https://www.auctionmn.com/images/2018-06-12/T80-1.jpg" alt="80"></a>
-	</div>
-</div>
-
-
-<div class="recent">
-	<h2><a href="https://www.auctionmn.com/cgi-bin/mmlist.cgi?auctionmn9/category/ALL">Online Auction Ended On Tuesday, May 29th</a></h2>
-	<div class="flexbox">
-		<a href="https://www.auctionmn.com/cgi-bin/mmlist.cgi?auctionmn9/1"><img src="https://www.auctionmn.com/images/2018-05-29/T1-1.jpg" alt="1"></a>
-		<a href="https://www.auctionmn.com/cgi-bin/mmlist.cgi?auctionmn9/12"><img src="https://www.auctionmn.com/images/2018-05-29/T12-1.jpg" alt="12"></a>
-		<a href="https://www.auctionmn.com/cgi-bin/mmlist.cgi?auctionmn9/20"><img src="https://www.auctionmn.com/images/2018-05-29/T20-1.jpg" alt="20"></a>
-		<a href="https://www.auctionmn.com/cgi-bin/mmlist.cgi?auctionmn9/26"><img src="https://www.auctionmn.com/images/2018-05-29/T26-1.jpg" alt="26"></a>
-		<a href="https://www.auctionmn.com/cgi-bin/mmlist.cgi?auctionmn9/39"><img src="https://www.auctionmn.com/images/2018-05-29/T39-1.jpg" alt="39"></a>
-		<a href="https://www.auctionmn.com/cgi-bin/mmlist.cgi?auctionmn9/45"><img src="https://www.auctionmn.com/images/2018-05-29/T45-1.jpg" alt="45"></a>
-		<a href="https://www.auctionmn.com/cgi-bin/mmlist.cgi?auctionmn9/53"><img src="https://www.auctionmn.com/images/2018-05-29/T53-1.jpg" alt="53"></a>
-	</div>
-</div> -->
-
-
-<div class="recent">
-	<h2>Annual Canoe, Kayak, and Paddle Board Auction <br>April 28th, 2018 at Midwest Mountaineering</h2>
-		<div class="flexbox">
-			<a href="https://www.auctionmn.com/images/2017-04-29-Canoe_Kayak/img_3.jpg"><img src="https://www.auctionmn.com/images/2017-04-29-Canoe_Kayak/img_3.jpg" alt=""></a>
-			<a href="https://www.auctionmn.com/images/2017-04-29-Canoe_Kayak/img_5.jpg"><img src="https://www.auctionmn.com/images/2017-04-29-Canoe_Kayak/img_5.jpg" alt=""></a>
-			<a href="https://www.auctionmn.com/images/2017-04-29-Canoe_Kayak/img_6.jpg"><img src="https://www.auctionmn.com/images/2017-04-29-Canoe_Kayak/img_6.jpg" alt=""></a>
-			<a href="https://www.auctionmn.com/images/2017-04-29-Canoe_Kayak/img_7.jpg"><img src="https://www.auctionmn.com/images/2017-04-29-Canoe_Kayak/img_7.jpg" alt=""></a>
-			<a href="https://www.auctionmn.com/images/2017-04-29-Canoe_Kayak/img_8.jpg"><img src="https://www.auctionmn.com/images/2017-04-29-Canoe_Kayak/img_8.jpg" alt=""></a>
-			<!-- <a href="https://www.auctionmn.com/images/2017-04-29-Canoe_Kayak/img_9.jpg"><img src="https://www.auctionmn.com/images/2017-04-29-Canoe_Kayak/img_9.jpg" alt=""></a>
-			<a href="https://www.auctionmn.com/images/2017-04-29-Canoe_Kayak/img_10.jpg"><img src="https://www.auctionmn.com/images/2017-04-29-Canoe_Kayak/img_10.jpg" alt=""></a>
-			<a href="https://www.auctionmn.com/images/2017-04-29-Canoe_Kayak/img_11.jpg"><img src="https://www.auctionmn.com/images/2017-04-29-Canoe_Kayak/img_11.jpg" alt=""></a>
-			<a href="https://www.auctionmn.com/images/2017-04-29-Canoe_Kayak/img_12.jpg"><img src="https://www.auctionmn.com/images/2017-04-29-Canoe_Kayak/img_12.jpg" alt=""></a>
-			<a href="https://www.auctionmn.com/images/2016_Canoe/Canoe_5.jpg"><img src="https://www.auctionmn.com/images/2016_Canoe/Canoe_5.jpg" alt="Annual Canoe and Kayak Auction"></a> -->
-		</div>
-	<p>
-		<a href="https://www.auctionmn.com/cgi-bin/mmlist.cgi?auctionmn8/category/ALL">View Auction Results Here!</a>
-	</p>
-		<!-- <p><strong>Location</strong></p>
-			<p>Midwest Mountaineering - <a target="_blank" href="https://www.google.com/maps/dir/''/midwest+mountaineering/@44.9707033,-93.3170319,12z/data=!3m1!4b1!4m8!4m7!1m0!1m5!1m1!1s0x52b32d424effb00f:0x1c93ae128fd58e0!2m2!1d-93.2469921!2d44.9707247">Directions</a></p>
-			<p>309 Cedar Ave. So.</p>
-			<p>Minneapolis, MN 55454</p>
-		<p><strong>Auction</strong></p>
-			<p>Saturday, April 28th, 2018 at 11 a.m.</p>
-		<p><strong>Auctioneer's Notes</strong></p>
-			<p>Do you have a canoe, kayak or paddle board that you would like to sell? There is no better time or place to sell your canoe, kayak or paddle board than at the annual Midwest Mountaineering Spring Expo! Hundreds of bidders attend every year and well over 100 watercraft are sold. Naturally, the Spring Expo is also a wonderful opportunity for a new or experienced paddle enthusiast to enter the sport or to upgrade your craft. Check back later for more details.</p>
-		<p><strong>Selling a Canoe, Kayak, or Paddle Board?</strong></p>
-			<p>Please read the <a target="_blank" href="https://auctionmn.com/AAA_Auction_Selling_Information.pdf">Selling Information</a>. After you have read the selling information you can <a target="_blank" href="https://auctionmn.com/AAA_Auction_Contract_and_Bill_of_Sale.pdf">download and print a contract and bill of sale</a> to save time before the auction begins!</p>
-		<p><strong></strong></p> -->
-</div>
-
-
-
-
-<!-- <div class="recent">
-	<h2>Annual Canoe, Kayak, and Paddle Board Auction <br>April 29th, 2017 at Midwest Mountaineering</h2>
-		<div class="flexbox">
-			<a href="http://www.auctionmn.com/images/2017-04-29-Canoe_Kayak/img_1.jpg"><img src="http://www.auctionmn.com/images/2017-04-29-Canoe_Kayak/img_1.jpg" alt=""></a>
-			<a href="http://www.auctionmn.com/images/2017-04-29-Canoe_Kayak/img_2.jpg"><img src="http://www.auctionmn.com/images/2017-04-29-Canoe_Kayak/img_2.jpg" alt=""></a>
-			<a href="http://www.auctionmn.com/images/2017-04-29-Canoe_Kayak/img_3.jpg"><img src="http://www.auctionmn.com/images/2017-04-29-Canoe_Kayak/img_3.jpg" alt=""></a>
-			<a href="http://www.auctionmn.com/images/2017-04-29-Canoe_Kayak/img_4.jpg"><img src="http://www.auctionmn.com/images/2017-04-29-Canoe_Kayak/img_4.jpg" alt=""></a>
-			<a href="http://www.auctionmn.com/images/2017-04-29-Canoe_Kayak/img_5.jpg"><img src="http://www.auctionmn.com/images/2017-04-29-Canoe_Kayak/img_5.jpg" alt=""></a>
-			<a href="http://www.auctionmn.com/images/2017-04-29-Canoe_Kayak/img_6.jpg"><img src="http://www.auctionmn.com/images/2017-04-29-Canoe_Kayak/img_6.jpg" alt=""></a>
-			<a href="http://www.auctionmn.com/images/2017-04-29-Canoe_Kayak/img_7.jpg"><img src="http://www.auctionmn.com/images/2017-04-29-Canoe_Kayak/img_7.jpg" alt=""></a>
-			<a href="http://www.auctionmn.com/images/2017-04-29-Canoe_Kayak/img_8.jpg"><img src="http://www.auctionmn.com/images/2017-04-29-Canoe_Kayak/img_8.jpg" alt=""></a>
-			<a href="http://www.auctionmn.com/images/2017-04-29-Canoe_Kayak/img_9.jpg"><img src="http://www.auctionmn.com/images/2017-04-29-Canoe_Kayak/img_9.jpg" alt=""></a>
-			<a href="http://www.auctionmn.com/images/2017-04-29-Canoe_Kayak/img_10.jpg"><img src="http://www.auctionmn.com/images/2017-04-29-Canoe_Kayak/img_10.jpg" alt=""></a>
-			<a href="http://www.auctionmn.com/images/2017-04-29-Canoe_Kayak/img_11.jpg"><img src="http://www.auctionmn.com/images/2017-04-29-Canoe_Kayak/img_11.jpg" alt=""></a>
-			<a href="http://www.auctionmn.com/images/2017-04-29-Canoe_Kayak/img_12.jpg"><img src="http://www.auctionmn.com/images/2017-04-29-Canoe_Kayak/img_12.jpg" alt=""></a>
-			<a href="http://www.auctionmn.com/images/2016_Canoe/Canoe_5.jpg"><img src="http://www.auctionmn.com/images/2016_Canoe/Canoe_5.jpg" alt="Annual Canoe and Kayak Auction"></a> -->
-
-			<!-- <a href="http://www.auctionmn.com/images/2016_Canoe/Canoe_1.jpg"><img src="http://www.auctionmn.com/images/2016_Canoe/Canoe_1.jpg" alt="Annual Canoe and Kayak Auction"></a>
-			<a href="http://www.auctionmn.com/images/2016_Canoe/Canoe_2.jpg"><img src="http://www.auctionmn.com/images/2016_Canoe/Canoe_2.jpg" alt="Annual Canoe and Kayak Auction"></a>
-			<a href="http://www.auctionmn.com/images/2016_Canoe/Canoe_4.jpg"><img src="http://www.auctionmn.com/images/2016_Canoe/Canoe_4.jpg" alt="Annual Canoe and Kayak Auction"></a>
-			<a href="http://www.auctionmn.com/images/2016_Canoe/Canoe_18.JPG"><img src="http://www.auctionmn.com/images/2016_Canoe/Canoe_18.JPG" alt="Annual Canoe and Kayak Auction"></a>
-			<a href="http://www.auctionmn.com/images/2016_Canoe/Canoe_8.jpg"><img src="http://www.auctionmn.com/images/2016_Canoe/Canoe_8.jpg" alt="Annual Canoe and Kayak Auction"></a>
-			<a href="http://www.auctionmn.com/images/2016_Canoe/Canoe_9.jpg"><img src="http://www.auctionmn.com/images/2016_Canoe/Canoe_9.jpg" alt="Annual Canoe and Kayak Auction"></a>
-			<a href="http://www.auctionmn.com/images/2016_Canoe/Canoe_10.jpg"><img src="http://www.auctionmn.com/images/2016_Canoe/Canoe_10.jpg" alt="Annual Canoe and Kayak Auction"></a>
-			<a href="http://www.auctionmn.com/images/2016_Canoe/Canoe_11.jpg"><img src="http://www.auctionmn.com/images/2016_Canoe/Canoe_11.jpg" alt="Annual Canoe and Kayak Auction"></a> -->
-
-			<!-- <a href="http://www.auctionmn.com/images/2016_Canoe/Canoe_6.jpg"><img src="http://www.auctionmn.com/images/2016_Canoe/Canoe_6.jpg" alt="Annual Canoe and Kayak Auction"></a>
-			<a href="http://www.auctionmn.com/images/2016_Canoe/Canoe_14.JPG"><img src="http://www.auctionmn.com/images/2016_Canoe/Canoe_14.JPG" alt="Annual Canoe and Kayak Auction"></a>
-			<a href="http://www.auctionmn.com/images/2016_Canoe/Canoe_15.JPG"><img src="http://www.auctionmn.com/images/2016_Canoe/Canoe_15.JPG" alt="Annual Canoe and Kayak Auction"></a>
-			<a href="http://www.auctionmn.com/images/2016_Canoe/Canoe_19.JPG"><img src="http://www.auctionmn.com/images/2016_Canoe/Canoe_19.JPG" alt="Annual Canoe and Kayak Auction"></a>
-			<a href="http://www.auctionmn.com/images/2016_Canoe/Canoe_21.jpg"><img src="http://www.auctionmn.com/images/2016_Canoe/Canoe_21.jpg" alt="Annual Canoe and Kayak Auction"></a>
-			<a href="http://www.auctionmn.com/images/2015_Canoe_Kayak/Canoe_6.JPG"><img src="http://www.auctionmn.com/images/2015_Canoe_Kayak/TCanoe_6.JPG" alt=""></a>
-			<a href="http://www.auctionmn.com/images/2015_Canoe_Kayak/DSCN2762.JPG"><img src="http://www.auctionmn.com/images/2015_Canoe_Kayak/TDSCN2762.JPG" alt=""></a>
-			<a href="http://www.auctionmn.com/images/2015_Canoe_Kayak/DSCN2765.JPG"><img src="http://www.auctionmn.com/images/2015_Canoe_Kayak/TDSCN2765.JPG" alt=""></a>
-			<a href="http://www.auctionmn.com/images/2015_Canoe_Kayak/DSCN2768.JPG"><img src="http://www.auctionmn.com/images/2015_Canoe_Kayak/TDSCN2768.JPG" alt=""></a>
-			<a href="http://www.auctionmn.com/images/2015_Canoe_Kayak/DSCN2770.JPG"><img src="http://www.auctionmn.com/images/2015_Canoe_Kayak/TDSCN2770.JPG" alt=""></a>
-			<a href="http://www.auctionmn.com/images/2015_Canoe_Kayak/DSCN2771.JPG"><img src="http://www.auctionmn.com/images/2015_Canoe_Kayak/TDSCN2771.JPG" alt=""></a>
-			<a href="http://www.auctionmn.com/images/2015_Canoe_Kayak/DSCN2772.JPG"><img src="http://www.auctionmn.com/images/2015_Canoe_Kayak/TDSCN2772.JPG" alt=""></a>
-			<a href="http://www.auctionmn.com/images/2015_Canoe_Kayak/DSCN2773.JPG"><img src="http://www.auctionmn.com/images/2015_Canoe_Kayak/TDSCN2773.JPG" alt=""></a>
-			<a href="http://www.auctionmn.com/images/2015_Canoe_Kayak/DSCN2776.JPG"><img src="http://www.auctionmn.com/images/2015_Canoe_Kayak/TDSCN2776.JPG" alt=""></a>
-			<a href="http://www.auctionmn.com/images/2015-04-25/Canoe_5.jpg"><img src="http://www.auctionmn.com/images/2015-04-25/small/Canoe_5.jpg" alt=""></a> -->
-		<!-- </div> -->
-	<!-- <h3><a href="http://www.auctionmn.com/cgi-bin/mnlist.cgi?auctionmn10/category/ALL">View The Auction Results</a></h3> -->
-		<!-- <p><strong>Location</strong></p>
-			<p>Midwest Mountaineering - <a target="_blank" href="https://www.google.com/maps/dir/''/midwest+mountaineering/@44.9707033,-93.3170319,12z/data=!3m1!4b1!4m8!4m7!1m0!1m5!1m1!1s0x52b32d424effb00f:0x1c93ae128fd58e0!2m2!1d-93.2469921!2d44.9707247">Directions</a></p>
-			<p>309 Cedar Ave. So.</p>
-			<p>Minneapolis, MN 55454</p>
-		<p><strong>Date</strong></p>
-			<p>Saturday, April 29th, 2017 at 11 a.m.</p>
-		<p><strong>Auctioneer's Notes</strong></p>
-			<p>Do you have a canoe, kayak or paddle board to sell? Do you need to upgrade to a newer model? There is no better time and no better place to sell or buy a new canoe, kayak or paddle board than the Midwest Mountaineering Spring Expo on April 29, at 11 am. Every year AAA Auction is honored to sell over 100 fine water crafts as part of the MWM Spring Expo. This is an old-fashioned, outdoor, live auction that draws large crowds and offers a wide selection of like new to used watercraft.</p>
-			<p>Its easy. If you have a canoe or kayak to sell, just bring it to Midwest Mountaineering starting at 7 a.m. We'll help you unload it. We'll start the auction at 11 a.m. and pay you the same day. You can also take in the <a target="_blank" href="http://www.outdooradventureexpo.com/">Spring Expo</a> at <a target="_blank" href="http://www.midwestmtn.com/">Midwest Mountaineering</a> at the same time.</p>
-		<p><strong>Selling a Canoe, Kayak, or Paddle Board?</strong></p>
-			<p>View <a target="_blank" href="http://auctionmn.com/Sellers_Information_Canoe_Kayak_Auction.pdf">Selling Information</a>.</p>
-			<p>Download and print the <a target="_blank" href="http://auctionmn.com/Sellers_Contract_Canoe_Kayak_Auction.pdf">Consignment Contract</a>.</p>
-			<p>To save time, we suggest that you fill the consignment contract out at home and bring it with you to the auction. We will have plenty contract forms available if you forget to bring yours with you.</p>
-		<p><strong>Buying a Canoe, Kayak, or Paddle Board?</strong></p>
-			<p>View <a target="_blank" href="http://auctionmn.com/Bidding_Information_Canoe_Kayak_Auction.pdf">Buying Information</a>.</p> -->
-<!-- </div> -->
-
-
-<!-- *******************************************************************************
+        <!-- *******************************************************************************
             *************      End of Recent Auctions       ***************
 ******************************************************************************** -->
 
-</div> <!-- End of Main Content -->
+      </div> <!-- End of Main Content -->
 
-<div class="mainsidebar"> <!-- Start of SideBar -->
-	<p><a class="currentbutton" href="https://www.auctionmn.com/cgi-bin/mnregister.cgi?auctionmn" title="When you register to bid, you will get an online bidder number. Use that bidder number for our current and future online auctions. At a live auction, get a bidder number from the clerk.">Register to Bid</a></p>
-	<p><a class="upcomingbutton" href="#upcoming" title="View upcoming auctions">View Upcoming</a></p>
-	<p><a class="recentbutton" href="#recent" title="View auctions that have recently ended">View Recent</a></p>
-	<p><a class="currentbutton" href="https://www.auctionmn.com/cgi-bin/mdemail.cgi?auctionmn" title="Join our Email List">Subscribe</a></p>
+      <div class="mainsidebar">
+        <!-- Start of SideBar -->
+        <p><a class="currentbutton" href="https://www.auctionmn.com/cgi-bin/mnregister.cgi?auctionmn" title="When you register to bid, you will get an online bidder number. Use that bidder number for our current and future online auctions. At a live auction, get a bidder number from the clerk.">Register
+            to Bid</a></p>
+        <p><a class="upcomingbutton" href="#upcoming" title="View upcoming auctions">View Upcoming</a></p>
+        <p><a class="recentbutton" href="#recent" title="View auctions that have recently ended">View Recent</a></p>
+        <p><a class="currentbutton" href="https://www.auctionmn.com/cgi-bin/mdemail.cgi?auctionmn" title="Join our Email List">Subscribe</a></p>
 
-<!-- 	<hr>
+        <!-- 	<hr>
 
 	<h2>News</h2>
 	<p><a href="#zerocommission">Zero Commission Special</a></p> -->
 
-<!-- 	<hr>
+        <!-- 	<hr>
 
 	<div>
 		<a width="180" height="700" class="twitter-timeline"  href="https://twitter.com/auctionmn" data-widget-id="527518941493481473">Tweets by @auctionmn</a>
 	</div> -->
 
 
-	<!-- <hr> -->
+        <!-- <hr> -->
 
-	<div>
-    	<iframe src="//www.facebook.com/plugins/likebox.php?href=https%3A%2F%2Fwww.facebook.com%2Fauctionmn&amp;width=180&amp;height=700&amp;colorscheme=light&amp;show_faces=false&amp;header=true&amp;stream=true&amp;show_border=true" scrolling="no" frameborder="0" style="border:none; overflow:hidden; width:180; height:700px;" allowtransparency="true"></iframe>
-    </div>
+        <div>
+          <iframe src="//www.facebook.com/plugins/likebox.php?href=https%3A%2F%2Fwww.facebook.com%2Fauctionmn&amp;width=180&amp;height=700&amp;colorscheme=light&amp;show_faces=false&amp;header=true&amp;stream=true&amp;show_border=true" scrolling="no"
+            frameborder="0" style="border:none; overflow:hidden; width:180; height:700px;" allowtransparency="true"></iframe>
+        </div>
 
-	<hr>
+        <hr>
 
-	<h2><a href="https://www.auctionmn.com/testimonials.shtml">Testimonials</a></h2>
+        <h2><a href="https://www.auctionmn.com/testimonials.shtml">Testimonials</a></h2>
 
-    <p><i>Wow! I didn’t know retired guys could work so hard. Thanks for all the help you gave us in emptying our house and sheds so we could close on our sale. We are very happy with the services you provided including getting our huge dinosaur TV out of the lower level of our home. You guys are unbelievable and friendly too. We know a lot of people these days who are down-sizing and we will be happy to send them your way.</i></p>
-    <p>- The Andersons</p>
+        <p><i>Wow! I didn’t know retired guys could work so hard. Thanks for all the help you gave us in emptying our house and sheds so we could close on our sale. We are very happy with the services you provided including getting our huge dinosaur
+            TV out of the lower level of our home. You guys are unbelievable and friendly too. We know a lot of people these days who are down-sizing and we will be happy to send them your way.</i></p>
+        <p>- The Andersons</p>
 
-		<!-- <p><i>I want to take a moment to thank you for the great work AAA Auction did for me. As you know, my wife and I are moving and after 40 years our house and buildings were full of stuff. Since we are only taking a small amount of things with us, we needed to sell everything and empty out our house so it could be sold. We are extremely happy with the prompt work AAA Auction did to assist us. You respected our home when you were there working and you made a very fair deal with me. Actually, we are very relieved that you guys dug in and not only removed the good clean items, but the lower value items too. We don't know what we would have done without you. Thank you.</i></p>
+        <!-- <p><i>I want to take a moment to thank you for the great work AAA Auction did for me. As you know, my wife and I are moving and after 40 years our house and buildings were full of stuff. Since we are only taking a small amount of things with us, we needed to sell everything and empty out our house so it could be sold. We are extremely happy with the prompt work AAA Auction did to assist us. You respected our home when you were there working and you made a very fair deal with me. Actually, we are very relieved that you guys dug in and not only removed the good clean items, but the lower value items too. We don't know what we would have done without you. Thank you.</i></p>
 		<p>Tom LeMon</p> -->
 
-		<!-- <p><i>"When my husband died, the task of organizing and selling his business and hobbies seemed overwhelming. AAA Auction was recommended to me by a good friend, so I called. I met with Tony right away and he was able to form a plan to help me take care of everything. He listened to all my concerns and always put my needs first. Tony and his extremely able crew went to work immediately. Everyone involved has been respectful, honest and trustworthy. They have been wonderful to work with and I cannot recommend them highly enough!"</i></p>
+        <!-- <p><i>"When my husband died, the task of organizing and selling his business and hobbies seemed overwhelming. AAA Auction was recommended to me by a good friend, so I called. I met with Tony right away and he was able to form a plan to help me take care of everything. He listened to all my concerns and always put my needs first. Tony and his extremely able crew went to work immediately. Everyone involved has been respectful, honest and trustworthy. They have been wonderful to work with and I cannot recommend them highly enough!"</i></p>
 		<p>- Wendy Richardson</p> -->
 
-		<!-- <p><i>"My sister and I hired a traditional estate sale company to sell the contents of our parents’ home. Due to several reasons, the estate sale company only sold a small amount of the items. We then contacted Tony at AAA Auction to see if he would be interested in purchasing the entire estate. We couldn’t have been more pleased with Tony and his crew. They came over as soon as we called and performed a careful evaluation of the contents. We then came to an agreement that had AAA Auction remove everything from the home in about 10 days. All in all, Tony and his staff treated us with fairness, understanding and respect during a difficult time and I would strongly recommend them to anyone with estate sale needs."</i></p>
+        <!-- <p><i>"My sister and I hired a traditional estate sale company to sell the contents of our parents’ home. Due to several reasons, the estate sale company only sold a small amount of the items. We then contacted Tony at AAA Auction to see if he would be interested in purchasing the entire estate. We couldn’t have been more pleased with Tony and his crew. They came over as soon as we called and performed a careful evaluation of the contents. We then came to an agreement that had AAA Auction remove everything from the home in about 10 days. All in all, Tony and his staff treated us with fairness, understanding and respect during a difficult time and I would strongly recommend them to anyone with estate sale needs."</i></p>
 		<p>- Ann Fuller and her sister, Lynn</p> -->
 
-		<!-- <p><i>"Thank you for all your help with the gala this year! You do a wonderful job and we definitely would not be as successful without you!"</i></p>
+        <!-- <p><i>"Thank you for all your help with the gala this year! You do a wonderful job and we definitely would not be as successful without you!"</i></p>
 		<p>-Tina Stofferahn</p> -->
-<!-- 		<p><i>"Thanks Tony – We certainly wouldn't be as successful as we are if we didn't have you in the picture."</i></p>
+        <!-- 		<p><i>"Thanks Tony – We certainly wouldn't be as successful as we are if we didn't have you in the picture."</i></p>
 		<p>-Jill Munsinger</p> -->
 
-	<hr>
+        <hr>
 
-	<h2>Messages</h2>
-	<p><a href="https://auctionmn.com/how-to-choose-estate-selling-company.shtml">How To Choose A Company To Sell Your Estate</a></p>
-	<p><a href="https://www.auctionmn.com/tonysblog.shtml#advice-to-seniors">Advice To Seniors</a></p>
-	<p><a href="https://www.auctionmn.com/tonysblog.shtml#2015-03-26">Mau's Corner</a></p>
-	<p><a href="https://www.auctionmn.com/consignment_info.shtml">Consign your Items</a></p>
-	<p><a href="https://www.auctionmn.com/tonysblog.shtml#2012-09-20">We Buy Estates and Storage Lockers</a></p>
-	<p><a href="https://www.auctionmn.com/benefitqa.shtml">We do Benefit Auctions</a></p>
-	<p><a href="https://www.auctionmn.com/tonysblog.shtml#2012-09-19">Online Estate Auctions vs. Traditional Estate Sales</a></p>
+        <h2>Messages</h2>
+        <p><a href="https://auctionmn.com/how-to-choose-estate-selling-company.shtml">How To Choose A Company To Sell Your Estate</a></p>
+        <p><a href="https://www.auctionmn.com/tonysblog.shtml#advice-to-seniors">Advice To Seniors</a></p>
+        <p><a href="https://www.auctionmn.com/tonysblog.shtml#2015-03-26">Mau's Corner</a></p>
+        <p><a href="https://www.auctionmn.com/consignment_info.shtml">Consign your Items</a></p>
+        <p><a href="https://www.auctionmn.com/tonysblog.shtml#2012-09-20">We Buy Estates and Storage Lockers</a></p>
+        <p><a href="https://www.auctionmn.com/benefitqa.shtml">We do Benefit Auctions</a></p>
+        <p><a href="https://www.auctionmn.com/tonysblog.shtml#2012-09-19">Online Estate Auctions vs. Traditional Estate Sales</a></p>
 
-	<hr>
+        <hr>
 
-	<h2>Photos</h2>
-	<p><a href="https://www.auctionmn.com/images/borngallery/index.html">David Born Estate</a></p>
-	<p><a href="https://www.auctionmn.com/images/mausgallery/index.html">Mau's Corner</a></p>
+        <h2>Photos</h2>
+        <p><a href="https://www.auctionmn.com/images/borngallery/index.html">David Born Estate</a></p>
+        <p><a href="https://www.auctionmn.com/images/mausgallery/index.html">Mau's Corner</a></p>
 
-	<hr>
+        <hr>
 
-	<img src="https://www.auctionmn.com/images/msaa_logo.gif" alt="">
-	<img src="https://www.auctionmn.com/images/mls_logo.gif" alt="">
-	<img src="https://www.auctionmn.com/images/naa_logo.gif" alt="">
+        <img src="https://www.auctionmn.com/images/msaa_logo.gif" alt="">
+        <img src="https://www.auctionmn.com/images/mls_logo.gif" alt="">
+        <img src="https://www.auctionmn.com/images/naa_logo.gif" alt="">
 
 
-</div><!-- End of SideBar -->
+      </div><!-- End of SideBar -->
 
-</div><!-- End of Main Body -->
+    </div><!-- End of Main Body -->
 
-<div id="Footer"><!--#include file="footer.ssi"--></div>
-</div>
-<div id="Menu">
-<!--#include file="body_sitemap.inc"--><!--#include file="footer2.ssi"--></div>
+    <div id="Footer">
+      <!--#include file="footer.ssi"-->
+    </div>
+  </div>
+  <div id="Menu">
+    <!--#include file="body_sitemap.inc"-->
+    <!--#include file="footer2.ssi"-->
+  </div>
 
-<!-- JavaScripts -->
-<script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.0/jquery.min.js"></script>
-<link rel="stylesheet" href="//code.jquery.com/ui/1.11.1/themes/smoothness/jquery-ui.css">
+  <!-- JavaScripts -->
+  <script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.0/jquery.min.js"></script>
+  <link rel="stylesheet" href="//code.jquery.com/ui/1.11.1/themes/smoothness/jquery-ui.css">
   <script src="//code.jquery.com/jquery-1.10.2.js"></script>
   <script src="//code.jquery.com/ui/1.11.1/jquery-ui.js"></script>
-<script type="text/javascript" src="jquery-dist.js"></script>
+  <script type="text/javascript" src="jquery-dist.js"></script>
 
-<!-- Go to www.addthis.com/dashboard to customize your tools -->
-<script type="text/javascript" src="//s7.addthis.com/js/300/addthis_widget.js#pubid=ra-521b931f741dd6d6"></script>
+  <!-- Go to www.addthis.com/dashboard to customize your tools -->
+  <script type="text/javascript" src="//s7.addthis.com/js/300/addthis_widget.js#pubid=ra-521b931f741dd6d6"></script>
 
-<!-- Twitter Widget Script-->
-<script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+"://platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");</script>
+  <!-- Twitter Widget Script-->
+  <script>
+    ! function(d, s, id) {
+      var js, fjs = d.getElementsByTagName(s)[0],
+        p = /^http:/.test(d.location) ? 'http' : 'https';
+      if (!d.getElementById(id)) {
+        js = d.createElement(s);
+        js.id = id;
+        js.src = p + "://platform.twitter.com/widgets.js";
+        fjs.parentNode.insertBefore(js, fjs);
+      }
+    }(document, "script", "twitter-wjs");
+  </script>
 
 </body>
+
 </html>
