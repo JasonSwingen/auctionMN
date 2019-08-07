@@ -149,8 +149,8 @@
 
         <div class="upcoming maus">
           <h2 id="maus">Mau's Corner Flea Market & Live Auction</h2>
-          <div class="">
-            <p>Our Next Auction Is On: Tuesday, <b>July 30th</b>, 2019</p>
+          <div class="alert alert-info">
+            <p>Our Next Auction Is On: Tuesday, <b>August 20th</b>, 2019</p>
           </div>
           <!-- <div class="alert alert-info animated pulse" role="alert">&#9728 Auctions Begin on Tuesday, <u>April 23rd</u></div> -->
           <!-- <div class="announcement">
@@ -169,7 +169,8 @@
           <p><a href="https://www.auctionmn.com/maus-corner-selling-information.shtml">Selling at Mau's Corner</a></p>
           <p><a href="https://www.auctionmn.com/maus-corner-bidding-information.shtml">Bidding at Mau's Corner</a></p>
           <p><strong>Date</strong></p>
-          <p>Tuesday, July 30th</p>
+          <p>Tuesday, August 20th</p>
+          <!-- <P>TBD</P> -->
           <p><strong>Time</strong></p>
           <p>Flea Market at 7 a.m.</p>
           <p>Auction at 9 a.m.</p>
