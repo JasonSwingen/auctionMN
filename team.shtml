@@ -1,78 +1,96 @@
 <!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
-<html><head>
-<meta http-equiv="content-type" content="text/html; charset=iso-8859-1"><title>The AAA Team | AAA Auction and Realty Company</title>
+<html>
 
-<link rel="stylesheet" href="/auctionmn.css" type="text/css">
-<link rel="stylesheet" href="/auctionmnpr.css" type="text/css" media="print"><!--#include file="head_sitemap.inc"--></head>
+<head>
+	<meta http-equiv="content-type" content="text/html; charset=iso-8859-1">
+	<title>The AAA Team | AAA Auction and Realty Company</title>
+
+	<link rel="stylesheet" href="/auctionmn.css" type="text/css">
+	<link rel="stylesheet" href="/auctionmnpr.css" type="text/css" media="print">
+	<!--#include file="head_sitemap.inc"-->
+</head>
+
 <body>
-<div id="Content">
-<div id="Header"><!--#include file="header.ssi"--></div>
+	<div id="Content">
+		<div id="Header">
+			<!--#include file="header.ssi"-->
+		</div>
 
-<article>
+		<article>
 
-<h1>The AAA Team</h1>
+			<h1>The AAA Team</h1>
 
-	<div class="teampage">
+			<div class="teampage">
 
-	<h2>Tony Elfelt</h2>
-	<img src="https://www.auctionmn.com/images/tony2006.jpg" alt="Tony Elfelt">
+				<h2>Tony Elfelt</h2>
+				<img src="https://www.auctionmn.com/images/tony2006.jpg" alt="Tony Elfelt">
 
-	<p>Along with his wife, Denise, Tony is co-owner of AAA Auction and Realty and auctionmn.com. Tony is the guy who will come to your home to answer all of your auction questions and advise you about the best way to sell your items.</p>
-	<p>In addition to being an auctioneer, Tony is also a personal injury attorney, a real estate broker, and a licensed federal firearms and used vehicle dealer. He also was the first Minnesota auctioneer certified by the National Auctioneers Association as a Benefit Auction Specialist.</p>
+				<p>Along with his wife, Denise, Tony is co-owner of AAA Auction and Realty and auctionmn.com. Tony is the guy who will come to your home to answer all of your auction questions and advise you about the best way to sell your items.</p>
+				<p>In addition to being an auctioneer, Tony is also a personal injury attorney, a real estate broker, and a licensed federal firearms and used vehicle dealer. He also was the first Minnesota auctioneer certified by the National Auctioneers
+					Association as a Benefit Auction Specialist.</p>
 
-	<h2>Denise Elfelt</h2>
-	<img src="https://www.auctionmn.com/images/denise_2008.jpg"  alt="Denise Elfelt">
+				<h2>Denise Elfelt</h2>
+				<img src="https://www.auctionmn.com/images/denise_2008.jpg" alt="Denise Elfelt">
 
-	<p>Denise is co-owner of AAA Auction. She runs our online auction business at our Auction Center in Ramsey and also clerks our sales during our live auctions. She is so friendly, we think some people buy from us just to come in and visit with her.</p>
-	<p>She is a professional personal property appraiser, having completed both the National Auctioneers Association's training as a G.P.P.A., and also the Continental School of Auctioneering's certification program as a C.P.P.A. Denise is married to Tony, and when she's not working for AAA Auction, she is most likely visiting with her four grandchildren.</p>
+				<p>Denise is co-owner of AAA Auction. She runs our online auction business at our Auction Center in Ramsey and also clerks our sales during our live auctions. She is so friendly, we think some people buy from us just to come in and visit with
+					her.</p>
+				<p>She is a professional personal property appraiser, having completed both the National Auctioneers Association's training as a G.P.P.A., and also the Continental School of Auctioneering's certification program as a C.P.P.A. Denise is married
+					to Tony, and when she's not working for AAA Auction, she is most likely visiting with her four grandchildren.</p>
 
-	<h2>John Stachowski</h2>
-	<img src="https://www.auctionmn.com/images/john2005.jpg" alt="John Stachowski">
+				<h2>John Stachowski</h2>
+				<img src="https://www.auctionmn.com/images/john2005.jpg" alt="John Stachowski">
 
-	<p>John is a highly skilled auctioneer and one of the nicest guys in the business. Not only does he do a great job calling auctions, but he also is the guy who keeps our computers running. When John is not calling an auction, he drives a truck for Lakeville Motor Express, where he has been employed since 1987.</p>
+				<p>John is a highly skilled auctioneer and one of the nicest guys in the business. Not only does he do a great job calling auctions, but he also is the guy who keeps our computers running. When John is not calling an auction, he drives a truck
+					for Lakeville Motor Express, where he has been employed since 1987.</p>
 
 
-	<h2>Larry Elfelt</h2>
-	<img src="https://www.auctionmn.com/images/teamLarry.jpg"  alt="Larry Elfelt">
+				<h2>Larry Elfelt</h2>
+				<img src="https://www.auctionmn.com/images/teamLarry.jpg" alt="Larry Elfelt">
 
-	<p>Larry keeps our live auctions moving fast. He's the guy who hollers "YES!" when you bid or hollers "Let's Go!" if he thinks the auctioneer too slow. We also rely on Larry to help set up auctions. Larry is married to Corinne, and when he is not working for AAA Auction or attending an auction elsewhere, you can find Larry delivering mail in Anoka or putting out fires in Andover.</p>
-	<p>He is also a State Licensed Pesticide Applicator and Certified Tree Inspector. If you have an ash tree that you want to save from Emerald Ash Borer, then you should consider saving your ash at <a target="_blank" href="http://www.saveyourashmn.com/">www.saveyourashmn.com</a>.</p>
+				<p>Larry keeps our live auctions moving fast. He's the guy who hollers "YES!" when you bid or hollers "Let's Go!" if he thinks the auctioneer too slow. We also rely on Larry to help set up auctions. Larry is married to Corinne, and when he is
+					not working for AAA Auction or attending an auction elsewhere, you can find Larry delivering mail in Anoka or putting out fires in Andover.</p>
 
-	<h2>Jason Swingen</h2>
-	<img src="https://www.auctionmn.com/images/teamJason.jpg"  alt="Jason Swingen">
+				<h2>Jason Swingen</h2>
+				<img src="https://www.auctionmn.com/images/teamJason.jpg" alt="Jason Swingen">
 
-	<p>Jason is a super smart, good looking, and talented <a target="_blank" href="http://jasonswingen.com">Web Developer and Internet Marketer in Duluth, MN</a>. Also, because he writes the content for www.auctionmn.com he is able to write his own description on the Team Page.</p>
-	<p>He also writes articles about hunting and fishing in Minnesota at <a target="_blank" href="http://js-outdoors.com/">JS-Outdoors.com</a>.</p>
+				<p>Jason is a super smart, good looking, and talented <a target="_blank" href="http://jasonswingen.com">Web Developer and Internet Marketer in Duluth, MN</a>. Also, because he writes the content for www.auctionmn.com he is able to write his own
+					description on the Team Page.</p>
+				<p>He also writes articles about hunting and fishing in Minnesota at <a target="_blank" href="http://js-outdoors.com/">JS-Outdoors.com</a>.</p>
 
-	<h2>Betty Jo McCarty</h2>
-	<img src="https://www.auctionmn.com/images/bettyjomccarty_sm.jpg"  alt="Betty Jo McCarty">
+				<h2>Betty Jo McCarty</h2>
+				<img src="https://www.auctionmn.com/images/bettyjomccarty_sm.jpg" alt="Betty Jo McCarty">
 
-	<p>Having spent 20 plus years raising her family and volunteering in the community, Betty Jo joined AAA Auction in 2017 as our live auction clerk at Mau's Corner. She also is an invaluable member of our online team where she enjoys the high energy and activity of the auction house.</p>
+				<p>Having spent 20 plus years raising her family and volunteering in the community, Betty Jo joined AAA Auction in 2017 as our live auction clerk at Mau's Corner. She also is an invaluable member of our online team where she enjoys the high
+					energy and activity of the auction house.</p>
 
-	<!-- <h2>Kim Wood</h2>
+				<!-- <h2>Kim Wood</h2>
 
 	<p>Kim’s role is vital to our live auctions. She is the clerk who types the information about every sale into the computer. She is really friendly, but I tell everyone she is crabby so they don’t interrupt her during the auction. She also is our bookkeeper and she types the lot descriptions for our online auctions.</p> -->
 
-	<h2>Lance Rubink</h2>
+				<h2>Lance Rubink</h2>
 
-	<p>Lance joined us during our first year at Mau’s Corner in 2013. He is the guy who turns the lights on in the morning and who gets folks set up in the right place He also takes over calling the auction when needed.</p>
+				<p>Lance joined us during our first year at Mau’s Corner in 2013. He is the guy who turns the lights on in the morning and who gets folks set up in the right place He also takes over calling the auction when needed.</p>
 
-	<h2>Gary Duer</h2>
+				<h2>Gary Duer</h2>
 
-	<p>Gary started out just pitching in when he saw we needed a hand and then quickly became part of our regular crew. He helps with most of our estate pick-ups an he helps set up the auction too. By the way, if you ever find you need a gizmo or widget, Gary has several of them.</p>
+				<p>Gary started out just pitching in when he saw we needed a hand and then quickly became part of our regular crew. He helps with most of our estate pick-ups and he helps set up the auction too. By the way, if you ever find you need a gizmo or
+					widget, Gary has several of them.</p>
 
-	<h2>RaeAnn Spike</h2>
+				<h2>RaeAnn Spike</h2>
 
-	<p>is the newest member of our team. Since she was coming to our live and online auctions anyway, we gave her a camera and put her to work.</p>
+				<p>is the newest member of our team. Since she was coming to our live and online auctions anyway, we gave her a camera and put her to work.</p>
 
-	</div> <!-- End of Team Page -->
+			</div> <!-- End of Team Page -->
 
-</article> <!-- End of Article -->
+		</article> <!-- End of Article -->
 
-</div> <!-- End of Content -->
+	</div> <!-- End of Content -->
 
-<div id="Menu">
+	<div id="Menu">
 
-<!--#include file="body_sitemap.inc"--><!--#include file="footer2.ssi"-->
-</div>
-</body></html>
+		<!--#include file="body_sitemap.inc"-->
+		<!--#include file="footer2.ssi"-->
+	</div>
+</body>
+
+</html>
