@@ -82,7 +82,43 @@
 
 
 
-
+        <div class="current">
+          <h2><a href="https://www.auctionmn.com/cgi-bin/mmlist.cgi?auctionmn11/category/ALL">Online Auction Ending On Tuesday, October 22nd</a></h2>
+          <div class="flexbox">
+            <a href="https://www.auctionmn.com/cgi-bin/mmlist.cgi?auctionmn11/7"><img src="https://www.auctionmn.com/images/2019-10-22/T7-1.jpg" alt="Lot 7"></a>
+            <a href="https://www.auctionmn.com/cgi-bin/mmlist.cgi?auctionmn11/17"><img src="https://www.auctionmn.com/images/2019-10-22/T17-1.jpg" alt="Lot 17"></a>
+            <a href="https://www.auctionmn.com/cgi-bin/mmlist.cgi?auctionmn11/23"><img src="https://www.auctionmn.com/images/2019-10-22/T23-1.jpg" alt="Lot 23"></a>
+            <a href="https://www.auctionmn.com/cgi-bin/mmlist.cgi?auctionmn11/33"><img src="https://www.auctionmn.com/images/2019-10-22/T33-1.jpg" alt="Lot 33"></a>
+            <a href="https://www.auctionmn.com/cgi-bin/mmlist.cgi?auctionmn11/38"><img src="https://www.auctionmn.com/images/2019-10-22/T38-1.jpg" alt="Lot 38"></a>
+            <a href="https://www.auctionmn.com/cgi-bin/mmlist.cgi?auctionmn11/129"><img src="https://www.auctionmn.com/images/2019-10-22/T129-1.jpg" alt="Lot 129"></a>
+            <a href="https://www.auctionmn.com/cgi-bin/mmlist.cgi?auctionmn11/160"><img src="https://www.auctionmn.com/images/2019-10-22/T160-1.jpg" alt="Lot 160"></a>
+            <a href="https://www.auctionmn.com/cgi-bin/mmlist.cgi?auctionmn11/179"><img src="https://www.auctionmn.com/images/2019-10-22/T179-1.jpg" alt="Lot 179"></a>
+            <a href="https://www.auctionmn.com/cgi-bin/mmlist.cgi?auctionmn11/184"><img src="https://www.auctionmn.com/images/2019-10-22/T184-1.jpg" alt="Lot 184"></a>
+            <a href="https://www.auctionmn.com/cgi-bin/mmlist.cgi?auctionmn11/188"><img src="https://www.auctionmn.com/images/2019-10-22/T188-1.jpg" alt="Lot 188"></a>
+            <a href="https://www.auctionmn.com/cgi-bin/mmlist.cgi?auctionmn11/190"><img src="https://www.auctionmn.com/images/2019-10-22/T190-1.jpg" alt="Lot 190"></a>
+            <a href="https://www.auctionmn.com/cgi-bin/mmlist.cgi?auctionmn11/197"><img src="https://www.auctionmn.com/images/2019-10-22/T197-1.jpg" alt="Lot 197"></a>
+            <a href="https://www.auctionmn.com/cgi-bin/mmlist.cgi?auctionmn11/202"><img src="https://www.auctionmn.com/images/2019-10-22/T202-1.jpg" alt="Lot 202"></a>
+            <a href="https://www.auctionmn.com/cgi-bin/mmlist.cgi?auctionmn11/213"><img src="https://www.auctionmn.com/images/2019-10-22/T213-1.jpg" alt="Lot 213"></a>
+            <a href="https://www.auctionmn.com/cgi-bin/mmlist.cgi?auctionmn11/229"><img src="https://www.auctionmn.com/images/2019-10-22/T229-1.jpg" alt="Lot 229"></a>
+            <a href="https://www.auctionmn.com/cgi-bin/mmlist.cgi?auctionmn11/238"><img src="https://www.auctionmn.com/images/2019-10-22/T238-1.jpg" alt="Lot 238"></a>
+            <a href="https://www.auctionmn.com/cgi-bin/mmlist.cgi?auctionmn11/258"><img src="https://www.auctionmn.com/images/2019-10-22/T258-1.jpg" alt="Lot 258"></a>
+            <!-- <a href="https://www.auctionmn.com/cgi-bin/mmlist.cgi?auctionmn11/267"><img src="https://www.auctionmn.com/images/2019-10-22/T267-1.jpg" alt="Lot 267"></a>
+            <a href="https://www.auctionmn.com/cgi-bin/mmlist.cgi?auctionmn11/275"><img src="https://www.auctionmn.com/images/2019-10-22/T275-1.jpg" alt="Lot 275"></a>
+            <a href="https://www.auctionmn.com/cgi-bin/mmlist.cgi?auctionmn11/284"><img src="https://www.auctionmn.com/images/2019-10-22/T284-1.jpg" alt="Lot 284"></a> -->
+          </div>
+          <a href="https://www.auctionmn.com/cgi-bin/mmlist.cgi?auctionmn11/category/ALL" class="bidnow rfloat"></a>
+          <p><strong>Preview and Pickup Location</strong></p>
+          <p><a target="_blank" href="https://goo.gl/maps/L9u81MhP4dq">7140 Old Viking Blvd NW, Nowthen MN</a></p>
+          <p><strong>Preview Time</strong></p>
+          <p>Monday, October 21st, from 11 a.m. to 1 p.m.</p>
+          <p><strong>Auction Ending Time</strong></p>
+          <p>Tuesday, October 22nd, Auction ends starting at 7:30 p.m.</p>
+          <p><strong>Pickup Time</strong></p>
+          <p>Wednesday, October 23rd, from 9:30 a.m. to 7 p.m.</p>
+          <!-- <p><strong>Auctioneer's Notes</strong></p>
+      <p></p> -->
+          <p><a href="https://auctionmn.com/general-terms-and-conditions.shtml">Terms and Conditions</a> for this auction.</p>
+        </div>
 
 
 
