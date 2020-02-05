@@ -16,8 +16,8 @@ Email:</b> <br><a href="mailto:info@auctionmn.com">info@auctionmn.com</a><br>
 
 </article>
 
-<br><form method="post" action="http://www.auctionmnonline.com/cgi-bin/mnform.cgi"><input name="auction" value="auctionmn" type="hidden">
-<input name="subject" value="Contact Form" type="hidden"><input name="returnpath" value="http://www.auctionmnonline.com/index.shtml" type="hidden">
+<!-- <br><form method="post" action="https://www.auctionmn.com/cgi-bin/mnform.cgi"><input name="auction" value="auctionmn" type="hidden">
+<input name="subject" value="Contact Form" type="hidden"><input name="returnpath" value="www.auctionmn.com" type="hidden">
 <table border="0" cellpadding="3" cellspacing="3">
 <tbody>
 <tr valign="top">
@@ -43,7 +43,7 @@ Email:</b> <br><a href="mailto:info@auctionmn.com">info@auctionmn.com</a><br>
 </tbody>
 </table>
 </form>
-<p></p>
+<p></p> -->
 
 <div id="Footer"><!--#include file="footer.ssi"--> </div>
 </div>

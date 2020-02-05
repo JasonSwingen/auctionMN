@@ -1,25 +1,26 @@
 <nav class="w3-sidebar w3-collapse w3-top" style="z-index:3;width:160px;font-weight:bold;" id="mySidebar"><br>
   <a href="javascript:void(0)" onclick="w3_close()" class="w3-button w3-hide-large w3-display-topleft" style="width:100%;font-size:22px">Close Menu</a>
-    
-  <div class="w3-bar-block" style="padding-top:40px;"> 
-    <a href="http://www.auctionmn.com/" onclick="w3_close()" class="w3-bar-item w3-button w3-hover-white">Home</a> 
-    <a href="/team.shtml" onclick="w3_close()" class="w3-bar-item w3-button w3-hover-white">Our Team</a> 
-    <a href="/online_bidding_information.shtml" onclick="w3_close()" class="w3-bar-item w3-button w3-hover-white">How to Bid</a> 
-    <a href="/auctionqa.shtml" onclick="w3_close()" class="w3-bar-item w3-button w3-hover-white">Auction Q &amp; A</a> 
-    <a href="/benefitqa.shtml" onclick="w3_close()" class="w3-bar-item w3-button w3-hover-white">Benefit Q &amp; A</a> 
-    <a href="/reqa.shtml" onclick="w3_close()" class="w3-bar-item w3-button w3-hover-white">Real Estate Q &amp; A</a> 
-    <a href="/selling-methods.shtml" onclick="w3_close()" class="w3-bar-item w3-button w3-hover-white">Selling Methods &amp; Fees</a> 
-    <a href="/consignment_info.shtml" onclick="w3_close()" class="w3-bar-item w3-button w3-hover-white">Selling Tips</a> 
-    <a href="/items-that-sell.shtml" onclick="w3_close()" class="w3-bar-item w3-button w3-hover-white">Items that Sell</a> 
+
+  <div class="w3-bar-block" style="padding-top:40px;">
+    <a href="http://www.auctionmn.com/" onclick="w3_close()" class="w3-bar-item w3-button w3-hover-white">Home</a>
+    <a href="/team.shtml" onclick="w3_close()" class="w3-bar-item w3-button w3-hover-white">Our Team</a>
+    <a href="/online_bidding_information.shtml" onclick="w3_close()" class="w3-bar-item w3-button w3-hover-white">How to Bid</a>
+    <a href="/auctionqa.shtml" onclick="w3_close()" class="w3-bar-item w3-button w3-hover-white">Auction Q &amp; A</a>
+    <a href="/benefitqa.shtml" onclick="w3_close()" class="w3-bar-item w3-button w3-hover-white">Benefit Q &amp; A</a>
+    <a href="/reqa.shtml" onclick="w3_close()" class="w3-bar-item w3-button w3-hover-white">Real Estate Q &amp; A</a>
+    <a href="/selling-methods.shtml" onclick="w3_close()" class="w3-bar-item w3-button w3-hover-white">Selling Methods &amp; Fees</a>
+    <a href="/consignment_info.shtml" onclick="w3_close()" class="w3-bar-item w3-button w3-hover-white">Selling Tips</a>
+    <a href="/items-that-sell.shtml" onclick="w3_close()" class="w3-bar-item w3-button w3-hover-white">Good Consignment Items</a>
+    <a href="/items-that-do-not-sell.shtml" onclick="w3_close()" class="w3-bar-item w3-button w3-hover-white">Bad Consignment Items</a>
     <a href="/whyaaa.shtml" onclick="w3_close()" class="w3-bar-item w3-button w3-hover-white">Why Choose Us?</a>
     <a href="/how-to-choose-estate-selling-company.shtml" onclick="w3_close()" class="w3-bar-item w3-button w3-hover-white">How To Choose A Company To Sell Your Estate</a>
-    <a href="/testimonials.shtml" onclick="w3_close()" class="w3-bar-item w3-button w3-hover-white">Testimonials</a> 
-    <a href="https://server2.maxanet.com/cgi-bin/mnregister.cgi?auctionmn" onclick="w3_close()" class="w3-bar-item w3-button w3-hover-white">Register to Bid</a> 
-    <a href="/general-terms-and-conditions.shtml" onclick="w3_close()" class="w3-bar-item w3-button w3-hover-white">General Terms</a> 
+    <a href="/testimonials.shtml" onclick="w3_close()" class="w3-bar-item w3-button w3-hover-white">Testimonials</a>
+    <a href="https://server2.maxanet.com/cgi-bin/mnregister.cgi?auctionmn" onclick="w3_close()" class="w3-bar-item w3-button w3-hover-white">Register to Bid</a>
+    <a href="/general-terms-and-conditions.shtml" onclick="w3_close()" class="w3-bar-item w3-button w3-hover-white">General Terms</a>
 
-    <a href="/cgi-bin/mdemail.cgi?auctionmn" onclick="w3_close()" class="w3-bar-item w3-button w3-hover-white">E-Mail Registration</a> 
-    <a href="/tonysblog.shtml" onclick="w3_close()" class="w3-bar-item w3-button w3-hover-white">Tony's Auction Blog</a> 
-    <a href="/contact.shtml" onclick="w3_close()" class="w3-bar-item w3-button w3-hover-white">Contact Us</a> 
+    <a href="/cgi-bin/mdemail.cgi?auctionmn" onclick="w3_close()" class="w3-bar-item w3-button w3-hover-white">E-Mail Registration</a>
+    <a href="/tonysblog.shtml" onclick="w3_close()" class="w3-bar-item w3-button w3-hover-white">Tony's Auction Blog</a>
+    <a href="/contact.shtml" onclick="w3_close()" class="w3-bar-item w3-button w3-hover-white">Contact Us</a>
     <br><div style="margin-left: 10px;margin-right: 10px;text-align: center;font-size: 14px;"><hr>
 Houses to Housewares
 Acres to Antiques
@@ -28,5 +29,5 @@ We Buy
 or Sell It All!<br>
 (763) 421-3044</div>
   </div>
-  
+
 </nav>
