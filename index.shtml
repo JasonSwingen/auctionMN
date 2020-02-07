@@ -142,7 +142,30 @@
 ******************************************************************************** -->
 
 
-
+        <div class="upcoming">
+          <h2><a rel="noreferrer" target="_blank" href="https://www.facebook.com/events/569776980537055/">
+              Home Downsizing Event on Thursday, February 13th
+            </a></h2>
+          <p><b>Want to downsize your home but don't know where to start?</b></p>
+          <p><b>Does the process overwhelm you?</b></p>
+          <p>Come to the Home Downsizing Event on February 13th to hear speakers including your very own <i>Tony Elfelt of AAA Auction</i></p>
+          <p>Learn from the following professionals:</p>
+          <ul>
+            <li>Independent company specializing in selling your items, auctions, removing
+              personal property, appraisal of valuables, plus numerous additional services</li>
+            <li>Painter</li>
+            <li>Flooring representative</li>
+            <li>Heating and air conditioning inspections and cleaning</li>
+            <li>House cleaner</li>
+            <li>Repairman</li>
+            <li>Real estate specialist</li>
+            <li>Loan officer providing financial options</li>
+          </ul>
+          <p>This event is on <b>Thursday, February 13th, 2020. From 4 to 6 p.m.</b></p>
+          <p>At the <a target="
+            _blank" title="Get Directions" href="https://goo.gl/maps/PTvsNssDxxNLgVsz8">Rockwoods Restaurant, 9100 Quaday Ave NE, Otsego, MN</a></p>
+          <p>Appetizers and beverages will be provided!</p>
+        </div>
 
 
 
@@ -154,7 +177,8 @@
 ******************************************************************************** -->
 
 
-        <div id="recent" class="recentheading">
+        <div id="
+            recent" class="recentheading">
           <h1>Recent Auctions</h1>
           <!-- Go to www.addthis.com/dashboard to customize your tools -->
           <!-- <div class="addthis_sharing_toolbox"></div> -->
