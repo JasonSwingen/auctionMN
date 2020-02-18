@@ -81,41 +81,7 @@
 
 
 
-        <div class="current">
-          <h2><a href="https://www.auctionmn.com/cgi-bin/mmlist.cgi?auctionmn6/category/ALL">Online Auction Ending On Tuesday, February 18th</a></h2>
-          <div class="flexbox">
-            <a href="https://www.auctionmn.com/cgi-bin/mmlist.cgi?auctionmn6/33"><img src="https://www.auctionmn.com/images/2020-02-18/T33-1.jpg" alt="Lot 33"></a>
-            <a href="https://www.auctionmn.com/cgi-bin/mmlist.cgi?auctionmn6/388"><img src="https://www.auctionmn.com/images/2020-02-18/T388-1.jpg" alt="Lot 388"></a>
-            <a href="https://www.auctionmn.com/cgi-bin/mmlist.cgi?auctionmn6/149"><img src="https://www.auctionmn.com/images/2020-02-18/T149-1.jpg" alt="Lot 149"></a>
-            <a href="https://www.auctionmn.com/cgi-bin/mmlist.cgi?auctionmn6/16"><img src="https://www.auctionmn.com/images/2020-02-18/T16-1.jpg" alt="Lot 16"></a>
-            <a href="https://www.auctionmn.com/cgi-bin/mmlist.cgi?auctionmn6/2"><img src="https://www.auctionmn.com/images/2020-02-18/T2-1.jpg" alt="Lot 2"></a>
-            <a href="https://www.auctionmn.com/cgi-bin/mmlist.cgi?auctionmn6/12"><img src="https://www.auctionmn.com/images/2020-02-18/T12-1.jpg" alt="Lot 12"></a>
-            <a href="https://www.auctionmn.com/cgi-bin/mmlist.cgi?auctionmn6/4"><img src="https://www.auctionmn.com/images/2020-02-18/T4-1.jpg" alt="Lot 4"></a>
-            <a href="https://www.auctionmn.com/cgi-bin/mmlist.cgi?auctionmn6/383"><img src="https://www.auctionmn.com/images/2020-02-18/T383-1.jpg" alt="Lot 383"></a>
-            <a href="https://www.auctionmn.com/cgi-bin/mmlist.cgi?auctionmn6/23"><img src="https://www.auctionmn.com/images/2020-02-18/T23-1.jpg" alt="Lot 23"></a>
-            <a href="https://www.auctionmn.com/cgi-bin/mmlist.cgi?auctionmn6/365"><img src="https://www.auctionmn.com/images/2020-02-18/T365-1.jpg" alt="Lot 365"></a>
-            <a href="https://www.auctionmn.com/cgi-bin/mmlist.cgi?auctionmn6/346"><img src="https://www.auctionmn.com/images/2020-02-18/T346-1.jpg" alt="Lot 346"></a>
-            <a href="https://www.auctionmn.com/cgi-bin/mmlist.cgi?auctionmn6/45"><img src="https://www.auctionmn.com/images/2020-02-18/T45-1.jpg" alt="Lot 45"></a>
-            <a href="https://www.auctionmn.com/cgi-bin/mmlist.cgi?auctionmn6/190"><img src="https://www.auctionmn.com/images/2020-02-18/T190-1.jpg" alt="Lot 190"></a>
-            <a href="https://www.auctionmn.com/cgi-bin/mmlist.cgi?auctionmn6/36"><img src="https://www.auctionmn.com/images/2020-02-18/T36-1.jpg" alt="Lot 36"></a>
-            <a href="https://www.auctionmn.com/cgi-bin/mmlist.cgi?auctionmn6/21"><img src="https://www.auctionmn.com/images/2020-02-18/T21-1.jpg" alt="Lot 21"></a>
-            <a href="https://www.auctionmn.com/cgi-bin/mmlist.cgi?auctionmn6/31"><img src="https://www.auctionmn.com/images/2020-02-18/T31-1.jpg" alt="Lot 31"></a>
-            <!-- <a href="https://www.auctionmn.com/cgi-bin/mmlist.cgi?auctionmn6/170"><img src="https://www.auctionmn.com/images/2020-02-18/T170-1.jpg" alt="Lot 170"></a>
-            <a href="https://www.auctionmn.com/cgi-bin/mmlist.cgi?auctionmn6/135"><img src="https://www.auctionmn.com/images/2020-02-18/T135-1.jpg" alt="Lot 135"></a>
-            <a href="https://www.auctionmn.com/cgi-bin/mmlist.cgi?auctionmn6/150"><img src="https://www.auctionmn.com/images/2020-02-18/T150-1.jpg" alt="Lot 150"></a>
-            <a href="https://www.auctionmn.com/cgi-bin/mmlist.cgi?auctionmn6/156"><img src="https://www.auctionmn.com/images/2020-02-18/T156-1.jpg" alt="Lot 156"></a> -->
-          </div>
-          <a href="https://www.auctionmn.com/cgi-bin/mmlist.cgi?auctionmn6/category/ALL" class="bidnow rfloat"></a>
-          <p><strong>Preview and Pickup Location</strong></p>
-          <p><a target="_blank" href="https://goo.gl/maps/L9u81MhP4dq">7140 Old Viking Blvd NW, Nowthen MN</a></p>
-          <p><strong>Preview Time</strong></p>
-          <p>Monday, February 17th, from 11 a.m. to 1 p.m.</p>
-          <p><strong>Auction Ending Time</strong></p>
-          <p>Tuesday, February 18th, Auction ends starting at 7:30 p.m.</p>
-          <p><strong>Pickup Time</strong></p>
-          <p>Wednesday, February 19th, from 9:30 a.m. to 7 p.m.</p>
-          <p><a href="https://auctionmn.com/general-terms-and-conditions.shtml">Terms and Conditions</a> for this auction.</p>
-        </div>
+
 
 
 
@@ -142,30 +108,7 @@
 ******************************************************************************** -->
 
 
-        <div class="upcoming">
-          <h2><a rel="noreferrer" target="_blank" href="https://www.facebook.com/events/569776980537055/">
-              Home Downsizing Event on Thursday, February 13th
-            </a></h2>
-          <p><b>Want to downsize your home but don't know where to start?</b></p>
-          <p><b>Does the process overwhelm you?</b></p>
-          <p>Come to the Home Downsizing Event on February 13th to hear speakers including your very own <i>Tony Elfelt of AAA Auction</i></p>
-          <p>Learn from the following professionals:</p>
-          <ul>
-            <li>Independent company specializing in selling your items, auctions, removing
-              personal property, appraisal of valuables, plus numerous additional services</li>
-            <li>Painter</li>
-            <li>Flooring representative</li>
-            <li>Heating and air conditioning inspections and cleaning</li>
-            <li>House cleaner</li>
-            <li>Repairman</li>
-            <li>Real estate specialist</li>
-            <li>Loan officer providing financial options</li>
-          </ul>
-          <p>This event is on <b>Thursday, February 13th, 2020. From 4 to 6 p.m.</b></p>
-          <p>At the <a target="
-            _blank" title="Get Directions" href="https://goo.gl/maps/PTvsNssDxxNLgVsz8">Rockwoods Restaurant, 9100 Quaday Ave NE, Otsego, MN</a></p>
-          <p>Appetizers and beverages will be provided!</p>
-        </div>
+
 
 
 
@@ -188,6 +131,24 @@
         <!-- *******************************************************************************
             *************      Start of Recent Auctions       ***************
 ******************************************************************************** -->
+
+
+        <div class="recent">
+          <h2><a href="https://www.auctionmn.com/cgi-bin/mmlist.cgi?auctionmn6/category/ALL">Online Auction Ended On Tuesday, February 18th</a></h2>
+          <div class="flexbox">
+            <a href="https://www.auctionmn.com/cgi-bin/mmlist.cgi?auctionmn6/33"><img src="https://www.auctionmn.com/images/2020-02-18/T33-1.jpg" alt="Lot 33"></a>
+            <a href="https://www.auctionmn.com/cgi-bin/mmlist.cgi?auctionmn6/388"><img src="https://www.auctionmn.com/images/2020-02-18/T388-1.jpg" alt="Lot 388"></a>
+            <a href="https://www.auctionmn.com/cgi-bin/mmlist.cgi?auctionmn6/149"><img src="https://www.auctionmn.com/images/2020-02-18/T149-1.jpg" alt="Lot 149"></a>
+            <a href="https://www.auctionmn.com/cgi-bin/mmlist.cgi?auctionmn6/16"><img src="https://www.auctionmn.com/images/2020-02-18/T16-1.jpg" alt="Lot 16"></a>
+            <a href="https://www.auctionmn.com/cgi-bin/mmlist.cgi?auctionmn6/2"><img src="https://www.auctionmn.com/images/2020-02-18/T2-1.jpg" alt="Lot 2"></a>
+          </div>
+          <p><strong>Pickup Location</strong></p>
+          <p><a target="_blank" href="https://goo.gl/maps/L9u81MhP4dq">7140 Old Viking Blvd NW, Nowthen MN</a></p>
+          <p><strong>Pickup Time</strong></p>
+          <p>Wednesday, February 19th, from 9:30 a.m. to 7 p.m.</p>
+          <p><a href="https://auctionmn.com/general-terms-and-conditions.shtml">Terms and Conditions</a> for this auction.</p>
+        </div>
+
 
 
         <div class="recent">
