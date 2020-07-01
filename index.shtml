@@ -84,53 +84,6 @@
 
 
 
-        <div class="current">
-          <h2><a href="https://www.auctionmn.com/cgi-bin/mmlist.cgi?auctionmn9/category/ALL">Online Estate Auction Ending On Tuesday, June 30th</a></h2>
-          <div class="flexbox">
-            <a href="https://www.auctionmn.com/cgi-bin/mmlist.cgi?auctionmn9/4"><img src="https://www.auctionmn.com/images/2020-06-30/T4-1.jpg" alt="Lot 4"></a>
-            <a href="https://www.auctionmn.com/cgi-bin/mmlist.cgi?auctionmn9/7"><img src="https://www.auctionmn.com/images/2020-06-30/T7-1.jpg" alt="Lot 7"></a>
-            <a href="https://www.auctionmn.com/cgi-bin/mmlist.cgi?auctionmn9/10"><img src="https://www.auctionmn.com/images/2020-06-30/T10-1.jpg" alt="Lot 10"></a>
-            <a href="https://www.auctionmn.com/cgi-bin/mmlist.cgi?auctionmn9/13"><img src="https://www.auctionmn.com/images/2020-06-30/T13-1.jpg" alt="Lot 13"></a>
-            <a href="https://www.auctionmn.com/cgi-bin/mmlist.cgi?auctionmn9/15"><img src="https://www.auctionmn.com/images/2020-06-30/T15-1.jpg" alt="Lot 15"></a>
-            <a href="https://www.auctionmn.com/cgi-bin/mmlist.cgi?auctionmn9/17"><img src="https://www.auctionmn.com/images/2020-06-30/T17-1.jpg" alt="Lot 17"></a>
-            <a href="https://www.auctionmn.com/cgi-bin/mmlist.cgi?auctionmn9/23"><img src="https://www.auctionmn.com/images/2020-06-30/T23-1.jpg" alt="Lot 23"></a>
-            <a href="https://www.auctionmn.com/cgi-bin/mmlist.cgi?auctionmn9/43"><img src="https://www.auctionmn.com/images/2020-06-30/T43-1.jpg" alt="Lot 43"></a>
-            <a href="https://www.auctionmn.com/cgi-bin/mmlist.cgi?auctionmn9/52"><img src="https://www.auctionmn.com/images/2020-06-30/T52-1.jpg" alt="Lot 52"></a>
-            <a href="https://www.auctionmn.com/cgi-bin/mmlist.cgi?auctionmn9/53"><img src="https://www.auctionmn.com/images/2020-06-30/T53-1.jpg" alt="Lot 53"></a>
-            <a href="https://www.auctionmn.com/cgi-bin/mmlist.cgi?auctionmn9/55"><img src="https://www.auctionmn.com/images/2020-06-30/T55-1.jpg" alt="Lot 55"></a>
-            <a href="https://www.auctionmn.com/cgi-bin/mmlist.cgi?auctionmn9/56"><img src="https://www.auctionmn.com/images/2020-06-30/T56-1.jpg" alt="Lot 56"></a>
-            <a href="https://www.auctionmn.com/cgi-bin/mmlist.cgi?auctionmn9/57"><img src="https://www.auctionmn.com/images/2020-06-30/T57-1.jpg" alt="Lot 57"></a>
-            <a href="https://www.auctionmn.com/cgi-bin/mmlist.cgi?auctionmn9/72"><img src="https://www.auctionmn.com/images/2020-06-30/T72-1.jpg" alt="Lot 72"></a>
-            <a href="https://www.auctionmn.com/cgi-bin/mmlist.cgi?auctionmn9/75"><img src="https://www.auctionmn.com/images/2020-06-30/T75-1.jpg" alt="Lot 75"></a>
-            <a href="https://www.auctionmn.com/cgi-bin/mmlist.cgi?auctionmn9/77"><img src="https://www.auctionmn.com/images/2020-06-30/T77-1.jpg" alt="Lot 77"></a>
-            <a href="https://www.auctionmn.com/cgi-bin/mmlist.cgi?auctionmn9/84"><img src="https://www.auctionmn.com/images/2020-06-30/T84-1.jpg" alt="Lot 84"></a>
-            <a href="https://www.auctionmn.com/cgi-bin/mmlist.cgi?auctionmn9/93"><img src="https://www.auctionmn.com/images/2020-06-30/T93-1.jpg" alt="Lot 93"></a>
-            <!-- <a href="https://www.auctionmn.com/cgi-bin/mmlist.cgi?auctionmn9/98"><img src="https://www.auctionmn.com/images/2020-06-30/T98-1.jpg" alt="Lot 98"></a> -->
-          </div>
-          <a href="https://www.auctionmn.com/cgi-bin/mmlist.cgi?auctionmn9/category/ALL" class="bidnow rfloat"></a>
-          <div style="border: 1px solid black;
-    background: #ffff00ad;
-    width: 400px;
-    margin: 5px;
-    padding: 5px;">
-            <p><strong>Pickup Location</strong></p>
-            <p><a target="_blank" href="https://goo.gl/maps/FcsXLo6agT1vpJQw6">20671 Tulip St NW Oak Grove, MN 55303</a></p>
-          </div>
-          <p><strong>Auction Ending Time</strong></p>
-          <p>Tuesday, June 30th, Auction ends starting at 7:30 p.m.</p>
-          <p><strong>Pickup Time</strong></p>
-          <p>Wednesday, July 1st, from 1 to 7 p.m.</p>
-          <p><strong>Auctioneer's Notes</strong></p>
-          <p>This online auction is an estate auction that is located at the Sellers’ home in Oak Grove. It is not a consignment auction and therefore <b>NO SALES TAX</b> will be charged. The home has been sold and the Seller’s are selling the items
-            that
-            they are not planning to take with them to their new home.</p>
-
-          <p>The smaller items listed in the auction have been moved to the home’s detached garage for easy pick-up. However, all furniture and the larger items will be left in the home where the Sellers used them, and it will be the Buyer’s
-            responsibility to remove the items from the home during the scheduled pick-up time. Some items may need to be carried on stairs.</p>
-
-          <p>Please note: AAA AUCTION WILL NOT provide lifting or carrying assistance to Buyers when removing their items.</p>
-          <p><a href="https://auctionmn.com/general-terms-and-conditions.shtml">Terms and Conditions</a> for this auction.</p>
-        </div>
 
 
 
@@ -213,8 +166,7 @@
 ******************************************************************************** -->
 
 
-        <div id="
-            recent" class="recentheading">
+        <div id="recent" class="recentheading">
           <h1>Recent Auctions</h1>
           <!-- Go to www.addthis.com/dashboard to customize your tools -->
           <!-- <div class="addthis_sharing_toolbox"></div> -->
@@ -226,6 +178,39 @@
 ******************************************************************************** -->
 
 
+        <div class="recent">
+          <h2><a href="https://www.auctionmn.com/cgi-bin/mmlist.cgi?auctionmn9/category/ALL">Online Estate Auction Ended On Tuesday, June 30th</a></h2>
+          <div class="flexbox">
+            <a href="https://www.auctionmn.com/cgi-bin/mmlist.cgi?auctionmn9/4"><img src="https://www.auctionmn.com/images/2020-06-30/T4-1.jpg" alt="Lot 4"></a>
+            <a href="https://www.auctionmn.com/cgi-bin/mmlist.cgi?auctionmn9/7"><img src="https://www.auctionmn.com/images/2020-06-30/T7-1.jpg" alt="Lot 7"></a>
+            <a href="https://www.auctionmn.com/cgi-bin/mmlist.cgi?auctionmn9/10"><img src="https://www.auctionmn.com/images/2020-06-30/T10-1.jpg" alt="Lot 10"></a>
+            <a href="https://www.auctionmn.com/cgi-bin/mmlist.cgi?auctionmn9/13"><img src="https://www.auctionmn.com/images/2020-06-30/T13-1.jpg" alt="Lot 13"></a>
+            <a href="https://www.auctionmn.com/cgi-bin/mmlist.cgi?auctionmn9/15"><img src="https://www.auctionmn.com/images/2020-06-30/T15-1.jpg" alt="Lot 15"></a>
+            <a href="https://www.auctionmn.com/cgi-bin/mmlist.cgi?auctionmn9/17"><img src="https://www.auctionmn.com/images/2020-06-30/T17-1.jpg" alt="Lot 17"></a>
+            <a href="https://www.auctionmn.com/cgi-bin/mmlist.cgi?auctionmn9/23"><img src="https://www.auctionmn.com/images/2020-06-30/T23-1.jpg" alt="Lot 23"></a>
+          </div>
+          <div style="border: 1px solid black;
+background: #ffff00ad;
+width: 400px;
+margin: 5px;
+padding: 5px;">
+            <p><strong>Pickup Location</strong></p>
+            <p><a target="_blank" href="https://goo.gl/maps/FcsXLo6agT1vpJQw6">20671 Tulip St NW Oak Grove, MN 55303</a></p>
+          </div>
+          <p><strong>Pickup Time</strong></p>
+          <p>Wednesday, July 1st, from 1 to 7 p.m.</p>
+          <p><strong>Auctioneer's Notes</strong></p>
+          <p>This online auction is an estate auction that is located at the Sellers’ home in Oak Grove. It is not a consignment auction and therefore <b>NO SALES TAX</b> will be charged. The home has been sold and the Seller’s are selling the items
+            that
+            they are not planning to take with them to their new home.</p>
+
+          <p>The smaller items listed in the auction have been moved to the home’s detached garage for easy pick-up. However, all furniture and the larger items will be left in the home where the Sellers used them, and it will be the Buyer’s
+            responsibility to remove the items from the home during the scheduled pick-up time. Some items may need to be carried on stairs.</p>
+
+          <p>Please note: AAA AUCTION WILL NOT provide lifting or carrying assistance to Buyers when removing their items.</p>
+          <p><a href="https://auctionmn.com/general-terms-and-conditions.shtml">Terms and Conditions</a> for this auction.</p>
+        </div>
+
 
         <div class="recent">
           <h2><a href="https://www.auctionmn.com/cgi-bin/mmlist.cgi?auctionmn8/category/ALL">Online Auction Ended On Tuesday, June 23rd</a></h2>
@@ -236,11 +221,6 @@
             <a href="https://www.auctionmn.com/cgi-bin/mmlist.cgi?auctionmn8/32"><img src="https://www.auctionmn.com/images/2020-06-23/T32-1.jpg" alt="Lot 32"></a>
             <a href="https://www.auctionmn.com/cgi-bin/mmlist.cgi?auctionmn8/50"><img src="https://www.auctionmn.com/images/2020-06-23/T50-1.jpg" alt="Lot 50"></a>
           </div>
-          <p><strong>Pickup Location</strong></p>
-          <p><a target="_blank" href="https://goo.gl/maps/L9u81MhP4dq">7140 Old Viking Blvd NW, Nowthen MN</a></p>
-          <p><strong>Pickup Time</strong></p>
-          <p>Wednesday, June 24th, from 9 a.m. to 7 p.m.</p>
-          <p><a href="https://auctionmn.com/general-terms-and-conditions.shtml">Terms and Conditions</a> for this auction.</p>
         </div>
 
 
