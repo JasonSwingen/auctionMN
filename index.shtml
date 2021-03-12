@@ -83,97 +83,54 @@
 
 
 
-
-
-
-<!-- <div class="current">
-  <h2><a href="https://www.auctionmn.com/cgi-bin/mmlist.cgi?auctionmn12/category/ALL">Online Auction Ending On Tuesday, February 9th</a></h2>
+<div class="current">
+  <h2><a href="https://www.auctionmn.com/cgi-bin/mmlist.cgi?auctionmn2/category/ALL">Online Auction Ending On Tuesday, March 23rd</a></h2>
   <div class="flexbox">
-    <a href="https://www.auctionmn.com/cgi-bin/mmlist.cgi?auctionmn12/13"><img src="https://www.auctionmn.com/images/2021-02-09/T13-1.jpg" alt="Lot 13"></a>
-    <a href="https://www.auctionmn.com/cgi-bin/mmlist.cgi?auctionmn12/14"><img src="https://www.auctionmn.com/images/2021-02-09/T14-1.jpg" alt="Lot 14"></a>
-    <a href="https://www.auctionmn.com/cgi-bin/mmlist.cgi?auctionmn12/15"><img src="https://www.auctionmn.com/images/2021-02-09/T15-1.jpg" alt="Lot 15"></a>
-    <a href="https://www.auctionmn.com/cgi-bin/mmlist.cgi?auctionmn12/16"><img src="https://www.auctionmn.com/images/2021-02-09/T16-1.jpg" alt="Lot 16"></a>
-    <a href="https://www.auctionmn.com/cgi-bin/mmlist.cgi?auctionmn12/18"><img src="https://www.auctionmn.com/images/2021-02-09/T18-1.jpg" alt="Lot 18"></a>
-    <a href="https://www.auctionmn.com/cgi-bin/mmlist.cgi?auctionmn12/21"><img src="https://www.auctionmn.com/images/2021-02-09/T21-1.jpg" alt="Lot 21"></a>
-    <a href="https://www.auctionmn.com/cgi-bin/mmlist.cgi?auctionmn12/24"><img src="https://www.auctionmn.com/images/2021-02-09/T24-1.jpg" alt="Lot 24"></a>
-    <a href="https://www.auctionmn.com/cgi-bin/mmlist.cgi?auctionmn12/26"><img src="https://www.auctionmn.com/images/2021-02-09/T26-1.jpg" alt="Lot 26"></a>
-    <a href="https://www.auctionmn.com/cgi-bin/mmlist.cgi?auctionmn12/31"><img src="https://www.auctionmn.com/images/2021-02-09/T31-1.jpg" alt="Lot 31"></a>
-    <a href="https://www.auctionmn.com/cgi-bin/mmlist.cgi?auctionmn12/38"><img src="https://www.auctionmn.com/images/2021-02-09/T38-1.jpg" alt="Lot 38"></a>
-    <a href="https://www.auctionmn.com/cgi-bin/mmlist.cgi?auctionmn12/42"><img src="https://www.auctionmn.com/images/2021-02-09/T42-1.jpg" alt="Lot 42"></a>
-    <a href="https://www.auctionmn.com/cgi-bin/mmlist.cgi?auctionmn12/47"><img src="https://www.auctionmn.com/images/2021-02-09/T47-1.jpg" alt="Lot 47"></a>
-    <a href="https://www.auctionmn.com/cgi-bin/mmlist.cgi?auctionmn12/48"><img src="https://www.auctionmn.com/images/2021-02-09/T48-1.jpg" alt="Lot 48"></a>
-    <a href="https://www.auctionmn.com/cgi-bin/mmlist.cgi?auctionmn12/52"><img src="https://www.auctionmn.com/images/2021-02-09/T52-1.jpg" alt="Lot 52"></a>
-    <a href="https://www.auctionmn.com/cgi-bin/mmlist.cgi?auctionmn12/53"><img src="https://www.auctionmn.com/images/2021-02-09/T53-1.jpg" alt="Lot 53"></a>
-    <a href="https://www.auctionmn.com/cgi-bin/mmlist.cgi?auctionmn12/62"><img src="https://www.auctionmn.com/images/2021-02-09/T62-1.jpg" alt="Lot 62"></a>
-    <a href="https://www.auctionmn.com/cgi-bin/mmlist.cgi?auctionmn12/125"><img src="https://www.auctionmn.com/images/2021-02-09/T125-1.jpg" alt="Lot 125"></a>
-    <a href="https://www.auctionmn.com/cgi-bin/mmlist.cgi?auctionmn12/155"><img src="https://www.auctionmn.com/images/2021-02-09/T155-1.jpg" alt="Lot 155"></a>
-    <a href="https://www.auctionmn.com/cgi-bin/mmlist.cgi?auctionmn12/156"><img src="https://www.auctionmn.com/images/2021-02-09/T156-1.jpg" alt="Lot 156"></a>
-    <a href="https://www.auctionmn.com/cgi-bin/mmlist.cgi?auctionmn12/157"><img src="https://www.auctionmn.com/images/2021-02-09/T157-1.jpg" alt="Lot 157"></a>
+    <a href="https://www.auctionmn.com/cgi-bin/mmlist.cgi?auctionmn2/12"><img src="https://www.auctionmn.com/images/2021-03-23/T12-1.jpg" alt="Lot 12"></a>
+    <a href="https://www.auctionmn.com/cgi-bin/mmlist.cgi?auctionmn2/17"><img src="https://www.auctionmn.com/images/2021-03-23/T17-1.jpg" alt="Lot 17"></a>
+    <a href="https://www.auctionmn.com/cgi-bin/mmlist.cgi?auctionmn2/22"><img src="https://www.auctionmn.com/images/2021-03-23/T22-1.jpg" alt="Lot 22"></a>
+    <a href="https://www.auctionmn.com/cgi-bin/mmlist.cgi?auctionmn2/24"><img src="https://www.auctionmn.com/images/2021-03-23/T24-1.jpg" alt="Lot 24"></a>
+    <a href="https://www.auctionmn.com/cgi-bin/mmlist.cgi?auctionmn2/34"><img src="https://www.auctionmn.com/images/2021-03-23/T34-1.jpg" alt="Lot 34"></a>
+    <a href="https://www.auctionmn.com/cgi-bin/mmlist.cgi?auctionmn2/46"><img src="https://www.auctionmn.com/images/2021-03-23/T46-1.jpg" alt="Lot 46"></a>
+    <a href="https://www.auctionmn.com/cgi-bin/mmlist.cgi?auctionmn2/65"><img src="https://www.auctionmn.com/images/2021-03-23/T65-1.jpg" alt="Lot 65"></a>
+    <a href="https://www.auctionmn.com/cgi-bin/mmlist.cgi?auctionmn2/76"><img src="https://www.auctionmn.com/images/2021-03-23/T76-1.jpg" alt="Lot 76"></a>
+    <a href="https://www.auctionmn.com/cgi-bin/mmlist.cgi?auctionmn2/83"><img src="https://www.auctionmn.com/images/2021-03-23/T83-1.jpg" alt="Lot 83"></a>
+    <a href="https://www.auctionmn.com/cgi-bin/mmlist.cgi?auctionmn2/104"><img src="https://www.auctionmn.com/images/2021-03-23/T104-1.jpg" alt="Lot 104"></a>
+    <a href="https://www.auctionmn.com/cgi-bin/mmlist.cgi?auctionmn2/123"><img src="https://www.auctionmn.com/images/2021-03-23/T123-1.jpg" alt="Lot 123"></a>
+    <a href="https://www.auctionmn.com/cgi-bin/mmlist.cgi?auctionmn2/151"><img src="https://www.auctionmn.com/images/2021-03-23/T151-1.jpg" alt="Lot 151"></a>
+    <a href="https://www.auctionmn.com/cgi-bin/mmlist.cgi?auctionmn2/157"><img src="https://www.auctionmn.com/images/2021-03-23/T157-1.jpg" alt="Lot 157"></a>
+    <a href="https://www.auctionmn.com/cgi-bin/mmlist.cgi?auctionmn2/177"><img src="https://www.auctionmn.com/images/2021-03-23/T177-1.jpg" alt="Lot 177"></a>
+    <a href="https://www.auctionmn.com/cgi-bin/mmlist.cgi?auctionmn2/184"><img src="https://www.auctionmn.com/images/2021-03-23/T184-1.jpg" alt="Lot 184"></a>
+    <a href="https://www.auctionmn.com/cgi-bin/mmlist.cgi?auctionmn2/186"><img src="https://www.auctionmn.com/images/2021-03-23/T186-1.jpg" alt="Lot 186"></a>
+    <a href="https://www.auctionmn.com/cgi-bin/mmlist.cgi?auctionmn2/189"><img src="https://www.auctionmn.com/images/2021-03-23/T189-1.jpg" alt="Lot 189"></a>
+    <a href="https://www.auctionmn.com/cgi-bin/mmlist.cgi?auctionmn2/201"><img src="https://www.auctionmn.com/images/2021-03-23/T201-1.jpg" alt="Lot 201"></a>
+    <a href="https://www.auctionmn.com/cgi-bin/mmlist.cgi?auctionmn2/209"><img src="https://www.auctionmn.com/images/2021-03-23/T209-1.jpg" alt="Lot 209"></a>
+    <a href="https://www.auctionmn.com/cgi-bin/mmlist.cgi?auctionmn2/218"><img src="https://www.auctionmn.com/images/2021-03-23/T218-1.jpg" alt="Lot 218"></a>
   </div>
-  <a href="https://www.auctionmn.com/cgi-bin/mmlist.cgi?auctionmn12/category/ALL" class="bidnow rfloat"></a>
+  <a href="https://www.auctionmn.com/cgi-bin/mmlist.cgi?auctionmn2/category/ALL" class="bidnow rfloat"></a>
     <p><strong>Preview and Pickup Location</strong></p>
       <p><a target="_blank" href="https://goo.gl/maps/L9u81MhP4dq">7140 Old Viking Blvd NW, Nowthen MN</a></p>
-    <p><strong>Preview Time</strong></p>
-      <p>Saturday, February 6th, from 9 a.m. to 5 p.m.</p>
+    <!-- <p><strong>Preview Time</strong></p>
+      <p>Monday, , from  to  p.m.</p> -->
     <p><strong>Auction Ending Time</strong></p>
-      <p>Tuesday, February 9th, Auction ends starting at 7:30 p.m.</p>
+      <p>Tuesday, March 23rd, Auction ends starting at 7:30 p.m.</p>
     <p><strong>Pickup Times</strong></p>
-      <p>Wednesday, February 10th, from 9:30 a.m. to 4 p.m.</p>
-      <p>Thursday, February 11th, from 4 to 7 p.m.</p>
-      <p>Once the auction ends you can select your pickup time here: <a href="https://www.signupgenius.com/go/9040A4AADA823A0FE3-firearm1">https://www.signupgenius.com/go/9040A4AADA823A0FE3-firearm1</a></p>
+      <p>Wednesday, March 24th, from 9:30 a.m. to 3:30 p.m.</p>
+      <p>Thursday, March 25th, from 5 to 7 p.m.</p>
+      <p>Please schedule your pick up time using this link: <a href="https://www.signupgenius.com/go/9040A4AADA823A0FE3-auction3" title="Schedule your pick up time">https://www.signupgenius.com/go/9040A4AADA823A0FE3-auction3</a></p>
+      <p>(Link unlock last item closes on auction March 23)</p>
     <p><strong>Sales Tax</strong></p>
       <p>7.125%</p>
     <p><strong>Buyers Premium</strong></p>
       <p>15%</p>
+    <p><strong>Staggered Ending</strong></p>
+      <p>10 items/minute</p>
     <p><strong>Auctioneer's Notes</strong></p>
-      <p>Hello Bidders. Here is the one you’ve been waiting for. It is our Gun, Ammo and Misc. Auction. You will find newer as well as very old firearms in this auction. Please note that previews and pick-ups must be scheduled using our SignUpGenious website. Thank you to the several consignors who brought their collections to us to sell for them. We would also like to thank our Bidders for wearing masks at our Auction Center. Please review the terms of the auction, especially as they apply to the purchase of firearms or ammo. See you soon!</p>
-      <p>Max bids will only be accepted on items with reserves when the reserve is  met. The description box will display an announcement when the reserve has been met.</p>
-      <p><i>Please Note: This auction will close at the rate of 3 items per minute rather than the usual 10 items per minute.</i></p>
-    <p><a href="https://auctionmn.com/general-terms-and-conditions.shtml">Terms and Conditions</a> for this auction.</p>
-</div> -->
-
-
-<div class="current">
-  <h2><a href="https://www.auctionmn.com/cgi-bin/mmlist.cgi?auctionmn/category/ALL">Online Auction Ending On Tuesday, February 16th</a></h2>
-  <div class="flexbox">
-    <a href="https://www.auctionmn.com/cgi-bin/mmlist.cgi?auctionmn/2"><img src="https://www.auctionmn.com/images/2021-02-16/T2-1.jpg" alt="Lot 2"></a>
-    <a href="https://www.auctionmn.com/cgi-bin/mmlist.cgi?auctionmn/76"><img src="https://www.auctionmn.com/images/2021-02-16/T76-1.jpg" alt="Lot 76"></a>
-    <a href="https://www.auctionmn.com/cgi-bin/mmlist.cgi?auctionmn/223"><img src="https://www.auctionmn.com/images/2021-02-16/T223-1.jpg" alt="Lot 223"></a>
-    <a href="https://www.auctionmn.com/cgi-bin/mmlist.cgi?auctionmn/220"><img src="https://www.auctionmn.com/images/2021-02-16/T220-1.jpg" alt="Lot 220"></a>
-    <a href="https://www.auctionmn.com/cgi-bin/mmlist.cgi?auctionmn/222"><img src="https://www.auctionmn.com/images/2021-02-16/T222-1.jpg" alt="Lot 222"></a>
-    <a href="https://www.auctionmn.com/cgi-bin/mmlist.cgi?auctionmn/148"><img src="https://www.auctionmn.com/images/2021-02-16/T148-1.jpg" alt="Lot 148"></a>
-    <a href="https://www.auctionmn.com/cgi-bin/mmlist.cgi?auctionmn/167"><img src="https://www.auctionmn.com/images/2021-02-16/T167-1.jpg" alt="Lot 167"></a>
-    <a href="https://www.auctionmn.com/cgi-bin/mmlist.cgi?auctionmn/180"><img src="https://www.auctionmn.com/images/2021-02-16/T180-1.jpg" alt="Lot 180"></a>
-    <a href="https://www.auctionmn.com/cgi-bin/mmlist.cgi?auctionmn/201"><img src="https://www.auctionmn.com/images/2021-02-16/T201-1.jpg" alt="Lot 201"></a>
-    <a href="https://www.auctionmn.com/cgi-bin/mmlist.cgi?auctionmn/213"><img src="https://www.auctionmn.com/images/2021-02-16/T213-1.jpg" alt="Lot 213"></a>
-    <a href="https://www.auctionmn.com/cgi-bin/mmlist.cgi?auctionmn/225"><img src="https://www.auctionmn.com/images/2021-02-16/T225-1.jpg" alt="Lot 225"></a>
-    <a href="https://www.auctionmn.com/cgi-bin/mmlist.cgi?auctionmn/84"><img src="https://www.auctionmn.com/images/2021-02-16/T84-1.jpg" alt="Lot 84"></a>
-    <a href="https://www.auctionmn.com/cgi-bin/mmlist.cgi?auctionmn/257"><img src="https://www.auctionmn.com/images/2021-02-16/T257-1.jpg" alt="Lot 257"></a>
-    <a href="https://www.auctionmn.com/cgi-bin/mmlist.cgi?auctionmn/266"><img src="https://www.auctionmn.com/images/2021-02-16/T266-1.jpg" alt="Lot 266"></a>
-    <a href="https://www.auctionmn.com/cgi-bin/mmlist.cgi?auctionmn/78"><img src="https://www.auctionmn.com/images/2021-02-16/T78-1.jpg" alt="Lot 78"></a>
-    <a href="https://www.auctionmn.com/cgi-bin/mmlist.cgi?auctionmn/39"><img src="https://www.auctionmn.com/images/2021-02-16/T39-1.jpg" alt="Lot 39"></a>
-    <a href="https://www.auctionmn.com/cgi-bin/mmlist.cgi?auctionmn/44"><img src="https://www.auctionmn.com/images/2021-02-16/T44-1.jpg" alt="Lot 44"></a>
-    <a href="https://www.auctionmn.com/cgi-bin/mmlist.cgi?auctionmn/92"><img src="https://www.auctionmn.com/images/2021-02-16/T92-1.jpg" alt="Lot 92"></a>
-    <a href="https://www.auctionmn.com/cgi-bin/mmlist.cgi?auctionmn/127"><img src="https://www.auctionmn.com/images/2021-02-16/T127-1.jpg" alt="Lot 127"></a>
-    <a href="https://www.auctionmn.com/cgi-bin/mmlist.cgi?auctionmn/179"><img src="https://www.auctionmn.com/images/2021-02-16/T179-1.jpg" alt="Lot 179"></a>
-  </div>
-  <a href="https://www.auctionmn.com/cgi-bin/mmlist.cgi?auctionmn/category/ALL" class="bidnow rfloat"></a>
-    <p><strong>Pickup Location</strong></p>
-      <p><a target="_blank" href="https://goo.gl/maps/L9u81MhP4dq">7140 Old Viking Blvd NW, Nowthen MN</a></p>
-    <p><strong>Auction Ending Time</strong></p>
-      <p>Tuesday, February 16th, Auction ends starting at 7:30 p.m.</p>
-    <p><strong>Pickup Time</strong></p>
-      <p>Wednesday, February 17th, from 9:30 a.m. to 4 p.m.</p>
-      <p>Thursday, February 18th, from 4 to 7 p.m.</p>
-      <p>Schedule your pick up time (link will unlock at the end of the auction): <a href="https://www.signupgenius.com/go/9040A4AADA823A0FE3-online4">https://www.signupgenius.com/go/9040A4AADA823A0FE3-online4</a></p>
-    <p><strong>Sales Tax</strong></p>
-      <p>7.125%</p>
-    <p><strong>Buyers Premium</strong></p>
-      <p>15%</p>
-    <p><strong>Auctioneer's Notes</strong></p>
-      <p>This auction is only online for 7 total days!</p>
+      <p>This auction includes all the great items you have come to expect from AAA Auction including some great guns, collectibles, tools and more.</p>
+      <p>Please note our new general terms regarding previews. Also, while the end of full Covid precautions appears to be in sight, we continue to appreciate you following normal social Covid safety measures.</p>
     <p><a href="https://auctionmn.com/general-terms-and-conditions.shtml">Terms and Conditions</a> for this auction.</p>
 </div>
+
 
 
 
@@ -204,14 +161,7 @@
 
 
 
-<!-- <div class="upcoming">
-<h2>Large Selection of Collectible Firearms and Regalia</h2>
-  <div style=""><iframe src="https://www.facebook.com/plugins/video.php?height=314&href=https%3A%2F%2Fwww.facebook.com%2Fauctionmn%2Fvideos%2F232621748349928%2F&show_text=false&width=560" width="100%" height="384px" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share" allowFullScreen="true"></iframe></div>
-</div> -->
-        <!-- <div class="upcoming">
-          <h2>Scandia Estate Auction</h2>
-          <p>This auction is an online estate auction for the Estate of Jerry Harvieux who passed away in 2016. The auction pick-up will take place at Jerry’s home in Scandia and will include tools, large shop equipment, housewares, furniture, as well as a like-new 4x4 side-by side utility vehicle with only 106 kilometers on it and another like-new Cub Cadet  Sc2400 sub-compact diesel tractor with only 12.1 hours on it. The Cub Cadet also has a mower deck and a bucket.  Also included is a Genie Compact Personnel Lift and a Swisher 22.0 50&quot; zero turn mower.  Video of some of these items being operated can be seen on the AAA Auction and Realty Facebook page. Buyers will remove and load their items from the house or detached garage. Masks must be worn. Some items are downstairs and will need to be carried up a stairway or out a walk-out door basement door and around the house in the yard.</p>
-        </div> -->
+
 
 
 
@@ -235,6 +185,55 @@
 
 
 <div class="recent">
+  <h2><a href="https://www.auctionmn.com/cgi-bin/mmlist.cgi?auctionmn1/category/ALL">Online Auction Ended On Tuesday, March 2nd</a></h2>
+  <div class="flexbox">
+    <a href="https://www.auctionmn.com/cgi-bin/mmlist.cgi?auctionmn1/1"><img src="https://www.auctionmn.com/images/2021-03-02/T1-1.jpg" alt="Lot 1"></a>
+    <a href="https://www.auctionmn.com/cgi-bin/mmlist.cgi?auctionmn1/2"><img src="https://www.auctionmn.com/images/2021-03-02/T2-1.jpg" alt="Lot 2"></a>
+    <a href="https://www.auctionmn.com/cgi-bin/mmlist.cgi?auctionmn1/3"><img src="https://www.auctionmn.com/images/2021-03-02/T3-1.jpg" alt="Lot 3"></a>
+    <a href="https://www.auctionmn.com/cgi-bin/mmlist.cgi?auctionmn1/4"><img src="https://www.auctionmn.com/images/2021-03-02/T4-1.jpg" alt="Lot 4"></a>
+    <a href="https://www.auctionmn.com/cgi-bin/mmlist.cgi?auctionmn1/5"><img src="https://www.auctionmn.com/images/2021-03-02/T5-1.jpg" alt="Lot 5"></a>
+    <a href="https://www.auctionmn.com/cgi-bin/mmlist.cgi?auctionmn1/6"><img src="https://www.auctionmn.com/images/2021-03-02/T6-1.jpg" alt="Lot 6"></a>
+  </div>
+    <!-- <p><strong>Pickup Location</strong></p>
+    <p style="border: 1px solid black;
+  background: #ffff00ad;
+  width: 400px;
+  margin: 5px;
+  padding: 5px;"><a target="_blank" href="https://goo.gl/maps/18jVqAWnnekZB3927" title="get directions">19245 Silverod St NW, Oak Grove, MN 55303
+  </a></p>
+    <p><strong>Pickup Time</strong></p>
+      <p>Wednesday, March 3rd, from 11 a.m. to 4 p.m.</p>
+      <p>Schedule your pick up time: <a href="https://www.signupgenius.com/go/9040A4AADA823A0FE3-oakgrove1">https://www.signupgenius.com/go/9040A4AADA823A0FE3-oakgrove1</a></p>
+    <p><strong>Sales Tax</strong></p>
+      <p>No Sales Tax</p>
+    <p><strong>Buyers Premium</strong></p>
+      <p>15%</p>
+    <p><strong>Closing Interval</strong></p>
+      <p>1 item/minute</p>
+    <p><strong>Auctioneer's Notes</strong></p>
+      <p>Attention wood crafters and handymen. This auction is for you. This auction offers you the chance to bid on woodshop equipment that has been expertly maintained and stored in a heated, humidity controlled shop in Oak Grove. Everything works and is in excellent condition. It is being sold because our seller is moving.</p>
+      <p>You will see that some of the items in this auction have reserves. That means that the seller has giving us his bottom price to sell the item. If at the end of the auction that amount has not been bid, then item will not sell at the close of the auction. After the auction closes and later that evening, we will post on our website whether the reserve has been met. If the reserve has not been met, then anyone is welcome to call AAA Auction at (763) 427-7101 by 4 pm on March 3rd and make an offer to buy the item at the reserve amount. If your offer is accepted, we will ask you for a credit card at that time. A 3% convenience fee will be added to the total. Pick-up will then be arranged to take place in the near future.</p>
+      <p>Please note that this is a small auction and that therefore we will be closing the auction at the rate of one item per minute.</p>
+      <p>The seller’s driveway will allow the buyer to back a truck or a small-sized trailer right up to the shop door. There are no steps. Please bring help to load your purchase. <b>AAA Auction staff does not provide loading assistance.</b></p>
+      <p>Once again, we are using SignUpGenious to schedule preview and pick-up times. You are able right now to reserve a 15-minute time slot to preview the items in person on Feb. 23 rd from 4 pm to 7 pm. Once the auction has ended, you will then be able to schedule a 15-minute pick-up time on March 3 rd from 9 am until 4 pm. If it is not possible for you to pickup your item at the scheduled time, please call AAA Auction to make other arrangements.</p>
+      <p>Thank you in advance for masking up and maintaining safe social distancing.</p>
+    <p><a href="https://auctionmn.com/general-terms-and-conditions.shtml">Terms and Conditions</a> for this auction.</p> -->
+</div>
+
+
+<div class="recent">
+  <h2><a href="https://www.auctionmn.com/cgi-bin/mmlist.cgi?auctionmn/category/ALL">Online Auction Ended On Tuesday, February 16th</a></h2>
+  <div class="flexbox">
+    <a href="https://www.auctionmn.com/cgi-bin/mmlist.cgi?auctionmn/2"><img src="https://www.auctionmn.com/images/2021-02-16/T2-1.jpg" alt="Lot 2"></a>
+    <a href="https://www.auctionmn.com/cgi-bin/mmlist.cgi?auctionmn/76"><img src="https://www.auctionmn.com/images/2021-02-16/T76-1.jpg" alt="Lot 76"></a>
+    <a href="https://www.auctionmn.com/cgi-bin/mmlist.cgi?auctionmn/223"><img src="https://www.auctionmn.com/images/2021-02-16/T223-1.jpg" alt="Lot 223"></a>
+    <a href="https://www.auctionmn.com/cgi-bin/mmlist.cgi?auctionmn/220"><img src="https://www.auctionmn.com/images/2021-02-16/T220-1.jpg" alt="Lot 220"></a>
+    <a href="https://www.auctionmn.com/cgi-bin/mmlist.cgi?auctionmn/222"><img src="https://www.auctionmn.com/images/2021-02-16/T222-1.jpg" alt="Lot 222"></a>
+  </div>
+</div>
+
+
+<div class="recent">
   <h2><a href="https://www.auctionmn.com/cgi-bin/mmlist.cgi?auctionmn12/category/ALL">Online Auction Ended On Tuesday, February 9th</a></h2>
   <div class="flexbox">
     <a href="https://www.auctionmn.com/cgi-bin/mmlist.cgi?auctionmn12/13"><img src="https://www.auctionmn.com/images/2021-02-09/T13-1.jpg" alt="Lot 13"></a>
@@ -243,21 +242,6 @@
     <a href="https://www.auctionmn.com/cgi-bin/mmlist.cgi?auctionmn12/16"><img src="https://www.auctionmn.com/images/2021-02-09/T16-1.jpg" alt="Lot 16"></a>
     <a href="https://www.auctionmn.com/cgi-bin/mmlist.cgi?auctionmn12/18"><img src="https://www.auctionmn.com/images/2021-02-09/T18-1.jpg" alt="Lot 18"></a>
   </div>
-    <p><strong>Pickup Location</strong></p>
-      <p><a target="_blank" href="https://goo.gl/maps/L9u81MhP4dq">7140 Old Viking Blvd NW, Nowthen MN</a></p>
-    <p><strong>Pickup Times</strong></p>
-      <p>Wednesday, February 10th, from 9:30 a.m. to 4 p.m.</p>
-      <p>Thursday, February 11th, from 4 to 7 p.m.</p>
-      <p>Select your pickup time here: <a href="https://www.signupgenius.com/go/9040A4AADA823A0FE3-firearm1">https://www.signupgenius.com/go/9040A4AADA823A0FE3-firearm1</a></p>
-    <p><strong>Sales Tax</strong></p>
-      <p>7.125%</p>
-    <p><strong>Buyers Premium</strong></p>
-      <p>15%</p>
-    <!-- <p><strong>Auctioneer's Notes</strong></p>
-      <p>Hello Bidders. Here is the one you’ve been waiting for. It is our Gun, Ammo and Misc. Auction. You will find newer as well as very old firearms in this auction. Please note that previews and pick-ups must be scheduled using our SignUpGenious website. Thank you to the several consignors who brought their collections to us to sell for them. We would also like to thank our Bidders for wearing masks at our Auction Center. Please review the terms of the auction, especially as they apply to the purchase of firearms or ammo. See you soon!</p>
-      <p>Max bids will only be accepted on items with reserves when the reserve is  met. The description box will display an announcement when the reserve has been met.</p>
-      <p><i>Please Note: This auction will close at the rate of 3 items per minute rather than the usual 10 items per minute.</i></p> -->
-    <p><a href="https://auctionmn.com/general-terms-and-conditions.shtml">Terms and Conditions</a> for this auction.</p>
 </div>
 
 
@@ -404,56 +388,9 @@
 
 
 
-<div class="recent">
-  <h2><a href="https://www.auctionmn.com/cgi-bin/mmlist.cgi?auctionmn3/category/ALL">Online Auction Ended On Tuesday, September 22nd</a></h2>
-  <div class="flexbox">
-    <a href="https://www.auctionmn.com/cgi-bin/mmlist.cgi?auctionmn3/19"><img src="https://www.auctionmn.com/images/2020-09-22/T19-1.jpg" alt="Lot 19"></a>
-    <a href="https://www.auctionmn.com/cgi-bin/mmlist.cgi?auctionmn3/20"><img src="https://www.auctionmn.com/images/2020-09-22/T20-1.jpg" alt="Lot 20"></a>
-    <a href="https://www.auctionmn.com/cgi-bin/mmlist.cgi?auctionmn3/126"><img src="https://www.auctionmn.com/images/2020-09-22/T126-1.jpg" alt="Lot 126"></a>
-    <a href="https://www.auctionmn.com/cgi-bin/mmlist.cgi?auctionmn3/136"><img src="https://www.auctionmn.com/images/2020-09-22/T136-1.jpg" alt="Lot 136"></a>
-    <a href="https://www.auctionmn.com/cgi-bin/mmlist.cgi?auctionmn3/137"><img src="https://www.auctionmn.com/images/2020-09-22/T137-1.jpg" alt="Lot 137"></a>
-    <a href="https://www.auctionmn.com/cgi-bin/mmlist.cgi?auctionmn3/138"><img src="https://www.auctionmn.com/images/2020-09-22/T138-1.jpg" alt="Lot 138"></a>
-  </div>
-</div>
-
-
-<div class="recent">
-  <h2><a href="https://www.auctionmn.com/cgi-bin/mmlist.cgi?auctionmn2/category/ALL">Online Auction Ended On Tuesday, September 15th</a></h2>
-  <div class="flexbox">
-    <a href="https://www.auctionmn.com/cgi-bin/mmlist.cgi?auctionmn2/10"><img src="https://www.auctionmn.com/images/2020-09-15/T10-1.jpg" alt="Lot 10"></a>
-    <a href="https://www.auctionmn.com/cgi-bin/mmlist.cgi?auctionmn2/39"><img src="https://www.auctionmn.com/images/2020-09-15/T39-1.jpg" alt="Lot 39"></a>
-    <a href="https://www.auctionmn.com/cgi-bin/mmlist.cgi?auctionmn2/41"><img src="https://www.auctionmn.com/images/2020-09-15/T41-1.jpg" alt="Lot 41"></a>
-    <a href="https://www.auctionmn.com/cgi-bin/mmlist.cgi?auctionmn2/154"><img src="https://www.auctionmn.com/images/2020-09-15/T154-1.jpg" alt="Lot 154"></a>
-    <a href="https://www.auctionmn.com/cgi-bin/mmlist.cgi?auctionmn2/165"><img src="https://www.auctionmn.com/images/2020-09-15/T165-1.jpg" alt="Lot 165"></a>
-    <a href="https://www.auctionmn.com/cgi-bin/mmlist.cgi?auctionmn2/189"><img src="https://www.auctionmn.com/images/2020-09-15/T189-1.jpg" alt="Lot 189"></a>
-    <a href="https://www.auctionmn.com/cgi-bin/mmlist.cgi?auctionmn2/251"><img src="https://www.auctionmn.com/images/2020-09-15/T251-1.jpg" alt="Lot 251"></a>
-  </div>
-</div>
 
 
 
-<div class="recent">
-  <h2><a href="https://www.auctionmn.com/cgi-bin/mmlist.cgi?auctionmn1/category/ALL">Online Auction Ended On Tuesday, September 8th</a></h2>
-  <div class="flexbox">
-    <a href="https://www.auctionmn.com/cgi-bin/mmlist.cgi?auctionmn1/2"><img src="https://www.auctionmn.com/images/2020-09-08/T2-1.jpg" alt="Lot 2"></a>
-    <a href="https://www.auctionmn.com/cgi-bin/mmlist.cgi?auctionmn1/5"><img src="https://www.auctionmn.com/images/2020-09-08/T5-1.jpg" alt="Lot 5"></a>
-    <a href="https://www.auctionmn.com/cgi-bin/mmlist.cgi?auctionmn1/6"><img src="https://www.auctionmn.com/images/2020-09-08/T6-1.jpg" alt="Lot 6"></a>
-    <a href="https://www.auctionmn.com/cgi-bin/mmlist.cgi?auctionmn1/15"><img src="https://www.auctionmn.com/images/2020-09-08/T15-1.jpg" alt="Lot 15"></a>
-    <a href="https://www.auctionmn.com/cgi-bin/mmlist.cgi?auctionmn1/21"><img src="https://www.auctionmn.com/images/2020-09-08/T21-1.jpg" alt="Lot 21"></a>
-  </div>
-    <!-- <p><strong>Pickup Location</strong></p>
-      <p style="border: 1px solid black;
-background: #ffff00ad;
-width: 400px;
-margin: 5px;
-padding: 5px;"><a target="_blank" href="https://goo.gl/maps/xeQ5yUKaiStESQzt5" title="get directions">24292 Primrose Lane, Scandia, MN 55073
-</a></p>
-    <p><strong>Pickup Time</strong></p>
-      <p>Wednesday, September 9th, from 1 to 7 p.m.</p>
-    <p><strong>Auctioneer's Notes</strong></p>
-      <p>This auction includes 174 lots of tools, large shop equipment, housewares, furniture, as well as a like-new 4x4 UTV, a like-new Cub Cadet Sc2400 sub-compact diesel tractor with a mower deck and bucket,  a Genie Compact Personnel Lift, a Swisher 22.0, a 50" zero turn mower, a cedar strip canoe and a vintage wooden telephone booth.  Video of some of these items being operated can be seen on the <a target="_blank" href="https://www.facebook.com/auctionmn">AAA Auction and Realty Facebook page</a></p>
-    <p><a href="https://auctionmn.com/general-terms-and-conditions.shtml">Terms and Conditions</a> for this auction.</p> -->
-</div>
 
 
 
