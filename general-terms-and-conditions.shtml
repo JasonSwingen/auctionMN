@@ -77,7 +77,9 @@
 
 			<h2>Previews</h2>
 
-			<p>Please see the special terms for each auction for information about Previews.</p>
+			<p>Unless changed in the specific terms for a given auction, previews at AAA Auction shall now be welcomed for any items that will clearly sell for $100 or more. Previews must be scheduled by calling AAA Auction at (763) 421-3044 to schedule a convenient preview time. We will try to accommodate you, but we do not guarantee that we will be able to meet your schedule. For all items, AAA Auction shall continue to fully describe the item and shall allow the cancellation of any bid if we fail to describe or photograph an important detail that significantly affects the value of the item.</p>
+
+			<!-- <p>Please see the special terms for each auction for information about Previews.</p> -->
 
 			<h2>Covid 19</h2>
 
@@ -88,11 +90,11 @@
 
 			<h2>Loading</h2>
 
-			<p>	Buyers must load their items. If the pick-up is at the Auction Barn, AAA staff will bring most items out of the building for you. If the pick-up is at a private home, it may be necessary for you to enter the home or a detached building to remove your items. This may involve carrying items up from a basement or down from an upper level. Please check the special terms for each auction to see if this applies and call AAA Auction if you have any concerns.</p>
+			<p>Buyers must load their items. If the pick-up is at the Auction Barn, AAA staff will bring most items out of the building for you. If the pick-up is at a private home, it may be necessary for you to enter the home or a detached building to remove your items. This may involve carrying items up from a basement or down from an upper level. Please check the special terms for each auction to see if this applies and call AAA Auction if you have any concerns.</p>
 
 			<h2>Preview</h2>
 
-			<p>n an effort to minimize Covid risks and unless stated differently for a specific auction, previews for our auctions shall be as follows:</p>
+			<p>In an effort to minimize Covid risks and unless stated differently for a specific auction, previews for our auctions shall be as follows:</p>
 			<ol>
 				<li>No preview for items expected to sell for less than $100</li>
 				<li>Previews must be scheduled with SignupGenious for 15 minutes per three items to be previewed.</li>
@@ -103,17 +105,13 @@
 
 			<h2>Type Of Payment</h2>
 
-			<p>We accept cash, good checks, cashier's checks, Visa, MasterCard, American Express, and Discover. Two forms of ID are needed for checks, with at least one being a photo ID. No out-of-state checks.
-				AAA Auction reserves the
-				right to postpone shipping any item until the Buyer's check clears the bank. There is a $30.00 fee on all returned checks. Credit cards will be accepted up to $5,000. Unless prior arrangements are made, coins must be paid for with cash, and
-				titled items must be paid for with cash. Checks in an amount over $5,000 must be guaranteed with a valid credit card and not a check card.</p>
+			<p>We accept cash, good checks, cashier's checks, Visa, MasterCard, American Express, and Discover. Two forms of ID are needed for checks, with at least one being a photo ID. No out-of-state checks. AAA Auction reserves the right to postpone shipping any item until the Buyer's check clears the bank. There is a $30.00 fee on all returned checks. Credit cards will be accepted up to $5,000. Unless prior arrangements are made, coins must be paid for with cash, and titled items must be paid for with cash. Checks in an amount over $5,000 must be guaranteed with a valid credit card and not a check card.</p>
 
 			<p>Also, payment to AAA Auction in cash of $10,000 or more requires the buyer to complete the IRS form 8300.</p>
 
 			<p><b>Guns and Coins:</b> Unless prior arrangements have been made with the auctioneer, we will accept cash and debit cards only.</p>
 
-			<p>AAA Auction reserves the right to ask for and obtain credit card information from any bidder to guarantee any check written for $500 or more. Common reasons are out-of-the-area bidders and bids over $100. Failure to provide credit card
-				information when requested to do so may result in the cancellation of your bid. Winning bidders may still pick up their items at the regular pick-up time and use cash or a good check to purchase their items.</p>
+			<p>AAA Auction reserves the right to ask for and obtain credit card information from any bidder to guarantee any check written for $500 or more. Common reasons are out-of-the-area bidders and bids over $100. Failure to provide credit card information when requested to do so may result in the cancellation of your bid. Winning bidders may still pick up their items at the regular pick-up time and use cash or a good check to purchase their items.</p>
 
 			<h2>Buyer's Premium</h2>
 
@@ -129,8 +127,7 @@
 
 			<h2>Sale Items Subject To Change</h2>
 
-			<p>The auctioneer reserves the right to add items to or remove items from the auction at any time, even during the bidding process; to split or combine lots; to edit descriptions; to add or remove photos; to add minimum bids or reserve prices; to
-				cancel, suspend, extend or reschedule an individual item and or an entire auction; or to change any auction's closing time, preview time, or pick-up time.</p>
+			<p>The auctioneer reserves the right to add items to or remove items from the auction at any time, even during the bidding process; to split or combine lots; to edit descriptions; to add or remove photos; to add minimum bids or reserve prices; to cancel, suspend, extend or reschedule an individual item and or an entire auction; or to change any auction's closing time, preview time, or pick-up time.</p>
 
 			<!-- <h2>Missed Pick-Ups</h2>
 
@@ -173,9 +170,9 @@
 
 			<p>We do not guarantee continuous, uninterrupted access to our services. The operation of the website and services may be interfered with by numerous factors outside of our control. AAA Auction is not responsible for lost or misdirected e-mails, slowness in the transmission of bids, technical difficulties that result in loss of Bidder's internet connection with www.auctionmn.com, or other technical problems. AAA Auction is not responsible for any difficulties that may occur in the proper or timely transmission or access of e-mail forwarded to any e-mail address. The vagaries of the Internet, spam filters, lack of storage space, and rules set by different Internet service providers are all additional factors which may fail to deliver e-mails as expected.</p>
 
-				<h2>Terms May Change</h2>
+			<h2>Terms May Change</h2>
 
-				<p>All terms and conditions are subject to change.</p>
+			<p>All terms and conditions are subject to change.</p>
 
 			<!-- <h2>Shipping</h2>
 
